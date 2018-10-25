@@ -1,0 +1,9 @@
+@CHARSET "UTF-8";
+
+.drawer_entries > a > div.drawer_entry{
+    font-size: 11px !important;
+}
+
+div#slider_instructions_sld div[data-sld-item] > div {
+	font-size: 10px !important; 
+}
