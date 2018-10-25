@@ -1,0 +1,219 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+.hide_if_l1280 {display:none !important}
+.clear_if_ll850 {clear: both;}
+
+.entry {
+	margin: 0 7px;
+}
+
+.editors_install .entry {
+	margin: 5px 5px;
+}
+
+section.items .item_wrap.like, section.items.fullw .item_wrap.like {
+	width: 25%;
+	height: 106px;
+	padding-top: 7px;
+}
+
+section.items.fullw .item.comment {
+	width: 100%;
+}
+
+
+/* APP VIEWS AND STORES */
+header.store_header > div {
+	padding-left: 122px;
+}
+
+header.store_header .store_title {
+	font-size:21px;
+	padding: 0 4px;
+	height: 35px;
+	line-height: 35px;
+}
+
+header.store_header .store_avatar {
+	top: 10px;
+	left: 10px;
+}
+
+header.store_header > div:nth-of-type(2) a, header.store_header > div:nth-of-type(2) + div[data-onscroll-class] a {
+	font-size: 12px;
+	margin-right: 10px;
+	font-weight:normal;
+}
+
+section.store_controls > div {
+	margin:5px 10px;
+}
+
+select {
+	max-width: 300px;
+}
+
+section.items .items_reviews > a:last-of-type {
+	display:none;
+}
+
+section.app_view .app_icon {
+	width: 120px;
+	heigth: 120px;
+}
+
+section.app_view .app_meta_data {
+	padding-right: 5px;
+	padding-left: 145px;
+	min-height: 150px;
+}
+
+section.app_view .app_meta_data .app_name {
+	font-size:20px;
+}
+
+section.app_view .app_meta_data .app_meta {
+	font-size: 11px;
+}
+
+section.app_view .app_meta_data .app_meta.install_area {
+	margin: 0;
+	margin-top: 5px;
+	float: none;
+}
+
+
+/* APP VIEW RATING */
+.app_rating {
+	padding-top:0px;
+}
+.app_rating > div {
+	width:100%;
+}
+.app_rating1 {
+	border-bottom: 1px solid rgba(0, 0, 0, 0.17);
+	padding-bottom: 10px;
+}
+.app_rating2 {
+	padding-top: 10px;
+}
+.app_rating_title1, .app_rating_title2 {
+	font-size:24px;
+	line-height:32px;
+}
+.app_rating_stars {
+	margin:12px 0;
+}
+.btn.rating_star {
+	width:45px;
+	height:43px;
+	background-size: 45px 43px;
+}
+.btn.rating_star:not(:first-child) {
+	margin-left:12px;
+}
+.app_rating_box {
+	width:22%;
+}
+.app_rating_box > div {
+	width:100%;
+	margin-right:4px;
+}
+.app_rating_bars {
+	width:78%;
+}
+
+.app_screenshots {
+	height: 160px;
+}
+
+.app_screenshots .slider_section {
+	height: 166px;
+}
+
+.app_screenshots div.video {
+	height: 160px;
+	width: 285px;
+}
+
+.app_screenshots a, .app_screenshots div.video {
+	margin-right: 5px;
+}
+
+.app_screenshots img {
+	height: 160px;
+}
+
+.app_flags > div > div > div:nth-of-type(1){
+	font-size: 11px;
+	min-height: 30px;
+}
+
+.app_flags > div > div > div:nth-of-type(2){
+	font-size: 11px;	
+}
+
+.app_flags .apk_flag_review {
+	top: 40px;
+}
+
+.app_flags .apk_flag_review > div > div > div.flag_review_icon {
+	height: 52px;
+	width: 52px;
+	background-size: 52px 52px;
+}
+
+.btn.add_comment {
+	font-size: 13px;
+	font-weight: 600;
+	padding: 0 9px;
+	height: 26px;
+	line-height: 26px;
+}
+
+.app_comments .app_comment {
+	padding-right: 5px;
+}
+
+.app_comments .app_comment_area {
+	width: 75%;
+}
+
+.app_comments .app_comment_controls {
+	width: 25%;
+}
+
+.app_extended_review .background {
+	height: 370px;
+}
+
+.app_review_info {
+	width: 100%;
+}
+
+.app_review_info2 {
+	width: 100%;
+}
+
+.app_review_info2 {
+	margin-top: 0px;
+}
+
+.app_review_info .over_850 {
+	display: none;
+}
+
+.app_review_info .under_850 {
+	display: inline;
+}
+
+.review_items_pontuation .item {
+	width: 50%;
+	margin-bottom: 15px;
+}
+
+.review_items_pontuation .item:nth-of-type(3) {
+	padding-left:0px;
+}
