@@ -1,0 +1,63 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+.half_if_m850 {width:50% !important;}
+.left_if_m850 {float:left !important;}
+.right_if_m850 {float:right !important;}
+
+section.items .item.app, section.items .item.review {
+	width: 33%;
+}
+
+section.items .item.app:nth-of-type(3n+2){
+	width: 34%;
+}
+
+section.items .item.store {
+	width: 25%;
+}
+
+section.items .item_wrap.like {
+	width: 17%;
+	height: 106px;
+	padding-top: 7px;
+}
+
+section.items .item_wrap.like:nth-of-type(6n+4), section.items .item_wrap.like:nth-of-type(6n+5){
+	width: 16%;
+}
+
+section.items.fullw .item_wrap.like {
+	width: 10%;
+}
+
+section.items.fullw .item.comment {
+	width: 33%;
+}
+
+section.items.fullw .item.comment:nth-of-type(3n+2){
+	width: 34%;
+}
+
+
+/* APP VIEWS AND STORES */
+.btn.app_latest {
+	height: 28px;
+	line-height: 29px;
+	padding: 0 10px;
+	font-size: 14px;
+	margin: 10px 0;
+}
+
+.btn.app_latest .version_info {
+	font-size: 10px;
+}
+
+.app_review_info .over_850 {
+	display: inline;
+}
+
+.app_review_info .under_850 {
+	display: none;
+}
