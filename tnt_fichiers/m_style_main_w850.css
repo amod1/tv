@@ -1,0 +1,77 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+.half_if_m850 {width:50% !important;}
+.left_if_m850 {float:left !important;}
+.right_if_m850 {float:right !important;}
+.hide_if_l1280 {display:none !important}
+
+section.items .item.app, section.items .item.review {
+	width: 50%;
+}
+
+section.items .item.store {
+	width: 50%;
+}
+
+section.items .item_wrap.like {
+	width: 25%;
+	height: 106px;
+	padding-top: 7px;
+}
+
+section.items.fullw .item_wrap.like {
+	width: 12.5%;
+}
+
+section.items.fullw .item.comment {
+	width: 50%;
+}
+
+section.items .items_reviews > a:last-of-type {
+	display:none;
+}
+
+
+/* APP VIEWS AND STORES */
+.btn.app_latest {
+	height: 28px;
+	line-height: 29px;
+	padding: 0 10px;
+	font-size: 13px;
+	margin: 5px 0;
+}
+
+.btn.app_latest .version_info {
+	font-size: 9px;
+}
+
+
+/* APP VIEW RATING */
+.app_rating1 {
+	width:45%;
+}
+.app_rating2 {
+	width:55%;
+}
+.app_rating_box > div {
+	width:110px;
+	margin-right:8px;
+}
+.btn.rating_star {
+	width:50px;
+	height:48px;
+	background-size: 50px 48px;
+}
+.btn.rating_star:not(:first-child) {
+	margin-left:10px;
+}
+
+.app_review_info .over_850 {
+	display: inline;
+}
+
+.app_review_info .under_850 {
+	display: none;
+}
