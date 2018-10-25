@@ -1,0 +1,493 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.hide_if_l1280 {display:none !important}
+.clear_if_ll850 {clear: both;}
+
+.font1 {color: #222;font-size: 12px;}
+
+
+div[data-window-id] {
+	padding: 20px 10px;
+}
+
+div[data-window-control-close]{
+	width: 20px;
+	height: 20px;
+	background-size: 20px 20px;
+}
+
+.window_title {
+	font-size: 12px;
+}
+
+.window_content {
+	font-size: 10px;
+	padding-left: 5px;
+	margin: 5px 0;
+}
+
+.window_section {
+	width: 100%;	
+}
+
+table.window_table thead th {
+	font-size: 11px;
+	padding: 3px;
+}
+
+table.window_table tbody td {
+	font-size: 10px;
+	padding: 1px 3px;
+}
+
+footer, .footer_padding {
+	height: 30px;
+}
+
+footer .small_logo {
+	width: 68px;
+	height: 15px;
+	margin-left:6px;
+	margin-top:7px;
+}
+
+footer a {
+	font-size: 10px;
+	margin-right: 21px;
+	line-height: 30px;
+	height: 30px;
+}
+
+.entry {
+	margin: 0 2px;
+}
+
+.editors_install .entry {
+	margin: 3px 4px;
+}
+
+section.items .tabs a {
+	margin: 5px 5px;
+	font-size: 11px;
+}
+
+section.items .item_wrap.like, section.items.fullw .item_wrap.like {
+	width: 33%;
+}
+
+section.items .item_wrap.like:nth-of-type(3n+2), section.items.fullw .item_wrap.like:nth-of-type(3n+2) {
+	width: 34%;
+}
+
+section.items.fullw .item.comment {
+	width: 100%;
+}
+
+section.items .item.app.search .item_more a {
+	font-size: 10px;
+	margin-right: 5px;
+}
+
+section.items .items_reviews > a:last-of-type {
+	display:none;
+}
+
+section.items .item.review .item_icon {
+	display:none;
+}
+
+section.items .item.review .item_meta {
+	left: 12px;
+}
+
+.search_subform .didyoumean {
+	font-size: 12px;
+}
+
+.pagination_info {
+	font-size: 11px;
+}
+
+.btn.aptoide_install {
+	font-size: 22px;
+}
+
+
+/* APP VIEWS AND STORES */
+header.store_header > div {
+	padding-left: 64px;
+}
+
+header.store_header > div ~ div {
+	padding-left: 5px;
+}
+
+header.store_header > div:nth-of-type(1) {
+	height:64px;
+	line-height:64px;
+}
+
+header.store_header > div:nth-of-type(2), header.store_header > div:nth-of-type(2) + div[data-onscroll-class] {
+	height:24px;
+	line-height:24px;
+	border-bottom: #ddd solid 1px;
+}
+
+header.store_header > div .arrow_scroll_up {
+	width: 20px;
+	height: 20px;
+	margin-top: 2px;
+}
+
+header.store_header .store_avatar {
+	width: 48px;
+	height: 48px;
+	top: 5px;
+	left: 5px;
+	border-width: 2px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	-webkit-box-shadow: 0px 0px 3px rgba(0,0,0, 0.45);
+	-moz-box-shadow: 0px 0px 3px rgba(0,0,0, 0.45);
+	box-shadow: 0px 0px 3px rgba(0,0,0, 0.45);
+}
+
+header.store_header .store_title {
+	font-size:15px;
+	padding: 0 3px;
+	height: 30px;
+	line-height: 30px;
+}
+
+header.store_header > div:nth-of-type(2) a, header.store_header > div:nth-of-type(2) + div[data-onscroll-class] a {
+	font-size: 10px;
+	margin-right: 15px;
+	font-weight:normal;
+}
+
+section.store_controls > div {
+	margin:5px 10px;
+}
+
+
+select {
+	font-size: 12px;
+	padding: 9px 5px;
+	max-width: 180px;
+}
+
+section.store_controls .label {
+	font-size: 10px;
+	margin-bottom: 3px;
+}
+
+.btn.add_store {
+	font-size: 13px;
+	height:30px;
+	line-height:30px;
+}
+
+.form {
+	width: 300px;
+	padding: 20px 10px;
+}
+
+.form .form_title {
+	font-size: 18px;
+}
+
+.form form {
+	margin-top: 20px;
+}
+
+.form .btn {
+	width: 135px;
+	font-size: 11px;
+}
+
+.form form input[type="text"]#captcha_code_txt {
+	width: 37%;
+}
+
+.form .btn.captcha_refresh {
+	margin-left: 5px;
+}
+
+section.app_view > div:nth-of-type(1){
+	padding-bottom: 20px;
+}
+
+section.app_view .app_icon {
+	left: 7px;
+	width: 96px;
+	heigth: 96px;
+}
+
+section.app_view .app_meta_data {
+	padding-right: 5px;
+	padding-left: 110px;
+	min-height: 126px;
+}
+
+section.app_view .app_meta_data .app_name {
+	font-size:16px;
+}
+
+section.app_view .app_meta_data .app_meta {
+	font-size: 10px;
+}
+
+section.app_view .app_controls {
+	padding-left: 10px;
+}
+
+section.app_view .app_meta_data .app_meta.install_area {
+	margin: 0;
+	margin-top: 5px;
+	float: none;
+}
+
+/* APP VIEW RATING */
+.app_rating {
+	padding-top:0px;
+}
+.app_rating > div {
+	width:100%;
+}
+.app_rating1 {
+	border-bottom: 1px solid rgba(0, 0, 0, 0.17);
+	padding-bottom: 10px;
+}
+.app_rating2 {
+	padding-top: 10px;
+}
+.app_rating_title1, .app_rating_title2 {
+	line-height:28px;
+	font-size:20px;
+}
+.app_rating_stars {
+	margin:8px 0;
+}
+.btn.rating_star {
+	width:33px;
+	height:31px;
+	background-size: 33px 31px;
+}
+.btn.rating_star:not(:first-child) {
+	margin-left:10px;
+}
+.app_rating_box {
+	width:24%;
+}
+.app_rating_box > div {
+	width:100%;
+	margin-right:6px;
+	height:116px;
+}
+.app_rating_text {
+	font-size: 13px;
+}
+.app_rating_number {
+	font-size: 26px;
+	margin-top:8px;
+}
+.app_rating_users {
+	margin-top:8px;
+}
+.stars2 {
+	display:none;
+}
+.app_rating_value {
+	padding-right:2px;
+}
+.app_rating_bars {
+	width:76%;
+	font-size:11px;
+	padding-left:1px;
+}
+.app_rating_bars > div:first-child {
+	margin-top:14px;
+}
+
+
+.app_screenshots .slider_section {
+	height: 166px;
+}
+
+.app_screenshots, .app_screenshots div.video {
+	height: 160px;
+}
+
+.app_screenshots div.video {
+	width: 240px;
+}
+
+.app_screenshots a, .app_screenshots div.video {
+	margin-right: 5px;
+}
+
+.app_screenshots img {
+	height: 160px;
+}
+
+.app_extended_meta {
+	padding: 0 5px;
+	margin-top: 15px;
+}
+
+.app_section_title {
+	font-size: 16px;
+}
+
+.app_description div {
+	font-size:11px;
+	max-height: 60px;
+}
+
+.app_flags > div {
+	width: 100%;
+	padding: 3px 0;
+}
+
+.app_flags > div > div {
+	margin: 0;
+	padding-left: 40px;
+	padding-right: 90px;
+	position: relative;
+	height: 60px;
+}
+
+.app_flags > div > div > img:nth-of-type(1){
+	width: 50px;
+	height: 50px;
+	margin: 0;
+	position: absolute;
+	top: 5px;
+	left: 5px;
+}
+
+.app_flags > div > div > div:nth-of-type(1){
+	padding: 0;
+	margin: 0;
+	padding-top: 10px;
+	font-size: 12px;
+}
+
+.app_flags > div > div > div:nth-of-type(2) {
+	font-size: 12px;
+	padding: 0;
+	margin: 0;
+}
+
+.app_flags > div > div > div.btn {
+	margin: 0;
+	position: absolute;
+	top: 15px;
+	right: 5px;
+	height: 30px;
+	width: 80px;
+}
+
+.btn.add_comment {
+	font-size: 12px;
+	font-weight: normal;
+	padding: 0 6px;
+	height: 24px;
+	line-height: 24px;
+}
+
+.app_comments .app_comment {
+	padding-left: 43px;
+	padding-right: 3px;
+}
+
+.app_comments > div > div, .app_comments > span > div > div {
+	padding: 5px;
+}
+
+.app_comments .app_comment_area {
+	width: 65%;
+}
+
+.app_comments .app_comment_controls {
+	width: 35%;
+}
+
+.app_comments .app_comment > img, .app_comments .app_comment > span > img {
+	width:36px;
+	height:36px;
+	-moz-border-radius: 18px;
+	-webkit-border-radius:18px;
+	border-radius:18px;
+}
+
+.app_comments .app_comment_area p {
+	font-size:11px;
+}
+
+.app_comments .app_comment_area p:first-child {
+	font-size:11px;
+}
+
+.app_comments .app_comment_controls p {
+	font-size:9px;
+}
+
+.app_comments .app_comment_controls a {
+	font-size: 12px;
+}
+
+.btn.app_malware > div:nth-of-type(2) {
+	display: none;
+}
+
+.app_extended_review .background {
+	height: 520px;
+}
+
+.app_review_info {
+	width: 100%;
+}
+
+.app_review_info2 {
+	width: 100%;
+}
+
+.app_review_info2 {
+	margin-top: 0px;
+}
+
+.app_review_info .over_850 {
+	display: none;
+}
+
+.app_review_info .under_850 {
+	display: inline;
+}
+
+.app_review_info2 .box_circle {
+	width: 50%;	
+}
+
+.app_review_info2 .box_circle > p {
+	font-size: 14px;	
+}
+
+.review_items_pontuation .item {
+	width: 100%;
+	margin-bottom: 15px;
+}
+
+.review_items_pontuation .item:not(:nth-of-type(1)) {
+	padding-left:0px;
+}
+
+section.app_review .app_meta_data > img {
+	display:none;
+}
+
+section.app_review .app_meta_data .app_meta {
+	left: 12px;
+}
