@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1,CN:CCTV 1
+http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225530/index.m3u8
+#EXTINF:-1,CN:CCTV 2
+http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227207/index.m3u8
+#EXTINF:-1,CCTV3
+http://223.110.242.130:6610/gitv/live1/G_CCTV-3-HQ/1.m3u8
+#EXTINF:-1,CCTV4
+http://223.110.242.130:6610/gitv/live1/G_CCTV-4-HQ/1.m3u8
+#EXTINF:-1,CN:CCTV 5
+http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227166/index.m3u8
+#EXTINF:-1,CN:CCTV 6
+http://ivi.bupt.edu.cn/hls/cctv6.m3u8
+#EXTINF:-1,CN:CCTV 7
+http://120.198.235.70/112.50.243.8/PLTV/88888888/224/3221225805/1.m3u8
+#EXTINF:-1,CN:CCTV 8
+http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227204/index.m3u8
+#EXTINF:-1,CN:CCTV 9
+https://www.mytvonline.org/cn/china/cctv9.m3u8
+#EXTINF:-1,CN:CCTV 10
+http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225550/index.m3u8
+#EXTINF:-1,CN:CCTV 12
+http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225556/index.m3u8
+#EXTINF:-1,CN:CCTV 13
+http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225560/index.m3u8
+#EXTINF:-1,CN:CCTV 14
+http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227201/index.m3u8
+#EXTINF:-1,CN:CCTV 15
+http://120.221.2.42:8089/PLTV/88888888/224/3221225572/index.m3u8
