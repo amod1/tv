@@ -1,0 +1,1195 @@
+#EXTM3U
+#EXTINF:0, A1 Balkan
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=423$http-refferer=http://www.jagledam.online/A1-Balkan-uzivo-stream
+#EXTINF:0, A1 Bosnia
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=305$http-refferer=http://www.jagledam.online/A1-Bosnia-uzivo-stream
+#EXTINF:0, A1 Cinema
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=746$http-refferer=http://www.jagledam.online/A1-Cinema-uzivo-stream
+#EXTINF:0, A1 Exclusive
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=614$http-refferer=http://www.jagledam.online/A1-Exclusive-uzivo-stream
+#EXTINF:0, A1 Islam
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=529$http-refferer=http://www.jagledam.online/A1-Islam-uzivo-stream
+#EXTINF:0, A1 Kids
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=745$http-refferer=http://www.jagledam.online/A1-Kids-uzivo-stream
+#EXTINF:0, A1 Sports
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=691$http-refferer=http://www.jagledam.online/A1-Sports-uzivo-stream
+#EXTINF:0, A1 World
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=489$http-refferer=http://www.jagledam.online/A1-World-uzivo-stream
+#EXTINF:0, Al Jazeera Balkan Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=137$http-refferer=http://www.jagledam.online/Al-Jazeera-Balkan-uzivo-stream
+#EXTINF:0, Al Jazeera Balkan Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=231$http-refferer=http://www.jagledam.online/Al-Jazeera-Balkan-uzivo-stream
+#EXTINF:0, Alfa
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=373$http-refferer=http://www.jagledam.online/Alfa-uzivo-stream
+#EXTINF:0, Alternativna ATV Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=253$http-refferer=http://www.jagledam.online/Alternativna-ATV-uzivo-stream
+#EXTINF:0, Alternativna ATV Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=274$http-refferer=http://www.jagledam.online/Alternativna-ATV-uzivo-stream
+#EXTINF:0, BDC Televizija
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=39$http-refferer=http://www.jagledam.online/BDC-Televizija-uzivo-stream
+#EXTINF:0, BHT 1 Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=117$http-refferer=http://www.jagledam.online/BHT-1-uzivo-stream
+#EXTINF:0, BHT 1 Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=240$http-refferer=http://www.jagledam.online/BHT-1-uzivo-stream
+#EXTINF:0, BHT 1 Link 3
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=714$http-refferer=http://www.jagledam.online/BHT-1-uzivo-stream
+#EXTINF:0, bn Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=146$http-refferer=http://www.jagledam.online/bn-uzivo-stream
+#EXTINF:0, bn Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=374$http-refferer=http://www.jagledam.online/bn-uzivo-stream
+#EXTINF:0, bn Link 3
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=629$http-refferer=http://www.jagledam.online/bn-uzivo-stream
+#EXTINF:0, bn music Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=141$http-refferer=http://www.jagledam.online/bn-music-uzivo-stream
+#EXTINF:0, bn music Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=554$http-refferer=http://www.jagledam.online/bn-music-uzivo-stream
+#EXTINF:0, Bosna TV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=87$http-refferer=http://www.jagledam.online/Bosna-TV-uzivo-stream
+#EXTINF:0, Elta HD
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=728$http-refferer=http://www.jagledam.online/Elta-HD-uzivo-stream
+#EXTINF:0, Face TV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=192$http-refferer=http://www.jagledam.online/Face-TV-uzivo-stream
+#EXTINF:0, Federalna Televizija Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=116$http-refferer=http://www.jagledam.online/Federalna-Televizija-uzivo-stream
+#EXTINF:0, Federalna Televizija Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=239$http-refferer=http://www.jagledam.online/Federalna-Televizija-uzivo-stream
+#EXTINF:0, Hayat Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=75$http-refferer=http://www.jagledam.online/Hayat-uzivo-stream
+#EXTINF:0, Hayat Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=320$http-refferer=http://www.jagledam.online/Hayat-uzivo-stream
+#EXTINF:0, Hayat Folk Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=76$http-refferer=http://www.jagledam.online/Hayat-Folk-uzivo-stream
+#EXTINF:0, Hayat Folk Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=142$http-refferer=http://www.jagledam.online/Hayat-Folk-uzivo-stream
+#EXTINF:0, Hayat Music Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=77$http-refferer=http://www.jagledam.online/Hayat-Music-uzivo-stream
+#EXTINF:0, Hayat Music Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=285$http-refferer=http://www.jagledam.online/Hayat-Music-uzivo-stream
+#EXTINF:0, Hayat Plus
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=86$http-refferer=http://www.jagledam.online/Hayat-Plus-uzivo-stream
+#EXTINF:0, Hayatovci Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=322$http-refferer=http://www.jagledam.online/Hayatovci-uzivo-stream
+#EXTINF:0, Hayatovci Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=731$http-refferer=http://www.jagledam.online/Hayatovci-uzivo-stream
+#EXTINF:0, Hema TV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=272$http-refferer=http://www.jagledam.online/Hema-TV-uzivo-stream
+#EXTINF:0, Izvorna TV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=477$http-refferer=http://www.jagledam.online/Izvorna-TV-uzivo-stream
+#EXTINF:0, K3
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=247$http-refferer=http://www.jagledam.online/K3-uzivo-stream
+#EXTINF:0, Kanal 6
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=101$http-refferer=http://www.jagledam.online/Kanal-6-uzivo-stream
+#EXTINF:0, MIR TV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=760$http-refferer=http://www.jagledam.online/MIR-TV-uzivo-stream
+#EXTINF:0, Moje Bugojno
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=776$http-refferer=http://www.jagledam.online/Moje-Bugojno-uzivo-stream
+#EXTINF:0, mtv Igman
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=250$http-refferer=http://www.jagledam.online/mtv-Igman-uzivo-stream
+#EXTINF:0, nova bh
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=148$http-refferer=http://www.jagledam.online/nova-bh-uzivo-stream
+#EXTINF:0, NTV 101 Prijedor
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=234$http-refferer=http://www.jagledam.online/NTV-101-Prijedor-uzivo-stream
+#EXTINF:0, NTV Amna
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=771$http-refferer=http://www.jagledam.online/NTV-Amna-uzivo-stream
+#EXTINF:0, NTV Jata
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=41$http-refferer=http://www.jagledam.online/NTV-Jata-uzivo-stream
+#EXTINF:0, NTVIC Kakanj
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=255$http-refferer=http://www.jagledam.online/NTVIC-Kakanj-uzivo-stream
+#EXTINF:0, OBN Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=32$http-refferer=http://www.jagledam.online/OBN-uzivo-stream
+#EXTINF:0, OBN Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=191$http-refferer=http://www.jagledam.online/OBN-uzivo-stream
+#EXTINF:0, OBN Link 3
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=382$http-refferer=http://www.jagledam.online/OBN-uzivo-stream
+#EXTINF:0, OSM TV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=769$http-refferer=http://www.jagledam.online/OSM-TV-uzivo-stream
+#EXTINF:0, OTV Valentino
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=4$http-refferer=http://www.jagledam.online/OTV-Valentino-uzivo-stream
+#EXTINF:0, Posavska TV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=280$http-refferer=http://www.jagledam.online/Posavska-TV-uzivo-stream
+#EXTINF:0, Primera Music
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=808$http-refferer=http://www.jagledam.online/Primera-Music-uzivo-stream
+#EXTINF:0, RTRS Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=43$http-refferer=http://www.jagledam.online/RTRS-uzivo-stream
+#EXTINF:0, RTRS Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=99$http-refferer=http://www.jagledam.online/RTRS-uzivo-stream
+#EXTINF:0, RTRS Link 3
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=241$http-refferer=http://www.jagledam.online/RTRS-uzivo-stream
+#EXTINF:0, RTRS plus
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=528$http-refferer=http://www.jagledam.online/RTRS-plus-uzivo-stream
+#EXTINF:0, RTV 7 Tuzla
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=724$http-refferer=http://www.jagledam.online/RTV-7-Tuzla-uzivo-stream
+#EXTINF:0, RTV Bugojno Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=729$http-refferer=http://www.jagledam.online/RTV-Bugojno-uzivo-stream
+#EXTINF:0, RTV Bugojno Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=750$http-refferer=http://www.jagledam.online/RTV-Bugojno-uzivo-stream
+#EXTINF:0, RTV Mostar
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=251$http-refferer=http://www.jagledam.online/RTV-Mostar-uzivo-stream
+#EXTINF:0, RTV Sana
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=727$http-refferer=http://www.jagledam.online/RTV-Sana-uzivo-stream
+#EXTINF:0, RTV USK Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=249$http-refferer=http://www.jagledam.online/RTV-USK-uzivo-stream
+#EXTINF:0, RTV USK Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=743$http-refferer=http://www.jagledam.online/RTV-USK-uzivo-stream
+#EXTINF:0, RTV Vogosca
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=258$http-refferer=http://www.jagledam.online/RTV-Vogosca-uzivo-stream
+#EXTINF:0, RTV Zenica Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=263$http-refferer=http://www.jagledam.online/RTV-Zenica-uzivo-stream
+#EXTINF:0, RTV Zenica Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=772$http-refferer=http://www.jagledam.online/RTV-Zenica-uzivo-stream
+#EXTINF:0, Sahar TV BiH Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=648$http-refferer=http://www.jagledam.online/Sahar-TV-BiH-uzivo-stream
+#EXTINF:0, Sahar TV BiH Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=744$http-refferer=http://www.jagledam.online/Sahar-TV-BiH-uzivo-stream
+#EXTINF:0, Sevdah TV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=725$http-refferer=http://www.jagledam.online/Sevdah-TV-uzivo-stream
+#EXTINF:0, Slon TV Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=45$http-refferer=http://www.jagledam.online/Slon-TV-uzivo-stream
+#EXTINF:0, Slon TV Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=414$http-refferer=http://www.jagledam.online/Slon-TV-uzivo-stream
+#EXTINF:0, Smart TV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=252$http-refferer=http://www.jagledam.online/Smart-TV-uzivo-stream
+#EXTINF:0, Televizija 5
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=733$http-refferer=http://www.jagledam.online/Televizija-5-uzivo-stream
+#EXTINF:0, Televizija Banovici
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=661$http-refferer=http://www.jagledam.online/Televizija-Banovici-uzivo-stream
+#EXTINF:0, TK Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=384$http-refferer=http://www.jagledam.online/TK-uzivo-stream
+#EXTINF:0, TK Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=412$http-refferer=http://www.jagledam.online/TK-uzivo-stream
+#EXTINF:0, TNT Kids
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=726$http-refferer=http://www.jagledam.online/TNT-Kids-uzivo-stream
+#EXTINF:0, TV SA
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=254$http-refferer=http://www.jagledam.online/TV-SA-uzivo-stream
+#EXTINF:0, TV Sehara
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=801$http-refferer=http://www.jagledam.online/TV-Sehara-uzivo-stream
+#EXTINF:0, TV Visoko
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=261$http-refferer=http://www.jagledam.online/TV-Visoko-uzivo-stream
+#EXTINF:0, TV1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=104$http-refferer=http://www.jagledam.online/TV1-uzivo-stream
+#EXTINF:0, Vikom
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=47$http-refferer=http://www.jagledam.online/Vikom-uzivo-stream
+#EXTINF:0, Animal Planet Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=406$http-refferer=http://www.jagledam.online/Animal-Planet-uzivo-stream
+#EXTINF:0, Animal Planet Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=530$http-refferer=http://www.jagledam.online/Animal-Planet-uzivo-stream
+#EXTINF:0, Arena Sport 1 HR
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=125$http-refferer=http://www.jagledam.online/Arena-Sport-1-HR-uzivo-stream
+#EXTINF:0, Arena Sport 2 HR
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=236$http-refferer=http://www.jagledam.online/Arena-Sport-2-HR-uzivo-stream
+#EXTINF:0, Arena Sport 3 HR
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=152$http-refferer=http://www.jagledam.online/Arena-Sport-3-HR-uzivo-stream
+#EXTINF:0, Arena Sport 5 HR
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=581$http-refferer=http://www.jagledam.online/Arena-Sport-5-HR-uzivo-stream
+#EXTINF:0, Arena Sport 6
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=687$http-refferer=http://www.jagledam.online/Arena-Sport-6-uzivo-stream
+#EXTINF:0, Astro 24h
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=646$http-refferer=http://www.jagledam.online/Astro-24h-uzivo-stream
+#EXTINF:0, Banovina TV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=275$http-refferer=http://www.jagledam.online/Banovina-TV-uzivo-stream
+#EXTINF:0, Boomerang
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=539$http-refferer=http://www.jagledam.online/Boomerang-uzivo-stream
+#EXTINF:0, CBS Reality
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=451$http-refferer=http://www.jagledam.online/CBS-Reality-uzivo-stream
+#EXTINF:0, Cinemax 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=683$http-refferer=http://www.jagledam.online/Cinemax-2-uzivo-stream
+#EXTINF:0, Cinestar Action
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=415$http-refferer=http://www.jagledam.online/Cinestar-Action-uzivo-stream
+#EXTINF:0, Cinestar Premiere 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=681$http-refferer=http://www.jagledam.online/Cinestar-Premiere-1-uzivo-stream
+#EXTINF:0, Cinestar Premiere 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=684$http-refferer=http://www.jagledam.online/Cinestar-Premiere-2-uzivo-stream
+#EXTINF:0, Cinestar TV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=89$http-refferer=http://www.jagledam.online/Cinestar-TV-uzivo-stream
+#EXTINF:0, CMC
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=5$http-refferer=http://www.jagledam.online/CMC-uzivo-stream
+#EXTINF:0, Comedy Central Extra
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=612$http-refferer=http://www.jagledam.online/Comedy-Central-Extra-uzivo-stream
+#EXTINF:0, DeeJay TV HR
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=27$http-refferer=http://www.jagledam.online/DeeJay-TV-HR-uzivo-stream
+#EXTINF:0, DMC
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=455$http-refferer=http://www.jagledam.online/DMC-uzivo-stream
+#EXTINF:0, Doma
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=189$http-refferer=http://www.jagledam.online/Doma-uzivo-stream
+#EXTINF:0, Fight Channel
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=399$http-refferer=http://www.jagledam.online/Fight-Channel-uzivo-stream
+#EXTINF:0, Fine Living
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=479$http-refferer=http://www.jagledam.online/Fine-Living-uzivo-stream
+#EXTINF:0, Food Network
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=452$http-refferer=http://www.jagledam.online/Food-Network-uzivo-stream
+#EXTINF:0, Fox Crime
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=56$http-refferer=http://www.jagledam.online/Fox-Crime-uzivo-stream
+#EXTINF:0, Fox Life Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=300$http-refferer=http://www.jagledam.online/Fox-Life-uzivo-stream
+#EXTINF:0, Fox Life Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=595$http-refferer=http://www.jagledam.online/Fox-Life-uzivo-stream
+#EXTINF:0, GINX
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=459$http-refferer=http://www.jagledam.online/GINX-uzivo-stream
+#EXTINF:0, HBO 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=672$http-refferer=http://www.jagledam.online/HBO-2-uzivo-stream
+#EXTINF:0, HBO Adria
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=127$http-refferer=http://www.jagledam.online/HBO-Adria-uzivo-stream
+#EXTINF:0, HBO Comedy
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=126$http-refferer=http://www.jagledam.online/HBO-Comedy-uzivo-stream
+#EXTINF:0, HRT 1 Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=34$http-refferer=http://www.jagledam.online/HRT-1-uzivo-stream
+#EXTINF:0, HRT 1 Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=167$http-refferer=http://www.jagledam.online/HRT-1-uzivo-stream
+#EXTINF:0, HRT 1 Link 3
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=187$http-refferer=http://www.jagledam.online/HRT-1-uzivo-stream
+#EXTINF:0, HRT 2 Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=33$http-refferer=http://www.jagledam.online/HRT-2-uzivo-stream
+#EXTINF:0, HRT 2 Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=166$http-refferer=http://www.jagledam.online/HRT-2-uzivo-stream
+#EXTINF:0, HRT 2 Link 3
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=184$http-refferer=http://www.jagledam.online/HRT-2-uzivo-stream
+#EXTINF:0, HRT 3 Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=171$http-refferer=http://www.jagledam.online/HRT-3-uzivo-stream
+#EXTINF:0, HRT 3 Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=188$http-refferer=http://www.jagledam.online/HRT-3-uzivo-stream
+#EXTINF:0, HRT 3 Link 3
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=293$http-refferer=http://www.jagledam.online/HRT-3-uzivo-stream
+#EXTINF:0, HRT 4
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=576$http-refferer=http://www.jagledam.online/HRT-4-uzivo-stream
+#EXTINF:0, HRT 5
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=752$http-refferer=http://www.jagledam.online/HRT-5-uzivo-stream
+#EXTINF:0, Jabuka TV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=277$http-refferer=http://www.jagledam.online/Jabuka-TV-uzivo-stream
+#EXTINF:0, Jadran
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=439$http-refferer=http://www.jagledam.online/Jadran-uzivo-stream
+#EXTINF:0, Jugoton Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=397$http-refferer=http://www.jagledam.online/Jugoton-uzivo-stream
+#EXTINF:0, Jugoton Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=609$http-refferer=http://www.jagledam.online/Jugoton-uzivo-stream
+#EXTINF:0, Kanal Ri
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=457$http-refferer=http://www.jagledam.online/Kanal-Ri-uzivo-stream
+#EXTINF:0, Klasik TV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=88$http-refferer=http://www.jagledam.online/Klasik-TV-uzivo-stream
+#EXTINF:0, Kreator TV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=689$http-refferer=http://www.jagledam.online/Kreator-TV-uzivo-stream
+#EXTINF:0, Mini TV Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=605$http-refferer=http://www.jagledam.online/Mini-TV-uzivo-stream
+#EXTINF:0, Mini TV Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=607$http-refferer=http://www.jagledam.online/Mini-TV-uzivo-stream
+#EXTINF:0, Mreza ST
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=441$http-refferer=http://www.jagledam.online/Mreza-ST-uzivo-stream
+#EXTINF:0, Mreza ZG
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=442$http-refferer=http://www.jagledam.online/Mreza-ZG-uzivo-stream
+#EXTINF:0, Narodna Televizija
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=440$http-refferer=http://www.jagledam.online/Narodna-Televizija-uzivo-stream
+#EXTINF:0, Nat Geo HR
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=17$http-refferer=http://www.jagledam.online/Nat-Geo-HR-uzivo-stream
+#EXTINF:0, Nat Geo Wild
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=463$http-refferer=http://www.jagledam.online/Nat-Geo-Wild-uzivo-stream
+#EXTINF:0, News Bar
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=852$http-refferer=http://www.jagledam.online/News-Bar-uzivo-stream
+#EXTINF:0, Nick Jr
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=642$http-refferer=http://www.jagledam.online/Nick-Jr-uzivo-stream
+#EXTINF:0, Nova TV Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=128$http-refferer=http://www.jagledam.online/Nova-TV-uzivo-stream
+#EXTINF:0, Nova TV Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=164$http-refferer=http://www.jagledam.online/Nova-TV-uzivo-stream
+#EXTINF:0, Nova TV Link 3
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=1$http-refferer=http://www.jagledam.online/Nova-TV-uzivo-stream
+#EXTINF:0, Osjecka TV Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=175$http-refferer=http://www.jagledam.online/Osjecka-TV-uzivo-stream
+#EXTINF:0, Osjecka TV Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=371$http-refferer=http://www.jagledam.online/Osjecka-TV-uzivo-stream
+#EXTINF:0, RTL Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=165$http-refferer=http://www.jagledam.online/RTL-uzivo-stream
+#EXTINF:0, RTL Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=36$http-refferer=http://www.jagledam.online/RTL-uzivo-stream
+#EXTINF:0, RTL Link 3
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=103$http-refferer=http://www.jagledam.online/RTL-uzivo-stream
+#EXTINF:0, RTL 2 Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=582$http-refferer=http://www.jagledam.online/RTL-2-uzivo-stream
+#EXTINF:0, RTL 2 Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=90$http-refferer=http://www.jagledam.online/RTL-2-uzivo-stream
+#EXTINF:0, RTL 2 Link 3
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=169$http-refferer=http://www.jagledam.online/RTL-2-uzivo-stream
+#EXTINF:0, RTL Crime
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=482$http-refferer=http://www.jagledam.online/RTL-Crime-uzivo-stream
+#EXTINF:0, RTL Kockica Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=173$http-refferer=http://www.jagledam.online/RTL-Kockica-uzivo-stream
+#EXTINF:0, RTL Kockica Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=376$http-refferer=http://www.jagledam.online/RTL-Kockica-uzivo-stream
+#EXTINF:0, RTL Living Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=480$http-refferer=http://www.jagledam.online/RTL-Living-uzivo-stream
+#EXTINF:0, RTL Living Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=685$http-refferer=http://www.jagledam.online/RTL-Living-uzivo-stream
+#EXTINF:0, RTL Passion
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=481$http-refferer=http://www.jagledam.online/RTL-Passion-uzivo-stream
+#EXTINF:0, sportska tv
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=174$http-refferer=http://www.jagledam.online/sportska-tv-uzivo-stream
+#EXTINF:0, Stop TV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=665$http-refferer=http://www.jagledam.online/Stop-TV-uzivo-stream
+#EXTINF:0, STV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=181$http-refferer=http://www.jagledam.online/STV-uzivo-stream
+#EXTINF:0, TLC Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=450$http-refferer=http://www.jagledam.online/TLC-uzivo-stream
+#EXTINF:0, TLC Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=637$http-refferer=http://www.jagledam.online/TLC-uzivo-stream
+#EXTINF:0, Travel Channel Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=559$http-refferer=http://www.jagledam.online/Travel-Channel-uzivo-stream
+#EXTINF:0, Travel Channel Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=815$http-refferer=http://www.jagledam.online/Travel-Channel-uzivo-stream
+#EXTINF:0, TV 1000
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=537$http-refferer=http://www.jagledam.online/TV-1000-uzivo-stream
+#EXTINF:0, TV Istra
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=438$http-refferer=http://www.jagledam.online/TV-Istra-uzivo-stream
+#EXTINF:0, TV Student
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=276$http-refferer=http://www.jagledam.online/TV-Student-uzivo-stream
+#EXTINF:0, Varazdinska VTV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=456$http-refferer=http://www.jagledam.online/Varazdinska-VTV-uzivo-stream
+#EXTINF:0, Viasat Explore Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=400$http-refferer=http://www.jagledam.online/Viasat-Explore-uzivo-stream
+#EXTINF:0, Viasat Explore Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=610$http-refferer=http://www.jagledam.online/Viasat-Explore-uzivo-stream
+#EXTINF:0, Viasat History Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=398$http-refferer=http://www.jagledam.online/Viasat-History-uzivo-stream
+#EXTINF:0, Viasat History Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=593$http-refferer=http://www.jagledam.online/Viasat-History-uzivo-stream
+#EXTINF:0, Viasat Nature Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=490$http-refferer=http://www.jagledam.online/Viasat-Nature-uzivo-stream
+#EXTINF:0, Viasat Nature Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=538$http-refferer=http://www.jagledam.online/Viasat-Nature-uzivo-stream
+#EXTINF:0, Vinkovacka TV Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=177$http-refferer=http://www.jagledam.online/Vinkovacka-TV-uzivo-stream
+#EXTINF:0, Vinkovacka TV Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=273$http-refferer=http://www.jagledam.online/Vinkovacka-TV-uzivo-stream
+#EXTINF:0, Z1 Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=777$http-refferer=http://www.jagledam.online/Z1-uzivo-stream
+#EXTINF:0, Z1 Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=778$http-refferer=http://www.jagledam.online/Z1-uzivo-stream
+#EXTINF:0, Zdrava TV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=453$http-refferer=http://www.jagledam.online/Zdrava-TV-uzivo-stream
+#EXTINF:0, 24 Kitchen Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=430$http-refferer=http://www.jagledam.online/24-Kitchen-uzivo-stream
+#EXTINF:0, 24 Kitchen Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=658$http-refferer=http://www.jagledam.online/24-Kitchen-uzivo-stream
+#EXTINF:0, A1 Srbija
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=763$http-refferer=http://www.jagledam.online/A1-Srbija-uzivo-stream
+#EXTINF:0, AGRO TV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=820$http-refferer=http://www.jagledam.online/AGRO-TV-uzivo-stream
+#EXTINF:0, amc
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=606$http-refferer=http://www.jagledam.online/amc-uzivo-stream
+#EXTINF:0, Arena Sport 1 Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=186$http-refferer=http://www.jagledam.online/Arena-Sport-1-uzivo-stream
+#EXTINF:0, Arena Sport 1 Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=235$http-refferer=http://www.jagledam.online/Arena-Sport-1-uzivo-stream
+#EXTINF:0, Arena Sport 1 Link 3
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=552$http-refferer=http://www.jagledam.online/Arena-Sport-1-uzivo-stream
+#EXTINF:0, Arena Sport 1 Link 4
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=600$http-refferer=http://www.jagledam.online/Arena-Sport-1-uzivo-stream
+#EXTINF:0, Arena Sport 1 Link 5
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=674$http-refferer=http://www.jagledam.online/Arena-Sport-1-uzivo-stream
+#EXTINF:0, Arena Sport 2 Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=153$http-refferer=http://www.jagledam.online/Arena-Sport-2-uzivo-stream
+#EXTINF:0, Arena Sport 2 Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=427$http-refferer=http://www.jagledam.online/Arena-Sport-2-uzivo-stream
+#EXTINF:0, Arena Sport 2 Link 3
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=659$http-refferer=http://www.jagledam.online/Arena-Sport-2-uzivo-stream
+#EXTINF:0, Arena Sport 2 Link 4
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=675$http-refferer=http://www.jagledam.online/Arena-Sport-2-uzivo-stream
+#EXTINF:0, Arena Sport 2 Link 5
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=678$http-refferer=http://www.jagledam.online/Arena-Sport-2-uzivo-stream
+#EXTINF:0, Arena Sport 3 Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=223$http-refferer=http://www.jagledam.online/Arena-Sport-3-uzivo-stream
+#EXTINF:0, Arena Sport 3 Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=237$http-refferer=http://www.jagledam.online/Arena-Sport-3-uzivo-stream
+#EXTINF:0, Arena Sport 3 Link 3
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=390$http-refferer=http://www.jagledam.online/Arena-Sport-3-uzivo-stream
+#EXTINF:0, Arena Sport 3 Link 4
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=631$http-refferer=http://www.jagledam.online/Arena-Sport-3-uzivo-stream
+#EXTINF:0, Arena Sport 3 Link 5
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=677$http-refferer=http://www.jagledam.online/Arena-Sport-3-uzivo-stream
+#EXTINF:0, Arena Sport 4 Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=151$http-refferer=http://www.jagledam.online/Arena-Sport-4-uzivo-stream
+#EXTINF:0, Arena Sport 4 Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=224$http-refferer=http://www.jagledam.online/Arena-Sport-4-uzivo-stream
+#EXTINF:0, Arena Sport 4 Link 3
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=460$http-refferer=http://www.jagledam.online/Arena-Sport-4-uzivo-stream
+#EXTINF:0, Arena Sport 4 Link 4
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=601$http-refferer=http://www.jagledam.online/Arena-Sport-4-uzivo-stream
+#EXTINF:0, Arena Sport 5 Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=383$http-refferer=http://www.jagledam.online/Arena-Sport-5-uzivo-stream
+#EXTINF:0, Arena Sport 5 Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=429$http-refferer=http://www.jagledam.online/Arena-Sport-5-uzivo-stream
+#EXTINF:0, Arena Sport 5 Link 3
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=621$http-refferer=http://www.jagledam.online/Arena-Sport-5-uzivo-stream
+#EXTINF:0, Arena Sport 5 Link 4
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=636$http-refferer=http://www.jagledam.online/Arena-Sport-5-uzivo-stream
+#EXTINF:0, AS Sabac
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=491$http-refferer=http://www.jagledam.online/AS-Sabac-uzivo-stream
+#EXTINF:0, AXN
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=548$http-refferer=http://www.jagledam.online/AXN-uzivo-stream
+#EXTINF:0, AXN Spin
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=579$http-refferer=http://www.jagledam.online/AXN-Spin-uzivo-stream
+#EXTINF:0, BBC earth
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=814$http-refferer=http://www.jagledam.online/BBC-earth-uzivo-stream
+#EXTINF:0, Belle Amie
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=317$http-refferer=http://www.jagledam.online/Belle-Amie-uzivo-stream
+#EXTINF:0, bit tv
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=819$http-refferer=http://www.jagledam.online/bit-tv-uzivo-stream
+#EXTINF:0, BNV TV Sandzak
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=761$http-refferer=http://www.jagledam.online/BNV-TV-Sandzak-uzivo-stream
+#EXTINF:0, Bor
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=516$http-refferer=http://www.jagledam.online/Bor-uzivo-stream
+#EXTINF:0, Bravo Music Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=220$http-refferer=http://www.jagledam.online/Bravo-Music-uzivo-stream
+#EXTINF:0, Bravo Music Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=598$http-refferer=http://www.jagledam.online/Bravo-Music-uzivo-stream
+#EXTINF:0, BTV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=854$http-refferer=http://www.jagledam.online/BTV-uzivo-stream
+#EXTINF:0, Cafe and Club
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=862$http-refferer=http://www.jagledam.online/Cafe-and-Club-uzivo-stream
+#EXTINF:0, Cinemania
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=563$http-refferer=http://www.jagledam.online/Cinemania-uzivo-stream
+#EXTINF:0, Cinemax
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=682$http-refferer=http://www.jagledam.online/Cinemax-uzivo-stream
+#EXTINF:0, City Play
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=739$http-refferer=http://www.jagledam.online/City-Play-uzivo-stream
+#EXTINF:0, Da Vinci Learning Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=620$http-refferer=http://www.jagledam.online/Da-Vinci-Learning-uzivo-stream
+#EXTINF:0, Da Vinci Learning Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=856$http-refferer=http://www.jagledam.online/Da-Vinci-Learning-uzivo-stream
+#EXTINF:0, Discovery SR
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=150$http-refferer=http://www.jagledam.online/Discovery-SR-uzivo-stream
+#EXTINF:0, Disney Channel Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=465$http-refferer=http://www.jagledam.online/Disney-Channel-uzivo-stream
+#EXTINF:0, Disney Channel Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=592$http-refferer=http://www.jagledam.online/Disney-Channel-uzivo-stream
+#EXTINF:0, DM SAT Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=143$http-refferer=http://www.jagledam.online/DM-SAT-uzivo-stream
+#EXTINF:0, DM SAT Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=242$http-refferer=http://www.jagledam.online/DM-SAT-uzivo-stream
+#EXTINF:0, DM SAT Link 3
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=270$http-refferer=http://www.jagledam.online/DM-SAT-uzivo-stream
+#EXTINF:0, Duga Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=52$http-refferer=http://www.jagledam.online/Duga-uzivo-stream
+#EXTINF:0, Duga Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=243$http-refferer=http://www.jagledam.online/Duga-uzivo-stream
+#EXTINF:0, Epic Drama
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=859$http-refferer=http://www.jagledam.online/Epic-Drama-uzivo-stream
+#EXTINF:0, Eurosport Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=401$http-refferer=http://www.jagledam.online/Eurosport-uzivo-stream
+#EXTINF:0, Eurosport Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=604$http-refferer=http://www.jagledam.online/Eurosport-uzivo-stream
+#EXTINF:0, EuroSport 2 Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=6$http-refferer=http://www.jagledam.online/EuroSport-2-uzivo-stream
+#EXTINF:0, EuroSport 2 Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=325$http-refferer=http://www.jagledam.online/EuroSport-2-uzivo-stream
+#EXTINF:0, F Kanal Zajecar
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=519$http-refferer=http://www.jagledam.online/F-Kanal-Zajecar-uzivo-stream
+#EXTINF:0, Fight Network
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=291$http-refferer=http://www.jagledam.online/Fight-Network-uzivo-stream
+#EXTINF:0, Film Klub
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=823$http-refferer=http://www.jagledam.online/Film-Klub-uzivo-stream
+#EXTINF:0, Film Klub Extra
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=824$http-refferer=http://www.jagledam.online/Film-Klub-Extra-uzivo-stream
+#EXTINF:0, Filmbox Extra Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=828$http-refferer=http://www.jagledam.online/Filmbox-Extra-uzivo-stream
+#EXTINF:0, Filmbox Extra Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=829$http-refferer=http://www.jagledam.online/Filmbox-Extra-uzivo-stream
+#EXTINF:0, Filmbox Plus
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=830$http-refferer=http://www.jagledam.online/Filmbox-Plus-uzivo-stream
+#EXTINF:0, Filmbox Premium
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=858$http-refferer=http://www.jagledam.online/Filmbox-Premium-uzivo-stream
+#EXTINF:0, Happy TV Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=95$http-refferer=http://www.jagledam.online/Happy-TV-uzivo-stream
+#EXTINF:0, Happy TV Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=155$http-refferer=http://www.jagledam.online/Happy-TV-uzivo-stream
+#EXTINF:0, Happy TV Link 3
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=487$http-refferer=http://www.jagledam.online/Happy-TV-uzivo-stream
+#EXTINF:0, HBO 3
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=818$http-refferer=http://www.jagledam.online/HBO-3-uzivo-stream
+#EXTINF:0, Hi Fi
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=836$http-refferer=http://www.jagledam.online/Hi-Fi-uzivo-stream
+#EXTINF:0, History 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=561$http-refferer=http://www.jagledam.online/History-2-uzivo-stream
+#EXTINF:0, ID Xtra
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=560$http-refferer=http://www.jagledam.online/ID-Xtra-uzivo-stream
+#EXTINF:0, IDJTV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=694$http-refferer=http://www.jagledam.online/IDJTV-uzivo-stream
+#EXTINF:0, Jedinstvo TV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=764$http-refferer=http://www.jagledam.online/Jedinstvo-TV-uzivo-stream
+#EXTINF:0, JEKA Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=822$http-refferer=http://www.jagledam.online/JEKA-uzivo-stream
+#EXTINF:0, JEKA Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=849$http-refferer=http://www.jagledam.online/JEKA-uzivo-stream
+#EXTINF:0, Kanal 3 Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=138$http-refferer=http://www.jagledam.online/Kanal-3-uzivo-stream
+#EXTINF:0, Kanal 3 Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=542$http-refferer=http://www.jagledam.online/Kanal-3-uzivo-stream
+#EXTINF:0, Kanal 9 Novi Sad
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=550$http-refferer=http://www.jagledam.online/Kanal-9-Novi-Sad-uzivo-stream
+#EXTINF:0, KCN 1 Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=379$http-refferer=http://www.jagledam.online/KCN-1-uzivo-stream
+#EXTINF:0, KCN 1 Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=494$http-refferer=http://www.jagledam.online/KCN-1-uzivo-stream
+#EXTINF:0, KCN 2 Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=65$http-refferer=http://www.jagledam.online/KCN-2-uzivo-stream
+#EXTINF:0, KCN 2 Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=493$http-refferer=http://www.jagledam.online/KCN-2-uzivo-stream
+#EXTINF:0, KCN 3 Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=66$http-refferer=http://www.jagledam.online/KCN-3-uzivo-stream
+#EXTINF:0, KCN 3 Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=113$http-refferer=http://www.jagledam.online/KCN-3-uzivo-stream
+#EXTINF:0, Kitchen TV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=827$http-refferer=http://www.jagledam.online/Kitchen-TV-uzivo-stream
+#EXTINF:0, Lorist TV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=271$http-refferer=http://www.jagledam.online/Lorist-TV-uzivo-stream
+#EXTINF:0, Lotel
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=506$http-refferer=http://www.jagledam.online/Lotel-uzivo-stream
+#EXTINF:0, Mediteraneo Muzik
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=850$http-refferer=http://www.jagledam.online/Mediteraneo-Muzik-uzivo-stream
+#EXTINF:0, Mega TV Indjija
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=492$http-refferer=http://www.jagledam.online/Mega-TV-Indjija-uzivo-stream
+#EXTINF:0, Minimax
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=566$http-refferer=http://www.jagledam.online/Minimax-uzivo-stream
+#EXTINF:0, Mlava
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=834$http-refferer=http://www.jagledam.online/Mlava-uzivo-stream
+#EXTINF:0, MonteLux
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=765$http-refferer=http://www.jagledam.online/MonteLux-uzivo-stream
+#EXTINF:0, MTS
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=847$http-refferer=http://www.jagledam.online/MTS-uzivo-stream
+#EXTINF:0, MTS Classic
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=861$http-refferer=http://www.jagledam.online/MTS-Classic-uzivo-stream
+#EXTINF:0, MTS Vision
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=851$http-refferer=http://www.jagledam.online/MTS-Vision-uzivo-stream
+#EXTINF:0, MTV Adria Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=145$http-refferer=http://www.jagledam.online/MTV-Adria-uzivo-stream
+#EXTINF:0, MTV Adria Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=378$http-refferer=http://www.jagledam.online/MTV-Adria-uzivo-stream
+#EXTINF:0, Nasa
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=269$http-refferer=http://www.jagledam.online/Nasa-uzivo-stream
+#EXTINF:0, nickelodeon Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=425$http-refferer=http://www.jagledam.online/nickelodeon-uzivo-stream
+#EXTINF:0, nickelodeon Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=377$http-refferer=http://www.jagledam.online/nickelodeon-uzivo-stream
+#EXTINF:0, Nova RS
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=221$http-refferer=http://www.jagledam.online/Nova-RS-uzivo-stream
+#EXTINF:0, Novosadska TV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=533$http-refferer=http://www.jagledam.online/Novosadska-TV-uzivo-stream
+#EXTINF:0, NTV Serbia
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=67$http-refferer=http://www.jagledam.online/NTV-Serbia-uzivo-stream
+#EXTINF:0, O2 TV Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=57$http-refferer=http://www.jagledam.online/O2-TV-uzivo-stream
+#EXTINF:0, O2 TV Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=78$http-refferer=http://www.jagledam.online/O2-TV-uzivo-stream
+#EXTINF:0, O2 TV Link 3
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=134$http-refferer=http://www.jagledam.online/O2-TV-uzivo-stream
+#EXTINF:0, OKK
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=848$http-refferer=http://www.jagledam.online/OKK-uzivo-stream
+#EXTINF:0, Palma Plus
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=97$http-refferer=http://www.jagledam.online/Palma-Plus-uzivo-stream
+#EXTINF:0, Parovi Reality Show
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=534$http-refferer=http://www.jagledam.online/Parovi-Reality-Show-uzivo-stream
+#EXTINF:0, Pi Canal
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=515$http-refferer=http://www.jagledam.online/Pi-Canal-uzivo-stream
+#EXTINF:0, Pink 1 Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=130$http-refferer=http://www.jagledam.online/Pink-1-uzivo-stream
+#EXTINF:0, Pink 1 Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=158$http-refferer=http://www.jagledam.online/Pink-1-uzivo-stream
+#EXTINF:0, Pink 1 Link 3
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=342$http-refferer=http://www.jagledam.online/Pink-1-uzivo-stream
+#EXTINF:0, Pink 2 Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=203$http-refferer=http://www.jagledam.online/Pink-2-uzivo-stream
+#EXTINF:0, Pink 2 Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=268$http-refferer=http://www.jagledam.online/Pink-2-uzivo-stream
+#EXTINF:0, Pink 3 info Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=204$http-refferer=http://www.jagledam.online/Pink-3-info-uzivo-stream
+#EXTINF:0, Pink 3 info Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=569$http-refferer=http://www.jagledam.online/Pink-3-info-uzivo-stream
+#EXTINF:0, Pink Action Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=289$http-refferer=http://www.jagledam.online/Pink-Action-uzivo-stream
+#EXTINF:0, Pink Action Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=294$http-refferer=http://www.jagledam.online/Pink-Action-uzivo-stream
+#EXTINF:0, Pink Classic Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=304$http-refferer=http://www.jagledam.online/Pink-Classic-uzivo-stream
+#EXTINF:0, Pink Classic Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=804$http-refferer=http://www.jagledam.online/Pink-Classic-uzivo-stream
+#EXTINF:0, Pink Comedy Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=213$http-refferer=http://www.jagledam.online/Pink-Comedy-uzivo-stream
+#EXTINF:0, Pink Comedy Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=347$http-refferer=http://www.jagledam.online/Pink-Comedy-uzivo-stream
+#EXTINF:0, Pink Crime and Mystery Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=131$http-refferer=http://www.jagledam.online/Pink-Crime-and-Mystery-uzivo-stream
+#EXTINF:0, Pink Crime and Mystery Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=418$http-refferer=http://www.jagledam.online/Pink-Crime-and-Mystery-uzivo-stream
+#EXTINF:0, Pink Extra
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=290$http-refferer=http://www.jagledam.online/Pink-Extra-uzivo-stream
+#EXTINF:0, Pink Family Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=287$http-refferer=http://www.jagledam.online/Pink-Family-uzivo-stream
+#EXTINF:0, Pink Family Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=496$http-refferer=http://www.jagledam.online/Pink-Family-uzivo-stream
+#EXTINF:0, Pink Fashion
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=326$http-refferer=http://www.jagledam.online/Pink-Fashion-uzivo-stream
+#EXTINF:0, Pink Film Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=7$http-refferer=http://www.jagledam.online/Pink-Film-uzivo-stream
+#EXTINF:0, Pink Film Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=420$http-refferer=http://www.jagledam.online/Pink-Film-uzivo-stream
+#EXTINF:0, Pink Folk 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=217$http-refferer=http://www.jagledam.online/Pink-Folk-1-uzivo-stream
+#EXTINF:0, Pink Folk 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=218$http-refferer=http://www.jagledam.online/Pink-Folk-2-uzivo-stream
+#EXTINF:0, Pink HA HA
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=735$http-refferer=http://www.jagledam.online/Pink-HA-HA-uzivo-stream
+#EXTINF:0, Pink Hits Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=356$http-refferer=http://www.jagledam.online/Pink-Hits-uzivo-stream
+#EXTINF:0, Pink Hits Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=806$http-refferer=http://www.jagledam.online/Pink-Hits-uzivo-stream
+#EXTINF:0, Pink Hits 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=353$http-refferer=http://www.jagledam.online/Pink-Hits-2-uzivo-stream
+#EXTINF:0, Pink Horror Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=212$http-refferer=http://www.jagledam.online/Pink-Horror-uzivo-stream
+#EXTINF:0, Pink Horror Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=350$http-refferer=http://www.jagledam.online/Pink-Horror-uzivo-stream
+#EXTINF:0, Pink Kids Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=292$http-refferer=http://www.jagledam.online/Pink-Kids-uzivo-stream
+#EXTINF:0, Pink Kids Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=498$http-refferer=http://www.jagledam.online/Pink-Kids-uzivo-stream
+#EXTINF:0, Pink Koncert
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=351$http-refferer=http://www.jagledam.online/Pink-Koncert-uzivo-stream
+#EXTINF:0, Pink Kuvar Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=558$http-refferer=http://www.jagledam.online/Pink-Kuvar-uzivo-stream
+#EXTINF:0, Pink Kuvar Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=805$http-refferer=http://www.jagledam.online/Pink-Kuvar-uzivo-stream
+#EXTINF:0, Pink LOL
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=736$http-refferer=http://www.jagledam.online/Pink-LOL-uzivo-stream
+#EXTINF:0, Pink Movies Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=194$http-refferer=http://www.jagledam.online/Pink-Movies-uzivo-stream
+#EXTINF:0, Pink Movies Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=288$http-refferer=http://www.jagledam.online/Pink-Movies-uzivo-stream
+#EXTINF:0, Pink Music Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=354$http-refferer=http://www.jagledam.online/Pink-Music-uzivo-stream
+#EXTINF:0, Pink Music Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=501$http-refferer=http://www.jagledam.online/Pink-Music-uzivo-stream
+#EXTINF:0, Pink Music 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=355$http-refferer=http://www.jagledam.online/Pink-Music-2-uzivo-stream
+#EXTINF:0, Pink n Roll Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=219$http-refferer=http://www.jagledam.online/Pink-n-Roll-uzivo-stream
+#EXTINF:0, Pink n Roll Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=585$http-refferer=http://www.jagledam.online/Pink-n-Roll-uzivo-stream
+#EXTINF:0, Pink Parada
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=357$http-refferer=http://www.jagledam.online/Pink-Parada-uzivo-stream
+#EXTINF:0, Pink Pedia Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=229$http-refferer=http://www.jagledam.online/Pink-Pedia-uzivo-stream
+#EXTINF:0, Pink Pedia Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=358$http-refferer=http://www.jagledam.online/Pink-Pedia-uzivo-stream
+#EXTINF:0, Pink Plus Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=206$http-refferer=http://www.jagledam.online/Pink-Plus-uzivo-stream
+#EXTINF:0, Pink Plus Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=653$http-refferer=http://www.jagledam.online/Pink-Plus-uzivo-stream
+#EXTINF:0, Pink premium Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=132$http-refferer=http://www.jagledam.online/Pink-premium-uzivo-stream
+#EXTINF:0, Pink premium Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=360$http-refferer=http://www.jagledam.online/Pink-premium-uzivo-stream
+#EXTINF:0, Pink Reality Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=208$http-refferer=http://www.jagledam.online/Pink-Reality-uzivo-stream
+#EXTINF:0, Pink Reality Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=361$http-refferer=http://www.jagledam.online/Pink-Reality-uzivo-stream
+#EXTINF:0, Pink Romance Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=115$http-refferer=http://www.jagledam.online/Pink-Romance-uzivo-stream
+#EXTINF:0, Pink Romance Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=344$http-refferer=http://www.jagledam.online/Pink-Romance-uzivo-stream
+#EXTINF:0, Pink SciFi and Fantasy Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=210$http-refferer=http://www.jagledam.online/Pink-SciFi-and-Fantasy-uzivo-stream
+#EXTINF:0, Pink SciFi and Fantasy Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=345$http-refferer=http://www.jagledam.online/Pink-SciFi-and-Fantasy-uzivo-stream
+#EXTINF:0, Pink Show Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=587$http-refferer=http://www.jagledam.online/Pink-Show-uzivo-stream
+#EXTINF:0, Pink Show Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=656$http-refferer=http://www.jagledam.online/Pink-Show-uzivo-stream
+#EXTINF:0, Pink Soap Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=211$http-refferer=http://www.jagledam.online/Pink-Soap-uzivo-stream
+#EXTINF:0, Pink Soap Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=362$http-refferer=http://www.jagledam.online/Pink-Soap-uzivo-stream
+#EXTINF:0, Pink Style Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=503$http-refferer=http://www.jagledam.online/Pink-Style-uzivo-stream
+#EXTINF:0, Pink Style Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=597$http-refferer=http://www.jagledam.online/Pink-Style-uzivo-stream
+#EXTINF:0, Pink Super Kids Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=565$http-refferer=http://www.jagledam.online/Pink-Super-Kids-uzivo-stream
+#EXTINF:0, Pink Super Kids Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=657$http-refferer=http://www.jagledam.online/Pink-Super-Kids-uzivo-stream
+#EXTINF:0, Pink Thriller Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=343$http-refferer=http://www.jagledam.online/Pink-Thriller-uzivo-stream
+#EXTINF:0, Pink Thriller Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=432$http-refferer=http://www.jagledam.online/Pink-Thriller-uzivo-stream
+#EXTINF:0, Pink Western Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=303$http-refferer=http://www.jagledam.online/Pink-Western-uzivo-stream
+#EXTINF:0, Pink Western Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=499$http-refferer=http://www.jagledam.online/Pink-Western-uzivo-stream
+#EXTINF:0, Pink World Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=207$http-refferer=http://www.jagledam.online/Pink-World-uzivo-stream
+#EXTINF:0, Pink World Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=363$http-refferer=http://www.jagledam.online/Pink-World-uzivo-stream
+#EXTINF:0, Pink World Cinema Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=586$http-refferer=http://www.jagledam.online/Pink-World-Cinema-uzivo-stream
+#EXTINF:0, Pink World Cinema Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=655$http-refferer=http://www.jagledam.online/Pink-World-Cinema-uzivo-stream
+#EXTINF:0, Pink Zabava Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=216$http-refferer=http://www.jagledam.online/Pink-Zabava-uzivo-stream
+#EXTINF:0, Pink Zabava Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=364$http-refferer=http://www.jagledam.online/Pink-Zabava-uzivo-stream
+#EXTINF:0, Pomoravlje
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=812$http-refferer=http://www.jagledam.online/Pomoravlje-uzivo-stream
+#EXTINF:0, Prva MAX
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=817$http-refferer=http://www.jagledam.online/Prva-MAX-uzivo-stream
+#EXTINF:0, Prva Plus
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=410$http-refferer=http://www.jagledam.online/Prva-Plus-uzivo-stream
+#EXTINF:0, Prva TV Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=35$http-refferer=http://www.jagledam.online/Prva-TV-uzivo-stream
+#EXTINF:0, Prva TV Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=68$http-refferer=http://www.jagledam.online/Prva-TV-uzivo-stream
+#EXTINF:0, Prva TV Link 3
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=222$http-refferer=http://www.jagledam.online/Prva-TV-uzivo-stream
+#EXTINF:0, Prva World
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=816$http-refferer=http://www.jagledam.online/Prva-World-uzivo-stream
+#EXTINF:0, Puls
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=623$http-refferer=http://www.jagledam.online/Puls-uzivo-stream
+#EXTINF:0, RT Vranje
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=508$http-refferer=http://www.jagledam.online/RT-Vranje-uzivo-stream
+#EXTINF:0, RTS
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=602$http-refferer=http://www.jagledam.online/RTS-uzivo-stream
+#EXTINF:0, RTS 1 Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=163$http-refferer=http://www.jagledam.online/RTS-1-uzivo-stream
+#EXTINF:0, RTS 1 Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=404$http-refferer=http://www.jagledam.online/RTS-1-uzivo-stream
+#EXTINF:0, RTS 2 Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=92$http-refferer=http://www.jagledam.online/RTS-2-uzivo-stream
+#EXTINF:0, RTS 2 Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=199$http-refferer=http://www.jagledam.online/RTS-2-uzivo-stream
+#EXTINF:0, RTS 2 Link 3
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=495$http-refferer=http://www.jagledam.online/RTS-2-uzivo-stream
+#EXTINF:0, RTS 2 Link 4
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=594$http-refferer=http://www.jagledam.online/RTS-2-uzivo-stream
+#EXTINF:0, RTS 2 Link 5
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=807$http-refferer=http://www.jagledam.online/RTS-2-uzivo-stream
+#EXTINF:0, RTS 3 Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=544$http-refferer=http://www.jagledam.online/RTS-3-uzivo-stream
+#EXTINF:0, RTS 3 Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=567$http-refferer=http://www.jagledam.online/RTS-3-uzivo-stream
+#EXTINF:0, RTS Drama
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=840$http-refferer=http://www.jagledam.online/RTS-Drama-uzivo-stream
+#EXTINF:0, RTS HD
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=577$http-refferer=http://www.jagledam.online/RTS-HD-uzivo-stream
+#EXTINF:0, RTS Kolo
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=838$http-refferer=http://www.jagledam.online/RTS-Kolo-uzivo-stream
+#EXTINF:0, RTS Muzika
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=842$http-refferer=http://www.jagledam.online/RTS-Muzika-uzivo-stream
+#EXTINF:0, RTS Trezor
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=839$http-refferer=http://www.jagledam.online/RTS-Trezor-uzivo-stream
+#EXTINF:0, RTS Zivot
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=841$http-refferer=http://www.jagledam.online/RTS-Zivot-uzivo-stream
+#EXTINF:0, RTV 1 Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=96$http-refferer=http://www.jagledam.online/RTV-1-uzivo-stream
+#EXTINF:0, RTV 1 Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=135$http-refferer=http://www.jagledam.online/RTV-1-uzivo-stream
+#EXTINF:0, RTV 1 Link 3
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=160$http-refferer=http://www.jagledam.online/RTV-1-uzivo-stream
+#EXTINF:0, RTV 1 Link 4
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=855$http-refferer=http://www.jagledam.online/RTV-1-uzivo-stream
+#EXTINF:0, RTV 2 Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=109$http-refferer=http://www.jagledam.online/RTV-2-uzivo-stream
+#EXTINF:0, RTV 2 Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=159$http-refferer=http://www.jagledam.online/RTV-2-uzivo-stream
+#EXTINF:0, RTV 2 Link 3
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=732$http-refferer=http://www.jagledam.online/RTV-2-uzivo-stream
+#EXTINF:0, RTV Krusevac
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=825$http-refferer=http://www.jagledam.online/RTV-Krusevac-uzivo-stream
+#EXTINF:0, RTV Mir Leposavic
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=666$http-refferer=http://www.jagledam.online/RTV-Mir-Leposavic-uzivo-stream
+#EXTINF:0, RTV Novi Pazar
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=504$http-refferer=http://www.jagledam.online/RTV-Novi-Pazar-uzivo-stream
+#EXTINF:0, RTV Panonija
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=295$http-refferer=http://www.jagledam.online/RTV-Panonija-uzivo-stream
+#EXTINF:0, Rubin Kikinda
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=507$http-refferer=http://www.jagledam.online/Rubin-Kikinda-uzivo-stream
+#EXTINF:0, Sandzacka TV mreza
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=762$http-refferer=http://www.jagledam.online/Sandzacka-TV-mreza-uzivo-stream
+#EXTINF:0, Sat TV Pozarevac
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=589$http-refferer=http://www.jagledam.online/Sat-TV-Pozarevac-uzivo-stream
+#EXTINF:0, SNTV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=638$http-refferer=http://www.jagledam.online/SNTV-uzivo-stream
+#EXTINF:0, SOS Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=98$http-refferer=http://www.jagledam.online/SOS-uzivo-stream
+#EXTINF:0, SOS Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=346$http-refferer=http://www.jagledam.online/SOS-uzivo-stream
+#EXTINF:0, Sport Klub 1 Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=25$http-refferer=http://www.jagledam.online/Sport-Klub-1-uzivo-stream
+#EXTINF:0, Sport Klub 1 Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=122$http-refferer=http://www.jagledam.online/Sport-Klub-1-uzivo-stream
+#EXTINF:0, Sport Klub 1 Link 3
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=123$http-refferer=http://www.jagledam.online/Sport-Klub-1-uzivo-stream
+#EXTINF:0, Sport Klub 1 Link 4
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=644$http-refferer=http://www.jagledam.online/Sport-Klub-1-uzivo-stream
+#EXTINF:0, Sport Klub 2 Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=154$http-refferer=http://www.jagledam.online/Sport-Klub-2-uzivo-stream
+#EXTINF:0, Sport Klub 2 Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=311$http-refferer=http://www.jagledam.online/Sport-Klub-2-uzivo-stream
+#EXTINF:0, Sport Klub 2 Link 3
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=421$http-refferer=http://www.jagledam.online/Sport-Klub-2-uzivo-stream
+#EXTINF:0, Sport Klub 2 Link 4
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=486$http-refferer=http://www.jagledam.online/Sport-Klub-2-uzivo-stream
+#EXTINF:0, Sport Klub 2 Link 5
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=680$http-refferer=http://www.jagledam.online/Sport-Klub-2-uzivo-stream
+#EXTINF:0, Sport Klub 3 Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=121$http-refferer=http://www.jagledam.online/Sport-Klub-3-uzivo-stream
+#EXTINF:0, Sport Klub 3 Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=408$http-refferer=http://www.jagledam.online/Sport-Klub-3-uzivo-stream
+#EXTINF:0, Sport Klub 3 Link 3
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=483$http-refferer=http://www.jagledam.online/Sport-Klub-3-uzivo-stream
+#EXTINF:0, Sport Klub 3 Link 4
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=547$http-refferer=http://www.jagledam.online/Sport-Klub-3-uzivo-stream
+#EXTINF:0, STAR TV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=835$http-refferer=http://www.jagledam.online/STAR-TV-uzivo-stream
+#EXTINF:0, Studio B Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=94$http-refferer=http://www.jagledam.online/Studio-B-uzivo-stream
+#EXTINF:0, Studio B Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=403$http-refferer=http://www.jagledam.online/Studio-B-uzivo-stream
+#EXTINF:0, Studio B Link 3
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=556$http-refferer=http://www.jagledam.online/Studio-B-uzivo-stream
+#EXTINF:0, STV Sandzak Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=722$http-refferer=http://www.jagledam.online/STV-Sandzak-uzivo-stream
+#EXTINF:0, STV Sandzak Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=755$http-refferer=http://www.jagledam.online/STV-Sandzak-uzivo-stream
+#EXTINF:0, Telegraf now
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=688$http-refferer=http://www.jagledam.online/Telegraf-now-uzivo-stream
+#EXTINF:0, Teslavision
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=446$http-refferer=http://www.jagledam.online/Teslavision-uzivo-stream
+#EXTINF:0, Top Sound
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=461$http-refferer=http://www.jagledam.online/Top-Sound-uzivo-stream
+#EXTINF:0, TV Han
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=664$http-refferer=http://www.jagledam.online/TV-Han-uzivo-stream
+#EXTINF:0, TV Hram
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=564$http-refferer=http://www.jagledam.online/TV-Hram-uzivo-stream
+#EXTINF:0, TV istok
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=518$http-refferer=http://www.jagledam.online/TV-istok-uzivo-stream
+#EXTINF:0, TV Jumbo
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=513$http-refferer=http://www.jagledam.online/TV-Jumbo-uzivo-stream
+#EXTINF:0, TV Kladovo
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=667$http-refferer=http://www.jagledam.online/TV-Kladovo-uzivo-stream
+#EXTINF:0, TV Kragujevac
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=512$http-refferer=http://www.jagledam.online/TV-Kragujevac-uzivo-stream
+#EXTINF:0, TV Leskovac
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=505$http-refferer=http://www.jagledam.online/TV-Leskovac-uzivo-stream
+#EXTINF:0, TV Most
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=734$http-refferer=http://www.jagledam.online/TV-Most-uzivo-stream
+#EXTINF:0, TV Partizan Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=697$http-refferer=http://www.jagledam.online/TV-Partizan-uzivo-stream
+#EXTINF:0, TV Partizan Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=698$http-refferer=http://www.jagledam.online/TV-Partizan-uzivo-stream
+#EXTINF:0, TV Pirot
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=509$http-refferer=http://www.jagledam.online/TV-Pirot-uzivo-stream
+#EXTINF:0, TV Raska
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=514$http-refferer=http://www.jagledam.online/TV-Raska-uzivo-stream
+#EXTINF:0, TV S1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=662$http-refferer=http://www.jagledam.online/TV-S1-uzivo-stream
+#EXTINF:0, TV Subotica
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=669$http-refferer=http://www.jagledam.online/TV-Subotica-uzivo-stream
+#EXTINF:0, VA Plus
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=826$http-refferer=http://www.jagledam.online/VA-Plus-uzivo-stream
+#EXTINF:0, VH1 Adria Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=144$http-refferer=http://www.jagledam.online/VH1-Adria-uzivo-stream
+#EXTINF:0, VH1 Adria Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=693$http-refferer=http://www.jagledam.online/VH1-Adria-uzivo-stream
+#EXTINF:0, VIP HD
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=645$http-refferer=http://www.jagledam.online/VIP-HD-uzivo-stream
+#EXTINF:0, VTV Valjevo
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=572$http-refferer=http://www.jagledam.online/VTV-Valjevo-uzivo-stream
+#EXTINF:0, World Wide Music
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=860$http-refferer=http://www.jagledam.online/World-Wide-Music-uzivo-stream
+#EXTINF:0, Zadruga Reality Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=781$http-refferer=http://www.jagledam.online/Zadruga-Reality-uzivo-stream
+#EXTINF:0, Zadruga Reality Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=782$http-refferer=http://www.jagledam.online/Zadruga-Reality-uzivo-stream
+#EXTINF:0, Zadruga Reality Link 3
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=783$http-refferer=http://www.jagledam.online/Zadruga-Reality-uzivo-stream
+#EXTINF:0, Zadruga Reality Link 4
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=784$http-refferer=http://www.jagledam.online/Zadruga-Reality-uzivo-stream
+#EXTINF:0, Zdrava TV SR
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=757$http-refferer=http://www.jagledam.online/Zdrava-TV-SR-uzivo-stream
+#EXTINF:0, Zdravlje TV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=857$http-refferer=http://www.jagledam.online/Zdravlje-TV-uzivo-stream
+#EXTINF:0, Zenska TV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=821$http-refferer=http://www.jagledam.online/Zenska-TV-uzivo-stream
+#EXTINF:0, Arena TV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=464$http-refferer=http://www.jagledam.online/Arena-TV-uzivo-stream
+#EXTINF:0, Baby TV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=470$http-refferer=http://www.jagledam.online/Baby-TV-uzivo-stream
+#EXTINF:0, BK TV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=49$http-refferer=http://www.jagledam.online/BK-TV-uzivo-stream
+#EXTINF:0, Cartoon Network Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=467$http-refferer=http://www.jagledam.online/Cartoon-Network-uzivo-stream
+#EXTINF:0, Cartoon Network Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=603$http-refferer=http://www.jagledam.online/Cartoon-Network-uzivo-stream
+#EXTINF:0, Disney XD
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=466$http-refferer=http://www.jagledam.online/Disney-XD-uzivo-stream
+#EXTINF:0, Duck TV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=639$http-refferer=http://www.jagledam.online/Duck-TV-uzivo-stream
+#EXTINF:0, Euroturist TV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=573$http-refferer=http://www.jagledam.online/Euroturist-TV-uzivo-stream
+#EXTINF:0, Folx
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=770$http-refferer=http://www.jagledam.online/Folx-uzivo-stream
+#EXTINF:0, FOX Adria
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=536$http-refferer=http://www.jagledam.online/FOX-Adria-uzivo-stream
+#EXTINF:0, FOX Movies
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=388$http-refferer=http://www.jagledam.online/FOX-Movies-uzivo-stream
+#EXTINF:0, Gea TV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=574$http-refferer=http://www.jagledam.online/Gea-TV-uzivo-stream
+#EXTINF:0, History
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=18$http-refferer=http://www.jagledam.online/History-uzivo-stream
+#EXTINF:0, JimJam
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=660$http-refferer=http://www.jagledam.online/JimJam-uzivo-stream
+#EXTINF:0, Nova 24 TV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=690$http-refferer=http://www.jagledam.online/Nova-24-TV-uzivo-stream
+#EXTINF:0, Pink Si
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=740$http-refferer=http://www.jagledam.online/Pink-Si-uzivo-stream
+#EXTINF:0, Planet TV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=318$http-refferer=http://www.jagledam.online/Planet-TV-uzivo-stream
+#EXTINF:0, Sport TV 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=473$http-refferer=http://www.jagledam.online/Sport-TV-1-uzivo-stream
+#EXTINF:0, Sport TV 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=474$http-refferer=http://www.jagledam.online/Sport-TV-2-uzivo-stream
+#EXTINF:0, Sport TV 3
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=475$http-refferer=http://www.jagledam.online/Sport-TV-3-uzivo-stream
+#EXTINF:0, Studio 12
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=811$http-refferer=http://www.jagledam.online/Studio-12-uzivo-stream
+#EXTINF:0, TOP TV Slovenia
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=843$http-refferer=http://www.jagledam.online/TOP-TV-Slovenia-uzivo-stream
+#EXTINF:0, TV Golica Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=37$http-refferer=http://www.jagledam.online/TV-Golica-uzivo-stream
+#EXTINF:0, TV Golica Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=433$http-refferer=http://www.jagledam.online/TV-Golica-uzivo-stream
+#EXTINF:0, TV SLO 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=11$http-refferer=http://www.jagledam.online/TV-SLO-1-uzivo-stream
+#EXTINF:0, TV SLO 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=12$http-refferer=http://www.jagledam.online/TV-SLO-2-uzivo-stream
+#EXTINF:0, TV SLO 3 Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=13$http-refferer=http://www.jagledam.online/TV-SLO-3-uzivo-stream
+#EXTINF:0, TV SLO 3 Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=447$http-refferer=http://www.jagledam.online/TV-SLO-3-uzivo-stream
+#EXTINF:0, Veseljak
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=742$http-refferer=http://www.jagledam.online/Veseljak-uzivo-stream
+#EXTINF:0, Zdrava TV SLO
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=758$http-refferer=http://www.jagledam.online/Zdrava-TV-SLO-uzivo-stream
+#EXTINF:0, Atlas TV Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=309$http-refferer=http://www.jagledam.online/Atlas-TV-uzivo-stream
+#EXTINF:0, Atlas TV Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=331$http-refferer=http://www.jagledam.online/Atlas-TV-uzivo-stream
+#EXTINF:0, Islam MNE TV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=759$http-refferer=http://www.jagledam.online/Islam-MNE-TV-uzivo-stream
+#EXTINF:0, nova m Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=205$http-refferer=http://www.jagledam.online/nova-m-uzivo-stream
+#EXTINF:0, nova m Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=352$http-refferer=http://www.jagledam.online/nova-m-uzivo-stream
+#EXTINF:0, RTCG 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=297$http-refferer=http://www.jagledam.online/RTCG-1-uzivo-stream
+#EXTINF:0, RTCG 2 Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=102$http-refferer=http://www.jagledam.online/RTCG-2-uzivo-stream
+#EXTINF:0, RTCG 2 Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=296$http-refferer=http://www.jagledam.online/RTCG-2-uzivo-stream
+#EXTINF:0, RTCG SAT Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=100$http-refferer=http://www.jagledam.online/RTCG-SAT-uzivo-stream
+#EXTINF:0, RTCG SAT Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=472$http-refferer=http://www.jagledam.online/RTCG-SAT-uzivo-stream
+#EXTINF:0, TV 777
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=114$http-refferer=http://www.jagledam.online/TV-777-uzivo-stream
+#EXTINF:0, 1TV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=831$http-refferer=http://www.jagledam.online/1TV-uzivo-stream
+#EXTINF:0, 24 vesti
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=417$http-refferer=http://www.jagledam.online/24-vesti-uzivo-stream
+#EXTINF:0, Alfa TV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=339$http-refferer=http://www.jagledam.online/Alfa-TV-uzivo-stream
+#EXTINF:0, Alsat M
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=368$http-refferer=http://www.jagledam.online/Alsat-M-uzivo-stream
+#EXTINF:0, Balkan Music
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=832$http-refferer=http://www.jagledam.online/Balkan-Music-uzivo-stream
+#EXTINF:0, BTR
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=315$http-refferer=http://www.jagledam.online/BTR-uzivo-stream
+#EXTINF:0, ERA
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=369$http-refferer=http://www.jagledam.online/ERA-uzivo-stream
+#EXTINF:0, Folk Club TV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=730$http-refferer=http://www.jagledam.online/Folk-Club-TV-uzivo-stream
+#EXTINF:0, Folk TV Makedonija
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=813$http-refferer=http://www.jagledam.online/Folk-TV-Makedonija-uzivo-stream
+#EXTINF:0, H1 Hugo TV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=435$http-refferer=http://www.jagledam.online/H1-Hugo-TV-uzivo-stream
+#EXTINF:0, H2 Hugo TV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=720$http-refferer=http://www.jagledam.online/H2-Hugo-TV-uzivo-stream
+#EXTINF:0, IN TV Australia
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=647$http-refferer=http://www.jagledam.online/IN-TV-Australia-uzivo-stream
+#EXTINF:0, K3 Kumanovo
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=524$http-refferer=http://www.jagledam.online/K3-Kumanovo-uzivo-stream
+#EXTINF:0, Kanal 5
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=64$http-refferer=http://www.jagledam.online/Kanal-5-uzivo-stream
+#EXTINF:0, Kanal 5 Plus
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=312$http-refferer=http://www.jagledam.online/Kanal-5-Plus-uzivo-stream
+#EXTINF:0, Kanal 8
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=419$http-refferer=http://www.jagledam.online/Kanal-8-uzivo-stream
+#EXTINF:0, Makedonska TV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=833$http-refferer=http://www.jagledam.online/Makedonska-TV-uzivo-stream
+#EXTINF:0, MRT 1 Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=316$http-refferer=http://www.jagledam.online/MRT-1-uzivo-stream
+#EXTINF:0, MRT 1 Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=333$http-refferer=http://www.jagledam.online/MRT-1-uzivo-stream
+#EXTINF:0, MRT 1 sat
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=444$http-refferer=http://www.jagledam.online/MRT-1-sat-uzivo-stream
+#EXTINF:0, MRT 2 Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=334$http-refferer=http://www.jagledam.online/MRT-2-uzivo-stream
+#EXTINF:0, MRT 2 Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=845$http-refferer=http://www.jagledam.online/MRT-2-uzivo-stream
+#EXTINF:0, MRT 2 sat
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=445$http-refferer=http://www.jagledam.online/MRT-2-sat-uzivo-stream
+#EXTINF:0, MRT Sobraniski Kanal
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=443$http-refferer=http://www.jagledam.online/MRT-Sobraniski-Kanal-uzivo-stream
+#EXTINF:0, MTM 1 Skopska
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=846$http-refferer=http://www.jagledam.online/MTM-1-Skopska-uzivo-stream
+#EXTINF:0, NaÅ¡a TV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=365$http-refferer=http://www.jagledam.online/Na%C3%85%C2%A1a-TV-uzivo-stream
+#EXTINF:0, Shenja
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=737$http-refferer=http://www.jagledam.online/Shenja-uzivo-stream
+#EXTINF:0, Shutel
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=367$http-refferer=http://www.jagledam.online/Shutel-uzivo-stream
+#EXTINF:0, Sitel
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=53$http-refferer=http://www.jagledam.online/Sitel-uzivo-stream
+#EXTINF:0, SKY Folk
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=756$http-refferer=http://www.jagledam.online/SKY-Folk-uzivo-stream
+#EXTINF:0, Televizija Nova
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=622$http-refferer=http://www.jagledam.online/Televizija-Nova-uzivo-stream
+#EXTINF:0, Televizioni Koha
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=767$http-refferer=http://www.jagledam.online/Televizioni-Koha-uzivo-stream
+#EXTINF:0, Telma
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=54$http-refferer=http://www.jagledam.online/Telma-uzivo-stream
+#EXTINF:0, Tera TV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=416$http-refferer=http://www.jagledam.online/Tera-TV-uzivo-stream
+#EXTINF:0, TV 2 Gostivar
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=794$http-refferer=http://www.jagledam.online/TV-2-Gostivar-uzivo-stream
+#EXTINF:0, TV 21
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=738$http-refferer=http://www.jagledam.online/TV-21-uzivo-stream
+#EXTINF:0, TV Plus Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=686$http-refferer=http://www.jagledam.online/TV-Plus-uzivo-stream
+#EXTINF:0, TV Plus Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=749$http-refferer=http://www.jagledam.online/TV-Plus-uzivo-stream
+#EXTINF:0, TV Sonce
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=751$http-refferer=http://www.jagledam.online/TV-Sonce-uzivo-stream
+#EXTINF:0, TV Tetova Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=809$http-refferer=http://www.jagledam.online/TV-Tetova-uzivo-stream
+#EXTINF:0, TV Tetova Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=810$http-refferer=http://www.jagledam.online/TV-Tetova-uzivo-stream
+#EXTINF:0, A1 Shqiptare
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=551$http-refferer=http://www.jagledam.online/A1-Shqiptare-uzivo-stream
+#EXTINF:0, Alb Swiss TV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=795$http-refferer=http://www.jagledam.online/Alb-Swiss-TV-uzivo-stream
+#EXTINF:0, AMOL TV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=793$http-refferer=http://www.jagledam.online/AMOL-TV-uzivo-stream
+#EXTINF:0, ART AAB
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=800$http-refferer=http://www.jagledam.online/ART-AAB-uzivo-stream
+#EXTINF:0, Cegrani Media
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=105$http-refferer=http://www.jagledam.online/Cegrani-Media-uzivo-stream
+#EXTINF:0, Dasma TV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=803$http-refferer=http://www.jagledam.online/Dasma-TV-uzivo-stream
+#EXTINF:0, HD Plus
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=853$http-refferer=http://www.jagledam.online/HD-Plus-uzivo-stream
+#EXTINF:0, ISLAM Prizren TV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=837$http-refferer=http://www.jagledam.online/ISLAM-Prizren-TV-uzivo-stream
+#EXTINF:0, news 24
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=84$http-refferer=http://www.jagledam.online/news-24-uzivo-stream
+#EXTINF:0, Opoja
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=768$http-refferer=http://www.jagledam.online/Opoja-uzivo-stream
+#EXTINF:0, Rrokum Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=721$http-refferer=http://www.jagledam.online/Rrokum-uzivo-stream
+#EXTINF:0, Rrokum Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=774$http-refferer=http://www.jagledam.online/Rrokum-uzivo-stream
+#EXTINF:0, RTK 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=81$http-refferer=http://www.jagledam.online/RTK-1-uzivo-stream
+#EXTINF:0, RTK 3
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=741$http-refferer=http://www.jagledam.online/RTK-3-uzivo-stream
+#EXTINF:0, RTK 4
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=754$http-refferer=http://www.jagledam.online/RTK-4-uzivo-stream
+#EXTINF:0, RTV 21
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=747$http-refferer=http://www.jagledam.online/RTV-21-uzivo-stream
+#EXTINF:0, RTV Jug Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=82$http-refferer=http://www.jagledam.online/RTV-Jug-uzivo-stream
+#EXTINF:0, RTV Jug Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=773$http-refferer=http://www.jagledam.online/RTV-Jug-uzivo-stream
+#EXTINF:0, RTV Zeri
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=748$http-refferer=http://www.jagledam.online/RTV-Zeri-uzivo-stream
+#EXTINF:0, Spin TV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=780$http-refferer=http://www.jagledam.online/Spin-TV-uzivo-stream
+#EXTINF:0, STV Folk
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=699$http-refferer=http://www.jagledam.online/STV-Folk-uzivo-stream
+#EXTINF:0, Super Sport 1 HD Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=702$http-refferer=http://www.jagledam.online/Super-Sport-1-HD-uzivo-stream
+#EXTINF:0, Super Sport 1 HD Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=704$http-refferer=http://www.jagledam.online/Super-Sport-1-HD-uzivo-stream
+#EXTINF:0, Super Sport 2 HD Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=705$http-refferer=http://www.jagledam.online/Super-Sport-2-HD-uzivo-stream
+#EXTINF:0, Super Sport 2 HD Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=707$http-refferer=http://www.jagledam.online/Super-Sport-2-HD-uzivo-stream
+#EXTINF:0, Super Sport 2 HD Link 3
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=717$http-refferer=http://www.jagledam.online/Super-Sport-2-HD-uzivo-stream
+#EXTINF:0, Super Sport 3 HD Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=708$http-refferer=http://www.jagledam.online/Super-Sport-3-HD-uzivo-stream
+#EXTINF:0, Super Sport 3 HD Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=709$http-refferer=http://www.jagledam.online/Super-Sport-3-HD-uzivo-stream
+#EXTINF:0, Super Sport 3 HD Link 3
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=718$http-refferer=http://www.jagledam.online/Super-Sport-3-HD-uzivo-stream
+#EXTINF:0, Super Sport 4 HD Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=711$http-refferer=http://www.jagledam.online/Super-Sport-4-HD-uzivo-stream
+#EXTINF:0, Super Sport 4 HD Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=713$http-refferer=http://www.jagledam.online/Super-Sport-4-HD-uzivo-stream
+#EXTINF:0, Super Sport 4 HD Link 3
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=719$http-refferer=http://www.jagledam.online/Super-Sport-4-HD-uzivo-stream
+#EXTINF:0, Syri Blue Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=796$http-refferer=http://www.jagledam.online/Syri-Blue-uzivo-stream
+#EXTINF:0, Syri Blue Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=797$http-refferer=http://www.jagledam.online/Syri-Blue-uzivo-stream
+#EXTINF:0, Syri Vision
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=798$http-refferer=http://www.jagledam.online/Syri-Vision-uzivo-stream
+#EXTINF:0, Televizioni TVR
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=110$http-refferer=http://www.jagledam.online/Televizioni-TVR-uzivo-stream
+#EXTINF:0, TV Dukagjini
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=799$http-refferer=http://www.jagledam.online/TV-Dukagjini-uzivo-stream
+#EXTINF:0, TV Liria
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=766$http-refferer=http://www.jagledam.online/TV-Liria-uzivo-stream
+#EXTINF:0, TV LLapi
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=779$http-refferer=http://www.jagledam.online/TV-LLapi-uzivo-stream
+#EXTINF:0, TV Sharri
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=802$http-refferer=http://www.jagledam.online/TV-Sharri-uzivo-stream
+#EXTINF:0, Vizion Plus
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=83$http-refferer=http://www.jagledam.online/Vizion-Plus-uzivo-stream
+#EXTINF:0, Zico TV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=61$http-refferer=http://www.jagledam.online/Zico-TV-uzivo-stream
+#EXTINF:0, Zjarr TV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=553$http-refferer=http://www.jagledam.online/Zjarr-TV-uzivo-stream
+#EXTINF:0, Balkanika Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=179$http-refferer=http://www.jagledam.online/Balkanika-uzivo-stream
+#EXTINF:0, Balkanika Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=327$http-refferer=http://www.jagledam.online/Balkanika-uzivo-stream
+#EXTINF:0, City TV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=588$http-refferer=http://www.jagledam.online/City-TV-uzivo-stream
+#EXTINF:0, DSTV
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=580$http-refferer=http://www.jagledam.online/DSTV-uzivo-stream
+#EXTINF:0, Duna
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=615$http-refferer=http://www.jagledam.online/Duna-uzivo-stream
+#EXTINF:0, Duna World
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=616$http-refferer=http://www.jagledam.online/Duna-World-uzivo-stream
+#EXTINF:0, M1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=617$http-refferer=http://www.jagledam.online/M1-uzivo-stream
+#EXTINF:0, M2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=618$http-refferer=http://www.jagledam.online/M2-uzivo-stream
+#EXTINF:0, M4 Sport Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=619$http-refferer=http://www.jagledam.online/M4-Sport-uzivo-stream
+#EXTINF:0, M4 Sport Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=844$http-refferer=http://www.jagledam.online/M4-Sport-uzivo-stream
+#EXTINF:0, M5
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=696$http-refferer=http://www.jagledam.online/M5-uzivo-stream
+#EXTINF:0, Roma Music Link 1
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=753$http-refferer=http://www.jagledam.online/Roma-Music-uzivo-stream
+#EXTINF:0, Roma Music Link 2
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=775$http-refferer=http://www.jagledam.online/Roma-Music-uzivo-stream
+#EXTINF:0, RTL Klub
+httphost://$http-raw=http://www.jagledam.online/kanal.php?kanal=624$http-refferer=http://www.jagledam.online/RTL-Klub-uzivo-stream
