@@ -17,36 +17,66 @@ httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bL
 httphost://$http-raw=https://www.youtube.com/embed/SoUzfMJz-54$http-refferer=https://www.youtube.com
 #EXTINF:0, beIN Sports NEWS
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwUkOgjAAAMAHmUaBlrYHDl3YFBETCOUqiApKTMuihsc70%2b0VUkuRbQYhv8%2fUfkTWoLddTwo8BmZAFcN165A0rs7eao2ZbsrytLs0R2NYvrrYYpggBITNfQAlZIAICAEU0qWcYuEgZ01aFfS%2f2NXhfOB9MdVhxEmcJv51uZn7Z87fr2kSlOpy8f7zdLWfjwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://taptube.net/tvtap1/images/channel_imgs/250118041629beinsp1.png", AR Bein Sports 1 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwd0OgiAYANAHckyLT5ELLxRpNZ2Vf8zLDIXJyrJm5Xz4zsF5LgyJ0je7qX7M%2fJMz6c5YMmkfVNVEFXZX0GmGoWiC9TNysdBGPbNUSA169cgmJL7rIraNOIIYQuQzAAQs9mhECcMuXj2%2bfwFNd1gKu3MYufdJ%2bZ2PpmqvQ5tclkOoftZZl%2fNQBX8hPDmMjwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com  
-#EXTINF:-1 tvg-logo="http://taptube.net/tvtap1/images/channel_imgs/250118041650bein2.jpg", AR Bein Sports 2  httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwUkOgjAAAMAHkUYr3Thw6GaQTQVF5IiJlQBKoqzh8c4IYxgu6wmXSTfvMysauxGp27UPfkW45NVZW5vabyM6fN11joc7hPHrdBHvh5fhlVDIKcMYyJ3QACnEAZMIASQVcYRDpY3tNVA8PTTb8UtK7DeTQ1Pt9dpwop4UJq2pWNEtnzA%2fTsz9Ay80Y9SPAAAA$http-refferer=http://linkprotect.xmtvplayer.com  
-#EXTINF:-1 tvg-logo="http://taptube.net/tvtap1/images/channel_imgs/130216035348bein3.jpg", AR Bein Sports 3  httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdsKgjAYAOAHkkHqv81deOEOdFh5drVLowQbOEHKCB%2b%2b75s7wPUyQrG%2bfXhS%2bdHndel%2fVxbo6m4vsifxzvTcRWZJNwWrIg5EJX1J7eA2QsOMJhgjEXGFQEKGEgGAQEjCOKMixvEmOls0D%2fvtgw9%2fRUS3UN7WwmTj%2bTloXU9uP7fN5MEcVPoHPUSML48AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com  
-#EXTINF:-1 tvg-logo="http://taptube.net/tvtap1/images/channel_imgs/130216035427bein4.jpg", AR Bein Sports 4  httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwUkOgjAUANADmcYg%2f1NYsCgtQ2WKyBDYGTVBIGhBgiEc3veMc%2bLrqTbcu1hJ5Ezmy9XqgqwWH1ZFbXoMncf4VMVAXXuP460NXzA20sOg9MrdoBqjJiLhJ8clIIARkwMQ4MKwHItyHfU9WBNev1FWl%2bxQelBsjVrEEk2bmPx%2b%2ft5CXNXUz%2b4vlfYfcwZJaY8AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com 
-#EXTINF:-1 tvg-logo="http://taptube.net/tvtap1/images/channel_imgs/130216035528bein5.jpg", AR Bein Sports 5  httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwd0KgjAYANAnGlj79nfhxTZ%2fpgiKhM3uLCeZQ7QkMHz4zumDKiqt%2bCg3%2b2QP1Jr%2f9uaZm23uaTXIJrb5quoyYyMPD5m9phW%2fU7xPi7aqPSg7ScYJQfqsYgQRSMQ1AAIdUaEE05jgo7619GqETl2yFZ7c4eKKwUg3CDt%2boexqLsblUXXYB%2bEfuvkEZY8AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com 
-#EXTINF:-1 tvg-logo="http://taptube.net/tvtap1/images/channel_imgs/130216035739bein6.jpg", AR Bein Sports 6  httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdsKgjAAANAPkhHp5uXBh11UKBfE1MHeKmEwpnOaWeLHd041EfsZ6Kb0qaheekWq6YndaHG9tXboS%2f8eJTYXFlidH4IsNYdz7VcTdUDjI07OOEkRAjQkBYAMYpBSCAGkLM5IltAIRYeRv535MVzKR%2b%2f4NBPRblI2Zr8L3z1dFXChasrdt3P5H1PLmGKPAAAA$http-refferer=http://linkprotect.xmtvplayer.com 
-#EXTINF:-1 tvg-logo="http://taptube.net/tvtap1/images/channel_imgs/130216035811bein7.jpg", AR Bein Sports 7  httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwcEKgkAQANAPij2k4%2b548KCzhkmpKbrRUUNMFqSGYhf8%2bN7zAT%2b1i%2fFUVlM7QjNgnlpzpW0Zfovysx7ttDpG4inZxVI4%2fmhv%2b9fjZlW3S3VMFUaRoCDLBWhIBRKAANIyzmJFYRTu3zPWjM1h6Ebn5tVsbS%2fnwPjqUvfNu7ibqqAuB6aSkz8%2fkvC0jwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com 
-#EXTINF:-1 tvg-logo="http://taptube.net/tvtap1/images/channel_imgs/130216035917bein8.jpg", AR Bein Sports 8  httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdEOQzAUANAPWhrBreqDB7cViyGsGuJVJ7XFC9tijY%2ffOdiysaKz%2bgXNPnyUF%2fGpk%2bADvubJ1Xa5odmWma9HvidnoVLTW4E615VrZXlGzE9ZTCkRAWYEJKQkFgAEhIw4ciZCGp4m2J%2boLvAujkHf1fF1dtOltLX%2f6NvYG901X7fSsKbLkj%2f5Vi%2f9jwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com 
-#EXTINF:-1 tvg-logo="http://taptube.net/tvtap1/images/channel_imgs/130216035950bein9.jpg", AR Bein Sports 9  httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdsKgjAAANAPimHTXfTBh13UWkRmM8I3QTQnoZjJHH5857yGoly833MgWlVjTQ%2b10nkiHh5szLaut0ZVl2WauXFjvHdTbxPi5NXdc4vnaCcUMhpiDITPE4AkYiAUCAEkJIl4REWAgz1T7KRIm7bart%2fz5t4fR%2fyUd8dZboFh1nW58mBW9gWK%2f5yJNyCPAAAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://taptube.net/tvtap1/images/channel_imgs/030516124810bein10.jpg", AR Bein Sports 10  httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwUsOgjAUAMADmUaBvn4WLGhBglVDkQCuDGgICNFCo7jg8M6cxoh8zTCzZHHyNuF2ae4fdwGtG12MwTaL6KwuTg%2fl21%2bt6m5Vfu5t8uNEgVkJdQLKAJB0RYRwiAPEJMYIy5Bwwan0wFut3ugYilocUjM9m%2fZ4mV6ZYcM1V3sT12Va4kp0%2fcPbaf8PfUN7%2fY8AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com  
-#EXTINF:-1,bein sports 1 httphost://$http-raw=http://s1.livesport365.stream/channel/Bein_Sports1$http-refferer=http://cricfree.ws/update/beinsports1
-#EXTINF:-1,bein sports 2 httphost://$http-raw=http://s1.livesport365.stream/channel/Bein_Sports2$http-refferer=http://cricfree.ws/update/beinsports2 
-#EXTINF:-1,bein sports 3 httphost://$http-raw=http://s1.livesport365.stream/channel/Bein_Sports3$http-refferer=http://cricfree.ws/update/beinsports3 
-#EXTINF:-1,bein sports 4 httphost://$http-raw=http://s1.livesport365.stream/channel/Bein_Sports4$http-refferer=http://cricfree.ws/update/beinsports4 
-#EXTINF:-1,bein sports 5 httphost://$http-raw=http://s1.livesport365.stream/channel/Bein_Sports5$http-refferer=http://cricfree.ws/update/beinsports5 
-#EXTINF:-1,bein sports 6 httphost://$http-raw=http://s1.livesport365.stream/channel/Bein_Sports6$http-refferer=http://cricfree.ws/update/beinsports6 
-#EXTINF:-1,bein sports 7 httphost://$http-raw=http://s1.livesport365.stream/channel/Bein_Sports7$http-refferer=http://cricfree.ws/update/beinsports7 
-#EXTINF:-1,bein sports 8 httphost://$http-raw=http://s1.livesport365.stream/channel/Bein_Sports8$http-refferer=http://cricfree.ws/update/beinsports8 
-#EXTINF:-1,bein sports 9 httphost://$http-raw=http://s1.livesport365.stream/channel/Bein_Sports9$http-refferer=http://cricfree.ws/update/beinsports9 
-#EXTINF:-1,bein sports 10 httphost://$http-raw=http://s1.livesport365.stream/channel/Bein_Sports10$http-refferer=http://cricfree.ws/update/beinsports10
-#EXTINF:-1,Bein Sports 1 httphost://$http-raw=http://www.247bay.tv/hembedplayer/beino1kkoo/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports1 
-#EXTINF:-1,Bein Sports 2 httphost://$http-raw=http://www.247bay.tv/hembedplayer/beino3koi/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports2 
-#EXTINF:-1,Bein Sports 3 httphost://$http-raw=http://www.247bay.tv/hembedplayer/beino3koi/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports3 
-#EXTINF:-1,Bein Sports 4 httphost://$http-raw=http://www.247bay.tv/hembedplayer/beino4ksoso/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports4 
-#EXTINF:-1,Bein Sports 5 httphost://$http-raw=http://www.247bay.tv/hembedplayer/beino5kop/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports5 
-#EXTINF:-1,Bein Sports 6 httphost://$http-raw=http://www.247bay.tv/hembedplayer/beinsports6hzbaga/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports6 
-#EXTINF:-1,Bein Sports 7 httphost://$http-raw=http://www.247bay.tv/hembedplayer/bieno7sssi/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports7 
-#EXTINF:-1,Bein Sports 8 httphost://$http-raw=http://www.247bay.tv/hembedplayer/beinos8isiq/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports8 
-#EXTINF:-1,Bein Sports 9 httphost://$http-raw=http://www.247bay.tv/hembedplayer/9bineokoo/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports9 
-#EXTINF:-1,Bein Sports 10 httphost://$http-raw=http://www.247bay.tv/hembedplayer/BIENO1O0/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports10
+#EXTINF:-1 tvg-logo="http://taptube.net/tvtap1/images/channel_imgs/250118041629beinsp1.png", AR Bein Sports 1 
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwd0OgiAYANAHckyLT5ELLxRpNZ2Vf8zLDIXJyrJm5Xz4zsF5LgyJ0je7qX7M%2fJMz6c5YMmkfVNVEFXZX0GmGoWiC9TNysdBGPbNUSA169cgmJL7rIraNOIIYQuQzAAQs9mhECcMuXj2%2bfwFNd1gKu3MYufdJ%2bZ2PpmqvQ5tclkOoftZZl%2fNQBX8hPDmMjwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com  
+#EXTINF:-1 tvg-logo="http://taptube.net/tvtap1/images/channel_imgs/250118041650bein2.jpg", AR Bein Sports 2  
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwUkOgjAAAMAHkUYr3Thw6GaQTQVF5IiJlQBKoqzh8c4IYxgu6wmXSTfvMysauxGp27UPfkW45NVZW5vabyM6fN11joc7hPHrdBHvh5fhlVDIKcMYyJ3QACnEAZMIASQVcYRDpY3tNVA8PTTb8UtK7DeTQ1Pt9dpwop4UJq2pWNEtnzA%2fTsz9Ay80Y9SPAAAA$http-refferer=http://linkprotect.xmtvplayer.com  
+#EXTINF:-1 tvg-logo="http://taptube.net/tvtap1/images/channel_imgs/130216035348bein3.jpg", AR Bein Sports 3  
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdsKgjAYAOAHkkHqv81deOEOdFh5drVLowQbOEHKCB%2b%2b75s7wPUyQrG%2bfXhS%2bdHndel%2fVxbo6m4vsifxzvTcRWZJNwWrIg5EJX1J7eA2QsOMJhgjEXGFQEKGEgGAQEjCOKMixvEmOls0D%2fvtgw9%2fRUS3UN7WwmTj%2bTloXU9uP7fN5MEcVPoHPUSML48AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com  
+#EXTINF:-1 tvg-logo="http://taptube.net/tvtap1/images/channel_imgs/130216035427bein4.jpg", AR Bein Sports 4  
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwUkOgjAUANADmcYg%2f1NYsCgtQ2WKyBDYGTVBIGhBgiEc3veMc%2bLrqTbcu1hJ5Ezmy9XqgqwWH1ZFbXoMncf4VMVAXXuP460NXzA20sOg9MrdoBqjJiLhJ8clIIARkwMQ4MKwHItyHfU9WBNev1FWl%2bxQelBsjVrEEk2bmPx%2b%2ft5CXNXUz%2b4vlfYfcwZJaY8AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com 
+#EXTINF:-1 tvg-logo="http://taptube.net/tvtap1/images/channel_imgs/130216035528bein5.jpg", AR Bein Sports 5  
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwd0KgjAYANAnGlj79nfhxTZ%2fpgiKhM3uLCeZQ7QkMHz4zumDKiqt%2bCg3%2b2QP1Jr%2f9uaZm23uaTXIJrb5quoyYyMPD5m9phW%2fU7xPi7aqPSg7ScYJQfqsYgQRSMQ1AAIdUaEE05jgo7619GqETl2yFZ7c4eKKwUg3CDt%2boexqLsblUXXYB%2bEfuvkEZY8AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com 
+#EXTINF:-1 tvg-logo="http://taptube.net/tvtap1/images/channel_imgs/130216035739bein6.jpg", AR Bein Sports 6  
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdsKgjAAANAPkhHp5uXBh11UKBfE1MHeKmEwpnOaWeLHd041EfsZ6Kb0qaheekWq6YndaHG9tXboS%2f8eJTYXFlidH4IsNYdz7VcTdUDjI07OOEkRAjQkBYAMYpBSCAGkLM5IltAIRYeRv535MVzKR%2b%2f4NBPRblI2Zr8L3z1dFXChasrdt3P5H1PLmGKPAAAA$http-refferer=http://linkprotect.xmtvplayer.com 
+#EXTINF:-1 tvg-logo="http://taptube.net/tvtap1/images/channel_imgs/130216035811bein7.jpg", AR Bein Sports 7  
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwcEKgkAQANAPij2k4%2b548KCzhkmpKbrRUUNMFqSGYhf8%2bN7zAT%2b1i%2fFUVlM7QjNgnlpzpW0Zfovysx7ttDpG4inZxVI4%2fmhv%2b9fjZlW3S3VMFUaRoCDLBWhIBRKAANIyzmJFYRTu3zPWjM1h6Ebn5tVsbS%2fnwPjqUvfNu7ibqqAuB6aSkz8%2fkvC0jwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com 
+#EXTINF:-1 tvg-logo="http://taptube.net/tvtap1/images/channel_imgs/130216035917bein8.jpg", AR Bein Sports 8  
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdEOQzAUANAPWhrBreqDB7cViyGsGuJVJ7XFC9tijY%2ffOdiysaKz%2bgXNPnyUF%2fGpk%2bADvubJ1Xa5odmWma9HvidnoVLTW4E615VrZXlGzE9ZTCkRAWYEJKQkFgAEhIw4ciZCGp4m2J%2boLvAujkHf1fF1dtOltLX%2f6NvYG901X7fSsKbLkj%2f5Vi%2f9jwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com 
+#EXTINF:-1 tvg-logo="http://taptube.net/tvtap1/images/channel_imgs/130216035950bein9.jpg", AR Bein Sports 9  
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdsKgjAAANAPimHTXfTBh13UWkRmM8I3QTQnoZjJHH5857yGoly833MgWlVjTQ%2b10nkiHh5szLaut0ZVl2WauXFjvHdTbxPi5NXdc4vnaCcUMhpiDITPE4AkYiAUCAEkJIl4REWAgz1T7KRIm7bart%2fz5t4fR%2fyUd8dZboFh1nW58mBW9gWK%2f5yJNyCPAAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-logo="http://taptube.net/tvtap1/images/channel_imgs/030516124810bein10.jpg", AR Bein Sports 10  
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwUsOgjAUAMADmUaBvn4WLGhBglVDkQCuDGgICNFCo7jg8M6cxoh8zTCzZHHyNuF2ae4fdwGtG12MwTaL6KwuTg%2fl21%2bt6m5Vfu5t8uNEgVkJdQLKAJB0RYRwiAPEJMYIy5Bwwan0wFut3ugYilocUjM9m%2fZ4mV6ZYcM1V3sT12Va4kp0%2fcPbaf8PfUN7%2fY8AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com  
+#EXTINF:-1,bein sports 1 
+httphost://$http-raw=http://s1.livesport365.stream/channel/Bein_Sports1$http-refferer=http://cricfree.ws/update/beinsports1
+#EXTINF:-1,bein sports 2 
+httphost://$http-raw=http://s1.livesport365.stream/channel/Bein_Sports2$http-refferer=http://cricfree.ws/update/beinsports2 
+#EXTINF:-1,bein sports 3 
+httphost://$http-raw=http://s1.livesport365.stream/channel/Bein_Sports3$http-refferer=http://cricfree.ws/update/beinsports3 
+#EXTINF:-1,bein sports 4 
+httphost://$http-raw=http://s1.livesport365.stream/channel/Bein_Sports4$http-refferer=http://cricfree.ws/update/beinsports4 
+#EXTINF:-1,bein sports 5 
+httphost://$http-raw=http://s1.livesport365.stream/channel/Bein_Sports5$http-refferer=http://cricfree.ws/update/beinsports5 
+#EXTINF:-1,bein sports 6 
+httphost://$http-raw=http://s1.livesport365.stream/channel/Bein_Sports6$http-refferer=http://cricfree.ws/update/beinsports6 
+#EXTINF:-1,bein sports 7 
+httphost://$http-raw=http://s1.livesport365.stream/channel/Bein_Sports7$http-refferer=http://cricfree.ws/update/beinsports7 
+#EXTINF:-1,bein sports 8 
+httphost://$http-raw=http://s1.livesport365.stream/channel/Bein_Sports8$http-refferer=http://cricfree.ws/update/beinsports8 
+#EXTINF:-1,bein sports 9 
+httphost://$http-raw=http://s1.livesport365.stream/channel/Bein_Sports9$http-refferer=http://cricfree.ws/update/beinsports9 
+#EXTINF:-1,bein sports 10 
+httphost://$http-raw=http://s1.livesport365.stream/channel/Bein_Sports10$http-refferer=http://cricfree.ws/update/beinsports10
+#EXTINF:-1,Bein Sports 1 
+httphost://$http-raw=http://www.247bay.tv/hembedplayer/beino1kkoo/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports1 
+#EXTINF:-1,Bein Sports 2 
+httphost://$http-raw=http://www.247bay.tv/hembedplayer/beino3koi/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports2 
+#EXTINF:-1,Bein Sports 3 
+httphost://$http-raw=http://www.247bay.tv/hembedplayer/beino3koi/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports3 
+#EXTINF:-1,Bein Sports 4 
+httphost://$http-raw=http://www.247bay.tv/hembedplayer/beino4ksoso/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports4 
+#EXTINF:-1,Bein Sports 5 
+httphost://$http-raw=http://www.247bay.tv/hembedplayer/beino5kop/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports5 
+#EXTINF:-1,Bein Sports 6 
+httphost://$http-raw=http://www.247bay.tv/hembedplayer/beinsports6hzbaga/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports6 
+#EXTINF:-1,Bein Sports 7 
+httphost://$http-raw=http://www.247bay.tv/hembedplayer/bieno7sssi/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports7 
+#EXTINF:-1,Bein Sports 8 
+httphost://$http-raw=http://www.247bay.tv/hembedplayer/beinos8isiq/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports8 
+#EXTINF:-1,Bein Sports 9 
+httphost://$http-raw=http://www.247bay.tv/hembedplayer/9bineokoo/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports9 
+#EXTINF:-1,Bein Sports 10 
+httphost://$http-raw=http://www.247bay.tv/hembedplayer/BIENO1O0/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports10
 #EXTINF:0, bein1 LOW
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwcuWQzAAANAPcpwaEkkWFvVmFKWGZmlQTTGlWuT4%2bLnXd9uiw3WTXLv7z5wpmLKwTm1XYA%2fFrEr6iYx0KPQ5WCwfQ%2bFGZCP5DZ4s7xPlpearTbw%2b4IuXVR7AQpiywZrhuQ8OVvUcM3a1qH%2f80MvIyRZjt3R862tGU0BJgux0PfBoRfS93essjiMG%2fvKu4bguWcxtp1sTaKJhbc0w8Ivloe24mJAdc72R3zDPp22HSDYMWVFEZB%2bxCBCQRKICIEpQJciElg6ItDvTpYVD%2f8LOqHTOd7eejqfbWdP%2bAfHPxmD7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, bein1 SD
