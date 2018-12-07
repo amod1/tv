@@ -1,35 +1,35 @@
 #EXTM3U
-#EXTINF: MYHD MBC 1
+#EXTINF:0, MYHD MBC 1
 http://gss.beryantv.ooguy.com/?id=2251
-#EXTINF: MYHD DRAMA
+#EXTINF:0, MYHD DRAMA
 http://gss.beryantv.ooguy.com/?id=500
-#EXTINF: MYHD BBC FIRST
+#EXTINF:0, MYHD BBC FIRST
 http://gss.beryantv.ooguy.com/?id=3087
-#EXTINF: MYHD CINEMACHI KIDS
+#EXTINF:0, MYHD CINEMACHI KIDS
 http://gss.beryantv.ooguy.com/?id=3082
-#EXTINF: MYHD CINEMACHI MOVIES
+#EXTINF:0, MYHD CINEMACHI MOVIES
 http://gss.beryantv.ooguy.com/?id=3083
-#EXTINF: MYHD DOCU BOX
+#EXTINF:0, MYHD DOCU BOX
 http://gss.beryantv.ooguy.com/?id=3085
-#EXTINF: MYHD FIGHT BOX
+#EXTINF:0, MYHD FIGHT BOX
 http://gss.beryantv.ooguy.com/?id=3084
-#EXTINF: MYHD FILM BOX ARTHOUSE
+#EXTINF:0, MYHD FILM BOX ARTHOUSE
 http://gss.beryantv.ooguy.com/?id=3086
-#EXTINF: MYHD FOX ACTION MOVIES
+#EXTINF:0, MYHD FOX ACTION MOVIES
 http://gss.beryantv.ooguy.com/?id=3093
-#EXTINF: MYHD FOX CRIME
+#EXTINF:0, MYHD FOX CRIME
 http://gss.beryantv.ooguy.com/?id=3088
-#EXTINF: MYHD FOX FAMILY MOVIES
+#EXTINF:0, MYHD FOX FAMILY MOVIES
 http://gss.beryantv.ooguy.com/?id=3092
-#EXTINF: MYHD FOX LIFE
+#EXTINF:0, MYHD FOX LIFE
 http://gss.beryantv.ooguy.com/?id=3089
-#EXTINF: MYHD FOX MOVIES
+#EXTINF:0, MYHD FOX MOVIES
 http://gss.beryantv.ooguy.com/?id=3094
-#EXTINF: MYHD FOX REWAYAT
+#EXTINF:0, MYHD FOX REWAYAT
 http://gss.beryantv.ooguy.com/?id=3090
-#EXTINF: MYHD FX
+#EXTINF:0, MYHD FX
 http://gss.beryantv.ooguy.com/?id=3091
-#EXTINF: MYHD GULLI
+#EXTINF:0, MYHD GULLI
 http://gss.beryantv.ooguy.com/?id=3081
-#EXTINF: MYHD WOW SPORTS
+#EXTINF:0, MYHD WOW SPORTS
 http://gss.beryantv.ooguy.com/?id=3080
