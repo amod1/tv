@@ -1,5 +1,46 @@
 #EXTM3U
-#EXTINF:0,SERVER 1
+#EXTINF:0, SERVER 1
+http://iptv-janberyan.com:25461/AndrTV-Pro-Janberyan/AndrTV-pro7998/3333
+#EXTINF:0, OSN BOX OFFICE 1
+http://gss.beryantv.ooguy.com?id=3097
+#EXTINF:0, OSN BOX OFFICE 2
+http://gss.beryantv.ooguy.com/?id=3096
+#EXTINF:0, OSN BOX OFFICE 3
+http://gss.beryantv.ooguy.com/?id=3095
+#EXTINF:0, OSN FIRST HOME OF HBO
+http://gss.beryantv.ooguy.com/?id=3101
+#EXTINF:0, OSN MOVIES DISNEY
+http://gss.beryantv.ooguy.com/?id=3105
+#EXTINF:0, OSN MOVIES THRILLER
+http://gss.beryantv.ooguy.com/?id=3108
+#EXTINF:0, OSN MOVIES KIDS
+http://gss.beryantv.ooguy.com/?id=3104
+#EXTINF:0, OSN MOVIES FIRST
+http://gss.beryantv.ooguy.com/?id=3110
+#EXTINF:0, OSN MOVIES COMEDY
+http://gss.beryantv.ooguy.com/?id=3106
+#EXTINF:0, OSN MOVIES ACTION
+http://gss.beryantv.ooguy.com/?id=3112
+#EXTINF:0, OSN MOVIES
+http://gss.beryantv.ooguy.com/?id=3114
+#EXTINF:0, OSN MOVIES STAR
+http://gss.beryantv.ooguy.com/?id=3099
+#EXTINF:0, OSN MOVIES WORLD
+http://gss.beryantv.ooguy.com/?id=3098
+#EXTINF:0, OSN SERIES
+http://gss.beryantv.ooguy.com/?id=3103
+#EXTINF:0, OSN SERIES COMEDY
+http://gss.beryantv.ooguy.com/?id=3100
+#EXTINF:0, OSN  SERIES FIRST
+http://gss.beryantv.ooguy.com/?id=3102
+#EXTINF:0, OSN YA HALA ALOULA
+http://gss.beryantv.ooguy.com/?id=3128
+#EXTINF:0, OSN YA HALA CINEMA
+http://gss.beryantv.ooguy.com/?id=3115
+#EXTINF:0, OSN  YA HALA
+http://gss.beryantv.ooguy.com/?id=3116
+#EXTINF:0,SERVER 2
+السرفر الثاني
 #EXTINF:0, Discovery Science HD
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwUmSgjAAAMAHWRRBEiAHD2yRTQ2ILN50IKySUUYEi8dPN3vvncmvC52gVknjroJ3s%2f0MccN0jVMYPt40ji7fAo%2bJlujSd2847a0KliFKD0d%2bChbktHPExNIwA%2bLwTZBv0BHo577sYjvzn%2fPz9yrK%2feTW3PoZi9EDFauKJQg%2f5Mhoc4%2fycKpqK%2f97y3F5kSQNi1SicgGNvho6nAH%2fQdgZLoPh7tbAVurkRbx0bOaUEmtF6tY0t7IsqETXBKhCIGAFQgEgBasWsg2IwTo7h0nkoLE1N8GnlIPwgbzenx2avFgzgqy1Pjf5qsHc3f0DvQGHWw8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, Nat Geo HD
