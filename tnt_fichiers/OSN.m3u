@@ -42,7 +42,6 @@ httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bL
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwUmSgjAAAMAHURQBEkgOHtgUDARBBhxvyiKrg4xsFo%2b3e50WmsfQs7LrVNucm2eQ5n3DuhLriYurX7czD%2f35HGUcKoP2kYLus85DnEROWheNYz9TCplGj7DP8zj8EfGUSDN3nmh5sEHxJClYTxi%2f7MYePICaalQMNi%2fu%2fU0jObbeQWR5raOrR24RngeNkLuzZ1I53pqTfxeFFs0hGGsUdMO824xiMV%2bfS6uUo%2ft3%2btc3pEqGIckyr%2b41zEMVAp4oEPIAKUQ1kaVDAjahAGIX4rhirCwq83Gjvn5hjZqRtpBJlBmeGV0Tf1%2bLwe4LHXokoA8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, OSN StarMovie HD
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwcuWQzAAANAvcqqEsOjC%2bzHEaUOxRFL1Ggyi4%2fj43usgLQso0f5Zv9Il2w%2b7qxYEj9L1c9GpO3EzkogXAX5GRzzG9lBlQR7uuQa9zCVTL%2bUysWrSTZ83rzo4Y6%2bnIsYrDjPtjnpbwgsdkngUeibNbuP6Vq9sugnQhbbqqNSjj1lq6rO7%2fk6N%2fRcYDw%2bBa1gsvg7G%2btNb7XrgjVxReR9vp3%2fIRVF2FWU7Icx7nBIUDEMQRQ7amsIBCHhOlQHgeElWoSlZOlD5kxUydaoYodd8%2bcHdkMB1i9J0KOgWtObxFiw6tA5tPlV3%2bwJ3d%2bFPDwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0,SERVER 2
 #EXTINF:0, OSN BOX OFFICE 1
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/owAAAB%2bLCAAAAAAABAANxs0OgiAAAOAHam4IKHjoYPhfOgvN6oZSzdmWEVo6H76%2b04e3ecACE3dAfDkDvI1aS1feqJVUPpbqrYdkeuqoEjDpvYJ5KpzT6eh86lnocZMvcV8Onal4DF0OYVosiCDi3GpqCAkaAwtA%2fkPUMBFtCLQIpRQvY5HcQWpn6WnXH8I9XZUru84j10FR%2fXpwec4uuBx8ya7l%2bgf21Y8EowAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, OSN BOX OFFICE 2
@@ -81,3 +80,44 @@ httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/owAAAB%2bLCA
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/owAAAB%2bLCAAAAAAABAANxtsOgiAAANAPci4FDHzoocyGtyy8RL40gtmMqWtOrebH13k6SJU83fMRuMe%2bqsGWIm1cn6yTXnlQwYdlY96Oq6%2fexS1Nygt%2fJ2jwIqoVi2WGu3mZAxuG7EycWxUxNAYLxBC79Z2YQlnSRMLC%2f0Fi2pBIDBxMCEHL2lD%2bY9IiHEAvrIL7Qxcru2%2bagsKXpQvMcwbyKT3NyeYHgOPqYKMAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, OSN  YA HALA
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAANxrsOgjAUANAPIg2lD%2b9lYEBCqlEj2oBJt1IQU6JWFsXw8XqmM910PASZK6aF%2fhotgjv5Uq3gyTqlcwP1mY6uiao25M1n%2fZ63CqpQuNiPj4O1bJnGuSZqI2mRJqHv%2fcKBQ3ptkdiOOiIshf84koSjAyYBEcUSXmV62ftoatgRzH2nZYTtkGU%2fRmZaAI8AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, OSN BOX OFFICE 1
+http://iptv-janberyan.com:25461/AndrTV-Pro-Janberyan/AndrTV-pro7998/3333
+#EXTINF:0, OSN BOX OFFICE 1
+http://gss.beryantv.ooguy.com?id=3097
+#EXTINF:0, OSN BOX OFFICE 2
+http://2019.gq/tv3lpc/serv/thgss.php/?id=3096
+#EXTINF:0, OSN BOX OFFICE 3
+http://2019.gq/tv3lpc/serv/thgss.php/?id=3095
+#EXTINF:0, OSN FIRST HOME OF HBO
+http://2019.gq/tv3lpc/serv/thgss.php/?id=3101
+#EXTINF:0, OSN MOVIES DISNEY
+http://2019.gq/tv3lpc/serv/thgss.php/?id=3105
+#EXTINF:0, OSN MOVIES THRILLER
+http://2019.gq/tv3lpc/serv/thgss.php/?id=3108
+#EXTINF:0, OSN MOVIES KIDS
+http://2019.gq/tv3lpc/serv/thgss.php/?id=3104
+#EXTINF:0, OSN MOVIES FIRST
+http://2019.gq/tv3lpc/serv/thgss.php/?id=3110
+#EXTINF:0, OSN MOVIES COMEDY
+http://2019.gq/tv3lpc/serv/thgss.php/?id=3106
+#EXTINF:0, OSN MOVIES ACTION
+http://2019.gq/tv3lpc/serv/thgss.php/?id=3112
+#EXTINF:0, OSN MOVIES
+http://2019.gq/tv3lpc/serv/thgss.php/?id=3114
+#EXTINF:0, OSN MOVIES STAR
+http://2019.gq/tv3lpc/serv/thgss.php/?id=3099
+#EXTINF:0, OSN MOVIES WORLD
+http://2019.gq/tv3lpc/serv/thgss.php/?id=3098
+#EXTINF:0, OSN SERIES
+http://2019.gq/tv3lpc/serv/thgss.php/?id=3103
+#EXTINF:0, OSN SERIES COMEDY
+http://2019.gq/tv3lpc/serv/thgss.php/?id=3100
+#EXTINF:0, OSN  SERIES FIRST
+http://2019.gq/tv3lpc/serv/thgss.php/?id=3102
+#EXTINF:0, OSN YA HALA ALOULA
+http://2019.gq/tv3lpc/serv/thgss.php/?id=3128
+#EXTINF:0, OSN YA HALA CINEMA
+http://2019.gq/tv3lpc/serv/thgss.php/?id=3115
+#EXTINF:0, OSN  YA HALA
+http://2019.gq/tv3lpc/serv/thgss.php/?id=3116
+
