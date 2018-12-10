@@ -37,26 +37,6 @@ httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCA
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdsKgjAAANAPimHTXfTBh13UWkRmM8I3QTQnoZjJHH5857yGoly833MgWlVjTQ%2b10nkiHh5szLaut0ZVl2WauXFjvHdTbxPi5NXdc4vnaCcUMhpiDITPE4AkYiAUCAEkJIl4REWAgz1T7KRIm7bart%2fz5t4fR%2fyUd8dZboFh1nW58mBW9gWK%2f5yJNyCPAAAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1 tvg-logo="http://taptube.net/tvtap1/images/channel_imgs/030516124810bein10.jpg",  Bein Sports 10  SD
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwUsOgjAUAMADmUaBvn4WLGhBglVDkQCuDGgICNFCo7jg8M6cxoh8zTCzZHHyNuF2ae4fdwGtG12MwTaL6KwuTg%2fl21%2bt6m5Vfu5t8uNEgVkJdQLKAJB0RYRwiAPEJMYIy5Bwwan0wFut3ugYilocUjM9m%2fZ4mV6ZYcM1V3sT12Va4kp0%2fcPbaf8PfUN7%2fY8AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com  
-#EXTINF:-1,bein sports 1 
-httphost://$http-raw=http://s1.livesport365.stream/channel/Bein_Sports1$http-refferer=http://cricfree.ws/update/beinsports1
-#EXTINF:-1,bein sports 2 
-httphost://$http-raw=http://s1.livesport365.stream/channel/Bein_Sports2$http-refferer=http://cricfree.ws/update/beinsports2 
-#EXTINF:-1,bein sports 3 
-httphost://$http-raw=http://s1.livesport365.stream/channel/Bein_Sports3$http-refferer=http://cricfree.ws/update/beinsports3 
-#EXTINF:-1,bein sports 4 
-httphost://$http-raw=http://s1.livesport365.stream/channel/Bein_Sports4$http-refferer=http://cricfree.ws/update/beinsports4 
-#EXTINF:-1,bein sports 5 
-httphost://$http-raw=http://s1.livesport365.stream/channel/Bein_Sports5$http-refferer=http://cricfree.ws/update/beinsports5 
-#EXTINF:-1,bein sports 6 
-httphost://$http-raw=http://s1.livesport365.stream/channel/Bein_Sports6$http-refferer=http://cricfree.ws/update/beinsports6 
-#EXTINF:-1,bein sports 7 
-httphost://$http-raw=http://s1.livesport365.stream/channel/Bein_Sports7$http-refferer=http://cricfree.ws/update/beinsports7 
-#EXTINF:-1,bein sports 8 
-httphost://$http-raw=http://s1.livesport365.stream/channel/Bein_Sports8$http-refferer=http://cricfree.ws/update/beinsports8 
-#EXTINF:-1,bein sports 9 
-httphost://$http-raw=http://s1.livesport365.stream/channel/Bein_Sports9$http-refferer=http://cricfree.ws/update/beinsports9 
-#EXTINF:-1,bein sports 10 
-httphost://$http-raw=http://s1.livesport365.stream/channel/Bein_Sports10$http-refferer=http://cricfree.ws/update/beinsports10
 #EXTINF:-1 tvg-logo="http://51.15.209.90:8800/data/img/files/50740_bein1.jpg", BEIN 1 Sports HD
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/5wAAAB%2bLCAAAAAAABAAFwcmSQ0AAANAPUiodeuHg0JZYJiFSlqncCBI9rTSJMa18%2fLyXKl7cnPVg6L4SpS0Ot5dPy4eTd03naVEbjSXjSdM975IvrpYSgGRsvEe3TxOULQ4XvNvWbe7BnF1EiQJCN1Z5nr0GtWx%2fJqkrBougaYduxqcLzo%2bjKO4PKYY5VuweR2Jj4R8FeTSYVYt1OmNEytWy9qmOfYZZ%2b1uHyPA%2fbEdEcxxN11VyooYKCQSqiSFUAcImcZFnQxPs%2bHj4OOf4265uz%2flaFMtyfXNqWf%2bK9ZAX5wAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com 
 #EXTINF:-1 tvg-logo="http://51.15.209.90:8800/data/img/files/67308_bein2.jpg", BEIN 2 Sports HD
