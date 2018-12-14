@@ -19,8 +19,6 @@ httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZM
 #EXTINF:0, beIN Fatafeat
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwVG3QjAAAOAf1HFijbWHHhgureZOuHizqTtSF50Kpx9%2fvy9sHM%2bCxH8%2fvkbEDicBY50Pp6NY%2fazPam6V4c81DjnO2xB4Il8i1d9v2bAl6NU1hO4JvztyvTQtDkaBSStvMaN%2f1%2b1%2bLjo%2bxZK4BXvtrVKw4HlKz3KVzlNM3F7ZPXS4pNVGGc2VyyxkQX5xnzXrJ2kgK0rG%2bp0u9LsCy5HCKrJ3n658A5NqYnqUSeZNxcdEgBCw2WjIt7caRFDXsAWhppsWRq7pORDrH6g4vegJMM2xqw9ClcNvYfPd7h%2b8Iwoq%2bwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF: beIN SPORTS ARAB
-#EXTINF:0, beIN Sports
-httphost://$http-raw=https://www.youtube.com/embed/SoUzfMJz-54$http-refferer=https://www.youtube.com
 #EXTINF:0, beIN Sports NEWS
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwUkOgjAAAMAHmUaBlrYHDl3YFBETCOUqiApKTMuihsc70%2b0VUkuRbQYhv8%2fUfkTWoLddTwo8BmZAFcN165A0rs7eao2ZbsrytLs0R2NYvrrYYpggBITNfQAlZIAICAEU0qWcYuEgZ01aFfS%2f2NXhfOB9MdVhxEmcJv51uZn7Z87fr2kSlOpy8f7zdLWfjwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1 tvg-logo="http://taptube.net/tvtap1/images/channel_imgs/250118041629beinsp1.png",  Bein Sports 1 SD
@@ -67,8 +65,6 @@ httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/5wAAAB%2bLCA
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/5wAAAB%2bLCAAAAAAABAAFwd12QzAAAOAHcpyTRX7kwgUxY0z0GMqdNZuaaolJq8fD7%2fsGaPX%2b%2bq2JFy8gLdvzB8mNyqiS4pxPRzms07IVdUlmkS%2fzPaEhklogd1QPLZqfyrJ1L09pMH9dDK7fZx52GKo6U%2b1ji5bGppJpFYT2OF0jJVRSR16yAXb1t%2bpJR4H75AU27uEWs46gMdMqG0sN746zr8Nbu0W3TOY9MOOq2TGFnEPLMmng2iaiCJiMIGQCTBj18auHGNiDz%2f5y%2bpXuyo8sLA5%2faZx5Xec4%2f7l8NxPnAAAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, BEIN 1 Sports
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/5wAAAB%2bLCAAAAAAABAAFwcmSQ0AAANAPUiodeuHg0JZYJiFSlqncCBI9rTSJMa18%2fLyXKl7cnPVg6L4SpS0Ot5dPy4eTd03naVEbjSXjSdM975IvrpYSgGRsvEe3TxOULQ4XvNvWbe7BnF1EiQJCN1Z5nr0GtWx%2fJqkrBougaYduxqcLzo%2bjKO4PKYY5VuweR2Jj4R8FeTSYVYt1OmNEytWy9qmOfYZZ%2b1uHyPA%2fbEdEcxxN11VyooYKCQSqiSFUAcImcZFnQxPs%2bHj4OOf4265uz%2flaFMtyfXNqWf%2bK9ZAX5wAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, BEIN 10 Sports
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/5wAAAB%2bLCAAAAAAABAANzN2yQkAAAOAHMsayy9qLLrA62k1J%2bTnuCHtKQ8qmaTx853uAbx7XtRNE%2bMaySNPuFE16K2sp7nlRNj0QSfj23bl66PydGBeq9A2xaq0tr3a8BUwJhkMWd2nI4heP03k7ye70yXfR8yhISa3H8Ds3lwH%2bsVEZn%2fOZC3asQ0%2b77oJcGlbHeodLPYk9L%2b2nXhQVLPy9k4nVatEJ6tzAb5vqlPxsKF1MbHieAaGK146tIoyASiyEVGBaBFPTdxEBS2Urk55t8j22Ib%2fVr3P1OXT%2f3Re%2bLboJ5wAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, BEIN 2 Sports
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/5wAAAB%2bLCAAAAAAABAAFwduSQzAAANAP6phNCZEHDy4VauxWKw3eqKKxJoguu%2bPj9xyufeUB61sb%2f16cIpVrPnAswM%2ffyeVDwzHyb6XbyZymK7HJK9pU3uP2rWeUO4e6iaeiFBUWuDVHSfuS3YNq4cIOCzBPQ%2fDtNOfQ8DbpBoRe2HFhCbl2YVvmMqne6YdN4w55MD2YFVzqWUz6mPVEJpa1X%2f2syby1wBmKwFh97jpSXVfVNAX5tqlABIGCDQgVoBsYefrJgRjs8fDYztsM6%2bh%2bk8XyfD4A61bL%2bgeff%2fcQ5wAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, BEIN 2 Sports
