@@ -268,13 +268,6 @@ httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZM
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl2YkdFeEwzVnliRDFvZEhSd0pUTkJKVEpHSlRKR01UZzFMakl4TGpJeE55NHhNeVV6UVRjd056RWxNa1ppWkhCaU1qQXpNQ1V5UmtGaWRVUm9ZV0pwVTNCdmNuUTJKVEpHY0d4aGVXeHBjM1F1YlROMU9BPT18WVhVMU5YVmFXSG80VTJwSk4yYzRYdz09fDU3MkNDMjMzLTdGQTgtNDc0MC05NjQ0LTA1Njk3RDVFQjQ5MHxSRU4zZUE9PQ%3D%3D$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1,Al Aan
 http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist.m3u8
-#EXTINF:-1,Al Arabiya
-http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
-#EXTINF:-1,CNBC Arabia
-http://199.167.151.237:1935/live/sp15_20.stream/gmswf.m3u8
-#EXTINF:-1,Emarat TV
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
-#EXTINF:-1,
 #EXTINF:-1,Fox Movies
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1,Fox Action Movies
@@ -283,18 +276,6 @@ http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8?fluxustv.m3u8
 http://adtv.ercdn.net/adnatgeo/adnatgeo.m3u8
 #EXTINF:-1,Al Sharqiya
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
-#EXTINF:-1, Sharqiya News
-http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
-#EXTINF:-1,Al Forat
-http://alforatlive.nanocdn.com:1935/live/alforat256/playlist.m3u8
-#EXTINF:-1,Al Ghadeer
-http://149.255.37.212:1935/live/alghadeer/chunklist_w1787991045.m3u8
-#EXTINF:-1,Al Rasheed
-http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
-#EXTINF:-1,Al Hurra USA
-http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
-#EXTINF:-1,NRT Arabic
-http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream_1/playlist.m3u8
 #EXTINF:0, Fatafeat TV Arabic
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwclugkAAANAPMoSBWTlwoMNagmEtyE3QaaBDRhEFjB%2ff96IbGe%2ft4%2fQLdcdLrrOoCG%2fLvGAMq1zIdl2xkBtqiUjUvhbzZszJpXP7M6ohjxDJPOCzdOpf5jYGg5xDc%2bjSBuZh6R2VXujFGoHaetKQvisISVnExnaU4v469LhTo4q%2b8xs0fiiv9QzISXZxzCzHtj%2bIIe0ydZKvDUnfUfDB1OTchFCjvsM0RBHQLIKQBjCxqIu9L2SBT7agfX4qdBWlmYDHdlBn3IgBVlz8scXzOXGcnQTuEpzsfw6ZZHf7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, ZEE ALWAN Arabic
