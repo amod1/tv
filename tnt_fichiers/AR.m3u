@@ -86,7 +86,7 @@ httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZM
 #EXTINF:-1,TELVZA TV
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl2YkdFeEwzVnliRDFvZEhSd0pUTkJKVEpHSlRKR01UUTVMakV3TUM0eE1DNHhPRFlsTTBFNE1EQXdKVEpHY0d4aGVTVXlSbUV3Tkc4PXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1,TUNISIA NAT 1
-httphost://$http-raw=https://www.youtube.com/embed/live_stream?channel=UCdvWVsmQBROkgcGzVep73oA$http-refferer=http://linkprotect.xmtvplayer.com
+httphost://$http-raw=https://www.youtube.com/embed/live_stream?channel=UCdvWVsmQBROkgcGzVep73oA$http-refferer=https://www.youtube.com
 #EXTINF:-1,TUNISIA NAT 2
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl2YkdFeEwzVnliRDFvZEhSd0pUTkJKVEpHSlRKR01UUTVMakV3TUM0eE1DNHhPRFlsTTBFNE1EQXdKVEpHY0d4aGVTVXlSbUV3Tkc0PXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1,TUNISNA
