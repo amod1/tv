@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com/SwiftLive/images/thumbs/84874_beinmax1.jpg", SPORTS TV Bein Max 1 
+#EXTINF:0, tvg-logo="http://swiftstreamz.com/SwiftLive/images/thumbs/84874_beinmax1.jpg", SPORTS TV Bein Max 1 
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwduSQzAAANAPMkYQkjx4cE2rrCjVy8sOUi2tbcvaRsfH7znbNOxiFx8qErzqFRVN9gnwjYaP81PgP0eSvLaF8bpR5qqYmizqKI4%2bx%2b406mkKn%2b7ZtqW%2bHOr6dVGzMLx25mOL8Q6rpdkJjo0CjbHCaPJLdmjeR6hkgjX5Kfq6Ap%2f7eUF4ct9X4l3AfKi5P8yes%2bLEtqwl24TfGr0Po49CcQDaYiDNdTVdl1FgYxkiCGRiQigDwyTIM3wHErAck5%2bMQHx5gL6K1hJibc0EvSlmOjGVT6DsuSrxTdCw0foHXPoRNvsAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com 
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com/SwiftLive/images/thumbs/39757_beinmax2.jpg", SPORTS TV Bein Max 2 
+#EXTINF:0, tvg-logo="http://swiftstreamz.com/SwiftLive/images/thumbs/39757_beinmax2.jpg", SPORTS TV Bein Max 2 
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwd12QzAAAOAHynGmhHDhApEua7uWWCq92THqZ6wV4%2fg5Hr7fp4VS2jAZRXfTcnNmg%2f4hdX4wks8gxZbXEEuCd1yzomQepPUa4PVOhSHFeu3yeoqB7vuXIR2ne8XpbuhmMz5TSCCp8a2RhdASdvxCMbWqY%2fSHpqnIvWsEyHMq%2bg6kUPhW6yKA9%2b3PeG6iw9rpufosHWczMh5%2bi3Cgwegup%2fh3M5Dm%2b5quK4i4lgIRVBXbhFBRDdNG2Ag8aKvbg4FlFmzpQV95NOMtL%2f4ve%2bqVvOAsK60GZ2R4EHX3dnJeNjWG8vsAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF: beIN Entertainment
 #EXTINF:0, tvg-logo="https://epg.beinsports.com/mena_entertaintment/MoviesHD1.png?2018", beIN movies 1 HD
