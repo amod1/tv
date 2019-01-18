@@ -1,142 +1,92 @@
-#EXTINF:0, GERMANY TV RTL
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwclygjAAANAPcpgStpADBxpIURZlCdstAoIsttBgB4aP73veuhJ%2fZGxxUz6CPk7jpGjKoNzfHy3CFooGwERq1jx5jQ9gJ3kA5MrRXF4vO303UiptyfYM7GtCQQvjUKfiPCxBHOYX%2bwxIVXRTLu7J7yOqTOVKtvt%2bsuWTGoUpj3aLVKx1Y%2bnCV29GGz4zvAJticmAnhu5O53k0v51i9JJ1qbCOErfC6y5xj68dT%2fh1hwqlDCWZFmAxNQFBSqigDRFEURVQ9BS7U8FiUcOl8qmeuZ8ZVkflSpbuPr9Zxj%2fVBoxLPsAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, GERMANY TV RTL 2
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwd2WQkAAAOAHcpyGGTPmogtDolYjh2TvUPlZhZjC8fD7fdxtHWRKfqHzQF9GJbczK67UFtONwXlcaOI%2b4Askbjvg1HLBY7rqSnVrAM1GRzn6f9HGo73I3LSlilGw%2bngQ74Sc2vTlTTzkAZD8HF%2fy0qyHzmqmMXIyvq9nMw3HZxXO90d8LrJEY079gS6JTI91x%2b%2bka9%2f6J5Cy21uAJk5eomW77SrKE9rPDO7U5ZNM0F41opqmCqFMbEOXEUFAphghGWiYEkvbMUTBehb175wsF6MCL%2fjNnwTzK%2bkiGJUxOTRSny5DOvVVzNx8%2bw%2fu6rB3DwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, GERMANY TV SUPER RTL
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwd12giAAAOAH8njCQJGLLlDMmk7NxLK7%2fElXwpYrY5weft%2bXvtr9z99ElmJtWHFXjllRx6L6Bv58nHKdPFHHM%2b9O9p3H5eesuTeqk1SXGxOM3fCUd3SnUGSNevw4dPzuDK3EZXSVRT%2b7Yh5srOcSOAFUdZ4uGs40Mda%2f24RWvJcGejbu9SFcmNojlRy8RJToaZudtT9nso5iouhZwf7%2bdVjcVm8QWiks66AQJ%2b0BCt42Xvr%2bEkITr6lrIoyASRyETGA7BDM78BAB75DtBp%2b5AXpJZezSpG4u8KQem%2fAYZK0b7XMUb4zcdyqKVv85LgHeDwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, GERMANY TV RTL NITRO
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwclygjAAANAPYhhiEog5eGAxsuOCQLmVHSrVCBLs%2bPF9L%2ff%2fIA9Yu0mO7ZoMz5QIcdDCYi0LBV2kYItTL%2flt0GOss9hLqf9ArWEVela%2ffKXL3bs0ouv9Kq0KaMlIhXsZ1butRA6reOWwMYoDngTbs4Q966TcQFPYInV4Fy5fJvBzeHlOum4eQcTOS00fU5%2bCauiWdIMOJ%2bUaBkWV9IYqOns57T7cccuYv5jIMkxvffxRCTRNiJBMmL6VMcFAphrGMlA1Six1b2AKPu2aQ9w8xbc1z3DwptfP4voRHvZlJfi7CKNZt1SGCKXO7h8T5Q38DwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, GERMANY TV RTL PASSION
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwdtyQ0AAANAPMqYuy%2fKQh123hFbcWmtfOm5BNxQlCePje46X9SlNsmvUrYWIeyqQmQ2F8Ws%2bmyzZLhZLXyx2p0L%2fO9ehRBu1dPzHaxEJudM1gsv1eWkfaodwSx7JfWW4tSAiAYpdKoek8Vd7Qjt5NzV9kqos9%2fbUBlI1xlGt6YqTxGjgqpxy246cUZg%2fA5rLq9fjEviaCcPG%2fcJcuBnJ6DjsdBi8yFi%2fqdH3bdt3qTgUKBmGJMs8tJHGAwgEXlcB4AVF1aGpWBjowvEzkLPZ34Iyz5IYhsvHrE0WXbtpqLJlYaR7w3tMak%2bdmtM%2fqc7X%2bA8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, GERMANY TV RTL CRIME
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwdmWQzAAANAP6skRhPDQBwRTU7G1aN%2boLnQhYwlOP37uFdxWzEptcI5CGVSduMlWI6TC2vsifYwXthplsXRXclL4pOPC8zb8JmaEQ%2bUBL7MJwzq%2bN9d32oX4fp0nUvGMWXbL%2fOZYW%2flN2cGoL0hcYHLgTdUMZSJ38Pw8BVoy0UPmdunPnxvMo0rfOF2oIcdsqLQ00PZ%2bWiA4Uq99nkW96st2%2b82JAbAXji9%2bAeYnOnwVLFmWJMsAO4YGEEYQ6CpCACqqjolim0iH32GfJa80cBY8GNCui9Pul7DuvEjs7juR9MkFnqOe1sR%2bbv8BIR19Hg8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, GERMANY TV AXN
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwduSQzAAANAP6pgaiduDhzQ2CDqo7rbeDDZWbHUlJXZ8fM9BhxeH0VatuLMTA29kLNtyMsjayitvKpN9ldRXaA4L1s4KH5Jq%2fg3E57WkN%2bG4ZUzVJanoebKyPj0PqA%2b6f%2fMHCxrxp7OwOhjXAnQJye8E0OU7fzm33AAI5VZ9dyfy9OnEG0Zw1Rwvxz9cv5ATbioc%2fWV5LJ2IbCn7gp8UAIJ5e8dyHYotTocB9Ev22E3bwNgAQLMJcjRoQ11zLQg13bRc2zc%2fTtDVd4l4oeJO9Vkv%2fVSUsdwkXj3vDbHqsf37AAAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, GERMANY TV SKY CINEMA
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwW23QjAAAOAf5DiGDfvQB%2fQmlTG36Ms9iVtaprulcPz4nqcRoVBWw2nZo6vBtoStUAO7mzhT0GpaWDaZf7tSDeT0Fe0KP6t3BcVM8KPQn5tcSc5sC6zea%2ffKO%2boAWerZCRFaMrmjreuIfD2e6%2fTCy%2ffwsR6KLNgxGOWdJ4PkNZZbzCnkYUoWidhYsu8Iqv5lVK2cn7BgNtn3w9NhoW70EYlnk7doEuEfHs8q%2bEjT%2fJ2Qbfi%2bYZqqvXQdFdoQqNiCUAXIwvYcLTyIwYRP6yw1a%2bCWskPRofbiV8j%2fYizG6K4ANg%2b0vL0IeHhYwewL5xRThw8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, GERMANY TV SKY CINEMA 1
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwdtugjAAANAPIsRKi8CDD7VQmCxQLtXKG4LWhawWByKEj985xW%2fx9XIz%2f0%2f0MyNdVMLcj3UtH%2bHuiJmaynea1eDu10H8oJujhhvBEWnUObhutZApM1g0BjoJ9YLgIG4F3YoGYWYMXEyt0klrRA3srqTyME%2fGVGEbnKz4%2fYk%2bZZF0C8Avp2fZImDFIQ%2b6bHsZ8I93PHeQ2q38ZkI%2b2WUkyzLt17w6zAw9RU1uj1m3arUdixALQtOh2DWRg4Dp7RAygb3zHN8ODsgD6126swxpNTOau8MnDxWhfYekypOT4Kny4ThYeTMXPtj%2fA1su9CMPAQAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, GERMANY TV SKY CINEMA 24
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwduSQzAAANAPMqZBSD30QaXrztQg7FuErsVi3XV8fM9xdnov%2blLtcJdtnmdYGyAOXqkVxZQs7jNqTfYWyKBzeZdaFpx%2bHMEJycBdhYDpZJlyeXMS0NQHxfrsNd%2bh6bOkkO1QyIsc15L4BAmzLmz1Iv0vD%2f2MtqDT4vmNPDceTFpxnqb1EF36mG2BfXTanmbPspLKbFnHg9q%2fQ5wuQ7g3t7M2qi5S3X9jfbXjnFanjERdFyWJR1%2falYcIAl5VIOSBrKgIy487VMHpj%2bwRVEIT9LE4NZywk9rn3JdjDFg5pLU3WaRuNIFHM90%2bzfANiA8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, GERMANY TV SKY ACTION
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwctygjAUANAPyjAGuCRk4UIIVcAISqjiDlqVZxHUKI4f33MAdZTcV5Lx%2byssUG2KbZ8X9PvPfB4aIXwUX9z0TGE5iWc7rtAGsh%2f8jhPbsSXn43SLnlnp6FnX2ZBs0irbLarrjFhCMt9Wa2Ug4sTWNJOSTl5O09q5j0QWU6QnPL80e6NYP9bRtU8Gx0cF9YY2pKEwl6X65R0LcKB6Q2z1fe1580%2bXpbAL3E2rpXp1eJOPRQ3XNUxTo18LWwMKWGMEQMMWYZRbngMMfwa5PzEen4%2fKzU8lPgK2buUUUQVQBejmv5Ow0Rullo9%2b%2fg93M%2fJjDwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, GERMANY TV SKY EMOTION
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwdu2QkAAANAvskwMw0MPNYRyz2284ZDbmVBurT6%2bvS2pevmgmeewcmF2%2fsN6X3m8RtnU3gEL8DWP0xexn%2fkBt1ze1V6D3M%2f%2fY5pUym9vPTwokI2azCvnXmGzWqET7cUxCk1KZbDXuy8J0Wh0QKwhVaplxuV6fdQGiw23DeJN898m2RPBWV1nIU6Q2HphkWSGbNkGmlLe1lFUP%2bAmoRQev%2fLr9L473nOI4roqbPoVEIcxx%2fMMupwkBiIIGFmEkAGCKCNFUM9QBl%2fjHmtOfrFWVHQrt5KgI0WuDz3dnIFLzRItera4BHyQdPwBay7yQQ8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, GERMANY TV SKY ATLATNIC
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwUtygjAAANADMUwjBBIWLuQnLYgTooDdZZBfiJUYFcpweN%2b7hW8tUzlGMTL6GfAHObLBxX7zlCGwHSnIj0zF9DbGpHcLUtBuMYFtR%2fH46suLwkr7Z8Pm16%2fE2e3bx5E2pZNdlmEPlBTtHNCrI2rIC5dV%2frLEWunVp78jUs9cXGa34LWWYT9MqFDTiNlVROaUQ0zuGT09eIJzLY2WjN9DWZDtWlM1E%2f0MDslNP20qf7WQ4XmGaeoo3GEdIgh0x4ZQB5btIN8KXOiAtelmtB%2fZBOmhHufXjce07JaveyvTIO2778mrODN2aSSH7QduK%2fRNDwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, GERMANY TV SKY COMEDY
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwdvSQkAAAOAHMsZmT1x0Ya1Cy6hQumkcxuFHRtvR9PD%2f94164Pl2LMy7bG9ZiH0XpoJ7hkxPQtGsy8PdkGqatr5iL2V%2ffuWhxrtHoeeynZO2IIfnyBGfPZbeZitl793JgeniHePmywMJt4bwXyS%2fnAy3hbW0P8PAtMqlVfWeQJYdMQkVZcRfUT6bfGBBV3f7UnMUJWfzQjPgFEUE4iWifYTWv8Xphut1%2fvRwzJJA4B%2bmum3rEKp0YxkqogioJkFIBZiYlGOHIRP89s86fPcyvif4lYyh5bVNFrX5eSf%2fBlbwA7is7kS4zXFVrv8BFWXn8Q8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, GERMANY TV KIKA TV
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwdu2QkAAANAPsqzEMDz0kEuoqHELL2flpDSDEUOO5ePP3n6hczIl5CbnQwO83BG713L%2fzCqb%2btY4PdIN%2fTRHW4hsgvZvrkksE5DrfbjYtbQPoPLszUz0tbGeoxDiWagojMt8pKOzSfE7kdwlyqdS9NivWyEa6oQlyWureqDDc%2bWVzJgeqMM3n4txceYW2o8dzQabHCJcxY4GWVGnlqNjcs12ayBE2hx%2fRXc8q6efy7DKUDQMUZJ4eNirPIBA4DUFAF6QFQ2asqUDTVi3yEJ%2fcd6qspKh1DgOWcd0xs1tNhZx%2bsThBHQOQRC01u4fTSNKWg8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, GERMANY TV PRO 7
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwdtugjAAANAPIgQsLdAHH2ilXKNQxJW9MVlNQW4qOBI%2ffudEebYj5RKJKxJdXchgOkmZ9qzjZzNrqozNfrFSFb1zIrd85mlAt1qbIPka1%2fHqwNKT%2fHhpRWX4T2WTYjiFLeQt9O2CTQP%2f%2fjn%2fPcjrpgSWIQpLA4z3BmPsukO%2fzr8AUO5aKLSTSAVGLPJKE95jcUk6X6Yurl8Heym1jB8tA8D9R9wVbzx27mavTSZWf5ADKAWWpTvMc3XoQFPHNoS6iWzsHJBPIDY%2fmMg46cdnu1OLz%2bAhGpfLQAstzGuvydkDq75atht6n%2fz9P0sUoqwPAQAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, GERMANY TV VOX
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwcdugzAAANAPQiiusXE4cAiYUUZTHDFvAYclFCgQlvj4vlf85d3W6HbsFnaffPyh5961yA4%2bC%2f59A2vtVjxAc5QehMOxBYlfSuTYea%2flwWYH5Y4jxbMr4RbjXQKIviiFZmQlnVI3JlvW5mk9zHjUxgt2mKdI39l7nkI7tcoFVaB%2bLEIwyDzML57zw570xVmpQz4cUcWQ0LZfhZF%2bEmOhBpnUswMZFe0N7%2fN7o6zNT0ygrkNJEol5u4qIICAqMkIiwLJCKDY0pIAzdeJ7Mv26%2fDZAPQjpkUnzWqnqP6jdLCH7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, GERMANY TV ZDF TV
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwdu2QkAAANAPsqyGGU0eepDcL%2bMS4W3KcJSOy4lo%2bfiz96PGmrA0HKDMagb1L6t37WUqB%2f3jZJyfU6d6GciZjDQlOCIFc%2fxoTDxrb4UtmQfhY9MbuoAYP6NJLxMSPrU%2bU75OyH2ZWz%2f9G5XepW5f7dobSo94E9djd45IkGEtlVoRQ84vrnETH3qzLruHWCTpSs92V6arxuZhWuLqBe1ZR9nhuCUNnAvJRwZTQETXYJOwqKoihDzWlQOPMAK8vEeIB9JexmdJOyEZbNU9%2fzVc1oXQXNP%2bxzeBDNfQCW5IGN%2f3XGF03C2tQfT6c%2fwHN88iMw8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, GERMANY TV SAT 1
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwdmWQzAAANAPchxLROShD0h0CVoztb5VdaKLimoVx8fPvc7LJjzx1oKIYLhI2zGSTIXnLN%2fw7DGO9e5EFJbohVXdkzw4XM%2fN4%2fkrinoahloC21ZR54%2bmzaAKL58rJ75Dwz2CftvZmd8zjiuIS9FFwV%2f07RNpDxguB3c%2fHWOgVvBoMinOAOaGmFpBJO5PlzYVjTpFllasn%2fbbaVolYWNovzu6WmZ389DikvZ5L14Q0QUi3XV1AGTk2ZZsIEOVsWkYsgpNjAikjoHVJTrE601ooTS4OexErudzT4fU1nd3j5QW6Nufqf6W4XAL6eof2N5IGw8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, GERMANY TV ARD 1
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwduSQzAAANAP2jGCJHjog0tQ1i3pTV92smUp26a1NQ3j4%2fecPnGg7htEHwQ18ZzUbcGl1uxV9lNdfB4LNLinkIIAfWwDdqfGgujuWGZjUS%2b78q9LE%2f%2feSsQ9iZiFkyr6zeCeMTHRnPTfYTruy7jK%2b1Rk9dERTXRDzwxX6lCc4%2bvFcrTlQE%2bavI42f3XvB%2blCTw040jNyjpsrzh9N7E4Tfd9MAjZrL1t2T7%2fyp%2bc%2bRR2BFZm65%2bmGoZiBYynQhECxMYQKQNg2fURcaIN12Oafj3AGfLTnqhHEiWYpt26%2b66z2xaiYau3Quv2NeeXmH1Wng8wPAQAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, GERMANY TV NTV
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwdtyRDAAANAP6pgNEpcHDyK2mrq01rbqpWPdBhVrwwrj43uO2%2fuKodB2bGkUO0ic1Gnlr%2bLWDZ29F1u1yZxP6vbdL%2fMU1NdZgNCgD7jjpOo3JkByX19KPed%2ftggzsZTmSPcKtJjFTjxAI3mcs2cey6dPz25w%2btbkMfFrxjlMa1ZFKqhI5nwVIR1ukJrIeW%2bepe%2fLOCXEdFOt4%2bAyejBAESKGdaRbREg1B9fk41eOPelAuuI4iqpK%2btk2JKhDIJkahBJAmqkT5GJogqMvSpee2IiXHzZlwb7emy6zLesfuBDl9vsAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, GERMANY TV N24
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwclyREAAANAPSim75uBgLLEXMUG7SWxtHQyN8vHz3lksF0kF89FPZkPOJew95L9tSX%2bZjgjxXoGrbvcewm0EqXE2Q1zUcUO5WY6XmVfq7U13VaqtXydzlJqYLhey1r1IllEtuu%2bNq%2fJUY8hIDek%2fIXle7Gl2r8ApL9ta8vGBx9ZrHR8ynTGhCCgu6H7jKeqHSllXlEEvT86uRBn%2bnw0s36sab%2foRuO0c8hYM0M0DRlUZliWAoYgEBziKkASOIyhekIDG6w9Oou7i2RyYthO016k%2fhEMbNfaPIssfVbjVWPsAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, GERMANY TV DISCOVERY
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwd12QzAAAOAH2nFmJNJc9CJEptNi6i%2fuUEOZVtYiTh9%2b34fWWx4JMv9Szo5jyYmQOIDgJ3cnY3aHggwDlluzuKzc7SovXoT%2b%2fHzUd%2faOLreMipl3hSBF68UxONnnIA5HNVnSNpNV5S%2bqMDvayEOf2aCucVTRY%2flgCdav6OkRv2EQhEdzDsU9nd%2f89b5y%2bHEwAptz7A1av7VnhhCSfkT6Huxf0ly%2bNscVZppa7vcZvyDSLEvTdQUxslMAAqqCDQAUFRoYUWibAKuvaOzgKcmC9pIYE1oXrwROIa6Jw29bH2v5I%2fybbDpdR4%2fv%2fwGvNUlKDwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, GERMANY TV HISTORY DE
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwUFygjAUANADdRi%2fkJiwcIEhgBFaAQVkZ021JgPWaBxgPHzfo1NE9SKxf6ZWXidyNJtxc1N2hcWJMgFNEUx6r6WqmYj20Sv8bsSgJrthMZ9B83OkB35CPVgTp%2ffHcSh5s0dedrf0opLMRCPg3Yccy%2baRka5XsdFpuwmgFnV6IWHVt1AqeR7SdYb5uStfpZtUXYzHgyTDvIQrjP5voHt3m8PyrenNelO%2b08YXUnF4Y%2bIy5nqeQ6KAOoggcPwFQg7ghU9CzFfIh3fBOt2mFZD2yebq%2bSpssT72UeJd5Ue1hTDH0nzF%2ffBZ8eU%2fKF1%2fGA8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, GERMANY TV NAT GEO WILD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwduSQzAAANAPMsYtQh76QFy6iLrWetoZsai1TVGqxsf3HFCvQIEWC68JHvRekbnnu%2b62dFr7YX6MdzmiGgfbZS2yrfMcauxi9Y9riW1j0xIu7j3XpQ6dBGa%2fyzlzWIDP76Ep7ecLxUbkkliPfMkKTIuG5d2tdk9tlqijJqvJ2U%2frZjWKG8dUMiT1ghdJk4IRsu%2fJfCRSRRzB%2fWIQCZ65vdjpmLYw438vaE9pmkc%2f3qFqMsayovCaY%2bg80IDIIwgAL6oQaZZqmwCJR9AO3WVKxRhtBpzHNc%2fUifnXiJAiA6bx1166W9%2fnQY%2f10wffa%2bVsDwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, GERMANY TV SKY HITS
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwduSQzAAANAPMoaSSDz0oQkbQYfqri5vMupSRTBtl%2fHxe86wHQq3CbjcFrQkrFE0EZ%2b4jOnZb5S0kpQYgVL57fS8Ezbe%2buZPJFnkNXUfidtKIAWCfSd2zK8WDoWlDVnqLFYKTWNBVhe6zkNDMnmNWZDPNA9fg6sHaByzpO7WpvV%2fPiaNGMhXCrXuJdAvZ29GS9jiN7tgEUX9rPApXMrpfDnuso1VTia%2f2vLwjovHDpFBqWGaKvo6YRUgoKu2BYCqQ8tGDnQJsPW9UIaUY6N8Qr%2bex49kK6u8lYC6xSErSy%2bru0MhPbxV%2bPgPxA7TeA8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, GERMANY TV SKY SELECT 1
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwduSQzAAANAPyhhWQuqhDxIxbbW6rUatl52WXliWEEqmH99zwpw9wr6wILCefzxpD35%2fp%2bmcsmpIt8R08nj0H2JmAtyu13GiIcPYuOyHUgp7KEYpaIKrahOcRWJ%2bl0OwnsPrV9jtSt46h58WvE5Z53Y8jUqpdOjuFiOJYp3zqfBXDlyPLV0kuI87GSlC7nPRUXulhGqOB9iSAg0picEeZBzK1%2fLdYxQ01P5VN1PmNft%2fW9ik1IRQw7670BBGhubYCGmGZTvYsxhBjvEWU5CcCJia4wkw8mxUgLp%2b62Wb%2bry5XYjwZOaBo67qvF9%2bAMlV42gPAQAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, GERMANY TV SKY SELECT 2
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwcl2gjAUANAP8nAayYPAwoUmEBlCZBCRnVosFlosMx4%2fvvd2o9Om9qiFcIbPuzf%2fgp%2bdqp9qnqMurEjAeKgnRbNCLXs8tnHOIdrrH2NV5Ayb9ZLn0UDSo%2bNpXXNChDll38uLnrR2n02GCu0cy6l%2bslpI3PGiTEzfSjrBXi%2bYCPLOwsr2r1u2v55SwZOnd6A3WTYuSMdlaThjX%2bwOA179TXQRm7dxoXfrnta%2b2khmS%2fnWiEqpirFC7K2hAAGkmDqAgjTdJEyzdmCiN%2fuKV%2b3FXvuTiyMuAxb0eHDGb3EsaDzAgjhOBLLq9bXa%2fANz%2bk9EDwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, GERMANY TV SKY SELECT 3
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwd12QzAAAOAH6nEoiXDRC%2fFT1NKkfudOUWZEq9noTh9%2b34dCn1RduLgn4wXO0Z%2fAtIcbrAm9JEtwz6tp3vA0fLWBupvq6dqIc9Fa6MaCz9KPlDi7z0%2f3ZMsiEGsph3uZfGx1vhT7tcYwjj1y0%2bTUEelYIHxh%2fkgEX3vjV3DRLX1uMXbNtmoh3w%2bj9ZKX2qa0b5oZ%2buWT86T3%2bqBdWGB71CbK4a1k7G653GnQiOsIe2%2bIVNtWNU1CnmVIAAFFMnUAJAXqJnKgi4GpvOMLx5mf7cZKe0xrZG2au1VHPmS00Cl9uNjukpwN889xPfwDYvxhCQ8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, GERMANY TV SKY SELECT 4
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwdt2Q0AUANAvsjo1cxzzkIchLiGqRRb6pjRCIhJpM8zy8dnbnl3dp6Trzu97kX%2fz5PZzWMJlJrV7Hqb6UUZ9quJG%2fY%2f6durnDBWVWTFLd75CERlJDB52v7DIsMAPIZ%2bn0WneRukfaF5WRC%2bCeAAMsqUTzyMXVvE1BKbF68N18dpsN%2bVRHexbuHg1M4A69%2fwTmya%2f%2bRU6aQiivQt3aU4j%2bWs9c7OilaZhr6kzg9xo%2ffsKqNu2TqmGrjA1hoxo3GBMI2Bw3IJjMU7WuJaDylQxqHF6HOntsVPbKuEAwt5fylMkK72PI0wxEZsX4yAgHQ8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, GERMANY TV SKY SELECT 5
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAANzUtygjAAANADMQwx5GMWLiQmSigFoaKw6ZRYzQhKdCqfjodv3wXeDX50kd4%2b2FmOj7i8hI3lcUXtW3ilhDTWaxOg37NnUkdfkGIFpGoN4X6GfGx6Twg7cr8Lijzw0u9jEjxDnUTIOJXYbPo4Z3ov2p%2bpHY08deXtAdWlngtVDTRL0q2sPCtokQK7y4uZg%2fNZeTgWOd%2bwiyWnsLLqf%2fPvvQ6KZogXr7P5%2fL2b6UDDJpOTti9MIefQ910ql3MXUQRcRhByASaMrrAIEAOvtFinKxwG6jgqyGS2r88k7shSDlfeRjenHFqxinS9jnaLP%2fVeeycPAQAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, GERMANY TV SKY SPORTS 1 DE
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwctygjAUANAPYhgzyYWQhYsAgRaRRzMquAPKU6WtSBTGj%2b85M04pifiisuDyKmL7qoCdyLCssen7R%2boEI1TgN3s3J0fuCzQhg7qDdyF193drukmhRVvU148Q1pySb%2bbZV7mjZYdPbcpLJwgd52kdR6Y2RRglSesnrIBeK2X9SG3gN2uXR%2bVntIs3Wo7uIRwiKN01GSDDtljX14fUQO2r6nG2tu80DLu2wOelN%2fvF4MbboNhxMCE69bilAwWkMxNAR4bJqGsIGxh6Hzz%2fGSDekOdFShmQ6FdVM45nrxZZ11WJje%2fSHDMszGn7D2t7HswPAQAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, GERMANY TV SKY SPORTS 2 DE
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwdHWQjAAAOAH6jgNY3bRBStRYeUfcofmVzEdWsrp4fs%2bLnYPKtNPAKPrLYwPT3mZHnSOHS%2fa8kQW187OmmMmoOzdQ1smzf7%2b7NXpMon2yhYRQK7oDjsTouY0t74niPPxIxT7tJxnbFLB6uNSG0sdpaHpktf5rK2zrdlXHovz%2fnUvx3%2bqtgPD3Tv581M0kBQEY0HUPi8qyQm11KVFOaa5a62%2bLumOmmqDN9ZOecX0r4E0QjRdV5BrWwpEECjYhFABhonR2tg4EIMvlyHFt2AnBgZqu8huPGAy2XAhF1VVUdXw9qgtR72ep9UPh29DeA8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, GERMANY TV SKY SPORTS 3 DE
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwcmOgjAAANAPMoROKUsPHqAFgSoOO%2fYyQTYHIxg2Jw0fP%2b%2b1yBkCgUJPy8VQ%2b1VVUdZ7n3DrijRhXK66l%2fWXbcxgAbNoCPHouZhqrX1dlLfQiRYlkw%2fFNfNWZ04%2fC6FOho38Zo5WQ6ayHwFDZni4q5yuwgsD9OUoASmRIvircREE59Zf%2feLtngBoaW0dZjsBUWffH0950W5rTuWhyuYhbuzjXnGYNmDisdj6nzJod1WHhEBFkXTHNCSkIyBhDSEJqBrWqWpbCIM9ZN75oVxiI434DD%2b%2bSyc1j7%2b5jH3yW5iZ6xgXptcn%2bDSP%2f1rrnjAPAQAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, GERMANY TV SKY SPORTS 4 DE
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwUmSgjAAAMAHWZSYhO3ggU0IooSd8gaGEYwyZESDFI%2bfbmfEZdsR%2fNGSkY4LY0weUMupIRgjbja8N4HegvpEt3Ch5z5kInTNcgNgF8K8vfk1xLLgx9mmUzCQb98%2bnOR%2bCB6P%2bSLst8OuUWCJy5PYPOSVy63qZLOnyeLfak552qnqFP6BF%2ble3lgX2NTQtX56IrV2cckFxv6i%2b5kQhZ%2bA2371fuigFscma3Lz08PdqmjAtgGEknYwdQlpSJYMFSFJVlRDcxTXQoa8xrgO71FFiHLO9SLKItKpUeaOQ4Gt7Whta6HPDY0nQOL9P2QD7tkPAQAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, GERMANY TV SKY SPORTS 5 DE
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwdtyQ0AAANAPMqbYXeIhD6xdJe6K8tIhFZcgnUUSxsf3HDTNQTs8aAbYuMCk%2br6uhUdtc%2b3qIhM1GYDtxvXF%2fSIxNEzNhDejtSFnFA235%2bz3SUy%2fMhGu8ziSmHcSSe9Y4%2fjWB7sk7ahFgRaixllpwxj7SCFVimY3p5XuYYKQ52pvG4dpPZZi%2f1o%2f41kt0wf3HNb93r7ypHId3Ha2Q74AyObzEWQ6jZO%2f0P%2bZB7%2fz7gdSJIwlAHiFaiceKlDgVRlCXkCyqhiI6FAVjg26eiZvF1Hs1IWQcElBdGXgxi2n0qocIlgBxvUY6WQ%2b%2fwMaS76pDwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, GERMANY TV SKY SPORTS 6 DE
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwUuOgjAAANADESK0hdKFC60UBCZAC6Ld1ZFRvkIcgxAO73ujWlzl%2bGnue9SK%2f8ityjbtIkXJ6kDUJhNRZmgwOV64CDKTTqFta7hvvfDVmV1E03PdV%2f9HP%2b03WcbLRYsS7QXd5Ffwq1JnSbB6TCCVlXqCCJ1u98c1dLg4z3HZyR8ZgyKwaGC4l4GVQ4ENCGgRPlUscxaQ%2fWeOuGiWm%2bdwdpq2a%2fvWp%2fzReOS98PROx9XCgFIAoY7ZztERRoZObIR0w7IJPljuHhFjrcPR9%2fad3%2bMPGz4BYlNOw8mDp%2b5d7YpmbvuomQ%2bz1O7N9gsk7kapDwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, GERMANY TV SKY SPORTS AUSTRIA DE
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/IwEAAB%2bLCAAAAAAABAAFwduSQzAAANAP2jFIQ3jYByqtuKXdurVvKCXj1iKq04%2ffc5YNA9KdL71X6nLenpfprTh5twMWr1Uq3hAdL1oXY6999CHhXeTeYh6taAwKztui5RtnmriyMC4%2fIpd6u0bT3KjXPxNr7El%2fInEYjCYaUHG6t%2fP5mJdrJl%2fl0rF6wmQ1WPhoHjfXDcipsba2XF97uvYVGUCYTH48AuoXOE3ehK2%2f32SeoRT2T%2b%2fVsUCIna%2bCwH4PdjsBHQxNgAhKgq5CKEiKqiNLwSbUpa9dQdUuEzGpDX4L7JTI%2ftKkyxOzzesMP9PZhB1215AYZhXUD%2fXlUWmO65uAnhIjpf%2fuAgDhIwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, GERMANY TV SKY SP BUNDESLIGA 1
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/IwEAAB%2bLCAAAAAAABAAFwduSQzAAANAPypgGifCwD9HSstSl6pK3ZBVbpWZZquPjew42nms53MarHHeT8%2byN1qxmnM5K2UeMAr9A32Y4agpiz7MXWDTrqpwCx%2fnNZc%2bpRXwB6zkIgSe4mhzG6o9OWWXb7MrjDpc3HHE%2fGJUk0xlrmBvFj%2bqNhB7sWNH3K4EJhK%2bAoaFZL%2fU9NpefxE0aklpX%2bYKxCB98%2f0%2fT7HTs61Mh7vmjQdh1SyBMq4Sp6uRtt3XF5GlkRnA5mgvPXxsmyn6vqKpEbKpLiCAoGRpCEsSaQQ7YMpEBN8deVV9bQJvOg88t%2fV1YcT8NQUKXUg4jt5nEbj0KXgH%2f6wM%2fs8sBIwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, GERMANY TV SKY SP BUNDESLIGA 2
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/IwEAAB%2bLCAAAAAAABAAFwd2yQkAAAOAHaoy1%2fy7OhZ9E2e1g25ruhNQpZSQO08P3fe5lX4z07r1yH5j6xWf0N4Zpec5hSzZ4VIQdVhvR2x2vmZmc11bRUHPgk1B7PqhZ0ZIF4kaq3GJuUp1j%2bL8kdLvw%2blbvNEtTbxEdTsPqTXeucoEMH1mcaYEkyqdQw7ZqLNepgALjRQmyLoawZrKPDn331mWZwis9olo2r4AFt0xqFXvy2bVFhFYTvNdUyE%2fQP6Yh8UmBYBM9bfUhDHoeRMhggcMNzDAwbIqxAQi1mU%2bWLrbBh9%2bOdlxzB49i3qAx8xNkWtfT%2faH3dWxlbe%2f8%2bp0ltqVIfr5jqXfxIwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, GERMANY TV DISNEY CHANNEL DE
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwd12QzAAAOAH2nEQkchFLySNyvz%2fFNudqmVV1topxvHw%2b776QryJyTK2SfyrRfioLnap5yX6C19cTSW7iufociF9ulSd45eiGSjHJNUXdC2u3UZlILvkcQZHD0%2bskvg9lJp9NrLbhywKkArfLFE7NgUSJ5BYq4UGEz6TT4fTuo3YOrqnmQxvyUlmLm2RjZZqzQNTO4f9lvdbVqkqnBoxyPthH%2frSZaz6Bs1tdigLdhMDxoBhKNixLQViqCkEQahoJiL4aHIKibZbXz9iM4o8xgvQyctrasHWqInyB6%2fmpHXuwuV1BOeLJQ%2f%2fEpRIFg8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, GERMANY TV DISNEY XD DE
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwdtyQ0AYAOAH6phx2PXbi1w4hApCZdnqTSeicrCsICUmD5%2fva7ydf%2b%2fWWtbYVB2tehclZgDPc0y%2fRi9FU6ow4WUfq6E%2f7%2f62vNq0ExxM%2fWZVbIl5GrAZ1r3qsWYMhmuk0QjElFWtAbdrWCSNIMGjiL%2bLYedjGk17Oz0cTNEXyeqyeOj%2fYVSKNu1BMdoel8Yf4STL986ixMVYQ%2b5PdmR7fW6kob95hZJwQPhYJY%2f778%2bYvTCotq1qmgSuaUgIkCwRHSFJxjoBB28tROSX63DK5tPIjxe8fS6xG8z8VNZtx8hsHQaLLu6ZX5LPLG82b138NKcPAQAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, GERMANY TV TNT FILM
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwduSQzAAANAP2jGCEHnoQ913KaFu9bIzQolu11Kp6vj4PacjyzOa4nefjE%2f9Q5qbYdbXtMsMy6YalfyWeQ2qYHFXPDdsY%2fXWTq9LmHbV5p6IzOAKbON8Nap1NMuy90BA0e0OJhEkZAujI6gSls6Z%2bmj5r83Eu5yimgxvXug0Lx38R1i%2bcpFn2WshOAk2Qjmetvo0NhHtoggv1Rd5VIFfh7192Htf01nJPek0f1tXfdxVJJumrCgCco66ABEEAtYgFICqYWSptgEx2B23RgsvNLri%2fjiPSpNleVj08GkGn47WnIcfNooxUC9efPgHMkiIbA8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, GERMANY TV TNT SERIES
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAANz0uOgjAAANADGZKKLaULF%2fKziBAEgcJmIlQRFdQp%2f3D4mXeDB4tzHVnmsKoeNGxVnM1B4%2b3OfiDGLiOOkJ8Nbu4sLA5FN3%2bYCAN%2fbYQ0uSJAWlfPUquix9zP7XT9GOJ2ukXg9eRccKb1dh2utG%2beV07R2ol74XpsPAS%2bVHZNTU7ixGzfsRsQhTe3pxjZ20NXoSQdL%2fcqaEoc9xStE6QdAk9MDtguv3KvlhaThx%2bqjAx8FoRlXZc3GwlbO1WCGAKJKBBKACkEG8jUIAFLzI5yMU3wdhrHfer0c%2fkS0dz4Q%2fJ%2fo3deddbx%2b6rVenXa%2fgGqNwQMDwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, GERMANY TV AXN DE
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwUuOgjAAANADGWKBlsLCBbagwYaCykc2E5HvMKIgodRw%2bHnvmh%2bmMxZhldjCDyC%2fy8D33TJ8ybR2oFa6SwQBE6wgd4PJZw9oE7FsCrk4l6wqDBHH6umTgTEKsdxycfwe7OcCb280MwLm4eGdh0z%2fPTzEts1Kyi%2bbkl94O11JLAFEG6tqOY6tPhkWbut%2fbdckIdTyk3ObcUnzOp%2bORe1FJvDN3Uol8j7f9z6dubOQn3RFWCNE03UFu7apQAyBYhkQKgAZFqbI2UMLrEtC%2brZ5IK8D44hyOTq9DV5FYLxU06hyrCKVdE8mOlrv%2fgF39SlQDwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, GERMANY TV PRO7 MAXX
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwduSQzAAANAPMkZECA99qAjFrtGuS%2b3LTisuXdfQqjU%2bfs8ZUB38WbBjmVdpkimwAmyXavjykpafsMU0SXkmhCkNqHFJP%2bHaBKX8sHyynVs7rW82uzJcBfJANeMNFqGkhH9o%2fGxiIT45zwQl66jkcsouPIZxCp%2f5iiLd3CLdde25nr6LoVDnt%2bUq05BHcND70ABy6na%2fxF%2fWB5HMntxnG3bJ8bDHrAMFpdfAbseYFT%2b7iiEhUFFEbB91EWEERENDSASqZmBLpSYywH5fvCVcx3jDXBIa3Juv6sazt%2bPT%2bVWMut5kZOIWFJwwO%2fwDNqvI0g8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, GERMANY TV ANIMAL PLANET DE
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAANyceSgjAAANAPcpilJJSDhxAITYoIotwUEGYB6UYYPn73Xd9GFCOt88JJOBmHVbyk6pI1B89HVm0BJQ3ZiRrduMx6ay5VLnNrjic89A7hUd1heN7u0pzoeSSp%2fvD7g54PkQYtirg3hVrziU%2fbOoxZFD2Kd2oHZXgwjVjNwOW%2f5px4bTncev9L1Hh1r86knW7mXL7cmTQNtZV7GnpGfYW6LwsROO7dWXUY0cgcUFdjKEY7lHiMeUFgJIJkBkiAZRQRAIaFoiJpUFeBwu5JQUncfH2BdrbsupfPC9Eg7st8A3JAnRThTzEHkLOe7vEPnX2sPQ8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, GERMANY TV NAT GEO DE
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwd1yQ0AYANAH6pio%2fdh1kQsWqUyUXU383FlsNQlSqYw1Hr7nOJJVHn6eVLRYXYaOcijo1W7ynegPNWlJ6Z%2fEwH7YeGxCj80ieW%2fNksiLYAyVc%2fJ2J1WX3u%2bGr%2f7yNF4wyQyipHJ0joL%2bif1ocaL0q%2bmbyVuA08DfcUBrt954Iimlu5xX9dSO3x9lmMdqzNKZjWg9AK4tb1LEPSQv2b4ex0Sc95vAyJOOKsLY7vPCgc3EBqUGQhoOHKIBBl2zLQBNNy0be6bvgq1v1yG9Lb%2bsnnk3PQz%2ftD77eIw%2fz2F5EQiluhsL4AsBWGH%2fD%2bnRLZEPAQAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, GERMANY TV NAT GEO PEOPLE DE
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwV3XgTAAAOAf5HTU7KMuXNSG2FQLi%2feulSRewsnU8eM9j6Nucv6f5jcwikginhs3xybDxVlUnHJWNTm8JMLbudEo7688vb%2fLw7FKj2CxN4OtHLAv20pOOncpJRdO45%2bQagOHq8Hcx00I4ow9Ir3odR3fXrt6uU4%2fI53gmdd2K9UXRND9wLoDg4JfVltDpGhL6oY2DmDR%2b%2f5YPv8uFVh2WVxMv0zGZcvp2rCXldfR8EUEUAomE4vMfdeCBNqWhyG0bIQ9wtAsgJ79zc7J%2bbptaqP1Syslq%2b7z7gAXpf2M9QnREKMGhpsHSsz0ByySfN0PAQAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, ARD 1 German
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/zwAAAB%2bLCAAAAAAABAAFwdtugjAAANAPMkSkN%2fvgQ%2bksNKmCEHDwslC8FSRWxMU1fPzO0Xz3%2fnP24C9YEqefUd1F5lTR7xU9xUUvn34rImJsPsU3p0Z5TWV0ATK51sPrlKNjceFdmJ7tc7msG9kPZcYqO9TGREO81WXuxjICHdLdPinX1f1tBJ0as8JJF9IHr9j8o7Atbi2zrnkEFrQzIgHnAQAeEWztQQJ9j2IIPR9hSr7QNoTUn0XWBuxXq%2bPOYbb4tpN%2bhZ%2fDZvMPj5UnOs8AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, AXN German
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/zwAAAB%2bLCAAAAAAABAAFwduSgiAYAOAHapgEf0AvukDJ3bITHVbyrknXAp1qla0cH77vs4GzxlkChbj%2bVtNzdV%2bdHjnUaSsNJ4wqAjxKHhq7bLf64fUSNtFo%2f1INacr5sbqdTL1uS9XPlr3oVZk%2fdbtttqPqIp2ZfdMgfrEOFxqz7OnWUsl3hu9%2faqE7sEdx%2bKLD%2fE1sWmpzhUPhcY0GykkcE99HPBEBAg4eChkA8igLuaTTCEJvEKnMbVucm3%2fsjxlPSBfejJpMPpGI1NfPAAAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, KIKA TV German
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/zwAAAB%2bLCAAAAAAABAAFwcmOgjAAANAPIkQsXezBA7Q0zBjLIi7lMnFKBEZB1CJg%2bPh5rzubnUnxlvULg3x8nGCf4P20H0sWJMEO6FPT1wfVVwSHF88ltHWHhafE9Tcu0FEu5WZQNC3KCLytz0bW8nmorbPmW%2f0SHz%2b7a1a%2bEUd%2fImaGiy66Jjq0GpkvJ3VJw7ac82JsVdUicGt%2bqtN3NiMCGAOuaxPhrWxIoGNTDKHtIEwJR4EPqTOvHhF8OqPfTVkqh%2fjLYMZzb73%2bB%2bn8qPXPAAAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, N24 German
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/zwAAAB%2bLCAAAAAAABAAFwdtugjAAANAPMgSEXuTBB2kpKQiMiMb6SFZgArF2OFrCx%2b%2bcpu%2fE7jqYjxqIoY%2fiDEl2Rwm3q7Qc8ngetNDsKxpVpVW8rH1wYAkS5yt91c%2bJnXhqyICWpPvk831qi0ALuYsKU0Ve%2fssBWv7YXrm2uNgy9m0%2fK3cP2WMUdnCTMWuyLZ2i6l3SaTb1pU1veIPYJ8QPAgez08EBGHhOiABwPIhCTGEcgdDbZFfKbKE%2fRDeyXNv6%2b5WnYXc8%2fgO%2bY%2bBDzwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, NTV German
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/zwAAAB%2bLCAAAAAAABAAFwcuygiAAANAvciJFjUWLfI1jYQ8fYZsmlVEx4naLkMaP75xL6w9T6kwmIQw3oU6USp0v1f2n%2bbsQcbsL%2fI2LgUqYpAKfuvwf52EVHNvDgJXQhc%2bIl71VMeqEtVGziDjXL8KFeQZLzfumpChT5EmZXGwPlTVKvnqUMkZI3NSDbvG8B2P1LNn7VYXX4Jxns%2b2avm9aluFGm5UBXQgM5EBoANtBbmCHHkRgjnZT%2fek82efj0q7bjfbqfdyt1z8rYBr6zwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, PRO 7 German
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/zwAAAB%2bLCAAAAAAABAAFwd1ugyAYANAHWogEP0AueqGy2mhdp7N12x24%2foisw6yYaXz4nWN4f%2fTl3t22xXx%2fuPD8FuXCdVLsriZYppKcA5M1EYWq6r5m3p9MNuVmn50W9U4%2fJ2XH9jV40ZAwaH5JPILCI67n1tmqeahCF960iysvw9PI%2frLFUqc%2f5tin8gBxYwdYi1wa9MPIwNXVdtCvlJM0JWGI%2bDaOEHDASDAAhCkTXNLnBARefe2nHRz9XR%2fMt7wwUetbUm02%2f7jawqrPAAAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, RTL German
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/zwAAAB%2bLCAAAAAAABAAFwd2WQkAAAOAHmuNgzA8XXQxDxqpOW5xyN1gNKWXWlo6H3%2b8jIWu7HZ92zomoqCSXqX71j5jfmKzzln8CuhZtnlnPr2JvbviUPezaFnezlLmmgH8GESW6y6CcWaXwG4JknyZDFfpqdtP%2b%2bnPnN3XxS3kMq%2bbcg%2fKZj99uMU4W%2bO2YeRCLqGBMtX08J0HzV2y3C6YwCKDjGDRiroEosgyPIGRYmHiU49BHnrWAQKfm6T16m5eKcaO9WQ6ArVb%2fEVXScM8AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, RTL 2 German
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/zwAAAB%2bLCAAAAAAABAAFwd1ugjAYANAHIg3QfqX0wgsoTGY2oFOqeMePzIhomabdDA%2b%2fc3S1r3F4q7vteazcv9DuQjz7P6xPetkevqTsJvXiJhD2uyJxJVRfKLc81%2b1HM%2fzyfXBgQ8Pu6pnNDsPtRERNdE4bkx6h1I5yYn%2fKiN9qNxHmcbsOr2iGkwfyvtnZxwWKJd%2fmRkejQpssU5%2fiulCGhcCEIPYWhQgYeIgHAMijAWcJTWPg3pLKizXrI52b97Gfumdh7FhGq9U%2fkJH4nM8AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, RTL CRIME German
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwduSQzAAANAPMoaJROTBAyJa2WJb7bJvO7Qati5bcRsfv%2bfcGS%2flkgUnHyf%2bIy51royIkbIRs0vz8eP6YEvFKyDiE3bWLz7Uc3rbtFe7fosr3EzRhc6WecLv55JHr6XyL79Hlj7TKvDinzDQLNp8vsl5UqjGsshz3WAzpeD9XOUknA8TCm7F8ETtNBHK0FFIeV4r294PLa7bDsC%2fto%2f7yRh2hIHnAcNQMXMsFWKoq8SEUNWRSTBFvguJvm%2bAO2FB5XJPCv7OOuCKWnFzPEqdWZezDkujbkgCI2DZ%2f3thF9%2f7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, RTL NITRO German
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwUuOgjAAANADETKElpYuWBRUREa%2blt%2fGIFgpjBBQCBoOP%2b%2bl%2fmGksO7jxlP9MH97z2K8JXDI932RhdOSIq36isZ83Z912YXhivQUOP2xYedfRjjuaMNPlqQA7qR6NHlxCSPB1HXp2IoDKs7gUf9ITNWdar4MgSvykXDtReaysyo%2fi8HotXWQ1mNk848ZH51Vim%2bhYWztYMtDTe0laq7p9SI2DauWpQIg4wPVZYihIhMEoaxoiOCdtjchUTblxDxR2TlOEJ7vme9S589F2i7LRRRND2629P1xCpgolfEPbgzK4%2fsAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, RTL PASSION German
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwduSQzAAANAPMkamEkkePFDauAzrHn3Zaa2yRV27LePj9xx%2fnm%2bJVLoh6PzKjttAGpV6yM8ua8IsYI4d2TNvPWNN2y8lre46cgn5KVFZr5bDF632WAE0rgT6n8uJQ302DSNNyg15dZe808gSPOB0zB9J%2b7gGcnfV4HLPg4LwLL60lpF%2fuJsWt8srbexBMPtlDR%2bVqu7P81Y0rHjV3%2fGU6UG2I3w4Hg%2byLOKTRkSIIRCpAqEIkEKxgUwdUrBjjmlkmtuJ%2fn5MC0oS6nsHZAqDSbcuozDXfb9K09t%2fzuo%2fOB7I%2ffsAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, SAT 1 German
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/zwAAAB%2bLCAAAAAAABAAFwV1vgjAUANAftDTycdvCgw9XJrPGbcGKKb7JRwlS0YKGQfjxOweyv%2fwUiLETwfPr3XXFI2StxoaDktm7%2f55SMzRltVK6VlXJjc32ePOzuCjszpVYY7pJmjT6KV0Xnb6bxY1NiudnISOqH4Yl9f2l5ngLq6d3penv9Ti0p7E8NMcPUzEtFxSeJtJqpO7rPAIslHtR5Pk%2b4TEGBDg4JGQAxKEs5J90u4HQWZDZIrazgX4nL%2fd8aut5SHC9%2fgc9EZyxzwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, SKY ACTION German
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwUuOgjAAANADERIon8qCBbTFVmZAUlF0h3wGGSgIStVweN%2bj2W3%2bHXbL4z4zVPP5zyctw8ntKgLFoQfGkn%2filT0JxeeCcTaOxcKz7fLTnBloOimCo1bs8dUf5Qkv0n9TRA%2bdDNJQVMqZ6yACAWcxyRGxWRpW9Fl5k1WgOOqLz72CPd5a46nRp0E3liWpU8gTriSuu5a%2bIGUatbJuLPDxwGpBgBAwDBUG3kY1oampjm2aqmbZDsQW8U1HW2eOd1i2x5jmkDhgv5kf03B5e1LQSFbk1eUafoWklM%2fB%2fQJrcUk%2f%2bwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, SKY ATLATNIC German
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwduSQzAAANAP6phEJMKDB7dYS3fsGqF96ay4rKLaWpTx8T0H23Pk9bl%2bJf3Hqqlhh36xrJzEPXr4ltaCqUVj%2fML%2b8zjpeS%2ffwDeMnYNbDPwOSoDcn3xUfYai%2f7FOhfDwBGhTtCb0Sji%2f6FlNwMqarAn7sBXHmQsLeklVpnlJ5EXhS%2bVYmZlqsHlkf5%2f15nebWDGpDWOvVzF6F9LKF3nZ2FXshCLbRooiUWZqEqYYSrqKsQSJqlOHuBbW4R5Uzy%2beBMF8vhWMJVHUOLPldKEIyvjkRoB5HdcGPoCDMN4WKC1f%2bwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, SKY CINEMA German
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAANyM2SQzAAAOAHMqYRIevgQBApFS07ym2XDFF2%2fXRw8PC73%2fG7PZQyboWQ9Lo0tHKMbqA%2boVa%2fBbJyiHnhz2SlD5FKr9dwv9yZXk5Fu3QsyomVURkUAXjCxUiWZmwE4%2fNL6y8te5mxBt33dzfMq%2bxCnRvAr1q5497BGfy8pruX8lq51zOrb10tR3wINy%2b2%2fybx3bbPIARf0UjKeZsG1o7haWBICNR1FQfOh4owAqplIqQCw7SwZ%2fgussC5ZUcIh6kkvxWL%2bA92RfpWVqBEEad7gg7QVCJv5io7HPsPyNhyUvsAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, SKY CINEMA 1 German
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwcGSQzAAANAP2jFNIqQODmi7UlsZUSVuqM2iMUPR2vHxfS9Pmv%2fj6YobNe%2bfo8lgvhvBgMK2Vv1BSHNtvmnQAAorGkaB005PVgbObvLUz6CD%2bsIAN%2bK5n8nrLbo2qTpaqtznt5rDii0Lmf%2fGc1KBPiJpVDZznL1hcWUFd39Vn0F3BWDKzo6fUo6RK6UlvOUVS9vegjygDFPHjB6tBS%2f1ZhDkeUjXNXJy9homGGiWibEGDNMiB%2bPoYgtsg0pEqFOvxl83hDLRpSsn6%2bTL%2bzq6KhIPQ%2bpuUfr5XdofsUEEWvsAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, SKY CINEMA 24 German
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwduSQzAAANAPMoYlYT14qAixXWxNkXpzTXVYQba04%2bP3HBdVv3f4fhLcrx1GOaddLVHLrC6FT1AxZksW0k3wXOvWNNZ46X%2b3PlAYmXOa1Zz%2bcUVPFMlrHZ5URdRkRNBqSvUmGYfFeN6Eutdz5ETh%2fiKXDubzywgDBPq7P2hTf97iq5NY4r1n0ldJzltTFy37YbZ9PNjk4nihLIWqI8bggKaGkKbrsumdPmVgAlW2DABkFRqW6ULsAEs9glsTt2jzFLR9KFy4y8NHpTrFjXldcYSZNBeoi4ZZy0%2f2P9Ljkkf7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, SKY COMEDY German
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwcuWQzAAANAP6nFkIkQWFtRQ9CXU0J1HNZSh8Ro9Pn7utZuH%2bNfBm2v4gXMfLQWIHEz5oZiiuYuMmC5ATZNjCD86pIwPqvPjBlZbxl9hozbqm56y4hoNEjBe3fn3vpt1ayjEyJk6UJtiXbz9KxvJ0cHyolykqhmwmsfeSF%2fsYbqpL%2fYf3q%2b8nSoS2zcWV7w0O75o2qaQMGDTYbV8IiSrX24yhvs9lCQBW7oqIIyAQBSEBCArBJvyt4EI2ER2otDGeei0lXeW5iUDHpcjafdMa%2bSSS7%2fQOSvdJ2wT7R8YrdVd%2bwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, SKY EMOTION German
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwduSQzAAANAP6pgJCeHBQ0ppdlwqqMubbd0GK7W2UuPj95yHB8n8JsxByZ9YMBOc4IwCf21vnIoPLZGY1MkNI1GUTdqEhYiHZ3Pao3GMUnaV%2b3xLYeeFQ9kSz6XvVS62AOgn986d1YBen4CELZN7KwdeV3lnkzJ93mX84a91EDQstHXPg9eFBZby%2bNRxklis2UzzWHghp903mNsrrWYSHypWLEuBUMIO0SWEEZAMDSEJqJqBbfVyRgY4qgb%2fhF4b%2f5JRy3u%2fNb6ymqe7mi2Fbtsz8GmdQ1nfl3Nk%2fgMZz7B3%2bwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, SUPER RTL German
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwclygjAAANAP6jBCEgwcOEBMhAjDIshyw1gWraW2QITh4%2fve%2fY1xFOG2KdSYn5y4JVPZ4ayH3D5kJSx49kO1dMwrD3%2bFcybosX0ZRzcoQq4xIEnBSjSdanmDDuh4Bd5nmkjBd4jKJO2%2fxeX5bOQuDR7CJ7ATdm8MRRgvy9SBYU1i3RfUW15VeZ8bz7id7Uuex4m0rA31TgU1SSMNLC57rJuOASEAQgUz21AQRqpi7hFSVH1v4oNOHWSqWyJq9SMjNcbj%2bOm5GqoAXgf%2fqrHfOowMkvTelZXZzII%2f6x9MjxHx%2bwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, VOX German
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/zwAAAB%2bLCAAAAAAABAAFwVFzgiAAAOAf1HmggMBDDw5MF9QqpyPfVmkr7ZZ0mnH%2b%2bL7PhnUtgwL90dG3%2bX3tWG0tuj5z4VImbzOTXfesHEvx1KR5IZf3cdjOEnhfDY%2bbWSwVHX8bv7skXw9egdE5tTIWEZQcOr0DqtM%2bOK990V%2f6ArcGLNXruN0cFN1XlCt5YlM2ZOaocykjDU%2fN93YiNBAiQMiji4h5mGLo8RBjD5KQU0niD8zhVFfFvxhAqtLPchPFu%2fYHM3Gez9%2bLc2jVzwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, ZDF TV German
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/zwAAAB%2bLCAAAAAAABAAFwdtugyAAANAPaoyEgshDHypKHXSZWmR2L00vNE2GraKkC%2fHjd87ge66Jw47kozmqUKx0o2ygzH%2fPdS%2ffffH6RbhaXSyPb5Ko9tKMVuI3PeSTYeCubYqCkXfVC5SVIt0fWgy04E6UHRz%2bausroW7xIyAI5m4E5uuam%2bAbidufs8vYMhA%2bH5%2bnk07sef%2f5eiyYQMbgeh0Rvk0jRBCIaIJQBHBCSY6LDFGwYM%2fjZz3BHQdt9SGmonTbrt5s%2fgHMxmbAzwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,=======> Germany <=======
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/384.m3u8$http-refferer=http://localhost
+#EXTINF:0,DE: 13th Street
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/311.m3u8$http-refferer=http://localhost
+#EXTINF:0,DE: 3sat
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/310.m3u8$http-refferer=http://localhost
+#EXTINF:0,DE: 3SAT HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/309.m3u8$http-refferer=http://localhost
+#EXTINF:0,DE: ARD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/312.m3u8$http-refferer=http://localhost
+#EXTINF:0,DE: Arte
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/308.m3u8$http-refferer=http://localhost
+#EXTINF:0,DE: AXN HD Germany
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/313.m3u8$http-refferer=http://localhost
+#EXTINF:0,DE: Boomerang
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/314.m3u8$http-refferer=http://localhost
+#EXTINF:0,DE: Bundesliga 1
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/315.m3u8$http-refferer=http://localhost
+#EXTINF:0,DE: Cartoon Network Germany
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/316.m3u8$http-refferer=http://localhost
+#EXTINF:0,DE: Classica
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/317.m3u8$http-refferer=http://localhost
+#EXTINF:0,DE: DAS ERSTE HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/307.m3u8$http-refferer=http://localhost
+#EXTINF:0,DE: Deluxe Music HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/318.m3u8$http-refferer=http://localhost
+#EXTINF:0,DE: Discovery HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/319.m3u8$http-refferer=http://localhost
+#EXTINF:0,DE: Disney Channel HD Germany
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/320.m3u8$http-refferer=http://localhost
+#EXTINF:0,DE: Disney Cinemagic HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/321.m3u8$http-refferer=http://localhost
+#EXTINF:0,DE: Disney Junior
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/322.m3u8$http-refferer=http://localhost
+#EXTINF:0,DE: Disney XD Deutschland
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/323.m3u8$http-refferer=http://localhost
+#EXTINF:0,DE: Kabel 1
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/324.m3u8$http-refferer=http://localhost
+#EXTINF:0,DE: Kabel Eins
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/306.m3u8$http-refferer=http://localhost
+#EXTINF:0,DE: Kika
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/325.m3u8$http-refferer=http://localhost
+#EXTINF:0,DE: MGM HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/326.m3u8$http-refferer=http://localhost
+#EXTINF:0,DE: N24
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/327.m3u8$http-refferer=http://localhost
+#EXTINF:0,DE: NatGeo Wild HD Germany
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/328.m3u8$http-refferer=http://localhost
+#EXTINF:0,DE: National Geographic HD Germany
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/329.m3u8$http-refferer=http://localhost
+#EXTINF:0,DE: Nickelodeon
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/330.m3u8$http-refferer=http://localhost
+#EXTINF:0,DE: Orf 1
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/331.m3u8$http-refferer=http://localhost
+#EXTINF:0,DE: Orf 2
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/332.m3u8$http-refferer=http://localhost
+#EXTINF:0,DE: PHOENIX
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/305.m3u8$http-refferer=http://localhost
+#EXTINF:0,DE: Pro7
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/333.m3u8$http-refferer=http://localhost
+#EXTINF:0,DE: Pro7 Fun HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/298.m3u8$http-refferer=http://localhost
+#EXTINF:0,DE: Pro7 Maxx HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/297.m3u8$http-refferer=http://localhost
+#EXTINF:0,DE: RTL
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/334.m3u8$http-refferer=http://localhost
+#EXTINF:0,DE: RTL NITRO
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/335.m3u8$http-refferer=http://localhost
+#EXTINF:0,DE: Sat 1
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/336.m3u8$http-refferer=http://localhost
+#EXTINF:0,DE: sat 1 emotions
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/337.m3u8$http-refferer=http://localhost
+#EXTINF:0,DE: Sat 1 Gold
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/304.m3u8$http-refferer=http://localhost
+#EXTINF:0,DE: SERVUS TV HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/303.m3u8$http-refferer=http://localhost
+#EXTINF:0,DE: SUPER RTL HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/380.m3u8$http-refferer=http://localhost
+#EXTINF:0,DE: TNT Serie
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/381.m3u8$http-refferer=http://localhost
+#EXTINF:0,DE: VIVA
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/302.m3u8$http-refferer=http://localhost
+#EXTINF:0,DE: VOX
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/382.m3u8$http-refferer=http://localhost
+#EXTINF:0,DE: WDR HD DE
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/301.m3u8$http-refferer=http://localhost
+#EXTINF:0,DE: ZDF
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/383.m3u8$http-refferer=http://localhost
+#EXTINF:0,DE: ZDF NEO HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/300.m3u8$http-refferer=http://localhost
+#EXTINF:0,DE: ZEE ONE
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/299.m3u8$http-refferer=http://localhost
