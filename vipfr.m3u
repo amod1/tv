@@ -15,17 +15,17 @@ https://s4.tntendirect.com/m6/live/chunks.m3u8
 #EXTINF:0,ARTE
 https://s4.tntendirect.com/arte/live/chunks.m3u8
 #EXTINF:0,C8
-https://s4.tntendirect.com/c8/live/chunks.m3u8
+https://s6.tntendirect.com/d8/live/playlist.m3u8
 #EXTINF:0,W9
 https://s4.tntendirect.com/w9/live/chunks.m3u8
 #EXTINF:0,TMC
 https://s4.tntendirect.com/tmc/live/chunks.m3u8
 #EXTINF:0,TFX
-https://s4.tntendirect.com/tfx/live/chunks.m3u8
+https://s2.tntendirect.com/nt1/live/chunks.m3u8
 #EXTINF:0,NRJ12
 https://s4.tntendirect.com/nrj12/live/chunks.m3u8
 #EXTINF:0,BFMTV
-https://s4.tntendirect.com/bfmtv/live/chunks.m3u8
+https://s4.tntendirect.com/bmftv/live/chunks.m3u8
 #EXTINF:0,GULLI
 https://s4.tntendirect.com/gulli/live/chunks.m3u8
 #EXTINF:0,TF1 SERIES FILMS
@@ -35,36 +35,12 @@ https://s7.tntendirect.com/lequipe21/live/chunks.m3u8
 #EXTINF:0,6TER
 https://s4.tntendirect.com/6ter/live/chunks.m3u8
 #EXTINF:0,NUMERO 23
-https://s4.tntendirect.com/numero23/live/chunks.m3u8
+https://s1.tntendirect.com/numero23/live/playlist.m3u8
 #EXTINF:0,RMC DECOUVERTE
 https://s4.tntendirect.com/rmcdecouverte/live/chunks.m3u8
 #EXTINF:0,CHERIE 25
 https://s4.tntendirect.com/cherie25/live/chunks.m3u8
-#EXTINF:0,L'EQUIPE
-https://s4.tntendirect.com/m6/live/chunks.m3u8
-#EXTINF:0,L'EQUIPE
-https://s4.tntendirect.com/m6/live/chunks.m3u8
-#EXTINF:0,L'EQUIPE
-https://s4.tntendirect.com/m6/live/chunks.m3u8
-#EXTINF:0,L'EQUIPE
-https://s4.tntendirect.com/m6/live/chunks.m3u8
-#EXTINF:0,L'EQUIPE
-https://s4.tntendirect.com/m6/live/chunks.m3u8
-#EXTINF:0,L'EQUIPE
-https://s4.tntendirect.com/m6/live/chunks.m3u8
-#EXTINF:0,L'EQUIPE
-https://s4.tntendirect.com/m6/live/chunks.m3u8
-#EXTINF:0,L'EQUIPE
-https://s4.tntendirect.com/m6/live/chunks.m3u8
-#EXTINF:0,L'EQUIPE
-https://s4.tntendirect.com/m6/live/chunks.m3u8
-#EXTINF:0,L'EQUIPE
-https://s4.tntendirect.com/m6/live/chunks.m3u8
-#EXTINF:0,L'EQUIPE
-https://s4.tntendirect.com/m6/live/chunks.m3u8
-#EXTINF:0,L'EQUIPE
-https://s4.tntendirect.com/m6/live/chunks.m3u8
-#EXTINF:0,L'EQUIPE
-https://s4.tntendirect.com/m6/live/chunks.m3u8
-#EXTINF:0,L'EQUIPE
-https://s4.tntendirect.com/m6/live/chunks.m3u8
+#EXTINF:0,RTS Un
+https://s4.tntendirect.com/rts1/live/chunks.m3u8
+#EXTINF:0,RTS Deux
+https://s4.tntendirect.com/rts2/live/chunks.m3u8
