@@ -1,7 +1,7 @@
 #EXTINF:0,=======> France <=======
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/529.m3u8$http-refferer=http://localhost
 #EXTINF:0,FR: TF1
-httphost://$http-raw=https://www.mytvonline.org/fra/frpx/frprx.php/Z2x5cGV8fGh0dHA6Ly80NTZwcm94eS5tbC9iLnBocD91PQ==/tf1livhdsstrike-lh.akamaihd.net/i/strike01_1@97257/index_2328k_av-p.m3u8$http-refferer=http://localhost
+https://www.mytvonline.org/fra/frpx/frprx.php/Z2x5cGV8fGh0dHA6Ly80NTZwcm94eS5tbC9iLnBocD91PQ==/tf1livhdsstrike-lh.akamaihd.net/i/strike01_1@97257/index_2328k_av-p.m3u8
 #EXTINF:0,FR: Cartoon Network HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/520.m3u8$http-refferer=http://localhost
 #EXTINF:0,FR: Discovery Science HD
