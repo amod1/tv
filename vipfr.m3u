@@ -44,3 +44,5 @@ https://s4.tntendirect.com/cherie25/live/chunks.m3u8
 https://s4.tntendirect.com/rts1/live/chunks.m3u8
 #EXTINF:0,RTS Deux
 https://s4.tntendirect.com/rts2/live/chunks.m3u8
+#EXTINF:0,RMC SPORT 1
+https://hls2.heberg.fr/frv2/RMCSport1.m3u8
