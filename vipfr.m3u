@@ -48,7 +48,11 @@ https://s4.tntendirect.com/rts2/live/chunks.m3u8
 http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
 #EXTINF:0,gong
 http://ec.playmedia.fr/gong-base/live/chunklist.m3u8
-#EXTINF:0,X
-httphost://$http-raw=http://channelstream.club/stream/other.php?link=http://1me.club/lx/1/1.html$http-refferer=http://1me.club/lx/1/1.html
-
-
+#EXTINF:0,rtl9
+https://www.mytvonline.org/fra/rtl9/playlist.m3u8
+#EXTINF:0,TV5MONDE FBS
+http://v3fbs247hls-i.akamaihd.net/hls/live/219079/v3fbs247hls/v3fbs247hls_1_2.m3u8
+#EXTINF:0,TV5MONDE ASIE
+https://www.mytvonline.org/fra/tv5asie/01.m3u8
+#EXTINF:0,TV5MONDE EUROPE
+https://cors-anywhere.herokuapp.com/http://streamer-hls.fregat.net/hls/tv5monde_hi/index.m3u8
