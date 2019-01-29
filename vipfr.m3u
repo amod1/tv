@@ -44,7 +44,11 @@ https://s4.tntendirect.com/cherie25/live/chunks.m3u8
 https://s4.tntendirect.com/rts1/live/chunks.m3u8
 #EXTINF:0,RTS Deux
 https://s4.tntendirect.com/rts2/live/chunks.m3u8
-#EXTINF:0,RMC SPORT 1
-httphost://$http-raw=https://mytvonline.org/fr/RMCsp1.php$http-refferer=https://mytvonline.org
-#EXTINF:0,RMC SPORT 1
-httphost://$http-raw=http://hls.giize.com/un?ch=beinsports1$http-refferer=http://hls.giize.com
+#EXTINF:0,gong max
+http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
+#EXTINF:0,gong
+http://ec.playmedia.fr/gong-base/live/chunklist.m3u8
+#EXTINF:0,X
+httphost://$http-raw=http://channelstream.club/stream/other.php?link=http://1me.club/lx/1/1.html$http-refferer=http://1me.club/lx/1/1.html
+
+
