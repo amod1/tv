@@ -56,3 +56,15 @@ http://v3fbs247hls-i.akamaihd.net/hls/live/219079/v3fbs247hls/v3fbs247hls_1_2.m3
 https://www.mytvonline.org/fra/tv5asie/01.m3u8
 #EXTINF:0,TV5MONDE EUROPE
 https://cors-anywhere.herokuapp.com/http://streamer-hls.fregat.net/hls/tv5monde_hi/index.m3u8
+#EXTINF:0,la une
+https://www.mytvonline.org/fra/laune/laune-.m3u8
+#EXTINF:0,la deux
+https://www.mytvonline.org/fra/laune/ladeux-.m3u8
+#EXTINF:0,la trois
+https://www.mytvonline.org/fra/laune/latrois-.m3u8
+#EXTINF:0,rouge tv
+https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
+#EXTINF:0,notele
+https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist.m3u8
+#EXTINF:0,RTL BEL
+https://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8
