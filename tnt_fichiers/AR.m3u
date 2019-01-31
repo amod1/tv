@@ -16,8 +16,6 @@ http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
 http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
 #EXTINF:-1,Medi 1 TV Maghreb
 http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist.m3u8
-#EXTINF:0, ALGERIA 3
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl2YkdFeEwzVnliRDFvZEhSd0pUTkJKVEpHSlRKR056Z3VNVEk1TGpFMU1DNHhNVEFsTTBFM01EY3hKVEpHWVhKMGRYUnRNakExTUNVeVJrRnNaMlZ5YVdFekpUSkdjR3hoZVd4cGMzUXViVE4xT0E9PXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1,Echourouk TV
 http://tv-live.echoroukonline.com/echo/EchoroukTV_SD/playlist.m3u8
 #EXTINF:-1,Echourouk News
@@ -25,85 +23,15 @@ http://tv-live.echoroukonline.com/echo/EchoroukNews_SD/playlist.m3u8
 #EXTINF:-1,Ennahar TV
 http://selevision9887-i.akamaihd.net/hls/live/219290/98874/1.m3u8
 #EXTINF:-1,SAMIRA TV
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl2YkdFeEwzVnliRDFvZEhSd0pUTkJKVEpHSlRKR056Z3VNVEk1TGpFMU1DNHhNVEFsTTBFM01EY3hKVEpHWVhKMGRYUnRNakExTUNVeVJuTmhiV2x5WVhSMkpUSkdjR3hoZVd4cGMzUXViVE4xT0E9PXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,BEUR TV
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl2YkdFeEwzVnliRDFvZEhSd0pUTkJKVEpHSlRKR056Z3VNVEk1TGpFMU1DNHhNVEFsTTBFM01EY3hKVEpHWVhKMGRYUnRNakExTUNVeVJtSmxkWEowZGlVeVJuQnNZWGxzYVhOMExtMHpkVGc9fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,TELVZA TV
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl2YkdFeEwzVnliRDFvZEhSd0pUTkJKVEpHSlRKR01UUTVMakV3TUM0eE1DNHhPRFlsTTBFNE1EQXdKVEpHY0d4aGVTVXlSbUV3Tkc4PXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
+http://streaming.i-sat.tv:8081/livestream/samira1/chunks.m3u8
 #EXTINF:0, Tunsia Nat 1 Arabic
 httphost://$http-raw=https://www.youtube.com/watch?v=iIIYD0DS4qM$http-refferer=https://www.youtube.com/
 #EXTINF:0, Tunsia Nat 2 Arabic
 httphost://$http-raw=https://www.youtube.com/watch?v=xhSnoQpDd1M$http-refferer=https://www.youtube.com/
 #EXTINF:0, El Hiwar Ettounsi
 https://live.vimeocdn.com/1546117005-0xe262f780899dd51d2083fd2814dbb34b429972c5/a73765de-ad91-4ec6-81f7-2edce7562a99/chunklist.m3u8
-#EXTINF:0, Tunsia TV Arabic
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwd12QzAAAOAHynGoRH4uXFQSJtH2rJjuagctXWuMWrM5Hn7fV%2fexCRd5HBNVsRGYdNgJV4qFgD0tKaQ%2f98UJNJ2Pm%2folkV5rxn04ZU3EzbFE1EUXpdAXs7F4yu%2bcmGu5pFAVakndG1MPj8eRhrA9Gy5ms4FVp1l1mpzTW65JMX2G0fzLhP1eg0f%2fh7oUs77tX4Hx%2fZWLw8ehscS4CzDjsls94nLuQmiRcEstRJBjMYyQ5XiYEeHJADFnBUV%2fRh52QJLHmHU6um2njF5hMWbJoFRjP4eL1tl4x9L%2fBzR31cH7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1,ATTESSIA TV
 httphost://$http-raw=https://www.youtube.com/watch?v=3tu9asjEHAs$http-refferer=https://www.youtube.com/
-#EXTINF:-1,Nessma
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl2YkdFeEwzVnliRDFvZEhSd0pUTkJKVEpHSlRKR056Z3VNVEk1TGpFMU1DNHhNVEFsTTBFM01EY3hKVEpHWVhKMGRYUnRNakExTUNVeVJtNWxjM050WVhSMkpUSkdjR3hoZVd4cGMzUXViVE4xT0E9PXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,AL INSEN TV
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl2YkdFeEwzVnliRDFvZEhSd0pUTkJKVEpHSlRKR01UUTVMakV3TUM0eE1DNHhPRFlsTTBFNE1EQXdKVEpHY0d4aGVTVXlSbUV3TkhJPXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,AL MAGHARIBIA
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl2YkdFeEwzVnliRDFvZEhSd0pUTkJKVEpHSlRKR01UUTVMakV3TUM0eE1DNHhPRFlsTTBFNE1EQXdKVEpHY0d4aGVTVXlSbUV3TlhFPXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,AL MAGHARIBIA 2
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl2YkdFeEwzVnliRDFvZEhSd0pUTkJKVEpHSlRKR01UUTVMakV3TUM0eE1DNHhPRFlsTTBFNE1EQXdKVEpHY0d4aGVTVXlSbUV3TlhJPXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,AL JANOUBIA TV
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl2YkdFeEwzVnliRDFvZEhSd0pUTkJKVEpHSlRKR01UUTVMakV3TUM0eE1DNHhPRFlsTTBFNE1EQXdKVEpHY0d4aGVTVXlSbUV3TkhBPXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,CBC
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl2YkdFeEwzVnliRDFvZEhSd0pUTkJKVEpHSlRKR056Z3VNVEk1TGpFMU1DNHhNVEFsTTBFM01EY3hKVEpHWVhKMGRYUnRNakExTUNVeVJtTmlZeVV5Um5Cc1lYbHNhWE4wTG0wemRUZz18WVhVMU5YVmFXSG80VTJwSk4yYzRYdz09fDU3MkNDMjMzLTdGQTgtNDc0MC05NjQ0LTA1Njk3RDVFQjQ5MHxSRU4zZUE9PQ%3D%3D$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,CBC SOFRA
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl2YkdFeEwzVnliRDFvZEhSd0pUTkJKVEpHSlRKR01UUTVMakV3TUM0eE1DNHhPRFlsTTBFNE1EQXdKVEpHY0d4aGVTVXlSbUV3TlRFPXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,CBC DRAMA
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl2YkdFeEwzVnliRDFvZEhSd0pUTkJKVEpHSlRKR01UUTVMakV3TUM0eE1DNHhPRFlsTTBFNE1EQXdKVEpHY0d4aGVTVXlSbUV3TkhrPXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,ART AFLAM 1
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl2YkdFeEwzVnliRDFvZEhSd0pUTkJKVEpHSlRKR056Z3VNVEk1TGpFMU1DNHhNVEFsTTBFM01EY3hKVEpHWVhKMGRYUnRNakExTUNVeVJtRnlkR0ZtYkdGdE1TVXlSbkJzWVhsc2FYTjBMbTB6ZFRnPXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,ART AFLAM 2
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl2YkdFeEwzVnliRDFvZEhSd0pUTkJKVEpHSlRKR056Z3VNVEk1TGpFMU1DNHhNVEFsTTBFM01EY3hKVEpHWVhKMGRYUnRNakExTUNVeVJtRnlkR0ZtYkdGdE1pVXlSbkJzWVhsc2FYTjBMbTB6ZFRnPXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,ART CINEMA
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl2YkdFeEwzVnliRDFvZEhSd0pUTkJKVEpHSlRKR056Z3VNVEk1TGpFMU1DNHhNVEFsTTBFM01EY3hKVEpHWVhKMGRYUnRNakExTUNVeVJtRnlkR05wYm1WdFlTVXlSbkJzWVhsc2FYTjBMbTB6ZFRnPXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,ART HEKAYAT 1
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl2YkdFeEwzVnliRDFvZEhSd0pUTkJKVEpHSlRKR056Z3VNVEk1TGpFMU1DNHhNVEFsTTBFM01EY3hKVEpHWVhKMGRYUnRNakExTUNVeVJtRnlkR2hsYTJGNVlYUWxNa1p3YkdGNWJHbHpkQzV0TTNVNHxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,ART HEKAYAT 2
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl2YkdFeEwzVnliRDFvZEhSd0pUTkJKVEpHSlRKR056Z3VNVEk1TGpFMU1DNHhNVEFsTTBFM01EY3hKVEpHWVhKMGRYUnRNakExTUNVeVJtRnlkR2hsYTJGNVlYUXlKVEpHY0d4aGVXeHBjM1F1YlROMU9BPT18WVhVMU5YVmFXSG80VTJwSk4yYzRYdz09fDU3MkNDMjMzLTdGQTgtNDc0MC05NjQ0LTA1Njk3RDVFQjQ5MHxSRU4zZUE9PQ%3D%3D$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,AL NAHAR
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl2YkdFeEwzVnliRDFvZEhSd0pUTkJKVEpHSlRKR056Z3VNVEk1TGpFMU1DNHhNVEFsTTBFM01EY3hKVEpHWVhKMGRYUnRNakExTUNVeVJtRnNibUZvWVhJbE1rWndiR0Y1YkdsemRDNXRNM1U0fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,AL NAHAR DRAMA
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl2YkdFeEwzVnliRDFvZEhSd0pUTkJKVEpHSlRKR056Z3VNVEk1TGpFMU1DNHhNVEFsTTBFM01EY3hKVEpHWVhKMGRYUnRNakExTUNVeVJtRnNibUZvWVhKa2NtRnRZU1V5Um5Cc1lYbHNhWE4wTG0wemRUZz18WVhVMU5YVmFXSG80VTJwSk4yYzRYdz09fDU3MkNDMjMzLTdGQTgtNDc0MC05NjQ0LTA1Njk3RDVFQjQ5MHxSRU4zZUE9PQ%3D%3D$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,EXTRA NEWS
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl2YkdFeEwzVnliRDFvZEhSd0pUTkJKVEpHSlRKR01UUTVMakV3TUM0eE1DNHhPRFlsTTBFNE1EQXdKVEpHY0d4aGVTVXlSbUV3TlRBPXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,ON E
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl2YkdFeEwzVnliRDFvZEhSd0pUTkJKVEpHSlRKR01UUTVMakV3TUM0eE1DNHhPRFlsTTBFNE1EQXdKVEpHY0d4aGVTVXlSbUV3Tm1rPXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,ON SPORTS
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl2YkdFeEwzVnliRDFvZEhSd0pUTkJKVEpHSlRKR056Z3VNVEk1TGpFMU1DNHhNVEFsTTBFM01EY3hKVEpHWVhKMGRYUnRNakExTUNVeVJtOXVjM0J2Y25SekpUSkdjR3hoZVd4cGMzUXViVE4xT0E9PXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,ON SPORT 2
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl2YkdFeEwzVnliRDFvZEhSd0pUTkJKVEpHSlRKR01UUTVMakV3TUM0eE1DNHhPRFlsTTBFNE1EQXdKVEpHY0d4aGVTVXlSbUV3Tm1nPXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,ON DRAMA
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl2YkdFeEwzVnliRDFvZEhSd0pUTkJKVEpHSlRKR01UUTVMakV3TUM0eE1DNHhPRFlsTTBFNE1EQXdKVEpHY0d4aGVTVXlSbUV3Tm1zPXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,DMC
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl2YkdFeEwzVnliRDFvZEhSd0pUTkJKVEpHSlRKR056Z3VNVEk1TGpFMU1DNHhNVEFsTTBFM01EY3hKVEpHWVhKMGRYUnRNakExTUNVeVJtUnRZeVV5Um5Cc1lYbHNhWE4wTG0wemRUZz18WVhVMU5YVmFXSG80VTJwSk4yYzRYdz09fDU3MkNDMjMzLTdGQTgtNDc0MC05NjQ0LTA1Njk3RDVFQjQ5MHxSRU4zZUE9PQ%3D%3D$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,DMC DRAMA
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl2YkdFeEwzVnliRDFvZEhSd0pUTkJKVEpHSlRKR01UUTVMakV3TUM0eE1DNHhPRFlsTTBFNE1EQXdKVEpHY0d4aGVTVXlSbUV3TldvPXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,WANASAH
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl2YkdFeEwzVnliRDFvZEhSd0pUTkJKVEpHSlRKR01UUTVMakV3TUM0eE1DNHhPRFlsTTBFNE1EQXdKVEpHY0d4aGVTVXlSbUV3TTI4PXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,OSCAR TV
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl2YkdFeEwzVnliRDFvZEhSd0pUTkJKVEpHSlRKR01UUTVMakV3TUM0eE1DNHhPRFlsTTBFNE1EQXdKVEpHY0d4aGVTVXlSbUV3TkhZPXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,SPACETOON
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl2YkdFeEwzVnliRDFvZEhSd0pUTkJKVEpHSlRKR056Z3VNVEk1TGpFMU1DNHhNVEFsTTBFM01EY3hKVEpHWVhKMGRYUnRNakExTUNVeVJuTndZV05sZEc5dmJpVXlSbkJzWVhsc2FYTjBMbTB6ZFRnPXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,CN ARABIC
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl2YkdFeEwzVnliRDFvZEhSd0pUTkJKVEpHSlRKR056Z3VNVEk1TGpFMU1DNHhNVEFsTTBFM01EY3hKVEpHWVhKMGRYUnRNakExTUNVeVJtTmhjblJ2YjI1aGNtRmlhV01sTWtad2JHRjViR2x6ZEM1dE0zVTR8WVhVMU5YVmFXSG80VTJwSk4yYzRYdz09fDU3MkNDMjMzLTdGQTgtNDc0MC05NjQ0LTA1Njk3RDVFQjQ5MHxSRU4zZUE9PQ%3D%3D$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,BARAEEM TV
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl2YkdFeEwzVnliRDFvZEhSd0pUTkJKVEpHSlRKR056Z3VNVEk1TGpFMU1DNHhNVEFsTTBFM01EY3hKVEpHWVhKMGRYUnRNakExTUNVeVJtSmhjbUZsYlhSMkpUSkdjR3hoZVd4cGMzUXViVE4xT0E9PXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,MAJID KIDS
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl2YkdFeEwzVnliRDFvZEhSd0pUTkJKVEpHSlRKR056Z3VNVEk1TGpFMU1DNHhNVEFsTTBFM01EY3hKVEpHWVhKMGRYUnRNakExTUNVeVJtMWhhbWxrYTJsa2N5VXlSbkJzWVhsc2FYTjBMbTB6ZFRnPXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,JEEM TV
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl2YkdFeEwzVnliRDFvZEhSd0pUTkJKVEpHSlRKR05EVXVOakl1TWpBMkxqVXdKVE5CT0RBNE1TVXlSbUZ5ZEhWMGJUSXdOVEFsTWtacVpXVnRkSFlsTWtad2JHRjViR2x6ZEM1dE0zVTR8WVhVMU5YVmFXSG80VTJwSk4yYzRYdz09fDU3MkNDMjMzLTdGQTgtNDc0MC05NjQ0LTA1Njk3RDVFQjQ5MHxSRU4zZUE9PQ%3D%3D$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,MICKEY TV
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl2YkdFeEwzVnliRDFvZEhSd0pUTkJKVEpHSlRKR056Z3VNVEk1TGpFMU1DNHhNVEFsTTBFM01EY3hKVEpHWVhKMGRYUnRNakExTUNVeVJtMXBZMnRsZVhSMkpUSkdjR3hoZVd4cGMzUXViVE4xT0E9PXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,BEIN JUNIOR
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl2YkdFeEwzVnliRDFvZEhSd0pUTkJKVEpHSlRKR05EVXVOakl1TWpBMkxqVXdKVE5CT0RBNE1TVXlSbUZ5ZEhWMGJUSXdOVEFsTWtaaVpXbHVhbklsTWtad2JHRjViR2x6ZEM1dE0zVTR8WVhVMU5YVmFXSG80VTJwSk4yYzRYdz09fDU3MkNDMjMzLTdGQTgtNDc0MC05NjQ0LTA1Njk3RDVFQjQ5MHxSRU4zZUE9PQ%3D%3D$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,BABY CHANNELS
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl2YkdFeEwzVnliRDFvZEhSd0pUTkJKVEpHSlRKR01UUTVMakV3TUM0eE1DNHhPRFlsTTBFNE1EQXdKVEpHY0d4aGVTVXlSbUV3TlhVPXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
 
 #EXTINF:-1,Libya Channel
 http://starmena.ercdn.net/libyaschannel/libyaschannel_480p.m3u8
@@ -125,20 +53,6 @@ http://streaming.i-sat.tv:1935/live/libyaelwatan/chunklist_w391917388.m3u8
 http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8
 #EXTINF:-1,Future TV
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
-#EXTINF:-1,NBN TV
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl2YkdFeEwzVnliRDFvZEhSd0pUTkJKVEpHSlRKR056Z3VNVEk1TGpFMU1DNHhNVEFsTTBFM01EY3hKVEpHWVhKMGRYUnRNakExTUNVeVJtNWliblIySlRKR2NHeGhlV3hwYzNRdWJUTjFPQT09fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,OTV
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl2YkdFeEwzVnliRDFvZEhSd0pUTkJKVEpHSlRKR056Z3VNVEk1TGpFMU1DNHhNVEFsTTBFM01EY3hKVEpHWVhKMGRYUnRNakExTUNVeVJtOTBkaVV5Um5Cc1lYbHNhWE4wTG0wemRUZz18WVhVMU5YVmFXSG80VTJwSk4yYzRYdz09fDU3MkNDMjMzLTdGQTgtNDc0MC05NjQ0LTA1Njk3RDVFQjQ5MHxSRU4zZUE9PQ%3D%3D$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,MTV
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl2YkdFeEwzVnliRDFvZEhSd0pUTkJKVEpHSlRKR056Z3VNVEk1TGpFMU1DNHhNVEFsTTBFM01EY3hKVEpHWVhKMGRYUnRNakExTUNVeVJtMTBkbXhsWWlVeVJuQnNZWGxzYVhOMExtMHpkVGc9fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,LBC TV
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl2YkdFeEwzVnliRDFvZEhSd0pUTkJKVEpHSlRKR056Z3VNVEk1TGpFMU1DNHhNVEFsTTBFM01EY3hKVEpHWVhKMGRYUnRNakExTUNVeVJteGlZM1IySlRKR2NHeGhlV3hwYzNRdWJUTjFPQT09fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,AL JADEED
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl2YkdFeEwzVnliRDFvZEhSd0pUTkJKVEpHSlRKR056Z3VNVEk1TGpFMU1DNHhNVEFsTTBFM01EY3hKVEpHWVhKMGRYUnRNakExTUNVeVJtRnNhbUZrWldWa0pUSkdjR3hoZVd4cGMzUXViVE4xT0E9PXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,LDC
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl2YkdFeEwzVnliRDFvZEhSd0pUTkJKVEpHSlRKR056Z3VNVEk1TGpFMU1DNHhNVEFsTTBFM01EY3hKVEpHWVhKMGRYUnRNakExTUNVeVJteGtZeVV5Um5Cc1lYbHNhWE4wTG0wemRUZz18WVhVMU5YVmFXSG80VTJwSk4yYzRYdz09fDU3MkNDMjMzLTdGQTgtNDc0MC05NjQ0LTA1Njk3RDVFQjQ5MHxSRU4zZUE9PQ%3D%3D$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,AL MANAR
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl2YkdFeEwzVnliRDFvZEhSd0pUTkJKVEpHSlRKR056Z3VNVEk1TGpFMU1DNHhNVEFsTTBFM01EY3hKVEpHWVhKMGRYUnRNakExTUNVeVJtRnNiV0Z1WVhJbE1rWndiR0Y1YkdsemRDNXRNM1U0fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1,Syrian TV
 http://82.137.248.16:1935/Sat/stream20112018/media.m3u8
 #EXTINF:-1, AlikhbariaTV
@@ -285,25 +199,85 @@ http://adtv.ercdn.net/adalemarat/adalemarat.m3u8
 http://adtv.ercdn.net/adsport1/adsport1.m3u8
 #EXTINF:-1,Abu Dhabi Sports 2 
 http://adtv.ercdn.net/adsport2/adsport2.m3u8
-#EXTINF:-1,Abu Dhabi Sports 3
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl2YkdFMUwzVnliRDFvZEhSd0pUTkJKVEpHSlRKR056Z3VNVFF5TGpFNUxqVTFKVE5CTnpBM01TVXlSblZ6WVhOd01qQTFNQ1V5Um1GaWRXUm9ZV0pwYzNCdmNuUXpKVEpHYlhCbFp5NHlkSE09fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,Abu Dhabi Sports 4
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl2YkdFMUwzVnliRDFvZEhSd0pUTkJKVEpHSlRKR056Z3VNVFF5TGpFNUxqVTFKVE5CTnpBM01TVXlSblZ6WVhOd01qQTFNQ1V5Um1GaWRXUm9ZV0pwYzNCdmNuUTBKVEpHYlhCbFp5NHlkSE09fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,Abu Dhabi Sports 5
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl2YkdFMUwzVnliRDFvZEhSd0pUTkJKVEpHSlRKR056Z3VNVFF5TGpFNUxqVTFKVE5CTnpBM01TVXlSblZ6WVhOd01qQTFNQ1V5Um1GaWRXUm9ZV0pwYzNCdmNuUTFKVEpHYlhCbFp5NHlkSE09fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,Abu Dhabi Sports 6
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl2YkdFeEwzVnliRDFvZEhSd0pUTkJKVEpHSlRKR01UZzFMakl4TGpJeE55NHhNeVV6UVRjd056RWxNa1ppWkhCaU1qQXpNQ1V5UmtGaWRVUm9ZV0pwVTNCdmNuUTJKVEpHY0d4aGVXeHBjM1F1YlROMU9BPT18WVhVMU5YVmFXSG80VTJwSk4yYzRYdz09fDU3MkNDMjMzLTdGQTgtNDc0MC05NjQ0LTA1Njk3RDVFQjQ5MHxSRU4zZUE9PQ%3D%3D$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1,Al Aan
 http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist.m3u8
 #EXTINF:-1,Fox Movies
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1,Fox Action Movies
-http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8?fluxustv.m3u8
+https://hls.heberg.fr/frv2/starmoviesae.m3u8
 #EXTINF:-1,National Geographic
 http://adtv.ercdn.net/adnatgeo/adnatgeo.m3u8
 #EXTINF:-1,Al Sharqiya
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
-#EXTINF:0, Fatafeat TV Arabic
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwclugkAAANAPMoSBWTlwoMNagmEtyE3QaaBDRhEFjB%2ff96IbGe%2ft4%2fQLdcdLrrOoCG%2fLvGAMq1zIdl2xkBtqiUjUvhbzZszJpXP7M6ohjxDJPOCzdOpf5jYGg5xDc%2bjSBuZh6R2VXujFGoHaetKQvisISVnExnaU4v469LhTo4q%2b8xs0fiiv9QzISXZxzCzHtj%2bIIe0ydZKvDUnfUfDB1OTchFCjvsM0RBHQLIKQBjCxqIu9L2SBT7agfX4qdBWlmYDHdlBn3IgBVlz8scXzOXGcnQTuEpzsfw6ZZHf7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, ZEE ALWAN Arabic
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwcdugzAAANAvQtgMjwMH9mhKMWKllyhlBUwQZaYRH9%2f3PDX%2f7too2xLDr%2b2iGSJHrPM%2fNG91jGvJGnXa81jWDfPyEa3dvLAYSmVUWSEuhxcjd3eiuu031chb0%2b0wbN9AvbIdrfAtSgQ4PeLDUAXTgdL8VYTKdRl%2f0jnMv0bCD4OJtIRPTg6%2fDJY4DSa2rSRsNe18NvdsSqB%2bu70SOD68U8WSaUqyLGBHJ4KCFSBQpCgCUBHFlmobCgWnxYPNBWTJ%2bq0OnZ3POSqrBRJvN9NCx%2bxxGQlxrab9%2fdT%2bAT5xSzL7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1,Rotana-Classic
+http://streaming.i-sat.tv:1935/livestream/rtca/chunklist.m3u8
+#EXTINF:-1,Rotana-clip
+http://streaming.i-sat.tv:1935/livestream/rtcp/chunklist.m3u8
+#EXTINF:-1,CBC-Sofra
+http://streaming.i-sat.tv:1935/livestream/csofra/playlist.m3u8
+#EXTINF:-1,Cbc-TV
+http://streaming.i-sat.tv:1935/livestream/cbcone/chunklist.m3u8
+#EXTINF:-1,Cbc-Drama
+http://streaming.i-sat.tv:1935/livestream/cbc/chunklist.m3u8
+#EXTINF:-1,Saudi-Quraan
+http://streaming.i-sat.tv:8081/livestream/quran/chunks.m3u8
+#EXTINF:-1,Roya-Tv
+http://streaming.i-sat.tv:1935/livestream/Roya/chunklist.m3u8
+#EXTINF:-1,Jordan-Today-Tv
+http://streaming.i-sat.tv:1935/livestream/ALordonAlyoom/chunklist.m3u8
+#EXTINF:-1,Kifa-TV
+http://streaming.i-sat.tv:1935/livestream/kifa.stream_360p/chunklist.m3u8
+#EXTINF:-1,Spacetoon
+http://streaming.i-sat.tv:8081/livestream/spacetooon/chunks.m3u8
+#EXTINF:-1,Palestine-Today
+http://streaming.i-sat.tv:8081/livestream/palestinetoday/chunks.m3u8
+#EXTINF:-1,Music Alhaneen
+http://streaming.i-sat.tv:1935/livestream/MusicAl-haneen/chunklist.m3u8
+#EXTINF:-1,Toyour-Jana
+http://streaming.i-sat.tv:8081/livestream/toyourjanaa/chunks.m3u8
+#EXTINF:-1,ALFA CINEMA 1
+http://streaming.i-sat.tv:8081/livestream/osnm/chunks.m3u8
+#EXTINF:-1,Future-TV
+http://streaming.i-sat.tv:8081/livestream/future/chunks.m3u8
+#EXTINF:-1,Tele-Liban
+http://streaming.i-sat.tv:8081/livestream/teleliban/chunks.m3u8
+#EXTINF:-1,mtv lebanon
+https://svs.itworkscdn.net/mtvlebanonlive/smil:mtvlive.smil/chunklist.m3u8
+#EXTINF:-1,otv lebanon
+https://svs.itworkscdn.net/otvlebanonlive/otv.smil/chunklist_t64TFE=.m3u8
+#EXTINF:-1,nbnlive
+https://cllive.itworkscdn.net/nbnlive/token=nva=1548976701~dirs=1~hash=07b0bd9153fa7f7057bd7/nbnhd/chunklist.m3u8
+#EXTINF:-1,teleliban
+http://185.27.116.54:8081/livestream/teleliban/chunks.m3u8
+#EXTINF:-1,alfajer tv
+http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/chunks.m3u8
+#EXTINF:-1,maannews
+maannews
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
