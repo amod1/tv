@@ -251,8 +251,8 @@ https://cllive.itworkscdn.net/nbnlive/token=nva=1548976701~dirs=1~hash=07b0bd915
 http://185.27.116.54:8081/livestream/teleliban/chunks.m3u8
 #EXTINF:-1,alfajer tv
 http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/chunks.m3u8
-#EXTINF:-1,maannews
-maannews
+#EXTINF:-1,mBC
+http://livecdnh2.tvanywhere.ae/ss/mbc1.isml/Manifest?v=1765965858
 #EXTINF:-1,
 
 #EXTINF:-1,
