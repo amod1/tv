@@ -68,3 +68,51 @@ https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist.m3u8
 #EXTINF:0,RTL BEL
 https://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8
+#EXTINF:0,CANAL+
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwcEOgiAYAOAHakzTH5GDB0GXLhcwy2E3GpEeUjPs5MP3fTyCj2ib9XTQ1fCczhbTUDoiJ7O02ovf%2fOr8ePU%2bGPpsH7fYboUmAj8c0gzvCTnmJMUY8YiVCArIUcoBEPAioYwSHuN4b2tXraW6bG651dQ4b52i8ptGXa7uTS1s%2bIZglXNjVPYH6pow6Y8AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,CANAL+CINEMA
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdsKgjAAANAvGmSbm3vwYTdvVMsQh0%2bBOG1q2Q2a4Md3jsqkL9c2n%2bFDcvy%2bmJsNdoz65TOes1rPXV%2b0GUNOiSHeONHT4PrC6rEgX3jdMAkYicIQiD1XAEnEQCQQAkhITDklAoZw06X1FlclTaqOmmQ1p%2fvBOzd3aUom9Tym9ZC%2ffo3kcon%2fDwNxIo8AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,CANAL+SERIES
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdsOgiAAANAPYkxT8PLgg0C1JTOzMnw0NstG80KQNj%2b%2bc5o60ycukBqXdq9ejf26dBrzwXOG470TVY8vYIk%2b0mc6WedDsfBfaoztYaeCdg3CTRpGGEPqkS1EDKUwoghBRFkQkzikPvZX0JQ2y21Z9VwVkwbzzcTdU5w158SqBwDurnbetZXymvwBubSm748AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,CANAL+SPORT
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwd0KgjAYANAHkqG1zW0XXmzfQgTLWYrYXf5ExSrSWQo%2bfOdM2jnsGS7srVrkc%2fLP3m%2be2atIxsC%2fY73QwO0r8U1bEq3Q0RKWQ2fqY5%2fHn2IN2UYyTimCrdohoolEHAhBBHQolGCAKV6vk7Vp1zYJfw9WltwMTW6CkRfp3MeZzlx98UDVpwdLoj9O7MQOjwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,CINE+CLASSIC
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdEOgiAUANAPcizFi%2bCDD4KtaUgSmltvjpmW2VqsWs6P75zOqY2SHbN46DU2LHoug7J0bL%2bpKOQiPW93Dmz8MFAmq%2bizWfvk1zh0NO9qXCMapJQRggTmWwQZpIgJAAQii2IeUxGScC0%2byrvjglWV6m%2f53LQlTK3v13ICLW2tTya%2fHvYX9%2bIu%2bQOLtQUHjwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,CINE+EMOTION
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdsOgiAAANAPcswMUHnwAcFymg3TpHpTy0uOealmNj%2b%2bc0b6mGAkl%2fcnOA%2fHWo99TVPtRt1lPjxfWKRefo1JMUpeOmuvqoXMp0al5a8RHV1Ny6CWjTFgW9cDiCMKbIYQQIybxCUWgxiuExXwsusKEUQhTW5RJXg29uHXgCasDnoyaX5rt%2fs6U7PzB6lvR%2bSPAAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,CINE+FRISSON
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdsOgiAAANAPcswMUHnwAcFymg3TpHpTy0uOealmNj%2b%2bc0b6mGAkl%2fcnOA%2fHWo99TVPtRt1lPjxfWKRefo1JMUpeOmuvqoXMp0al5a8RHV1Ny6CWjTFgW9cDiCMKbIYQQIybxCUWgxiuExXwsusKEUQhTW5RJXg29uHXgCasDnoyaX5rt%2fs6U7PzB6lvR%2bSPAAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,CINE+PREMIER
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdEKgjAUANAvGjM3nffBh%2b1qaqImuSG9JZUkmUmYGn5858ivlem8XKJUh4LWmVZvu85Z3PbTrzOf5JoeqiFqWVYM%2foaFgmZ64sgbvS6V2lyxk8JzHIK2CgkPuCQeck44Bi4oEMgctiGoAuBc0pcFNxPfyyifqSVc0z0SWa97Tc1p7u3LeGz9PxKrQrWPAAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,CNENEWS
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/ewAAAB%2bLCAAAAAAABAAFwcEOgiAAANAPYswSEDhwAHSzYXNp0%2bktPIizskWmbXx879mJdbEHt%2f2TN8vJl9GMzNK2%2fB0BA%2fSazyP73S%2f9AfhOhGJoJjysWTV%2bq62WRUjoUVJGCNSxyiBOsYRMYwyxThOuONWIoFAj9Tz7hyuddy%2bidmvsVW5C%2fAFISmaYewAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,COMEDIE+
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdsKgjAAANAPklHu6h580E3FsiyatnyJNLqZmKFTwo%2fvnOOThhBFarBUxcJucmQKc570i6hWbdxKVY6ppelyupzcedTvMtsFm%2buh727r%2fXmmzPaYQwgQ0A8AltgDjsAYYCEp9zkTiKC5hi%2bt86lhuuciIUWZ4dhsvzK5rz7Nz6iHQYM12gXLK%2fcPdh9Sqo8AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,CSTAR
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwWETQjAYAOAf1O0aNts%2b%2bMCLdFKiib515RTnOrYTnR%2ff88TV9vdYEqYaDLm8i6nVp64r%2bJXG%2bNKT8axuqpxqmkjsrMsYvLkEuw4HEbb6tdrMcBmnFIHpBYj4xEUcCEEEfFt4goFFrXWTzuXue9DF9JzZR%2bVGm%2fI%2bgiHZH6MuM40mU30lZ1UM2PkDGdGebY8AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,DISCOERY SCIENCE
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/owAAAB%2bLCAAAAAAABAAFwd0KgjAYANAHGqJz35y76GL%2bLE38DRt6F0VqSjNIQfHhO8eCM0WiWRDpt%2btUkTQnVoPCbleFeWlN1ZV9s%2bO5iBw4HQKPWbrLm%2bzsX51JfDgMC%2bZSavi2FxoQgDBcH8AAP3C4x5lPKDkGc4toFo9hEnMVV%2bKJdPuY5NC9ZJ8sb5qz0q30XNaf1fVU2gLWWvXTXa0Bx7%2bv%2fQcfg0ymowAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,INFOSPORT+
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwd0KgjAYANAHkpE%2f2z698MJtXogiM1tlN6EM1EKN1Fnhw3eOscrOLb3RNbJwBl7LFC%2fvZotAlQ1sMkkhHjR5VtZsh%2fuW40%2bn6vs6aa7zItspOBH4hCDushhhgSPkc4wR5oIGLADuEW%2b%2fXGuLLultPsDrnIyZ%2bRlpn5jqq0Gsbf%2fwp6PRrfhSNYV%2fMof8Bo8AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,OCS GEANTS
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwU0PgiAYAOAf5DiILygHD4g6dPODZeq6qRxyVtKWjZg%2fvufBTHlvr2W4jObtMD8zVrVbqfRuvJ4fvqrM1MoF60Dz%2bCzpChYN1uzP%2fqOn%2fqShz8OIECRwkiFIgaNIACAQKWUJC0VAgrNT3ZIVruSyUBOsjRvdTvJFmCMfXtsGX5pAc7%2fY1l7jP2IsGMiPAAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,PLANETE+
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwcsKgkAUANAPisHUO95x4WIevsUxJamlGqExFJhmgR%2ffOaYt041VWTe858PxF0cbryemThzrVYzPrGyi%2fOuYpi9ewb62M7OzKZ6iGR9JDruHNkdGKZGOCAko4IRJAAJSeb7wUbrU3cfSSpY7dy%2fmbA8pFhVSrRvLurVa94sKC5Am7qT4hNfgD%2b4%2f8NqPAAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,PLANETE+ CI
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdEKgjAUANAPkiHq1TsffJhbs4KmZmGvkjM1YYJaI%2fz4zhHFrMZh2rCgXf%2fsZP128VM2Gs2V6q%2fI3dadW4dHF1smu67A%2fxmlmvM6ZN702CP0GNIwJNxPDwQEMEI5AAEuojiNkQdhsB%2br0dOS1a9CWUuZs27K72tsT0t1y0AKLXNrTLaI%2fJ78ARj0qWqPAAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,RMC SPORT 1
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdsOQzAAANAPWppY9frggWKSbcyQ4I1OssWmoiKt%2bPids36M052q15cEhbP8JnkzVDNlrZpbK9KxXoq4GfbBYO0dsMqm1MpZlnuvI3c7CD37lGEMBAwigELkAyYQAkiEhAecChe7x%2bjkPWdrc3nHhOdqijblm72WBX0ImPHnmJTtddDlPdHeH8FvZqSPAAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,RMC SPORT 2
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwcEOgiAYAOAHasypv4AHD4qaqSg1ppObsXSGtUUeqvnwfV%2f7zECOPFfFUl%2bt7XhVDgdSfeKik7P2H6x5wY3o1tJTtAuxbWvtuWj7NUpXasfEjQkNAsS8JEOQQowoA0DAUhwmIWF%2b4O%2bj0xtPlcl5HS%2fSFtjkZuXUSvZejnfhQCc4tN9pmnsT%2fQGWG7FYjwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,RMC SPORT 3
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwd0KgjAYANAHitF033688EK%2fLRFjkaGpN0GQUagUykzx4TvH2sHVT3MXDL1sT5uD3Gm%2fm4O8en%2btaIeU0qlaWaKPRbiB7q%2bZu8UqSbjk02UT0ouk4pygHxsCGiKiEIAAahHEgUTG2eZoznA2j3GQHVLXu6JsPFq3nXoVZwPLMk7l52fX5ZSGf4fTBnOPAAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,RMC SPORT 4
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwckOgjAQANAvagJlOqUHDlC2YIAgi4YLaQ3BaogHUJHw8b4nz3u9UEuyDt3MOPYcfgpzL7KTKFUipq16v6xv35TrmntHoiva%2foYrb9QyRFZ6ILd97jJGJA0iAiH4xJUABGSIIhBcOsw5%2bE1XD7zoPEa1r8m%2byWmGuKW1NmJ8ptABZtiNva8m7w9NXXGNjwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,USHUAIA TV
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwd0KgjAYANAHiqHpPnUXXrjNn8SwxBV2t6TwB3RjWSI%2bfOfkzZy8ba%2b3tTpIM0wmLQXn3e1lNzl1imTjLVR9F7v1GO7nklZPJy3Mmg3zdoHd84%2bRHwAg5tAYYY4jFDCMEWbcI5T4zAV3F628cmD6W2efpjJErdKIH1FWNE6LOmn90Ja1wN3IOfwDsP4OFo8AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,VOYAGE TV
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdsOQzAAANAvaoTeHzzQukWw1EI8rqNbtkkxLBEfv3N0beftMN3GxOUVTTcV7c5vSWUPBzrvRjCSa8ekOU4y%2fyzfuXo%2b7EcXcVtVV3MS6gaUYQyEF0YASRQAJhACSEjCQ04FxPAsM8d6HSyU93XHcVp5s6r6ntSMLbipYn2QsKU9tXzI%2fD98qFnZjwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080$http-refferer=http://linkprotect.xmtvplayer.com
