@@ -58,11 +58,11 @@ https://www.mytvonline.org/fra/tv5asie/01.m3u8
 #EXTINF:0,TV5MONDE EUROPE
 https://cors-anywhere.herokuapp.com/http://streamer-hls.fregat.net/hls/tv5monde_hi/index.m3u8
 #EXTINF:0,la une
-https://www.mytvonline.org/fra/laune/laune-.m3u8
+https://rtbf.l3.freecaster.net/live/rtbf/geo/drm/laune-.m3u8
 #EXTINF:0,la deux
-https://www.mytvonline.org/fra/laune/ladeux-.m3u8
+https://rtbf.l3.freecaster.net/live/rtbf/geo/drm/ladeux-.m3u8
 #EXTINF:0,la trois
-https://www.mytvonline.org/fra/laune/latrois-.m3u8
+https://rtbf.l3.freecaster.net/live/rtbf/geo/drm/latrois-.m3u8
 #EXTINF:0,rouge tv
 https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
 #EXTINF:0,notele
