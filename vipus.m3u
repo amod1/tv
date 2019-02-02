@@ -1,322 +1,38 @@
 #EXTINF:0,=======> USA <=======
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1121.m3u8$http-refferer=http://localhost
-#EXTINF:0,UK: 5USA
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1242.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: USA Network HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1118.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: AMC HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/968.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: BYU TV
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/969.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: CARTOON NETWORK
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/970.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: CBSN HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/971.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: CNBC
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/972.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: DISCCOVERY HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/973.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: DW
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/974.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: Fight HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/975.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: Fox HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/965.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: FXX
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/976.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: HBO Comedy
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/977.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: HBO East
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/978.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: HBO HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/979.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: HBO Signature
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/980.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: HBO Zone
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/981.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: NBA SD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/982.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: NBA TV HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/983.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: NFL Network 1080i
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/967.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: NFL REDZONE SD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/966.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: Showtime 2
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/984.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: SHOWTIME HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/985.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: Showtime West
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/986.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: Starz Cinema
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/987.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: Starz Comedy
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/988.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: Starz East
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/989.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: Starz Encore
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/990.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: Tennis Channel HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/991.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: (SD)NFL: 1
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1014.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: (SD)NFL: 2
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1013.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: (SD)NFL: 3
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1012.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: (SD)NFL: 4
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1011.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: (SD)NFL: 5
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1010.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: (SD)NFL: 6
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1009.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: (SD)NFL: 7
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1008.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: (SD)NFL: 8
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1007.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: (SD)NFL: 9
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1006.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: A&E HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1015.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: Amazing Discoveries HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1016.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: ESPN
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1017.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: NBC XTRA 1 720P
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1018.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: NBC XTRA 2 720P
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1019.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: NBC XTRA 3 720P
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1020.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: NBC XTRA 4 720P
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1021.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: NBC XTRA 5 720P
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1022.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: NBCSN HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/10.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: NFL Network HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1023.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: PAC-12 Arizona
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1024.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: PAC-12 Bay Area
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1025.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: PAC-12 Los Angeles
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1026.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: PAC-12 Oregon
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1027.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: PAC-12 Washington
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1028.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: Poker Central
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1029.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: TLC HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1030.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: Versus HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1031.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: WWE HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1032.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: ABC HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/992.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: ABC NEWS HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/993.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: BRAVO HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/994.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: CBS
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/995.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: COMEDY CENTRAL HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/996.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: CW HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/997.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: ESPN HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/998.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: FOX NEWS HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/999.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: HISTORY HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1000.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: Investigation Discovery
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1001.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: NBC Golf
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1002.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: Network (US)
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1003.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: SYFY HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1004.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: TNT HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1005.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: ANIMAL PLANET HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1077.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: Bloomberg Europe
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1074.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: Bloomberg TV
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1054.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: BNN
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1073.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: Boomerang
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1072.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: C-Span 1
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1078.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: C-Span 2
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1079.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: C-Span 3
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1080.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: CAPITAL TV
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1052.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: Channel 11
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1051.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: Church Channel
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1050.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: CINEMAX ACTION HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1081.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: Cinemax East HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1071.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: Cinemax MoreMax
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1070.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: CNN HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/9.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: CNN US HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1039.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: CW11
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1069.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: Discovery HD Showcase
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1068.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: ESPN 2
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1082.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: ESPN News US HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1038.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: ESPN U HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1037.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: FASHION ONE HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1067.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: Fine Living
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1066.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: FIX TV HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1049.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: FOX 43
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1083.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: Fox Deportes HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1058.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: Fox Soccer Plus HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1057.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: FUEL HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1065.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: HGTV HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1064.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: HSN YT LIVE 1080p HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1053.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: ION Television East HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1036.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: Lifetime Movie Network HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1035.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: MBL HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1085.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: Mello TV
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1048.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: MLB Network
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1086.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: MSG HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1034.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: MSNBC HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1087.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: MTV Rocks
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1063.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: MY9 TV
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1047.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: NBC
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1059.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: NBCSN MATCH TIME LIVE 1 UHD (16/17SEASON)
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1088.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: NBCSN MATCH TIME LIVE 2 UHD (16/17SEASON)
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1089.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: NBCSN MATCH TIME LIVE 3 UHD (16/17SEASON)
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1090.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: NBCSN MATCH TIME LIVE 4 UHD (16/17SEASON)
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1091.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: NFL Network 1
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1075.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: NHL Network
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/13.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: NICKELODEN HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1076.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: Nursery Rhymes (Baby Songs)
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1046.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: Offical Olympic Channel
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1092.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: OUTDOOR CHANNEL HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1062.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: P.B.S Kids
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1045.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: PAG HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1093.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: SEC Network
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1094.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: Smile Of A Child
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1061.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: TBS HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1095.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: THE FLORIDA CHANNEL
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1044.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: VH1 Classic
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1060.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: WEATHERNATION
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1043.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: WGN America HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1033.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: WGN News Chicago
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1042.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: Yes Network
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1041.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: YTV
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1040.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: CA TSN 1*
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/15.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: CA TSN 2
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/16.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: CA TSN 3*
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/17.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: CA TSN 4 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/18.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: CA TSN 5*
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/19.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: AFN MOVIE
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1097.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: AFN NEWS
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1098.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: AFN PRIME ATLANTIC
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1099.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: AFN PRIME PACIFIC
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1100.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: AFN PULSE
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1101.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: AFN SPECTRUM
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1102.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: Cinemax 5 StarMax
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1103.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: Cinemax ActionMax East
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1104.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: Cinemax East
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1105.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: Discovery Science HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1106.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: DIY Network
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1107.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: Food Network HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1108.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: FOXX HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1109.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: FX HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1110.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: H2
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1111.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: HALLMARK
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1112.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: HIFI
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1113.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: MelloTV
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1119.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: National Geographic
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1114.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: NICKELODEN HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1115.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: SPIKE HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1116.m3u8$http-refferer=http://localhost
-#EXTINF:0,US: STARZ EDGE HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1117.m3u8$http-refferer=http://localhost
+#EXTINF:0,US: A&E Network
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwd0KgjAYANAnGkz95rYLL7Z9FmJYw36Yl5Uio4UUrRQfvnPc9tImfhNfPKExulqP6X3evY8tChfDnp%2bb8eCRWxCuWKkVcsqIVU3nUvXFNeeJ4oIxYlJdEkBQRBgAAgZzqSU3GcvWni5gMXwGqR7dNITrsoSbtrT%2fsaqiiK6e%2ffD05UmL4g%2fssPDRjwAAAA%3d%3d$$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,US: ABC
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwc0OQzAAAOAHkkb1Tx0ctIwdRLrINm5lydapCUt0xMPv%2b0ohcmpZPj78jpl9Kfdz1KArWf0fHtX93RbUcLcxrxjiww6ocKeyXq0Di9TBwcIgCTmlQCKRAZKSBHBJCCAyZZGIQokpPvDrlijTmUlrL62mWrVm%2fky9B9VltmO9ffmzh0GFYDbEf0TCdkKPAAAA$$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,US: ABC NEWS
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdEKgjAUANAPipFzd04ffHB3RqHoxLLlW5mIOAwUKcWP75z19dRVYZs4NWrzbx14yZc77bi4aLtyHkbL7TH5RAUbwn2uLtSw35ZpPKv5bXZP0Ej4nBN0ZUxAQUR8BCCAygtkIJBxtjdL%2bpDZOl2T%2ftTmOYVSqGWCA5TUwaOuTb1Jptt7b7rwD6H3p3SPAAAA$$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,US: AMC
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/ewAAAB%2bLCAAAAAAABAAFwdEOgiAUANAPcmwQF5EHHoTr2nSmsmXZo85Wy1aLNB74%2bM75JPjuHWNI53HjEtVQVPMDKDTn7yHUaFIaPPj9bfI6MupCeXqqaW0r35VZTCXLZSYEsTtTEEDISWYBCFhMlVHScsFj0mzeLWN7P9Lfeple%2fXJd607rP6q7VZp7AAAA$$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,US: ANIMAL PLANET
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwc0OQzAAAOAHkibor4OD%2fkWFzlzQm8sktqwWjImH3%2ffJaCfhfZuermyMkX5Fxe9TmdBprNTwPhepg8aU8Tqx9PIt4bYbj%2fzIjerVfhEaZZRhDETMFUASZYAJhAASkiQ8oQJieLkGOu%2bDLw%2b2fVb93D5qVsNuwXYwUlqv2a146XOkqkr%2fK6OjJI8AAAA%3d$$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,US: BBC AMERICA
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdEKgjAUANAPihG6u809%2bKCbkmk6E816CQcrIltKYSh%2bfOekOnEzOey%2fjS2aQfcW%2f0xeGbW18TF4N0wJsRRTOWUj%2bGvUljXDl16Zh9L2qlfKnIB5hCDhhhECCQHyBAACISkPOROY4HUz5x0nNHktxHTD02nPcxSfUghZcqPys4sZzw9Vr6rx7v8BTmRfl48AAAA%3d$$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,US: BEIN SPORTS US
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwWETQjAYAOBftEt5Z3zwga1R17nQpnzpUtFVmxSK8%2bN7nreho1veyCjeaygxxV0mDk79CNPdKHnej6oTz37G76lwpwHkEdKKtaQIEl8Mk0XmHrExRnThLxEw8JBNARBQZjm%2bQ6iJzYl3qjzF1Zlr%2fl0H2fBK2ouxan60aOOKf9j2aoS1CjdjIdw%2fwTT0E48AAAA%3d$$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,US: BET
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwcEOgiAAANAPYkxNFDh4UKBQU8ODq45qLG2ZMmmz%2bfG9d7bqxO2C3LHt%2bokrou3SlmrMwJpvDjEXb%2b0kKD5lJaI9O6LBiFqn5nt%2fDVLtIfZiTIIAskMiIOIohoQhBBHjIU0oZn7g76Yi%2fcP1%2bmnTFOtr5TzzYl7r9wz83y3l0o0pqIVUthHRH%2fotFUKPAAAA$$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,US: BLOOMBERG
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwUkOgyAUANATkQB%2bRBcuAKWTpjZtirI0NrEOVOPQLjx83xtbJ8mYum7Gg8tTA9e2d7o7LkU1e%2fQ0PeS5K7UJtbhF%2b%2fbFhx8YMiGoM4ub3edE8IAxpKhMEMQgUKAAEKjYD2XIlce8vVAvOy0js3xNNpcZMejmbWm5EmerPDfJU%2ff34ILp9on%2bqupbXo8AAAA%3d$$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,US: BOOMERANG
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwUkKgzAUANADScCYH4eFCzNANR1AibQujcE2FNFaqYqH73u4MhvcfxK2VkxetYJNTNB3a%2fPcz%2bIbzg01SghwhXykh3oN5s18OylbaEzKI4xwFsWUIh4wiUBAhmIOgICLMGFJxAklx%2bicujjdl5i0Q7x7n3zpejPWeqntNN4kG3y4nvKZSp3%2bAT4aqoWPAAAA$$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,US: BRAVO
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdsKgjAYAOAHitFq%2f5xeeLHNA6N0WArDm6jIDmieUlF8%2bL5Pb7AKnKGIVGawDvLcHOQ4lSB%2bPRbnoKD3JPpgn6Uhd1cZvapblw69iR%2fkMj1Xi%2b04sylFci98BB5wZEsABNKzHOEwSShZt9e5HnXelUqF1dyKJm4sm9Pv0s6%2bXuB0rIg31v27axL3DyiCSC2PAAAA$$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,US: 
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/$$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,US: 
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/$$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,US: 
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/$$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,US: 
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/$$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,US: 
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/$$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,US: 
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/$$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,US: 
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/$$http-refferer=http://linkprotect.xmtvplayer.com
