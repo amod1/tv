@@ -1,115 +1,265 @@
 #EXTM3U
-#EXTINF:0, TF1
-https://s1.tntendirect.com/tf1/live/chunks.m3u8
-#EXTINF:0,France 2
-https://s4.tntendirect.com/france2/live/chunks.m3u8
-#EXTINF:0,France 3
-https://s4.tntendirect.com/france3/live/chunks.m3u8
-#EXTINF:0,France 4
-https://s4.tntendirect.com/france4/live/chunks.m3u8
-#EXTINF:0,France 5
-https://s4.tntendirect.com/france5/live/chunks.m3u8
-#EXTINF:0,France O
-https://s6.tntendirect.com/franceo/live/chunks.m3u8
-#EXTINF:0,M6
-https://s4.tntendirect.com/m6/live/chunks.m3u8
-#EXTINF:0,ARTE
-https://s4.tntendirect.com/arte/live/chunks.m3u8
-#EXTINF:0,C8
-https://s6.tntendirect.com/d8/live/playlist.m3u8
-#EXTINF:0,W9
-https://s4.tntendirect.com/w9/live/chunks.m3u8
-#EXTINF:0,TMC
-https://s4.tntendirect.com/tmc/live/chunks.m3u8
-#EXTINF:0,TFX
-https://s2.tntendirect.com/nt1/live/chunks.m3u8
-#EXTINF:0,NRJ12
-https://s4.tntendirect.com/nrj12/live/chunks.m3u8
-#EXTINF:0,BFMTV
-https://s4.tntendirect.com/bmftv/live/chunks.m3u8
-#EXTINF:0,GULLI
-https://s4.tntendirect.com/gulli/live/chunks.m3u8
-#EXTINF:0,TF1 SERIES FILMS
-https://s1.tntendirect.com/hd1/live/chunks.m3u8
-#EXTINF:0,L'EQUIPE
-https://s7.tntendirect.com/lequipe21/live/chunks.m3u8
-#EXTINF:0,6TER
-https://s4.tntendirect.com/6ter/live/chunks.m3u8
-#EXTINF:0,NUMERO 23
-https://s1.tntendirect.com/numero23/live/playlist.m3u8
-#EXTINF:0,RMC DECOUVERTE
-https://s4.tntendirect.com/rmcdecouverte/live/chunks.m3u8
-#EXTINF:0,CHERIE 25
-https://s4.tntendirect.com/cherie25/live/chunks.m3u8
-#EXTINF:0,RTS Un
-https://s4.tntendirect.com/rts1/live/chunks.m3u8
-#EXTINF:0,RTS Deux
-https://s4.tntendirect.com/rts2/live/chunks.m3u8
-#EXTINF:0,gong max
-http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
-#EXTINF:0,gong
-http://ec.playmedia.fr/gong-base/live/chunklist.m3u8
-#EXTINF:0,rtl9
-https://www.mytvonline.org/fra/rtl9/playlist.m3u8
-#EXTINF:0,TV5MONDE FBS
-http://v3fbs247hls-i.akamaihd.net/hls/live/219079/v3fbs247hls/v3fbs247hls_1_2.m3u8
-#EXTINF:0,TV5MONDE ASIE
-https://www.mytvonline.org/fra/tv5asie/01.m3u8
-#EXTINF:0,TV5MONDE EUROPE
-https://cors-anywhere.herokuapp.com/http://streamer-hls.fregat.net/hls/tv5monde_hi/index.m3u8
-#EXTINF:0,la une
-https://rtbf.l3.freecaster.net/live/rtbf/geo/drm/laune-.m3u8
-#EXTINF:0,la deux
-https://rtbf.l3.freecaster.net/live/rtbf/geo/drm/ladeux-.m3u8
-#EXTINF:0,la trois
-https://rtbf.l3.freecaster.net/live/rtbf/geo/drm/latrois-.m3u8
-#EXTINF:0,rouge tv
-https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
-#EXTINF:0,notele
-https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist.m3u8
-#EXTINF:0,RTL BEL
-https://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8
-#EXTINF:0,CANAL+
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwcEOgiAYAOAHakzTH5GDB0GXLhcwy2E3GpEeUjPs5MP3fTyCj2ib9XTQ1fCczhbTUDoiJ7O02ovf%2fOr8ePU%2bGPpsH7fYboUmAj8c0gzvCTnmJMUY8YiVCArIUcoBEPAioYwSHuN4b2tXraW6bG651dQ4b52i8ptGXa7uTS1s%2bIZglXNjVPYH6pow6Y8AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0,CANAL+CINEMA
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdsKgjAAANAvGmSbm3vwYTdvVMsQh0%2bBOG1q2Q2a4Md3jsqkL9c2n%2bFDcvy%2bmJsNdoz65TOes1rPXV%2b0GUNOiSHeONHT4PrC6rEgX3jdMAkYicIQiD1XAEnEQCQQAkhITDklAoZw06X1FlclTaqOmmQ1p%2fvBOzd3aUom9Tym9ZC%2ffo3kcon%2fDwNxIo8AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0,CANAL+SERIES
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdsOgiAAANAPYkxT8PLgg0C1JTOzMnw0NstG80KQNj%2b%2bc5o60ycukBqXdq9ejf26dBrzwXOG470TVY8vYIk%2b0mc6WedDsfBfaoztYaeCdg3CTRpGGEPqkS1EDKUwoghBRFkQkzikPvZX0JQ2y21Z9VwVkwbzzcTdU5w158SqBwDurnbetZXymvwBubSm748AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0,CANAL+SPORT
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwd0KgjAYANAHkqG1zW0XXmzfQgTLWYrYXf5ExSrSWQo%2bfOdM2jnsGS7srVrkc%2fLP3m%2be2atIxsC%2fY73QwO0r8U1bEq3Q0RKWQ2fqY5%2fHn2IN2UYyTimCrdohoolEHAhBBHQolGCAKV6vk7Vp1zYJfw9WltwMTW6CkRfp3MeZzlx98UDVpwdLoj9O7MQOjwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0,CINE+CLASSIC
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdEOgiAUANAPcizFi%2bCDD4KtaUgSmltvjpmW2VqsWs6P75zOqY2SHbN46DU2LHoug7J0bL%2bpKOQiPW93Dmz8MFAmq%2bizWfvk1zh0NO9qXCMapJQRggTmWwQZpIgJAAQii2IeUxGScC0%2byrvjglWV6m%2f53LQlTK3v13ICLW2tTya%2fHvYX9%2bIu%2bQOLtQUHjwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0,CINE+EMOTION
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdsOgiAAANAPcswMUHnwAcFymg3TpHpTy0uOealmNj%2b%2bc0b6mGAkl%2fcnOA%2fHWo99TVPtRt1lPjxfWKRefo1JMUpeOmuvqoXMp0al5a8RHV1Ny6CWjTFgW9cDiCMKbIYQQIybxCUWgxiuExXwsusKEUQhTW5RJXg29uHXgCasDnoyaX5rt%2fs6U7PzB6lvR%2bSPAAAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0,CINE+FRISSON
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdsOgiAAANAPcswMUHnwAcFymg3TpHpTy0uOealmNj%2b%2bc0b6mGAkl%2fcnOA%2fHWo99TVPtRt1lPjxfWKRefo1JMUpeOmuvqoXMp0al5a8RHV1Ny6CWjTFgW9cDiCMKbIYQQIybxCUWgxiuExXwsusKEUQhTW5RJXg29uHXgCasDnoyaX5rt%2fs6U7PzB6lvR%2bSPAAAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0,CINE+PREMIER
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdEKgjAUANAvGjM3nffBh%2b1qaqImuSG9JZUkmUmYGn5858ivlem8XKJUh4LWmVZvu85Z3PbTrzOf5JoeqiFqWVYM%2foaFgmZ64sgbvS6V2lyxk8JzHIK2CgkPuCQeck44Bi4oEMgctiGoAuBc0pcFNxPfyyifqSVc0z0SWa97Tc1p7u3LeGz9PxKrQrWPAAAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0,CNENEWS
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/ewAAAB%2bLCAAAAAAABAAFwcEOgiAAANAPYswSEDhwAHSzYXNp0%2bktPIizskWmbXx879mJdbEHt%2f2TN8vJl9GMzNK2%2fB0BA%2fSazyP73S%2f9AfhOhGJoJjysWTV%2bq62WRUjoUVJGCNSxyiBOsYRMYwyxThOuONWIoFAj9Tz7hyuddy%2bidmvsVW5C%2fAFISmaYewAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0,COMEDIE+
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdsKgjAAANAPklHu6h580E3FsiyatnyJNLqZmKFTwo%2fvnOOThhBFarBUxcJucmQKc570i6hWbdxKVY6ppelyupzcedTvMtsFm%2buh727r%2fXmmzPaYQwgQ0A8AltgDjsAYYCEp9zkTiKC5hi%2bt86lhuuciIUWZ4dhsvzK5rz7Nz6iHQYM12gXLK%2fcPdh9Sqo8AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0,CSTAR
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwWETQjAYAOAf1O0aNts%2b%2bMCLdFKiib515RTnOrYTnR%2ff88TV9vdYEqYaDLm8i6nVp64r%2bJXG%2bNKT8axuqpxqmkjsrMsYvLkEuw4HEbb6tdrMcBmnFIHpBYj4xEUcCEEEfFt4goFFrXWTzuXue9DF9JzZR%2bVGm%2fI%2bgiHZH6MuM40mU30lZ1UM2PkDGdGebY8AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0,DISCOERY SCIENCE
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/owAAAB%2bLCAAAAAAABAAFwd0KgjAYANAHGqJz35y76GL%2bLE38DRt6F0VqSjNIQfHhO8eCM0WiWRDpt%2btUkTQnVoPCbleFeWlN1ZV9s%2bO5iBw4HQKPWbrLm%2bzsX51JfDgMC%2bZSavi2FxoQgDBcH8AAP3C4x5lPKDkGc4toFo9hEnMVV%2bKJdPuY5NC9ZJ8sb5qz0q30XNaf1fVU2gLWWvXTXa0Bx7%2bv%2fQcfg0ymowAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0,INFOSPORT+
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwd0KgjAYANAHkpE%2f2z698MJtXogiM1tlN6EM1EKN1Fnhw3eOscrOLb3RNbJwBl7LFC%2fvZotAlQ1sMkkhHjR5VtZsh%2fuW40%2bn6vs6aa7zItspOBH4hCDushhhgSPkc4wR5oIGLADuEW%2b%2fXGuLLultPsDrnIyZ%2bRlpn5jqq0Gsbf%2fwp6PRrfhSNYV%2fMof8Bo8AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0,OCS GEANTS
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwU0PgiAYAOAf5DiILygHD4g6dPODZeq6qRxyVtKWjZg%2fvufBTHlvr2W4jObtMD8zVrVbqfRuvJ4fvqrM1MoF60Dz%2bCzpChYN1uzP%2fqOn%2fqShz8OIECRwkiFIgaNIACAQKWUJC0VAgrNT3ZIVruSyUBOsjRvdTvJFmCMfXtsGX5pAc7%2fY1l7jP2IsGMiPAAAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0,PLANETE+
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwcsKgkAUANAPisHUO95x4WIevsUxJamlGqExFJhmgR%2ffOaYt041VWTe858PxF0cbryemThzrVYzPrGyi%2fOuYpi9ewb62M7OzKZ6iGR9JDruHNkdGKZGOCAko4IRJAAJSeb7wUbrU3cfSSpY7dy%2fmbA8pFhVSrRvLurVa94sKC5Am7qT4hNfgD%2b4%2f8NqPAAAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0,PLANETE+ CI
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdEKgjAUANAPkiHq1TsffJhbs4KmZmGvkjM1YYJaI%2fz4zhHFrMZh2rCgXf%2fsZP128VM2Gs2V6q%2fI3dadW4dHF1smu67A%2fxmlmvM6ZN702CP0GNIwJNxPDwQEMEI5AAEuojiNkQdhsB%2br0dOS1a9CWUuZs27K72tsT0t1y0AKLXNrTLaI%2fJ78ARj0qWqPAAAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0,RMC SPORT 1
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdsOQzAAANAPWppY9frggWKSbcyQ4I1OssWmoiKt%2bPids36M052q15cEhbP8JnkzVDNlrZpbK9KxXoq4GfbBYO0dsMqm1MpZlnuvI3c7CD37lGEMBAwigELkAyYQAkiEhAecChe7x%2bjkPWdrc3nHhOdqijblm72WBX0ImPHnmJTtddDlPdHeH8FvZqSPAAAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0,RMC SPORT 2
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwcEOgiAYAOAHasypv4AHD4qaqSg1ppObsXSGtUUeqvnwfV%2f7zECOPFfFUl%2bt7XhVDgdSfeKik7P2H6x5wY3o1tJTtAuxbWvtuWj7NUpXasfEjQkNAsS8JEOQQowoA0DAUhwmIWF%2b4O%2bj0xtPlcl5HS%2fSFtjkZuXUSvZejnfhQCc4tN9pmnsT%2fQGWG7FYjwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0,RMC SPORT 3
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwd0KgjAYANAHitF033688EK%2fLRFjkaGpN0GQUagUykzx4TvH2sHVT3MXDL1sT5uD3Gm%2fm4O8en%2btaIeU0qlaWaKPRbiB7q%2bZu8UqSbjk02UT0ouk4pygHxsCGiKiEIAAahHEgUTG2eZoznA2j3GQHVLXu6JsPFq3nXoVZwPLMk7l52fX5ZSGf4fTBnOPAAAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0,RMC SPORT 4
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwckOgjAQANAvagJlOqUHDlC2YIAgi4YLaQ3BaogHUJHw8b4nz3u9UEuyDt3MOPYcfgpzL7KTKFUipq16v6xv35TrmntHoiva%2foYrb9QyRFZ6ILd97jJGJA0iAiH4xJUABGSIIhBcOsw5%2bE1XD7zoPEa1r8m%2byWmGuKW1NmJ8ptABZtiNva8m7w9NXXGNjwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0,USHUAIA TV
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwd0KgjAYANAHiqHpPnUXXrjNn8SwxBV2t6TwB3RjWSI%2bfOfkzZy8ba%2b3tTpIM0wmLQXn3e1lNzl1imTjLVR9F7v1GO7nklZPJy3Mmg3zdoHd84%2bRHwAg5tAYYY4jFDCMEWbcI5T4zAV3F628cmD6W2efpjJErdKIH1FWNE6LOmn90Ja1wN3IOfwDsP4OFo8AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0,VOYAGE TV
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdsOQzAAANAvaoTeHzzQukWw1EI8rqNbtkkxLBEfv3N0beftMN3GxOUVTTcV7c5vSWUPBzrvRjCSa8ekOU4y%2fyzfuXo%2b7EcXcVtVV3MS6gaUYQyEF0YASRQAJhACSEjCQ04FxPAsM8d6HSyU93XHcVp5s6r6ntSMLbipYn2QsKU9tXzI%2fD98qFnZjwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,=======> France <=======
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/529.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: Cartoon Network HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/520.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: Discovery Science HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/519.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: Disney Jr Fr
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/518.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: Nat Geo HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/517.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: Nat Geo Wild HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/516.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: NRJ12 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/515.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: 13 EME RUE HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/514.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: 6TER HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/513.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: A LA CARTE 10
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/512.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: A LA CARTE 7
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/511.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: A LA CARTE 8
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/510.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: A LA CARTE 9
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/509.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: AB Moteur HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/508.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: AB1
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/507.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: AB3
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/506.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: ACTION
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/505.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: ANIMAUX
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/504.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: ARTE HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/503.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: beINS PORTS 2HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/86.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: BFM TV
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/464.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: Boing
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/521.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: BOOMERANG HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/522.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: C8
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/495.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: Canal Cinema
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/494.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: Canal Decale
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/493.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: Canal Family
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/492.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: Canal Series
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/491.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: CANAL HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/465.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: CANAL J
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/490.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: CANAL PLAY 1
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/489.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: CANAL PLAY 2
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/488.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: CANAL PLAY 3
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/487.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: CANAL PLAY 4
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/486.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: CANAL PLAY 5
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/485.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: CANAL PLAY 6
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/484.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: CANAL PLAY 7
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/483.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: Chasse et Peche
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/482.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: CHERIE 25 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/481.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: CINE CLASSIC
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/480.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: CINE CLASSIC HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/479.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: CINE EMOTION
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/478.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: CINE EMOTION HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/477.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: CINE FAMIZ
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/476.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: Cine Famiz HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/475.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: CINE FRISSON
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/474.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: CINE FRISSON HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/473.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: CINE FX
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/472.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: CINE POLAR
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/471.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: CINE PREMIER HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/470.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: COMEDIE HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/469.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: COMEDIE Plus
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/468.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: CSTAR HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/467.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: D17
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/466.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: D8
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/496.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: DISCOVERY
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/386.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: DISNEY CHANNEL
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/451.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: DISNEY CINEMA
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/452.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: Disney xd HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/453.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: EQUIDIA live
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/454.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: FRANCE 2
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/458.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: France 4 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/459.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: France 5 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/460.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: France O HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/461.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: GAME ONE
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/462.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: GULLI HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/463.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: HD1
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/450.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: i Tele
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/449.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: L'EQUIPE 21
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/447.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: La Deux
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/446.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: La une BE
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/445.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: LCI
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/444.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: M6
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/443.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: Mangas
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/441.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: National geo wild
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/440.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: NICKELODEON HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/394.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: NICKELODEON JUNIOR
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/439.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: NRJ Hits
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/438.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: NUMERO 23 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/437.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: OCS CHOC HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/436.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: OCS CITY
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/435.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: OCS GEANT
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/434.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: OCS MAX
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/433.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: OLTV HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/432.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: Orange Cine horreur HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/431.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: Orange enquete exclusive HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/430.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: PARAMOUNT CHANNEL HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/429.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: PARIS PREMIERE HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/428.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: PARIS PREMIERE HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/427.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: PIWI HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/426.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: PLANETE HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/425.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: PLANETE A&E HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/424.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: PLANETE CI HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/423.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: rmc decouverte
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/421.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: RTL TVI
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/420.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: RTS Deux
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/419.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: RTS Un
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/418.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: SCIENCE ET VIE HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/417.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: SCIENCES & VIE
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/416.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: SERIE CLUB
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/415.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: Series Club HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/414.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: SFR: CINE A LA DEMANDE 1
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/413.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: SFR: CINE A LA DEMANDE 2
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/412.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: SFR: CINE A LA DEMANDE 3
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/411.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: Syfy HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/410.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: Teva
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/409.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: TF1 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/408.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: Tiji
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/407.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: TOUTE LHISTOIRE
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/406.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: TRACE URBAN
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/392.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: TV BREIZH HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/405.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: USHUAIA HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/404.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: Zouzou TV LOCAL
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/403.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: A LA CARTE 5
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/402.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: A la Carte 6
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/401.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: A.LA.CARTE.1
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/400.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: A.LA.CARTE.3
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/399.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: A.LA.CARTE.4
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/398.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: CINE PREMIER
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/396.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: FRANCE 24
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/395.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: NT1
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/391.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: TCM CINEMA
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/390.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: TEVA/TMC
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/389.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: TREK HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/388.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: TV5 MONDE
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/387.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: VOYAGE HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/385.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: Bein max 4
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/528.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: EURONEWS
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/527.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: FRANCE 3
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/526.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: RTL9
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/525.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: TELETOON
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/524.m3u8$http-refferer=http://localhost
+#EXTINF:0,FR: W9
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/523.m3u8$http-refferer=http://localhost
