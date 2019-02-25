@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,=======> Albania <=======
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/629.m3u8$http-refferer=http://localhost
+http://thoptvstream.gq//api/scilla/play.m3u8?id=4202
 #EXTINF:0,AL: Top News
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/569.m3u8$http-refferer=http://localhost
 #EXTINF:0,AL: A1 SHQIPTARE
