@@ -9,23 +9,25 @@ http://thoptvstream.gq/api/scilla/play.m3u8?id=1859
 #EXTINF:0, mbc 4
 http://thoptvstream.gq/api/scilla/play.m3u8?id=1860
 #EXTINF:0, mbc action
-http://livecdnh2.tvanywhere.ae/hls/mbcaction/index.m3u8
+http://thoptvstream.gq/api/scilla/play.m3u8?id=1861
 #EXTINF:0, mbc drama
-http://livecdnh2.tvanywhere.ae/hls/mbc_drama/index.m3u8
-#EXTINF:0, mbc drama Plus
-http://95.170.215.118/hls/m3u8/MBC-DRAMA-Plus.m3u8
+http://thoptvstream.gq/api/scilla/play.m3u8?id=1864
+#EXTINF:0, mbc drama PLUS
+http://thoptvstream.gq/api/scilla/play.m3u8?id=21870
 #EXTINF:0, mbc max
-http://livecdnh2.tvanywhere.ae/hls/mbcmax/index.m3u8
+http://thoptvstream.gq/api/scilla/play.m3u8?id=1862
 #EXTINF:0, mbc bollywood
-http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/index.m3u8
+http://thoptvstream.gq/api/scilla/play.m3u8?id=1856
+#EXTINF:0, mbc VARIETY
+http://thoptvstream.gq/api/scilla/play.m3u8?id=11333
 #EXTINF:0, beIN MOOVIES 1
-http://95.170.215.120/hls/m3u8/BeinMovies1.m3u8
+http://thoptvstream.gq/api/scilla/play.m3u8?id=2540
 #EXTINF:0, beIN MOOVIES 2
-http://95.170.215.120/hls/m3u8/BeinMovies2.m3u8
+http://thoptvstream.gq/api/scilla/play.m3u8?id=2541
 #EXTINF:0, beIN MOOVIES 3
-http://95.170.215.120/hls/m3u8/BeinMovies3.m3u8
+http://thoptvstream.gq/api/scilla/play.m3u8?id=11412
 #EXTINF:0, beIN MOOVIES 4
-http://95.170.215.120/hls/m3u8/BeinMovies4.m3u8
+http://thoptvstream.gq/api/scilla/play.m3u8?id=13409
 #EXTINF:0, 
 
 #EXTINF:0, 
