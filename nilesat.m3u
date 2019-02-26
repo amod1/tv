@@ -1,5 +1,25 @@
 EXTINF:0,=======> قنوات النايلسات <=======
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/296.m3u8$http-refferer=http://localhost
+#EXTINF:0, BEOUTQ SPORT 1
+http://thoptvstream.gq/api/scilla/play.m3u8?id=2492
+#EXTINF:0, BEOUTQ SPORT 2
+http://thoptvstream.gq/api/scilla/play.m3u8?id=36395
+#EXTINF:0, BEOUTQ SPORT 3
+http://thoptvstream.gq/api/scilla/play.m3u8?id=36402
+#EXTINF:0, BEOUTQ SPORT 4
+http://thoptvstream.gq/api/scilla/play.m3u8?id=36409
+#EXTINF:0, BEOUTQ SPORT 5
+http://thoptvstream.gq/api/scilla/play.m3u8?id=36415
+#EXTINF:0, BEOUTQ SPORT 6
+http://thoptvstream.gq/api/scilla/play.m3u8?id=36423
+#EXTINF:0, BEOUTQ SPORT 7
+http://thoptvstream.gq/api/scilla/play.m3u8?id=35430
+#EXTINF:0, BEOUTQ SPORT 8
+http://thoptvstream.gq/api/scilla/play.m3u8?id=36437
+#EXTINF:0, BEOUTQ SPORT 9
+http://thoptvstream.gq/api/scilla/play.m3u8?id=36444
+#EXTINF:0, BEOUTQ SPORT 10
+http://thoptvstream.gq/api/scilla/play.m3u8?id=36451
 #EXTINF:0, mbc 1
 http://thoptvstream.gq/api/scilla/play.m3u8?id=2972
 #EXTINF:0, mbc 2
@@ -28,35 +48,14 @@ http://thoptvstream.gq/api/scilla/play.m3u8?id=2541
 http://thoptvstream.gq/api/scilla/play.m3u8?id=11412
 #EXTINF:0, beIN MOVIES 4
 http://thoptvstream.gq/api/scilla/play.m3u8?id=13409
-#EXTINF:0, BEOUTQ SPORT 1
-http://thoptvstream.gq/api/scilla/play.m3u8?id=2492
-#EXTINF:0, BEOUTQ SPORT 2
-http://thoptvstream.gq/api/scilla/play.m3u8?id=36395
-#EXTINF:0, BEOUTQ SPORT 3
-http://thoptvstream.gq/api/scilla/play.m3u8?id=36402
-#EXTINF:0, BEOUTQ SPORT 4
-http://thoptvstream.gq/api/scilla/play.m3u8?id=36409
-#EXTINF:0, BEOUTQ SPORT 5
-http://thoptvstream.gq/api/scilla/play.m3u8?id=36415
-#EXTINF:0, BEOUTQ SPORT 6
-http://thoptvstream.gq/api/scilla/play.m3u8?id=36423
-#EXTINF:0, BEOUTQ SPORT 7
-http://thoptvstream.gq/api/scilla/play.m3u8?id=35430
-#EXTINF:0, BEOUTQ SPORT 8
-http://thoptvstream.gq/api/scilla/play.m3u8?id=36437
-#EXTINF:0, BEOUTQ SPORT 9
-http://thoptvstream.gq/api/scilla/play.m3u8?id=36444
-#EXTINF:0, BEOUTQ SPORT 10
-http://thoptvstream.gq/api/scilla/play.m3u8?id=36451
-
-#EXTINF:0, 
-
-#EXTINF:0, 
-
-#EXTINF:0, 
-
-#EXTINF:0, 
-
+#EXTINF:0, HALA DRAMA HD
+http://thoptvstream.gq/api/scilla/play.m3u8?id=13568
+#EXTINF:0, HALA MIX
+http://thoptvstream.gq/api/scilla/play.m3u8?id=9229
+#EXTINF:0, HALA BOLLYOOD
+http://thoptvstream.gq/api/scilla/play.m3u8?id=9228
+#EXTINF:0, HALA TURK
+http://thoptvstream.gq/api/scilla/play.m3u8?id=2514
 #EXTINF:0, 
 
 #EXTINF:0, 
