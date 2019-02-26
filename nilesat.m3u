@@ -3,7 +3,7 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/296.m3u8$http-refferer=
 #EXTINF:0, mbc 1
 http://thoptvstream.gq/api/scilla/play.m3u8?id=2972
 #EXTINF:0, mbc 2
-http://livecdnh3.tvanywhere.ae/hls/mbc2/index.m3u8
+http://thoptvstream.gq/api/scilla/play.m3u8?id=1858
 #EXTINF:0, mbc 3
 http://livecdnh2.tvanywhere.ae/hls/mbc3/index.m3u8
 #EXTINF:0, mbc 4
