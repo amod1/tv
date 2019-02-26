@@ -1,0 +1,94 @@
+EXTINF:0,=======> قنوات النايلسات <=======
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/296.m3u8$http-refferer=http://localhost
+#EXTINF:0, mbc 1
+http://livecdnh2.tvanywhere.ae/hls/mbc1/index.m3u8
+#EXTINF:0, mbc 2
+http://livecdnh3.tvanywhere.ae/hls/mbc2/index.m3u8
+#EXTINF:0, mbc 3
+http://livecdnh2.tvanywhere.ae/hls/mbc3/index.m3u8
+#EXTINF:0, mbc 4
+http://livecdnh3.tvanywhere.ae/hls/mbc4/index.m3u8
+#EXTINF:0, mbc action
+http://livecdnh2.tvanywhere.ae/hls/mbcaction/index.m3u8
+#EXTINF:0, mbc drama
+http://livecdnh2.tvanywhere.ae/hls/mbc_drama/index.m3u8
+#EXTINF:0, mbc drama Plus
+http://95.170.215.118/hls/m3u8/MBC-DRAMA-Plus.m3u8
+#EXTINF:0, mbc max
+http://livecdnh2.tvanywhere.ae/hls/mbcmax/index.m3u8
+#EXTINF:0, mbc bollywood
+http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/index.m3u8
+#EXTINF:0, beIN MOOVIES 1
+http://95.170.215.120/hls/m3u8/BeinMovies1.m3u8
+#EXTINF:0, beIN MOOVIES 2
+http://95.170.215.120/hls/m3u8/BeinMovies2.m3u8
+#EXTINF:0, beIN MOOVIES 3
+http://95.170.215.120/hls/m3u8/BeinMovies3.m3u8
+#EXTINF:0, beIN MOOVIES 4
+http://95.170.215.120/hls/m3u8/BeinMovies4.m3u8
+#EXTINF:0, 
+
+#EXTINF:0, 
+
+#EXTINF:0, 
+
+#EXTINF:0, 
+
+#EXTINF:0, 
+
+#EXTINF:0, 
+
+#EXTINF:0, 
+
+#EXTINF:0, 
+
+#EXTINF:0, 
+
+#EXTINF:0, 
+
+#EXTINF:0, 
+
+#EXTINF:0, 
+
+#EXTINF:0, 
+
+#EXTINF:0, 
+
+#EXTINF:0, 
+
+#EXTINF:0, 
+
+#EXTINF:0, 
+
+#EXTINF:0, 
+
+#EXTINF:0, 
+
+#EXTINF:0, 
+
+#EXTINF:0, 
+
+#EXTINF:0, 
+
+#EXTINF:0, 
+
+#EXTINF:0, 
+
+#EXTINF:0, 
+
+#EXTINF:0, 
+
+#EXTINF:0, 
+
+#EXTINF:0, 
+
+#EXTINF:0, 
+
+#EXTINF:0, 
+
+#EXTINF:0, 
+
+#EXTINF:0, 
+
+#EXTINF:0, 
+
