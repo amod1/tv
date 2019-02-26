@@ -5,9 +5,9 @@ http://thoptvstream.gq/api/scilla/play.m3u8?id=2972
 #EXTINF:0, mbc 2
 http://thoptvstream.gq/api/scilla/play.m3u8?id=1858
 #EXTINF:0, mbc 3
-http://livecdnh2.tvanywhere.ae/hls/mbc3/index.m3u8
+http://thoptvstream.gq/api/scilla/play.m3u8?id=1859
 #EXTINF:0, mbc 4
-http://livecdnh3.tvanywhere.ae/hls/mbc4/index.m3u8
+http://thoptvstream.gq/api/scilla/play.m3u8?id=1860
 #EXTINF:0, mbc action
 http://livecdnh2.tvanywhere.ae/hls/mbcaction/index.m3u8
 #EXTINF:0, mbc drama
