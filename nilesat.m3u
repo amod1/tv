@@ -1,7 +1,7 @@
 EXTINF:0,=======> قنوات النايلسات <=======
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/296.m3u8$http-refferer=http://localhost
 #EXTINF:0, mbc 1
-http://livecdnh2.tvanywhere.ae/hls/mbc1/index.m3u8
+http://livecdnh2.tvanywhere.ae/hls/mbc1/04.m3u8
 #EXTINF:0, mbc 2
 http://livecdnh3.tvanywhere.ae/hls/mbc2/index.m3u8
 #EXTINF:0, mbc 3
