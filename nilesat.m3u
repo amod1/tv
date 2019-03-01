@@ -94,8 +94,6 @@ https://rt-arab.secure.footprint.net/1104-inadv-qidx-1k_v3.m3u8
 http://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/index_1_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,Alalam
 http://live2.alalam.ir/live/Alalam_high/index.m3u8?v=1771904733
-#EXTINF:-1,Alghad TV
-httphost://$http-raw=https://www.youtube.com/watch?v=1eDb62UGLxc$http-refferer=https://www.youtube.com
 #EXTINF:-1,Al Hurra
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 #EXTINF:-1,CGTN (China)
