@@ -21,13 +21,13 @@ http://thoptvstream.gq/api/scilla/play.m3u8?id=36444
 #EXTINF:0, BEOUTQ SPORT 10
 http://thoptvstream.gq/api/scilla/play.m3u8?id=36451
 #EXTINF:0, mbc 1
-http://thoptvstream.gq/api/scilla/play.m3u8?id=2972
+http://zerolive.ddns.net:5445/mercury/mbc1/playlist.m3u8
 #EXTINF:0, mbc 2
-http://thoptvstream.gq/api/scilla/play.m3u8?id=1858
+http://zerolive.ddns.net:5445/mercury/mbc2/playlist.m3u8
 #EXTINF:0, mbc 3
-http://thoptvstream.gq/api/scilla/play.m3u8?id=1859
+http://zerolive.ddns.net:5445/mercury/mbc3/playlist.m3u8
 #EXTINF:0, mbc 4
-http://thoptvstream.gq/api/scilla/play.m3u8?id=1860
+http://zerolive.ddns.net:5445/mercury/mbc4/playlist.m3u8
 #EXTINF:0, mbc action
 http://thoptvstream.gq/api/scilla/play.m3u8?id=1861
 #EXTINF:0, mbc drama
