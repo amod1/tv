@@ -139,7 +139,7 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 #EXTINF:-1,Saudi 1 TV
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl2YkdFeEwzVnliRDFvZEhSd0pUTkJKVEpHSlRKR056Z3VNVEk1TGpFMU1DNHhNVEFsTTBFM01EY3hKVEpHWVhKMGRYUnRNakExTUNVeVJuTmhkV1JwTVNVeVJuQnNZWGxzYVhOMExtMHpkVGc9fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1,makkah tv
-http://jmc-live.ercdn.net/makkahtv/makkahtv_576p.m3u8
+http://jmc-live.ercdn.net/makkahtv/makkahtv.m3u8
 #EXTINF:-1,Canadian Arab TV
 http://192.226.228.32:8080/hls/catv/index.m3u8
 #EXTINF:-1,Sharjah TV
