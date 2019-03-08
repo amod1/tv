@@ -46,3 +46,32 @@ https://s4.tntendirect.com/numero23/live/chunks.m3u8
 https://s4.tntendirect.com/rmcdecouverte/live/chunks.m3u8
 #EXTINF:-1,CHERIE 25
 https://s4.tntendirect.com/cherie25/live/chunks.m3u8
+#EXTINF:-1,gong max
+http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
+#EXTINF:-1,Gong Base
+http://ec.playmedia.fr/gong-base/live/chunklist.m3u8
+#EXTINF:-1,rtl9
+https://www.mytvonline.org/fra/rtl9/playlist.m3u8
+#EXTINF:-1,TV5MONDE FBS
+http://v3fbs247hls-i.akamaihd.net/hls/live/219079/v3fbs247hls/v3fbs247hls_1_2.m3u8
+#EXTINF:-1,TV5MONDE ASIE
+https://www.mytvonline.org/fra/tv5asie/01.m3u
+#EXTINF:-1,TV5MONDE EUROPE
+https://cors-anywhere.herokuapp.com/http://streamer-hls.fregat.net/hls/tv5monde_hi/index.m3u8
+#EXTINF:-1,La Une
+https://rtbf.l3.freecaster.net/live/rtbf/geo/drm/laune-.m3u8
+#EXTINF:-1,la Deux
+https://rtbf.l3.freecaster.net/live/rtbf/geo/drm/ladeux-.m3u8
+#EXTINF:-1,la Trois
+https://rtbf.l3.freecaster.net/live/rtbf/geo/drm/latrois-.m3u8
+#EXTINF:-1,rouge tv
+https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
+#EXTINF:-1,notele
+https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist.m3u8
+#EXTINF:-1,RTL BEL
+https://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8
+#EXTINF:-1,Disney Cinema
+http://144.217.253.140/Disneycinema/tracks-v1a1/index.m3u8
+#EXTINF:-1,
+
+#EXTINF:-1,
