@@ -3,13 +3,13 @@ https://s4.tntendirect.com/rts1/live/chunks.m3u8
 #EXTINF:-1,RTS DEUX
 https://s4.tntendirect.com/rts2/live/chunks.m3u8
 #EXTINF:-1,TF1
-https://s4.tntendirect.com/tf1/live/chunks.m3u8
+https://www.mytvonline.org/fra/frpx/frprx.php/Z2x5cGV8fGh0dHA6Ly80NTZwcm94eS5tbC9iLnBocD91PQ==/tf1livhlslivead-i.akamaihd.net/hls/live/224221/ioslive/live_1328.m3u8
 #EXTINF:-1,FRANCE 2
-https://s4.tntendirect.com/france2/live/chunks.m3u8
+https://www.mytvonline.org/fra/fr2/index.m3u8
 #EXTINF:-1,FRANCE 3
-https://s4.tntendirect.com/france3/live/chunks.m3u8
+https://www.mytvonline.org/fra/fr3/index.m3u8
 #EXTINF:-1,FRANCE 4
-https://s4.tntendirect.com/france4/live/chunks.m3u8
+https://www.mytvonline.org/fra/f4/index.m3u8
 #EXTINF:-1,FRANCE 5
 https://s4.tntendirect.com/france5/live/chunks.m3u8
 #EXTINF:-1,FRANCE O
