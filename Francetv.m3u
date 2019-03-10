@@ -19,7 +19,7 @@ https://s4.tntendirect.com/m6/live/chunks.m3u8
 #EXTINF:-1,ARTE
 http://artelive-lh.akamaihd.net/i/artelive_fr@344805/master.m3u8
 #EXTINF:-1,C8
-httphost://$http-raw=https://mytvonline.org/fr/NT1-fr.php$http-refferer=https://mytvonline.org
+httphost://$http-raw=https://www.mytvonline.org/fra/nt1/hls_2328k.m3u8$http-refferer=https://mytvonline.org
 #EXTINF:-1,W9
 https://s4.tntendirect.com/w9/live/chunks.m3u8
 #EXTINF:-1,TMC
