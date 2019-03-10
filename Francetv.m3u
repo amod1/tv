@@ -9,17 +9,17 @@ https://www.mytvonline.org:443/fra/frpx/frprx.php/Z2x5cGV8fGh0dHA6Ly80NTZwcm94eS
 #EXTINF:-1,FRANCE 3
 https://www.mytvonline.org:443/fra/frpx/frprx.php/Z2x5cGV8fGh0dHA6Ly80NTZwcm94eS5tbC9iLnBocD91PQ==/live.francetv.fr/simulcast/France_3/hls_v1/ZXhwPTE1NTIyNjY2NTV+YWNsPSUyZnNpbXVsY2FzdCUyZkZyYW5jZV8zJTJmaGxzX3YxKn5obWFjPWYwMzIwOTdiNTkwYWI3NGUzZWJjOTY3OWI4ZDkwNDcwNjgzZTkzYjNhZGE5ODhmNDQ2MWRkMWRjZTM0MDZkOTI=/France_3.m3u8
 #EXTINF:-1,FRANCE 4
-https://www.mytvonline.org/fra/f4/index.m3u8
+https://www.mytvonline.org:443/fra/frpx/frprx.php/Z2x5cGV8fGh0dHA6Ly80NTZwcm94eS5tbC9iLnBocD91PQ==/live.francetv.fr/simulcast/France_4/hls_v1/ZXhwPTE1NTIyNjgzNzF+YWNsPSUyZnNpbXVsY2FzdCUyZkZyYW5jZV80JTJmaGxzX3YxKn5obWFjPWIxZWE5MDNkNDg3YzE0OWM1MjBiYjc4MjEzY2E5NGI1MmUwMTUwNWU1NDE0YTYxYjkzNjgwYzhhY2VkZjY0MGM=/France_4.m3u8
 #EXTINF:-1,FRANCE 5
-https://s4.tntendirect.com/france5/live/chunks.m3u8
+https://www.mytvonline.org:443/fra/frpx/frprx.php/Z2x5cGV8fGh0dHA6Ly80NTZwcm94eS5tbC9iLnBocD91PQ==/live.francetv.fr/simulcast/France_5/hls_v1/ZXhwPTE1NTIyNjg0MDZ+YWNsPSUyZnNpbXVsY2FzdCUyZkZyYW5jZV81JTJmaGxzX3YxKn5obWFjPWNkMWYwYjgzYjJlYjhjODJkODY5ZDBjNzBlNjEzYjQ0YWQ4NjU5MjczZjMxMzQ5YWI5ZjljMmJmZWIwMzZlYzk=/France_5.m3u8
 #EXTINF:-1,FRANCE O
-https://s4.tntendirect.com/franceo/live/chunks.m3u8
+https://www.mytvonline.org:443/fra/frpx/frprx.php/Z2x5cGV8fGh0dHA6Ly80NTZwcm94eS5tbC9iLnBocD91PQ==/live.francetv.fr/simulcast/France_O/hls_v1/ZXhwPTE1NTIyNjg0MzR+YWNsPSUyZnNpbXVsY2FzdCUyZkZyYW5jZV9PJTJmaGxzX3YxKn5obWFjPTNlMzE2YzNkMDBlYWVjMjY3OWE1NTJmMjY1MzkyOWE0OTEyYTJmMzM2MmRmZjdhYzU0MzYxOTlmZjgxZTZkOGY=/France_O.m3u8
 #EXTINF:-1,M6
 https://s4.tntendirect.com/m6/live/chunks.m3u8
 #EXTINF:-1,ARTE
-https://s4.tntendirect.com/arte/live/chunks.m3u8
+http://artelive-lh.akamaihd.net/i/artelive_fr@344805/master.m3u8
 #EXTINF:-1,C8
-https://s4.tntendirect.com/d8/live/chunks.m3u8
+httphost://$http-raw=https://mytvonline.org$http-refferer=https://mytvonline.org/fr/NT1-fr.php
 #EXTINF:-1,W9
 https://s4.tntendirect.com/w9/live/chunks.m3u8
 #EXTINF:-1,TMC
