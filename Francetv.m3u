@@ -5,9 +5,9 @@ https://s4.tntendirect.com/rts2/live/chunks.m3u8
 #EXTINF:-1,TF1
 https://www.mytvonline.org/fra/frpx/frprx.php/Z2x5cGV8fGh0dHA6Ly80NTZwcm94eS5tbC9iLnBocD91PQ==/tf1livhlslivead-i.akamaihd.net/hls/live/224221/ioslive/live_1328.m3u8
 #EXTINF:-1,FRANCE 2
-https://www.mytvonline.org/fra/fr2/index.m3u8
+https://www.mytvonline.org:443/fra/frpx/frprx.php/Z2x5cGV8fGh0dHA6Ly80NTZwcm94eS5tbC9iLnBocD91PQ==/live.francetv.fr/simulcast/France_2/hls_v1/ZXhwPTE1NTIyNjU3OTd+YWNsPSUyZnNpbXVsY2FzdCUyZkZyYW5jZV8yJTJmaGxzX3YxKn5obWFjPWZjNmY0NWFiZWE4NjIyNjM2MGVhMTA5NWNkZjUxODNmZjEyMzVkN2M4ZjMwN2MzZjc1YTEzZmNkZThkODlhMzg=/France_2.m3u8
 #EXTINF:-1,FRANCE 3
-https://www.mytvonline.org/fra/fr3/index.m3u8
+https://www.mytvonline.org:443/fra/frpx/frprx.php/Z2x5cGV8fGh0dHA6Ly80NTZwcm94eS5tbC9iLnBocD91PQ==/live.francetv.fr/simulcast/France_3/hls_v1/ZXhwPTE1NTIyNjY2NTV+YWNsPSUyZnNpbXVsY2FzdCUyZkZyYW5jZV8zJTJmaGxzX3YxKn5obWFjPWYwMzIwOTdiNTkwYWI3NGUzZWJjOTY3OWI4ZDkwNDcwNjgzZTkzYjNhZGE5ODhmNDQ2MWRkMWRjZTM0MDZkOTI=/France_3.m3u8
 #EXTINF:-1,FRANCE 4
 https://www.mytvonline.org/fra/f4/index.m3u8
 #EXTINF:-1,FRANCE 5
