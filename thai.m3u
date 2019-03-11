@@ -1,0 +1,39 @@
+#EXTINF:-1, ดูทีวี ทีวีไทย - TPBS [color green]TV FABOR[/color]
+http://thaipbs-live.cdn.byteark.com/live/playlist/index.m3u8
+#EXTINF:-1, ดูทีวี ช่อง 5 - TV5http://27.254.62.62:8081/live/tv5stream/playlist.m3u8
+http://27.254.62.62:8081/live/tv5stream/playlist.m3u8
+#EXTINF:-1, ดูทีวี ช่อง9 - MCOT
+http://183.182.100.184/live/mcothd/playlist.m3u8
+#EXTINF:-1, ดูทีวี ช่อง NBT
+http://122.155.92.8:1935/live/ch1_L.sdp/playlist.m3u8
+#EXTINF:-1, ดูทีวี True News24
+http://tvsedge309.truevisions.tv/liveedge_app/135_th_m_auto.smil/chunklist_w1048536536.m3u8
+#EXTINF:-1, ดูทีวี ไทยรัฐ TV
+https://live.thairath.co.th/trtv2/playlist/index.m3u8
+#EXTINF:-1, ดูทีวี new tv
+http://newtv.cdn.byteark.com/live/playlist/index.m3u8
+#EXTINF:-1, ดูทีวี Nation Channel
+http://live.nationtv.tv/hls/ntv_th.m3u8
+#EXTINF:-1, ดูทีวี ดู True4u
+http://183.182.100.184/live/true4u/playlist.m3u8
+#EXTINF:-1, ดูทีวี ดู GMM 25
+http://gmmservice.radical-enlighten.com/gmm/smil:gmm25.smil/chunklist_w1943399115.m3u8
+#EXTINF:-1, ดูทีวี Mono29
+http://183.182.100.184/live/mono29/playlist.m3u8
+#EXTINF:-1, ดูทีวี ดู PPTV HD
+http://183.182.100.184/live/pptvthai/chunklist.m3u8
+#EXTINF:-1, ดูทีวี Amarin TV (34)
+http://210.4.150.104/stream/5195e80fe1ed0/playlist.m3u8
+#EXTINF:-1, ดูทีวี Bright TV
+http://live4.netdesignhost.com/brighttvlive/brighttvlive/playlist.m3u8
+#EXTINF:-1, ดูทีวี MCOT Family
+http://mcotdigital-5nrixa.cdn.byteark.com/mcotfamily/smil:mcotfamily.smil/playlist.m3u8
+#EXTINF:-1, ดูทีวี Starmax
+http://stream.rs.co.th/ch2-hi/index.m3u8
+#EXTINF:-1, ดูทีวี Sabaidee TV
+http://stream.rs.co.th/sbd-hi/index.m3u8
+#EXTINF:-1, ดูทีวี Gang Cartoon
+http://gcorigin.wisdomcloud.net/live/master/playlist.m3u8_master.m3u8
+#EXTINF:-1, ดูทีวี Cartoon Club
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub.stream/playlist.m3u8
+#EXTINF:-1, 
