@@ -30,8 +30,6 @@ https://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8'
 https://rt-france.secure.footprint.net/1107.m3u8
 #EXTINF:-1,i24 FRANCE
 https://i24alive1-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/playlist-all_dvr.m3u8
-#EXTINF:-1,MANGAS
-https://lax-1.firstonetv.live/hls/9122c1b6a0ff02107c0950d56d920d4f/1552101922/7b226e6f7473223a66616c73657d/687474703a2f2f6e63646e2d73722e6164616d2e7366722e66722f6970686f6e652f6d616e6761735f323030303030302f6d616e6761732e6d337538.m3u8
 #EXTINF:0,•●★----| France Channels |---★●•
 http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/176
 #EXTINF:0,[FR] TF1 HD
