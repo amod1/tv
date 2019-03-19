@@ -1,5 +1,27 @@
 #EXTINF:0,Bein Sports 1 
 httphost://$http-raw=http://www.247bay.tv/hembedplayer/beino1ik/2/600/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:-1,Bein Sports 2 
+httphost://$http-raw=http://www.247bay.tv/hembedplayer/beino2soi/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports2 
+#EXTINF:-1,Bein Sports 3 
+httphost://$http-raw=http://www.247bay.tv/hembedplayer/beino3soi/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports3 
+#EXTINF:-1,Bein Sports 4 
+httphost://$http-raw=http://www.247bay.tv/hembedplayer/beino4sih/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports4 
+#EXTINF:-1,Bein Sports 5 
+httphost://$http-raw=http://www.247bay.tv/hembedplayer/beino5oish/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports5 
+#EXTINF:-1,Bein Sports 6 
+httphost://$http-raw=http://www.247bay.tv/hembedplayer/beinsportshzba6gga/2/600/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports6 
+#EXTINF:-1,Bein Sports 7 
+httphost://$http-raw=http://www.247bay.tv/hembedplayer/beinsports7hzbaaa/2/600/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports7 
+#EXTINF:-1,Bein Sports 8 
+httphost://$http-raw=http://www.247bay.tv/hembedplayer/beinsportshbza8/2/600/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports8 
+#EXTINF:-1,Bein Sports 9 
+httphost://$http-raw=http://www.247bay.tv/hembedplayer/beino9siu/2/600/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports9 
+#EXTINF:-1,Bein Sports 10 
+httphost://$http-raw=http://www.247bay.tv/hembedplayer/beinpsots10/2/600/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports10 
+#EXTINF:-1,Bein Sports 11 
+httphost://$http-raw=http://www.247bay.tv/hembedplayer/beinsports11hzbavd/2/600/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports11 
+#EXTINF:-1,Bein Sports 12 
+httphost://$http-raw=http://www.247bay.tv/hembedplayer/beinpsots10/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports12
 #EXTINF:0, BEOUTQ SPORT 1 [color green]TV FABOR[/color] 
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/uwAAAB%2bLCAAAAAAABAAFwdsOgiAAANAPaiwKEH3wodLc8JJpZfEmBFtpspZGbH5850Q72nJk9Lo46Gfcq9y%2fMl6d4X1q6mBgPcLLC06I3Lo4n2i1skYJZIrx6KbnJ4XdYSicuD0cuvVMSXskpRsrG4ZzR7n%2bJfmjNIk9ZQmYCaJSCdICERAKsFj5wFcEgVYhrb279BQVczPUqc242fMmY3HnLSVm8FVEAaQbXaWLfIT1t4zfmx8O%2f3FrO4%2b7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, BEOUTQ SPORT 2 [color green]TV FABOR[/color] 
