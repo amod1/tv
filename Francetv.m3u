@@ -342,3 +342,134 @@ http://thoptvstream.gq/api/scilla/play.m3u8?id=
 http://thoptvstream.gq/api/scilla/play.m3u8?id=
 #EXTINF:0,[FR] KTO
 http://thoptvstream.gq/api/scilla/play.m3u8?id=
+
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png", RFM TV HD FR
+http://185.93.3.84:5019/play/a029
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Boomerang HD FR
+http://185.93.3.84:5019/play/a01l
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",SFR Sport 2
+http://185.93.3.84:5019/play/a00e
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Paramount Channel HD FR
+http://185.93.3.84:5019/play/a01v
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Tiji HD
+http://185.93.3.84:5019/play/a00y
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Arte
+http://185.93.3.84:5019/play/a02r
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",LCP
+http://185.93.3.84:5019/play/a02s
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",BFM TV
+http://185.93.3.84:5019/play/a02z
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png", Comedie+ HD FR
+http://185.93.3.84:5019/play/a026
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Seasons HD FR
+http://185.93.3.84:5019/play/a01s
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Histoire HD FR
+http://185.93.3.84:5019/play/a01e
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",TMC
+http://185.93.3.84:5019/play/a02p
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png", HD1
+http://185.93.3.84:5019/play/a02w
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",National Geo HD FR
+http://185.93.3.84:5019/play/a00z
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",MTV France HD FR
+http://185.93.3.84:5019/play/a02g
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",W9
+http://185.93.3.84:5019/play/a02k
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",LEquipe 21
+http://185.93.3.84:5019/play/a02u
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Planete+ CI HD FR
+http://185.93.3.84:5019/play/a01z
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",TF1 HD FR
+http://185.93.3.84:5019/play/a002
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png", Cartoon Network HD FR
+http://185.93.3.84:5019/play/a01t
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png", NRJ12
+http://185.93.3.84:5019/play/a02y
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",TV8 Mont-Blanc HD FR
+http://185.93.3.84:5019/play/a02f
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Planete+ AE HD FR
+http://185.93.3.84:5019/play/a02b
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Disney Cinema HD FR
+http://185.93.3.84:5019/play/a027
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png", Eurosport 2 HD FR
+http://185.93.3.84:5019/play/a00s
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Infosport+ HD FR
+http://185.93.3.84:5019/play/a01y
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png", Boing HD FR
+http://185.93.3.84:5019/play/a01k
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",France 2 HD
+http://185.93.3.84:5019/play/a005
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",E! HD FR
+http://185.93.3.84:5019/play/a01n
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Equidia Live HD FR
+http://185.93.3.84:5019/play/a020
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Syfy HD FR
+http://185.93.3.84:5019/play/a01o
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",CSTAR
+http://185.93.3.84:5019/play/a02v
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",SFR Sport 1
+http://185.93.3.84:5019/play/a00d
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Be Curious TV HD FR
+http://185.93.3.84:5019/play/a01q
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Voyage HD FR
+http://185.93.3.84:5019/play/a01d
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Mezzo Live HD FR
+http://185.93.3.84:5019/play/a02e
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Action HD FR
+http://185.93.3.84:5019/play/a023
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png", France 4 HD
+http://185.93.3.84:5019/play/a01m
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",MCM HD FR
+http://185.93.3.84:5019/play/a022
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Trace Urban HD FR
+http://185.93.3.84:5019/play/a01p
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png", France 5 HD
+http://185.93.3.84:5019/play/a007
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png", France 3 HD FR
+http://185.93.3.84:5019/play/a006
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Game One HD FR
+http://185.93.3.84:5019/play/a01x
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Elle Girl HD FR
+http://185.93.3.84:5019/play/a024
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Planete+ HD FR
+http://185.93.3.84:5019/play/a02h
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Cherie 25
+http://185.93.3.84:5019/play/a02m
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",TV Breizh HD FR
+http://185.93.3.84:5019/play/a02a
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png", Gulli
+http://185.93.3.84:5019/play/a02i
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Canal J HD FR
+http://185.93.3.84:5019/play/a01u
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png", TCM Cinema HD FR
+http://185.93.3.84:5019/play/a028
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Numero 23
+http://185.93.3.84:5019/play/a02l
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",M6
+http://185.93.3.84:5019/play/a02j
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png", CNews
+http://185.93.3.84:5019/play/a02o
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",6TER
+http://185.93.3.84:5019/play/a02x
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",MCM Top HD FR
+http://185.93.3.84:5019/play/a02c
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Discovery Science HD FR
+http://185.93.3.84:5019/play/a021
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Eurosport 1 HD FR
+http://185.93.3.84:5019/play/a00p
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",SFR Sport 5
+http://185.93.3.84:5019/play/a00m
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",France O HD
+http://185.93.3.84:5019/play/a01f
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Science & Vie HD FR
+http://185.93.3.84:5019/play/a00c
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png", C8
+http://185.93.3.84:5019/play/a02n
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Franceinfo
+http://185.93.3.84:5019/play/a030
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",RMC Docouverte
+http://185.93.3.84:5019/play/a02q
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",SFR Sport 3
+http://185.93.3.84:5019/play/a00g
+#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",NT1
+http://185.93.3.84:5019/play/a02t
