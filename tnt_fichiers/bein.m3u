@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:0,Bein Sports 1 
-http://twolive.ddns.net:5445/mercury/beinsports1/playlist.m3u8?nimblesessionid=270388
+#EXTINF:0,Bein Sports 1 1
+http://thoptvstream.gq/api/scilla/play.m3u8?id=9125
 #EXTINF:0,Bein Sports 1 
 httphost://$http-raw=http://www.247bay.tv/hembedplayer/beino1ik/2/600/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
 #EXTINF:-1,Bein Sports 2 
