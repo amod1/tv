@@ -1,5 +1,5 @@
-EXTINF:0,=======> قنوات النايلسات <=======
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/296.m3u8$http-refferer=http://localhost
+#EXTINF:0,Bein Sports 1 
+httphost://$http-raw=http://www.247bay.tv/hembedplayer/beino1ik/2/600/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
 #EXTINF:0, BEOUTQ SPORT 1 [color green]TV FABOR[/color] 
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/uwAAAB%2bLCAAAAAAABAAFwdsOgiAAANAPaiwKEH3wodLc8JJpZfEmBFtpspZGbH5850Q72nJk9Lo46Gfcq9y%2fMl6d4X1q6mBgPcLLC06I3Lo4n2i1skYJZIrx6KbnJ4XdYSicuD0cuvVMSXskpRsrG4ZzR7n%2bJfmjNIk9ZQmYCaJSCdICERAKsFj5wFcEgVYhrb279BQVczPUqc242fMmY3HnLSVm8FVEAaQbXaWLfIT1t4zfmx8O%2f3FrO4%2b7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, BEOUTQ SPORT 2 [color green]TV FABOR[/color] 
