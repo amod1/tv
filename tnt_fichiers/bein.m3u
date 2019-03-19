@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:0,Bein Sports 1 
+http://twolive.ddns.net:5445/mercury/beinsports1/playlist.m3u8?nimblesessionid=270388
+#EXTINF:0,Bein Sports 1 
 httphost://$http-raw=http://www.247bay.tv/hembedplayer/beino1ik/2/600/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
 #EXTINF:-1,Bein Sports 2 
 httphost://$http-raw=http://www.247bay.tv/hembedplayer/beinsportshb2ndbz/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports2 
@@ -86,25 +88,3 @@ httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/4wAAAB%2bLCA
 #EXTINF:0, beIN SPORTS NEWS [color green]TV FABOR[/color]
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwUlugzAAAMAHIYQd22AfOLCVPRVr0t6ILZYUCgkIKOLxnblNgfJJ3hYZJdMEOC2z1PndwrnxILl%2f8MXrtp%2f%2b8ZLyIBsgO3gcuPH9yMGs8p0qVcSgoQUKpuvbEYPj4%2fDm%2b100qNdiAiLG%2b7ZmJJzGQDu4fq7lMRpfa2tQa69G%2bj5ZDSEGhMucYSZjwmq5QqSSKUHgAQRVEYanfbW%2fNdNq4%2brVu0CS8FP7qy9iQe0RzbBx2%2bGStrBrhg6JZjJp4kWL8jRsUriKL23ISxJkDkaSJsIrICvjvO37RNf%2fAXb1sTH7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
 
-#EXTINF:0, tvg-logo="https://epg.beinsports.com/mena_sports/News_ar.png?2018", beIN Sports NEWS
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwUkOgjAAAMAHmUaBlrYHDl3YFBETCOUqiApKTMuihsc70%2b0VUkuRbQYhv8%2fUfkTWoLddTwo8BmZAFcN165A0rs7eao2ZbsrytLs0R2NYvrrYYpggBITNfQAlZIAICAEU0qWcYuEgZ01aFfS%2f2NXhfOB9MdVhxEmcJv51uZn7Z87fr2kSlOpy8f7zdLWfjwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="https://epg.beinsports.com/mena_sports/HD1.png?2017",  Bein Sports 1 SD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwd0OgiAYANAHckyLT5ELLxRpNZ2Vf8zLDIXJyrJm5Xz4zsF5LgyJ0je7qX7M%2fJMz6c5YMmkfVNVEFXZX0GmGoWiC9TNysdBGPbNUSA169cgmJL7rIraNOIIYQuQzAAQs9mhECcMuXj2%2bfwFNd1gKu3MYufdJ%2bZ2PpmqvQ5tclkOoftZZl%2fNQBX8hPDmMjwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com  
-#EXTINF:-1 tvg-logo="https://epg.beinsports.com/mena_sports/HD2.png?2017",  Bein Sports 2  SD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwUkOgjAAAMAHkUYr3Thw6GaQTQVF5IiJlQBKoqzh8c4IYxgu6wmXSTfvMysauxGp27UPfkW45NVZW5vabyM6fN11joc7hPHrdBHvh5fhlVDIKcMYyJ3QACnEAZMIASQVcYRDpY3tNVA8PTTb8UtK7DeTQ1Pt9dpwop4UJq2pWNEtnzA%2fTsz9Ay80Y9SPAAAA$http-refferer=http://linkprotect.xmtvplayer.com  
-#EXTINF:-1 tvg-logo="https://epg.beinsports.com/mena_sports/HD3.png?2017",  Bein Sports 3  SD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdsKgjAYAOAHkkHqv81deOEOdFh5drVLowQbOEHKCB%2b%2b75s7wPUyQrG%2bfXhS%2bdHndel%2fVxbo6m4vsifxzvTcRWZJNwWrIg5EJX1J7eA2QsOMJhgjEXGFQEKGEgGAQEjCOKMixvEmOls0D%2fvtgw9%2fRUS3UN7WwmTj%2bTloXU9uP7fN5MEcVPoHPUSML48AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com  
-#EXTINF:-1 tvg-logo="https://epg.beinsports.com/mena_sports/HD4.png?2017",  Bein Sports 4  SD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwUkOgjAUANADmcYg%2f1NYsCgtQ2WKyBDYGTVBIGhBgiEc3veMc%2bLrqTbcu1hJ5Ezmy9XqgqwWH1ZFbXoMncf4VMVAXXuP460NXzA20sOg9MrdoBqjJiLhJ8clIIARkwMQ4MKwHItyHfU9WBNev1FWl%2bxQelBsjVrEEk2bmPx%2b%2ft5CXNXUz%2b4vlfYfcwZJaY8AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com 
-#EXTINF:-1 tvg-logo="https://epg.beinsports.com/mena_sports/HD5.png?2017",  Bein Sports 5  SD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwd0KgjAYANAnGlj79nfhxTZ%2fpgiKhM3uLCeZQ7QkMHz4zumDKiqt%2bCg3%2b2QP1Jr%2f9uaZm23uaTXIJrb5quoyYyMPD5m9phW%2fU7xPi7aqPSg7ScYJQfqsYgQRSMQ1AAIdUaEE05jgo7619GqETl2yFZ7c4eKKwUg3CDt%2boexqLsblUXXYB%2bEfuvkEZY8AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com 
-#EXTINF:-1 tvg-logo="https://epg.beinsports.com/mena_sports/HD6.png?2017",  Bein Sports 6  SD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdsKgjAAANAPkhHp5uXBh11UKBfE1MHeKmEwpnOaWeLHd041EfsZ6Kb0qaheekWq6YndaHG9tXboS%2f8eJTYXFlidH4IsNYdz7VcTdUDjI07OOEkRAjQkBYAMYpBSCAGkLM5IltAIRYeRv535MVzKR%2b%2f4NBPRblI2Zr8L3z1dFXChasrdt3P5H1PLmGKPAAAA$http-refferer=http://linkprotect.xmtvplayer.com 
-#EXTINF:-1 tvg-logo="https://epg.beinsports.com/mena_sports/HD7.png?2017",  Bein Sports 7  SD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwcEKgkAQANAPij2k4%2b548KCzhkmpKbrRUUNMFqSGYhf8%2bN7zAT%2b1i%2fFUVlM7QjNgnlpzpW0Zfovysx7ttDpG4inZxVI4%2fmhv%2b9fjZlW3S3VMFUaRoCDLBWhIBRKAANIyzmJFYRTu3zPWjM1h6Ebn5tVsbS%2fnwPjqUvfNu7ibqqAuB6aSkz8%2fkvC0jwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com 
-#EXTINF:-1 tvg-logo="https://epg.beinsports.com/mena_sports/HD8.png?2017",  Bein Sports 8  SD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdEOQzAUANAPWhrBreqDB7cViyGsGuJVJ7XFC9tijY%2ffOdiysaKz%2bgXNPnyUF%2fGpk%2bADvubJ1Xa5odmWma9HvidnoVLTW4E615VrZXlGzE9ZTCkRAWYEJKQkFgAEhIw4ciZCGp4m2J%2boLvAujkHf1fF1dtOltLX%2f6NvYG901X7fSsKbLkj%2f5Vi%2f9jwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com 
-#EXTINF:-1 tvg-logo="https://epg.beinsports.com/mena_sports/HD9.png?2017",  Bein Sports 9 SD 
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdsKgjAAANAPimHTXfTBh13UWkRmM8I3QTQnoZjJHH5857yGoly833MgWlVjTQ%2b10nkiHh5szLaut0ZVl2WauXFjvHdTbxPi5NXdc4vnaCcUMhpiDITPE4AkYiAUCAEkJIl4REWAgz1T7KRIm7bart%2fz5t4fR%2fyUd8dZboFh1nW58mBW9gWK%2f5yJNyCPAAAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="https://epg.beinsports.com/mena_sports/HD10.png?2017",  Bein Sports 10  SD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwUsOgjAUAMADmUaBvn4WLGhBglVDkQCuDGgICNFCo7jg8M6cxoh8zTCzZHHyNuF2ae4fdwGtG12MwTaL6KwuTg%2fl21%2bt6m5Vfu5t8uNEgVkJdQLKAJB0RYRwiAPEJMYIy5Bwwan0wFut3ugYilocUjM9m%2fZ4mV6ZYcM1V3sT12Va4kp0%2fcPbaf8PfUN7%2fY8AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com  
