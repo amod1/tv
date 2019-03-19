@@ -343,133 +343,334 @@ http://thoptvstream.gq/api/scilla/play.m3u8?id=
 #EXTINF:0,[FR] KTO
 http://thoptvstream.gq/api/scilla/play.m3u8?id=
 
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png", RFM TV HD FR
-http://185.93.3.84:5019/play/a029
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Boomerang HD FR
-http://185.93.3.84:5019/play/a01l
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",SFR Sport 2
-http://185.93.3.84:5019/play/a00e
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Paramount Channel HD FR
-http://185.93.3.84:5019/play/a01v
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Tiji HD
-http://185.93.3.84:5019/play/a00y
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Arte
-http://185.93.3.84:5019/play/a02r
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",LCP
-http://185.93.3.84:5019/play/a02s
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",BFM TV
-http://185.93.3.84:5019/play/a02z
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png", Comedie+ HD FR
-http://185.93.3.84:5019/play/a026
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Seasons HD FR
-http://185.93.3.84:5019/play/a01s
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Histoire HD FR
-http://185.93.3.84:5019/play/a01e
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",TMC
-http://185.93.3.84:5019/play/a02p
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png", HD1
-http://185.93.3.84:5019/play/a02w
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",National Geo HD FR
-http://185.93.3.84:5019/play/a00z
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",MTV France HD FR
-http://185.93.3.84:5019/play/a02g
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",W9
-http://185.93.3.84:5019/play/a02k
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",LEquipe 21
-http://185.93.3.84:5019/play/a02u
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Planete+ CI HD FR
-http://185.93.3.84:5019/play/a01z
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",TF1 HD FR
-http://185.93.3.84:5019/play/a002
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png", Cartoon Network HD FR
-http://185.93.3.84:5019/play/a01t
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png", NRJ12
-http://185.93.3.84:5019/play/a02y
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",TV8 Mont-Blanc HD FR
-http://185.93.3.84:5019/play/a02f
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Planete+ AE HD FR
-http://185.93.3.84:5019/play/a02b
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Disney Cinema HD FR
-http://185.93.3.84:5019/play/a027
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png", Eurosport 2 HD FR
-http://185.93.3.84:5019/play/a00s
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Infosport+ HD FR
-http://185.93.3.84:5019/play/a01y
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png", Boing HD FR
-http://185.93.3.84:5019/play/a01k
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",France 2 HD
-http://185.93.3.84:5019/play/a005
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",E! HD FR
-http://185.93.3.84:5019/play/a01n
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Equidia Live HD FR
-http://185.93.3.84:5019/play/a020
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Syfy HD FR
-http://185.93.3.84:5019/play/a01o
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",CSTAR
-http://185.93.3.84:5019/play/a02v
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",SFR Sport 1
-http://185.93.3.84:5019/play/a00d
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Be Curious TV HD FR
-http://185.93.3.84:5019/play/a01q
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Voyage HD FR
-http://185.93.3.84:5019/play/a01d
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Mezzo Live HD FR
-http://185.93.3.84:5019/play/a02e
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Action HD FR
-http://185.93.3.84:5019/play/a023
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png", France 4 HD
-http://185.93.3.84:5019/play/a01m
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",MCM HD FR
-http://185.93.3.84:5019/play/a022
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Trace Urban HD FR
-http://185.93.3.84:5019/play/a01p
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png", France 5 HD
-http://185.93.3.84:5019/play/a007
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png", France 3 HD FR
-http://185.93.3.84:5019/play/a006
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Game One HD FR
-http://185.93.3.84:5019/play/a01x
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Elle Girl HD FR
-http://185.93.3.84:5019/play/a024
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Planete+ HD FR
-http://185.93.3.84:5019/play/a02h
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Cherie 25
-http://185.93.3.84:5019/play/a02m
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",TV Breizh HD FR
-http://185.93.3.84:5019/play/a02a
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png", Gulli
-http://185.93.3.84:5019/play/a02i
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Canal J HD FR
-http://185.93.3.84:5019/play/a01u
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png", TCM Cinema HD FR
-http://185.93.3.84:5019/play/a028
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Numero 23
-http://185.93.3.84:5019/play/a02l
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",M6
-http://185.93.3.84:5019/play/a02j
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png", CNews
-http://185.93.3.84:5019/play/a02o
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",6TER
-http://185.93.3.84:5019/play/a02x
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",MCM Top HD FR
-http://185.93.3.84:5019/play/a02c
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Discovery Science HD FR
-http://185.93.3.84:5019/play/a021
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Eurosport 1 HD FR
-http://185.93.3.84:5019/play/a00p
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",SFR Sport 5
-http://185.93.3.84:5019/play/a00m
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",France O HD
-http://185.93.3.84:5019/play/a01f
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Science & Vie HD FR
-http://185.93.3.84:5019/play/a00c
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png", C8
-http://185.93.3.84:5019/play/a02n
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",Franceinfo
-http://185.93.3.84:5019/play/a030
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",RMC Docouverte
-http://185.93.3.84:5019/play/a02q
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",SFR Sport 3
-http://185.93.3.84:5019/play/a00g
-#EXTINF:-1,tvg-ID=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",NT1
-http://185.93.3.84:5019/play/a02t
+#EXTINF:0,bein sports 1 fr  webtv
+httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssbein1&vw=620&vh=490$http-refferer=http://cricfree.live/update/sky3ita.php
+#EXTINF:0, FR Arte Entertainment
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdsOgiAAANAPaqwpIPjgAxdTDGaOrF5TFzkzZ27hmh%2ffOepdebzuXKeqwnfVaLjLqTWGnAc9LjxvM3bt8%2bIVapVsvzkAGaTHQWZLT%2bxpi0jACMUYiJCnAEnEABUIASRkFPOYCIjhZmPaHJqb15cZKT%2btxUcrHZS%2bLoV28Du5e%2ftMzWMfWZb8AaiLKwaPAAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, FR Bein Sports 1 FR Sports
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdEOQzAUANAPWpoVl7YPHtqSMpMljK2PbEjWCRFRS3z8zrEfidV60kWd1urdCTz190K6NwruNphxLdVu9%2flFfuUQHgtLr0bzzji2j0mzHAFxOKG%2bj6QrYgQRcEQlAAIZBUwwIj3fO%2fQWZc6DZ7sWUJ3zZW5zk4tn%2b03n1hvNhQFOJlYlqpnCP%2baGbaKPAAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, FR BeIN Sports 2 FR Sports
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwd0KgyAYANAHCtHsS%2fOii7SEltQmFGN3C4yWVLS1n4sefud0%2bI23sPKPl%2fzt4%2bj0ELjdgsGs00Xd%2bomISl3UMlOSHlxvvpf%2bXPSNE%2bZ7OxgPM57EMVJUFghyyFCiABConAkpuIri6EjuVFB7XT%2ftbAfcOhvUBkiiTnYiJYNnw6FZ6WKNLtM%2fs2vbFY8AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, FR BeIN Sports 3 FR Sports
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAANzMEOQzAAANAvala02h4ctJ10RgyhOHaEpHGQxRri47f3AW%2fJ%2bS1NNC5GSfeq75eDC2oKfY4rmzacTTTI9Fs9jFdG10vJrnGNY%2fR0JazrKyReTCjGQPj8DpBEMaACIYCEDBlnRAQ4uFJskQehYk%2bTWDcfnSXSz6rWfL4DWc0utxkOp8n%2fc%2fQDOnunuo8AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, FR Bein sports max 4 Sports
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwc0KgjAAAOAHkoHp5vTgYX9OSyHQirw1WxsEHnKyKT5836fUlT%2b6fXpq7cyP7L2vLy64b93IHtkhkXGl%2fW1TSsblYSeO5d0K89aDN1N7ZPhEcI4QYAkVAHJIQM4gBJDxrKAFZilKj7DNnTvTfl3RkiaCbJF%2fjZ9sNJwOcbvmsyXREkRR8ab8A5KN92iPAAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, FR Bein sports max 5 Sports
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdsOQzAAANAPkiajVw8eaCtlyy6mCXszFg%2by1TBKfPzOGQrouJ2ZddX87HzNb5E5qk30sQdL%2b042qLuilQOOMxns6oVpOuoWgE85nh7fnVA3pAxjwL1IAiRQCBhHCCAuiB%2f5lEMMdzUd1ktiiJN3VbPU54yzxZmUqMNyTW1P7J3VZlmrJ5HBH7PQ%2fBePAAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, FR Bein sports max 6 Sports
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwUsOgjAUAMADNY0C%2fbFg8VpMIYobSDDssKhgCZ%2bIog2Hd8ZlvxwFif9tUXdPRrBDiZLpZcD0VQmFdxN1Me8Q2B6izbgxW2aypsMjXSdWb4x7wAWlWPnygElMAAtFCCYqZqEMuQposC2ONmf9Pu6frlt924iLjlOu25zo1YxSQvU52Wa4MhDRH6FO4OqPAAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, FR Bein sports max 7 Sports
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwd0KgjAYANAHkkHzm2678EKnq%2fwbFSJ2E7pSsUzRsBAfvnOyw2tUMJjvsZcpn2ulaLSPZRicc0irgjLJZnj%2b7kdInK0Pu7ZtLl4e4lvCebHZFLuUWRYSphcg4hMXMUEIIsK3ucepAAu2yPgswbWrOqpNHS262bnYII96WtdvqU7ZVNoygRjibHD%2bEXd7fo8AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, FR C8 Entertainment
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdsKgjAAANAvGi53cw8%2bzE1UtHAhir25KLJMZDms4cd3zvD2EJnl1kF2NUvt5IToimCpbPJyT1iXa1cRM7dRruM9dI3eGv1tT2PWOz7vlB0EiwgBMkxSgBUWIJIYAywV5QlnEhG0N2oQj2n0P1d5YS9FJnnxSV0ReMt8dje2zY%2fnPAj0uMV%2fUiTajY8AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, FR Canal+ Entertainment
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwcEOgiAAANAPakxNEDx4QNDNJpqLmXVLwqkzykmrnB%2ffe1%2fLzKyusWm7spKPbGrmE6moWtJR9lZY9yhYX4r7OsBoywvBh2erB2Im22m6BdijmCAE2D5OAOSQAsIgBJDxIIxDzHzkb4GpC8qXm7g4tNWfFf9s8ybS1Y6XHxR6ZXW6S%2fRZqnGJ%2fuBxPpGPAAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, FR Canal+ Cinema Movies
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwd0KgjAYANAHikG6fZteePE5zTBNUQd2FRgpifmTDFv48J3zpukwbl3bTvFxvW4GNxql%2bUvPWTlbXYJa5aq7jLMe0NufVfI73yb1oYlR%2fN7sXFgoHAAibT8kLGBIHMkYYTLgru8KSYHuAze45O2kGoHFGsFSVuHjdAidr6n7tbAriCT0dZwBen85mUALjwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, FR Canal+ Family Entertainment
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwd0KgjAYANAnGkP9Nt2FF%2fNTzJSVpaLdTRz%2bJAlS0MKH7xydi5Z2Ks22kVImV%2fxKGevdPqpxCrid1FT8tIRPfd3CA6pEvDzMh%2frS9LwVB%2fcd6QeMEXSjhEAMkgQIQABjLiLho8e8wzGFcjtH9mbQs7XPfdEqvZ0TLNt3uZ42Y5qZjsM9W7LwD1bmtSuPAAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, FR Canal+ Series Entertainment
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwd0OgiAYANAHcix%2fPkAvvABkFlOM0pG32pot56pZaPPhOyfnq5mxdsQrW88nBV1VLHFBRpYfrxO4udWX9ryrzA%2fSDS%2fvLnzWPVNDYJfDaSM0YDTGGImQSwQZMBQLAAQiIwlPqIhwtNU%2bxY%2fBWWk6K7%2fVPXop7WxVLpMcPXVjju9tb6RuPiz9Ay0YNiePAAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, FR Canal+ Sport Sports
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwWEPQkAYAOAfZDdd97rjgw%2b8qlMns7D0sekqZMRk5sf3PBf9FeZJD0s%2byaf69VnFTIrt%2bbBE861Kw7wQrIxewb0L3XWq9WzXXT%2fhgx6vhVy5oJ6wLYvg1t8RCMAjNgIQwIA7viOQWWxNgUW0FdopGaARd7wfyjGTPHk3fDTiJsmVmvdafoqN%2bwfU5mnAjwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, FR Cine+ Classic Entertainment
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdsOQzAAANAPWhpDlT540GroYptbtsTbaAVjLBtl8fE7R9y0VXaU6PE70pKmHHEVy1QUZVIN6jM8Msb7fuPXsEvcfcy%2btZJbqHJVnRej2JGte7ZjWYAahAHoQw84FEIAqY8wwTY1LXPvVonxLA2aHnnbZPUrwCcvmpaLtt3DoEX8ME%2b%2f58zEyNw%2fXi6qx48AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, FR Cine+ Emotion Entertainment
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwUkOgjAUANATNQydfhcsSiskolQMBHVjkEmRRJEgwXB433uqxO%2bGcGs70GnzeI3l%2fVOFy662RzfOZHHCzdxAEBVJ6a0iYuWtP8shF%2f11ZOnKuCM5UIqU628Q0UQiUIQgojQTvuAKU7xOxlhh1IuW7S%2fHLCW%2foAqa95y6Rc3Bilv7Ox3qBWug4P0B7xy%2bIY8AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, FR Cine+ Frisson Entertainment
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdEKgjAUANAPkhG66dyDD%2fNu5kIymin6lkjNoVmSUuHHdw7Tu7VrvlOtFvi5Dl%2f7z7NJxrxSOE8zA4VxC3yf7EOqaNvX2qDqOsxapa1Mli2gLqeh7yPwYomIIByFQAgiIAIWMwrYx9ttPGcX7c2vniS87TrpzCYopR1AlPTUaquFrQ5vODIZ%2fQGA35%2bJjwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, FR Cine+ Premier Entertainment
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwd0KgjAYANAnGmV%2b6rzwYvu20nIWoUiX%2fqCkTg2xhfjwnTMnk1z177w9KkUP3fvD7V719%2fnSltw0nYiG0XyHZNykCfZ4lEWDkYVlUgF7tbvrWcyjjkPwxCUBAYxQBCCAwvW576Ht2DtPQzZBXeRxWq43immma%2fFsQp4du1koo2Hx1WRddb8Ef2%2fHrIuPAAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, FR CNews News
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/ewAAAB%2bLCAAAAAAABAAFwd0KgjAYANAnGqHb57aLXezH0WA4iGnYpZVZ5KI0AtnDd85cDI6WdkfOkW2NdStvwS%2f6%2bzvcTWrTEfZjF%2bA5KdyLLDk6NVc9vNW0%2bQ9bckULSRkA0qWqETFEIqYJQUSbiitONQaco73gsYaHmrsQXm6N0Pt0E%2bIPiuDJlnsAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, FR Comedie+ Entertainment
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwUkOgjAUANADmQZKf6cFiw7igJqoIMgSiEZtwAgSJBze9w77BVxjHddZMUzjWeF6vPuVX%2fqsSI5Nn4ELrEypnVZtOKcXl%2bNqaOoof%2bHPJp8Zx4oLSpEJ9BKBBYWEAUBgLJNackMombMeYk6%2fj13i6Ser4LYWsuva81t5CalK9xPEbsFFJ0%2bEf%2fYWS62PAAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, FR Cstar Entertainment
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwd0OQzAYANAHWpqMtuiFi087E7HuL3RzZxaJkY6NKfHwOweGJZ8Z28fYA7XcTo2C%2bqe%2bxlwmmbQKNl36%2foxWrtnZX7OlemGpi0df6rS%2bHlfHtcD1KEXcDnaICALI44QgwoXDAuZyTPEqS6O6qH%2bOQ34QdxLrsLd5Oze4CLNqMoGY5DZqEjy34P8BGx8t3o8AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, FR Discovery Science- Documentary
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/owAAAB%2bLCAAAAAAABAAFwd0OQzAYANAHksZPP8rFLtoSYn4jSNwZszExRpel8fA7Z1%2fjyQmHIMnGNMdurksqQ4IfOy6YcnjPqPgtigua2sPltCHzr8coxDRqPQvQaRGdEts0ETeYh8AFimwOgIC7lsMcwrGJzy8khUeDuN0%2bkIjWWMqGLqqQ80p8OZMGb%2fYtNBoiq9xcqnfEcF9TUaadNSj3V939Ad5mVHqjAAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, FR Discovery - , Documentary
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdEKgjAUANAPkoHlnXMPPuh1MmZWtCbUS9jEepAyFZXhx3eO59ajw5cX4Fw1tS8XYzWV4lzYq3KDpe7b6N9Kl2pa4s2fC%2fWZei7A5aJLHlvIdgmLKCW4TwWBDBISIQABzEKecoYBDbanupi%2brctTaSTaO%2b10O%2bKkx2GogUN%2bSJVBZE6%2f9S3%2bA3hPmHmPAAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, UK Free Sports Sports
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdEKgjAUANAPijF021UffJibiVqCmdX2lokUppDaUvHjO2eR64Snuelx075UG9%2bvsIv4iZSH%2fdi9R1iSi6opuMQ8%2fK1jSXnLUn08k3yYu%2b8GjsUdlzEk7CBEVFKOXEEpokKCF3iOIIxsVjU8Ld5HkOdarVjV9YcVrc3DyRRV%2fNNZClLigghT%2bn95%2feOTjwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, US Freeform Entertainment
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwd0OQzAYANAHWhqzfqW9cKEtFptpsgRxZzMyPzUhzOLhdw7EzDP0ebkudFMWHUJWHTYV5GvKP02rWDe8NQXjGbW1s9%2b6XPsPqZJf5UZBpnfLNl2bEoLEiXsIJLiICgAEQlqMM1tggne5lve0KOt5FNlFRv1Rqjipv6s%2fsheGHJtL2Exq6mcCzh8o8Ey1jwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, FR Gulli Entertainment
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwckKgzAQANAvCkSzjHPwEJNQl9YWD6HtVSkV1ATUBsSP73uu6W5aRXTbsyzTphozVfcIop3sHseLZZsokvJJ7xPNz%2b4YBHx2E6Caf%2bsiTwmJgkwIotPCEm64IpnmnHBtJBYImgl2unmQJr368Pa4hJ5WyFl%2f0NFv4TX5I2JMvvXDrS3Y%2fA%2bpGDQ2jwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, FR HD1 Entertainment
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdEOgiAUANAPaixUEHjwQS80s9Jopc03pc2ZorPWSufHd46tTZd7ejkb1%2fjyYEuPJU9u4qaCLGKY9iJLNUCF8y5YEyz1%2ft7ulJW6aJxy9ZkTMk4pAjdSiEgSIg6EIALSF5Fg4FFvvarRPc2yubBp7AcRHrdqfrxaDMMmqW%2f28%2f7%2bIF6cdCp48AflM8LLjwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, FR Infosport+ Sports
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwcEOgiAAANAPciwTED14AMRJSTZdsjjW2KyZYmku58f3XilqFe%2b%2bjwB2V9zMvG%2fCcR5qS2GeHQtms86ns3TO%2b6BkA269qVyYVhfYieC8hWRPSYQx4AETAKWIgogjBBBPw5jFhEMMNz15y1IhLdff1Mv2Ra2ajLRjZHxzJ%2bXpQNTlXXnPVg%2fJHyUf63aPAAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, FR LCI News
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/ewAAAB%2bLCAAAAAAABAAFwdsOgiAAANAvYs4AkQcfAMEaa21eUnx0NViUudgsnB%2ffOee58Yte46DWSlWBt%2fzrhs49E1gvo%2fudEonvJLCoP6bYVWPeIZXKbP5qL%2f1tz0jKSI4xEAcuASoRA7lACCBRZpRTIiCGO33ZTtu5H6Xxvq23x0TikRXFH%2fq8lXp7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, FR M6 Entertainment
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwUkOgjAUANADmcZafgcWLKCUGhYOEeKwtMosqKQMhsP7XtZ1ebzqWTsOU1yfL%2bn0mZKS9SbRuil%2f5oYTXmijsBq9ZazUMWIiFxUx%2fmG2C%2bMbnwtKkSSBQhCCj4QEQCBD5gYulw51lvx7quEp3xFkL77e2gfO5vu%2bhaLZrQi3w1UDKbAllKfeH7dzQuaPAAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, FR Nat Geo - , Documentary
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwUsOgjAQANATNRE6ZcqCRWkHlBB1IVbYAf6CYCDEWAmH971E2mJ5%2b%2fv87pUkXfZLK6synHqu3PQwsg8K84R46ZJdtM6dyO2xwPbcbqeD6dcAPYVSCKb9mBgYUExqAAbaBGEcouaCr0MrRqc3NdfqU1WDTeoTDs0IRK9bStfG8cuXQgIs5%2bgPq8khvo8AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, FR OCS Geants Entertainment
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwd0KgjAYANAHkuHPvm3uwgs3J0ouMotFd1JUin%2bwqCU%2bfOfkzevwI6Hovt64Tnv9aWvncdxGzJT3ItPc0mgVfn4dbLIFbapuashBdtQG1W6jLExZTAiSkVAIMkhRLAEQyIxywZnEBG%2bn4qya%2bXEMn3yB6b2YQcdG9XUxC%2bfGrmww9y%2b86p22yR94W%2b6ajwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, FR Planete+ Entertainment
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdsOQzAAANAvajb05sGDtiIkUxnS1ZstZTJhIqFdfPzOQXJNqVVLWhlu3VFsQ%2ftJ9CPRv174z6b5Zkqbpc7n6YjOK5EuV5lO37tsuelOTLyYUIQA91kCoIAxoBxCALnAIQsJD1BwKh96usvGkrKLvC%2fDUWMzFL3onHzt9rZ6bMKjm8sq3KI%2fu%2fnHeI8AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, FR Planete+ CI Entertainment
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdsKgjAAANAPGoPaTX3wYZsXxGaKEbYXYWEzM%2fFCJLGP75xfU7wU%2bMyprvrpGcemkls9DgqtX2PnGqGisHrozkLz0GFrk5Zst3YxU5Rj5Jh35J5PKZRIxJBEhENfEgKJjFggAk9iit2S5SUI6vedAkr3rrz6acrHCx7Zge%2bqNA9z0muu%2b4Rl4R9P3%2ftTjwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, FR RMC Sport 1 Sports
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwd0KgjAYANAHikHbPud24cWcv2SFwmpeOlNB0izDSnz4zhk7vn66%2bJvVS7LLucZVXC3Zcx0jQvbAllJc20ch5HhLva0Jpzq9GFvaCbQ84o25WLrccZAifoggAIm4AkCgAiZ84Srq0K3Vh8jQwtQ9w11KXtRiOP9EXjWJmu1J9xEZ8vjevofZ%2bwNxObmRjwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, FR RMC Sport 2 Sports
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdsOgiAAANAvYk3kog8%2bINJklhVTyUeTrTFw2rQy58d3zn375tDlpeSuZRrqcmnMocDh81ixpjcnRdQKh1G205zsw%2bQXU4PKQ%2fe5dZ3YCQ0YjTAGHKYCoAwxEHGEAOIZidOY8hCHO%2blGLhpBfC8fP6zeurC%2bKi92nc6SzjVyg%2fVKvILt2id%2fXbvrP48AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, FR RMC Sport 3 Sports
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwUkOgjAUANADmSbSFn67YNEBwxAGF5WyRCUFIhgNGDEc3ve2WSwscY%2fsWybUkWb9ve4GLHayY3E3VrqfUsEv%2bVSZcLdwPKULvOuc39LPUO8BeAKY7yOFZYSopgIxRSmiSgdcclDEJ7ukVRk7kxt79p6rKbOg180hbnEC81gs0YALuQrSXjcX%2fgFZOjTGjwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, FR RMC Sport 4 Sports
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdsOgiAAANAPcqxUEHjwAdCJJFlTo%2fHSWrOLOudaJmt%2bfOfUSdSb41JQ81bVxyu6O8m%2fxll3Dmst1Xi9FY3WVuqSxSvbuQvNM59PnYLbfblG2GeYIAREwFMAE8gAERACKJKIcopFiML15OHNr%2b3bF34sAZIzKm1qpupAq8HKbBjV%2fFTEjXmDm%2fgPgvMPy48AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, FR TF1 Entertainment
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdsOQzAYAOAnalb8Wi5c0GpJdpCFOdxNCF2a2Bxn8fD7Pn6%2fbn1bZO%2fGT%2be8o1qO9DU88apzYl6UMXUFr3fRtU3pHahUI0zLp94TqdOMHYQaPnVsGzEzCBFw8JHDABAwTtzApcyyrUMB%2bzVWRGKR9KHchBOdvoNxU72Iw%2fMi550E5aNaMU6w9wdmnA2xjwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, FR Ushuaia tv Documentary
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwd0KgjAYANAHipFzn5teeLFNQQsltUC8czPxB1uE%2bIcP3zl5b2q13PstxJwk%2bFdWxWDNYnmmMUkxSyo2QvatiyNY%2fROoqQ01Sh03Mw7ddFKGOXMdB0lbhAgC4MiVAAhkQD3hMUkccmbXvG1jEq20L1uSWO%2f9oT%2buiqPJnhvd5ezFL3qz9mjS%2fh%2fyvaVDjwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, FR Voyage tv Documentary
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwUkOgjAUANADmcYgv9OCBS04FaJGgdqNiQuCMogUEQyH9z0iH%2bvI6N%2bBVQy4KcdEtF1eUvXKmmX7vtQqnbZ9HKfNyZtV8JmO9tvK%2fjrc6JPPhDo%2bZRgjuRIhggB8xCQAAhkQLjiVLnZnjZ0kK%2b5mPBf9otN7FgkhGLbhRuV24HUG%2bdhViu5M7P0BABf7sY8AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+
+#EXTINF:0,[FR] 13eme.rue
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/175
+#EXTINF:0,[FR] 6ter
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/174
+#EXTINF:0,[FR] AB.Moteurs
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/173
+#EXTINF:0,[FR] AB1
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/172
+#EXTINF:0,[FR] AB3
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/171
+#EXTINF:0,[FR] Action
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/170
+#EXTINF:0,[FR] altice.studio
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/169
+#EXTINF:0,[FR] Animaux
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/168
+#EXTINF:0,[FR] ARTE
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/167
+#EXTINF:0,[FR] beinsport1
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/166
+#EXTINF:0,[FR] beinsports10
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/165
+#EXTINF:0,[FR] beinsports2
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/164
+#EXTINF:0,[FR] beinsports3
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/163
+#EXTINF:0,[FR] beinsports4
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/162
+#EXTINF:0,[FR] beinsports5
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/161
+#EXTINF:0,[FR] beinsports6
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/160
+#EXTINF:0,[FR] beinsports7
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/159
+#EXTINF:0,[FR] beinsports8
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/158
+#EXTINF:0,[FR] beinsports9
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/157
+#EXTINF:0,[FR] BFMTV
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/156
+#EXTINF:0,[FR] Boing
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/155
+#EXTINF:0,[FR] Boomerang
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/154
+#EXTINF:0,[FR] boomerang1
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/153
+#EXTINF:0,[FR] C8
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/152
+#EXTINF:0,[FR] CANAL
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/151
+#EXTINF:0,[FR] Canal.Cinema
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/150
+#EXTINF:0,[FR] Canal.Family
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/149
+#EXTINF:0,[FR] Canal.Series
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/148
+#EXTINF:0,[FR] Canal.Sport
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/147
+#EXTINF:0,[FR] canalj
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/146
+#EXTINF:0,[FR] Cartoon.Network
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/145
+#EXTINF:0,[FR] Chasse.et.Pêche
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/144
+#EXTINF:0,[FR] Cherie25
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/143
+#EXTINF:0,[FR] CinéClassic
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/142
+#EXTINF:0,[FR] CineClub
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/141
+#EXTINF:0,[FR] CineEmotion
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/140
+#EXTINF:0,[FR] CinéFamiz
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/139
+#EXTINF:0,[FR] Cinéfrisson
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/138
+#EXTINF:0,[FR] CinéPremier
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/137
+#EXTINF:0,[FR] CNews
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/136
+#EXTINF:0,[FR] Comedie
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/135
+#EXTINF:0,[FR] Crime.District
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/134
+#EXTINF:0,[FR] CStar
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/133
+#EXTINF:0,[FR] Discovery
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/132
+#EXTINF:0,[FR] Discovery.family
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/131
+#EXTINF:0,[FR] Discovery.investigation
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/130
+#EXTINF:0,[FR] Discovery.science
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/129
+#EXTINF:0,[FR] Disney.Channel
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/128
+#EXTINF:0,[FR] Disney.Channel1
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/127
+#EXTINF:0,[FR] Disney.Cinema
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/126
+#EXTINF:0,[FR] DISNEY.Junior
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/125
+#EXTINF:0,[FR] Disney.XD
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/124
+#EXTINF:0,[FR] e.enter
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/123
+#EXTINF:0,[FR] Equidia.Live
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/122
+#EXTINF:0,[FR] Equipe21
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/121
+#EXTINF:0,[FR] Eurosport2
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/120
+#EXTINF:0,[FR] France2
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/119
+#EXTINF:0,[FR] France3
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/118
+#EXTINF:0,[FR] France4
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/117
+#EXTINF:0,[FR] France5
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/116
+#EXTINF:0,[FR] Franceinfo
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/115
+#EXTINF:0,[FR] FranceO
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/114
+#EXTINF:0,[FR] GameOne
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/113
+#EXTINF:0,[FR] gameone1
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/112
+#EXTINF:0,[FR] Golf.channel
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/111
+#EXTINF:0,[FR] Gulli
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/110
+#EXTINF:0,[FR] INFOSPORT
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/109
+#EXTINF:0,[FR] j.one
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/108
+#EXTINF:0,[FR] LCI
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/107
+#EXTINF:0,[FR] LCP
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/106
+#EXTINF:0,[FR] M6
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/105
+#EXTINF:0,[FR] Mangas
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/104
+#EXTINF:0,[FR] MCM
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/103
+#EXTINF:0,[FR] MCM.TOP
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/102
+#EXTINF:0,[FR] Nat.geo.wild
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/101
+#EXTINF:0,[FR] Natgeo
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/100
+#EXTINF:0,[FR] nick4teens
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/99
+#EXTINF:0,[FR] Nickelodeon
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/98
+#EXTINF:0,[FR] Nickelodeon.Junior
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/97
+#EXTINF:0,[FR] Nickelodeon1
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/96
+#EXTINF:0,[FR] NRJ.Hits
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/95
+#EXTINF:0,[FR] NRJ12
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/94
+#EXTINF:0,[FR] Ocs.Choc
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/93
+#EXTINF:0,[FR] Ocs.City
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/92
+#EXTINF:0,[FR] Ocs.Geants
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/91
+#EXTINF:0,[FR] Ocs.Max
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/90
+#EXTINF:0,[FR] OL.tv
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/89
+#EXTINF:0,[FR] Paramount.channel
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/88
+#EXTINF:0,[FR] Paris.Premiere
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/87
+#EXTINF:0,[FR] Piwi
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/86
+#EXTINF:0,[FR] Planete
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/85
+#EXTINF:0,[FR] Planete.AE
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/84
+#EXTINF:0,[FR] Planete.CI
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/83
+#EXTINF:0,[FR] RMC.decouverte
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/82
+#EXTINF:0,[FR] Rmc.Sport.News
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/81
+#EXTINF:0,[FR] RMC.Sport1
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/80
+#EXTINF:0,[FR] RMC.Sport2
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/79
+#EXTINF:0,[FR] RMC.Sport3
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/78
+#EXTINF:0,[FR] RMC.Sport4
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/77
+#EXTINF:0,[FR] Rmc.Story
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/76
+#EXTINF:0,[FR] RTL9
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/75
+#EXTINF:0,[FR] Science.et.Vie
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/74
+#EXTINF:0,[FR] Seasons
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/73
+#EXTINF:0,[FR] Serie.Club
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/72
+#EXTINF:0,[FR] sundance
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/71
+#EXTINF:0,[FR] Syfy
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/70
+#EXTINF:0,[FR] TCM.Cinema
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/69
+#EXTINF:0,[FR] TéléTOON
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/68
+#EXTINF:0,[FR] Téva
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/67
+#EXTINF:0,[FR] TF1
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/66
+#EXTINF:0,[FR] TF1.F.S
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/65
+#EXTINF:0,[FR] TFX
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/64
+#EXTINF:0,[FR] tiji
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/63
+#EXTINF:0,[FR] TMC
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/62
+#EXTINF:0,[FR] toonami
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/61
+#EXTINF:0,[FR] Toute.histoire
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/60
+#EXTINF:0,[FR] TREK
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/59
+#EXTINF:0,[FR] TV.Breizh
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/58
+#EXTINF:0,[FR] Ushuaïa
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/57
+#EXTINF:0,[FR] Voyages
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/56
+#EXTINF:0,[FR] W9
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/55
+#EXTINF:0,|News| France 24
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/403
+#EXTINF:0,|News| France 24 Eng
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/402
