@@ -1,9 +1,9 @@
 #EXTINF:0,Bein Sports 1 
 httphost://$http-raw=http://www.247bay.tv/hembedplayer/beino1ik/2/600/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
 #EXTINF:-1,Bein Sports 2 
-httphost://$http-raw=http://www.247bay.tv/hembedplayer/beino2soi/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports2 
+httphost://$http-raw=https://www.247bay.tv/hembedplayer/beinsportshb2ndbz/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports2 
 #EXTINF:-1,Bein Sports 3 
-httphost://$http-raw=http://www.247bay.tv/hembedplayer/beino3soi/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports3 
+httphost://$http-raw=https://www.247bay.tv/hembedplayer/beino3soi/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports3 
 #EXTINF:-1,Bein Sports 4 
 httphost://$http-raw=http://www.247bay.tv/hembedplayer/beino4sih/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports4 
 #EXTINF:-1,Bein Sports 5 
