@@ -1,5 +1,5 @@
 #EXTINF:-1, sky sports main event
-httphost://$http-raw=http://www.wlive.tv/cricsp.php?player=desktop&live=ss1&vw=620&vh=490$http-refferer=http://www.skyembed.com/skyspmain.php
+httphost://$http-raw=http://www.wlive.tv/cricsp.php?player=desktop&live=ss1&vw=620&vh=490$http-refferer=http://crichd.ws/update/skys1.php
 #EXTINF:-1, 
 
 #EXTINF:-1, 
