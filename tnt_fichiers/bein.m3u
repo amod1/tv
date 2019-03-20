@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:0,Bein Sports 1 1
-httphost://$http-raw=http://www.liveflashplayer.org/hembedplayer/stantskoks154/1/960/600$http-refferer=http://kora-live.tv/iframe/bein1/beinsports1HD.html
-#EXTINF:0,Bein Sports 1 2
-httphost://$http-raw=http://www.liveflashplayer.org/hembedplayer/stantskoks154/1/960/600$http-refferer=http://kora-live.tv/home/ch_iframe/164.html
+httphost://$http-raw=http://kora-live.tv/home/ch_iframe/164.html$http-refferer=http://kora-live.tv/iframe/bein1/beinsports1HD.html
+#EXTINF:0,Bein Sports 1 3
+httphost://$http-raw=http://www.liveflashplayer.org/hembedplayer/stantskoks154/1/960/600$http-refferer=http://kora-live.tv/channels/num/164/BeinSports-1HD.html
 #EXTINF:0,Bein Sports 1 
 httphost://$http-raw=http://www.247bay.tv/hembedplayer/beino1ik/2/600/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
 #EXTINF:-1,Bein Sports 2 
