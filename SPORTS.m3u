@@ -1,5 +1,13 @@
 #EXTINF:-1, Sky Sports Main Event
 httphost://$http-raw=http://www.webtv.ws/embed.php?live=spstreamskymv&vw=700&vh=440$http-refferer=http://www.sports-stream.net/ch/sps.php?ch=skymv
+#EXTINF:-1 tvg-logo="", UK: SKY SPORTS MAIN EVENT
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNHaHZjM1E2THk4a2FIUjBjQzF5WVhjOWFIUjBjRG92TDJaMWJuUjJMbk5wZEdVNk1UVTFOeTlKYkVsc01ERWhTVEJ2YkVrd0lTOUlWM0F3SVUxcU9WSWhNWGhtUnk4eE1EY3lNQ1JvZEhSd0xYSmxabVpsY21WeVBXaDBkSEE2THk5bWRXNTBkaTV6YVhSbEwzVmhNeTV3YUhBPXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-logo="http://swiftstreamz.com/SwiftLive/images/thumbs/43621_skymainevent.jpg", SPORTS TV SKY SPORTS MAIN EVENT
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwduSQzAAANAPyhiWuD14aMRlaHUpm8pbrXbULSPUbXx8z1n3z319zhUQHxOuJ8J9Nttd0ss4iqrE%2bVH4%2bSEqdwLAKyJDyEZWJ7uPGg0z5V053j%2fISJb4F9xFbYUvhLv9xLcgLOPNLlBG39VNaUOUFtroLfkgUbTTvPzV7SBq0inObkAOislrIOTOLppFdC749WRZR7kkZJQ%2bdBy24YTj56Hqsm3LiiLo7skQoA4lwdQgFCRVM3WsOgia0pHntDcwQBJ0SFoz%2b4%2fMqw%2fdFtDuugBx2pjj83yUjRezvj%2bX0ND7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1,sky sports main event
+xmtv://aHR0cGhvc3Q6Ly8kaHR0cC1yYXc9aHR0cHM6Ly93d3cud2xpdmUudHYvY3JpY3NwLnBocD9wbGF5ZXI9P3BsYXllcj1kZXNrdG9wJmxpdmU9c3MxJnZ3PTYyMCZ2aDQ5MCRodHRwLXJlZmZlcmVyPWh0dHA6Ly9jcmljaGQud3MvdXBkYXRlL3NreXMxLnBocA%3D%3D
+#EXTINF:-1 tvg-logo="http://taptube.net/tvtap1/images/channel_imgs/200717080757main1.jpeg", UK Sky Sports Main Event Sports
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwcEOgiAAANAPamySIHLwIOiiVOaW1uKmZmioNcXamh%2ffew2c8o7VccGgIwt1uZ09MhvVl%2fckandpOlYxrWpxshoF22Jl7eSgpKxNGi2SzSMwJD7GgO9ZDFCEQuBzhADikUcZJdzF7vb%2b%2fMrFz1Y8Nfg6EJoZMui5W%2ftjJr%2fP8fVgRh6sEtCa4A8AavecjwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1, 
 
 #EXTINF:-1, 
