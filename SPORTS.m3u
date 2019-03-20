@@ -1,5 +1,5 @@
 #EXTINF:-1, Sky Sports Main Event
-httphost://$http-raw=http://www.webtv.ws/embed.php?live=spstreamskymv&vw=620&vh=490$http-refferer=http://www.sports-stream.net/ch/sps.php
+httphost://$http-raw=http://www.webtv.ws/embed.php?live=spstreamskymv&vw=700&vh=440$http-refferer=http://www.sports-stream.net/ch/sps.php?ch=skymv
 #EXTINF:-1, 
 
 #EXTINF:-1, 
