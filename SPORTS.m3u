@@ -1,3 +1,5 @@
+#EXTINF:-1, pl canal plus
+http://zee18.online/m3u8.php?page=https://sblive.online/plcanalplus.html
 #EXTINF:-1, Sky Sports Main Event
 httphost://$http-raw=http://www.webtv.ws/embed.php?live=spstreamskymv&vw=700&vh=440$http-refferer=http://www.sports-stream.net/ch/sps.php?ch=skymv
 #EXTINF:-1 tvg-logo="", UK: SKY SPORTS MAIN EVENT
