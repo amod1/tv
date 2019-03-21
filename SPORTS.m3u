@@ -64,16 +64,8 @@ httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssracing&vw=620&vh=490$h
 httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssmlb&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/82
 #EXTINF:-1, BOX NATION
 httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssbox&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/39
-#EXTINF:-1, PTV SPORTS
-httphost://$http-raw=http://hdsportslive.com/ptv.php$http-refferer=http://cricfree.live/watchfeeds/index/40
-#EXTINF:-1, MUTV
-httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssmlb&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/98
-#EXTINF:-1, CHELSEA TV
-httphost://$http-raw=http://stream365.xyz/reproductor/chelsea.php?width=680&height=680$http-refferer=http://cricfree.live/watchfeeds/index/130
-#EXTINF:-1, STAR SPORTS
-httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssbt1&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/
-#EXTINF:-1, 
-httphost://$http-raw=http$http-refferer=http://cricfree.live/watchfeeds/index/
+#EXTINF:-1, Sport TV 1 Portugal
+httphost://$http-raw=http://sportzonline.xyz/channels/pt/sporttv1.php$http-refferer=http://sportzonline.xyz
 #EXTINF:-1, 
 httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssbt1&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/
 #EXTINF:-1, 
