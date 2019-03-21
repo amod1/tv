@@ -1,11 +1,5 @@
 #EXTINF:-1, pl canal plus
 http://zee18.online/m3u8.php?page=https://sblive.online/plcanalplus.html
-#EXTINF:-1, SKY
-http://zee18.online/m3u8.php?page=http://hls.giize.com/un?ch=skysport1italia
-#EXTINF:-1, FOX Sports
-httphost://$http-raw=http://www.liketvw.com/embed/foxsports$http-refferer=http://www.liketvw.com/
-#EXTINF:-1, Sky Sports NEWS DE
-https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/index.m3u8
 #EXTINF:-1, Sky Sports NEWS UK
 httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssnews&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/12
 #EXTINF:-1, SKY SPORTS MAIN EVENT
