@@ -23,30 +23,7 @@ httphost://$http-raw=http://www.247bay.tv/hembedplayer/beinpsots10/2/600/420$htt
 httphost://$http-raw=http://www.247bay.tv/hembedplayer/beinsports11hzbavd/2/600/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports11 
 #EXTINF:-1,Bein Sports 12 
 httphost://$http-raw=http://www.247bay.tv/hembedplayer/beinpsots10/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports12
-#EXTINF:-1 tvg-logo="", [color green]Deportes[/color] BEIN SPORT EN ESPAÃ‘OL 
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMM2QzZHk1MGRuQmhkRzh1WTI5dEwybGtQVEl6TURJeUxUYz18WVhVMU5YVmFXSG80VTJwSk4yYzRYdz09fDU3MkNDMjMzLTdGQTgtNDc0MC05NjQ0LTA1Njk3RDVFQjQ5MHxSRU4zZUE9PQ%3D%3D$http-refferer=http://linkprotect.xmtvplayer.com 
-#EXTINF:-1 tvg-logo="", [color green]Deportes[/color] BEIN SPORT FRANCIA 
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMM2QzZHk1MGRuQmhkRzh1WTI5dEwybGtQVEl6TURJeExUYz18WVhVMU5YVmFXSG80VTJwSk4yYzRYdz09fDU3MkNDMjMzLTdGQTgtNDc0MC05NjQ0LTA1Njk3RDVFQjQ5MHxSRU4zZUE9PQ%3D%3D$http-refferer=http://linkprotect.xmtvplayer.com 
-#EXTINF:-1 tvg-logo="", [color green]Deportes[/color] BEIN SPORT FRANCIA 2 
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMM2QzZHk1MGRuQmhkRzh1WTI5dEwybGtQVEl6TURJd0xUYz18WVhVMU5YVmFXSG80VTJwSk4yYzRYdz09fDU3MkNDMjMzLTdGQTgtNDc0MC05NjQ0LTA1Njk3RDVFQjQ5MHxSRU4zZUE9PQ%3D%3D$http-refferer=http://linkprotect.xmtvplayer.com 
-#EXTINF:-1 tvg-logo="", [color green]Deportes[/color] BEIN SPORT FRANCIA 3 
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMM2QzZHk1MGRuQmhkRzh1WTI5dEwybGtQVEl6TURJMUxUYz18WVhVMU5YVmFXSG80VTJwSk4yYzRYdz09fDU3MkNDMjMzLTdGQTgtNDc0MC05NjQ0LTA1Njk3RDVFQjQ5MHxSRU4zZUE9PQ%3D%3D$http-refferer=http://linkprotect.xmtvplayer.com 
-#EXTINF:-1 tvg-logo="", [color green]Deportes[/color] BEIN SPORT FRANCIA 5 
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMM2QzZHk1MGRuQmhkRzh1WTI5dEwybGtQVEl6TXpNeExUYz18WVhVMU5YVmFXSG80VTJwSk4yYzRYdz09fDU3MkNDMjMzLTdGQTgtNDc0MC05NjQ0LTA1Njk3RDVFQjQ5MHxSRU4zZUE9PQ%3D%3D$http-refferer=http://linkprotect.xmtvplayer.com 
-#EXTINF:-1 tvg-logo="", [color green]Deportes[/color] BEIN SPORT FRANCIA MAX 10 
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMM2QzZHk1MGRuQmhkRzh1WTI5dEwybGtQVEl6TXpNekxUYz18WVhVMU5YVmFXSG80VTJwSk4yYzRYdz09fDU3MkNDMjMzLTdGQTgtNDc0MC05NjQ0LTA1Njk3RDVFQjQ5MHxSRU4zZUE9PQ%3D%3D$http-refferer=http://linkprotect.xmtvplayer.com 
-#EXTINF:-1 tvg-logo="", [color green]Deportes[/color] BEIN SPORT FRANCIA MAX 4 
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMM2QzZHk1MGRuQmhkRzh1WTI5dEwybGtQVEl6TXpNeUxUYz18WVhVMU5YVmFXSG80VTJwSk4yYzRYdz09fDU3MkNDMjMzLTdGQTgtNDc0MC05NjQ0LTA1Njk3RDVFQjQ5MHxSRU4zZUE9PQ%3D%3D$http-refferer=http://linkprotect.xmtvplayer.com 
-#EXTINF:-1 tvg-logo="", [color green]Deportes[/color] BEIN SPORT FRANCIA MAX 6 
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMM2QzZHk1MGRuQmhkRzh1WTI5dEwybGtQVEl6TXpNd0xUYz18WVhVMU5YVmFXSG80VTJwSk4yYzRYdz09fDU3MkNDMjMzLTdGQTgtNDc0MC05NjQ0LTA1Njk3RDVFQjQ5MHxSRU4zZUE9PQ%3D%3D$http-refferer=http://linkprotect.xmtvplayer.com 
-#EXTINF:-1 tvg-logo="", [color green]Deportes[/color] BEIN SPORT FRANCIA MAX 7 
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMM2QzZHk1MGRuQmhkRzh1WTI5dEwybGtQVEl6TXpJNUxUYz18WVhVMU5YVmFXSG80VTJwSk4yYzRYdz09fDU3MkNDMjMzLTdGQTgtNDc0MC05NjQ0LTA1Njk3RDVFQjQ5MHxSRU4zZUE9PQ%3D%3D$http-refferer=http://linkprotect.xmtvplayer.com 
-#EXTINF:-1 tvg-logo="", [color green]Deportes[/color] BEIN SPORT FRANCIA MAX 8 
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMM2QzZHk1MGRuQmhkRzh1WTI5dEwybGtQVEl6TXpJNExUYz18WVhVMU5YVmFXSG80VTJwSk4yYzRYdz09fDU3MkNDMjMzLTdGQTgtNDc0MC05NjQ0LTA1Njk3RDVFQjQ5MHxSRU4zZUE9PQ%3D%3D$http-refferer=http://linkprotect.xmtvplayer.com 
-#EXTINF:-1 tvg-logo="", [color green]Deportes[/color] BEIN SPORT FRANCIA MAX 9 
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMM2QzZHk1MGRuQmhkRzh1WTI5dEwybGtQVEl6TXpJM0xUYz18WVhVMU5YVmFXSG80VTJwSk4yYzRYdz09fDU3MkNDMjMzLTdGQTgtNDc0MC05NjQ0LTA1Njk3RDVFQjQ5MHxSRU4zZUE9PQ%3D%3D$http-refferer=http://linkprotect.xmtvplayer.com 
-#EXTINF:-1 tvg-logo="", [color green]Deportes[/color] BEIN SPORT LA LIGA 
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMM2QzZHk1MGRuQmhkRzh1WTI5dEwybGtQVEl6TURJM0xUYz18WVhVMU5YVmFXSG80VTJwSk4yYzRYdz09fDU3MkNDMjMzLTdGQTgtNDc0MC05NjQ0LTA1Njk3RDVFQjQ5MHxSRU4zZUE9PQ%3D%3D$http-refferer=http://linkprotect.xmtvplayer.com #EXTINF:0, BEOUTQ SPORT 1 [color green]TV FABOR[/color] 
+#EXTINF:0, BEOUTQ SPORT 1
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/uwAAAB%2bLCAAAAAAABAAFwdsOgiAAANAPaiwKEH3wodLc8JJpZfEmBFtpspZGbH5850Q72nJk9Lo46Gfcq9y%2fMl6d4X1q6mBgPcLLC06I3Lo4n2i1skYJZIrx6KbnJ4XdYSicuD0cuvVMSXskpRsrG4ZzR7n%2bJfmjNIk9ZQmYCaJSCdICERAKsFj5wFcEgVYhrb279BQVczPUqc242fMmY3HnLSVm8FVEAaQbXaWLfIT1t4zfmx8O%2f3FrO4%2b7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, BEOUTQ SPORT 2 [color green]TV FABOR[/color] 
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/uwAAAB%2bLCAAAAAAABAAFwdEWQjAAANAP6jhnaMaDB0WjiAqVN9MUW1YScnx893aavkHWKjrU4HKZyvp43bbireE12UUsUPaOPVh%2bDPiHR82asjC4fj3282kJFrgfQe%2fmNuwsizdcCP288xSHGuhumvMLp8lzyu3JcCrffrAZqqigBOYSMSCSlkTWJZ1CVcqpWpbardAoIvM4BOmdZTR2cSrUPl3Jb9wmGZDHsPv1PILJqWqQsnU6Yf4BarE1n7sAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
