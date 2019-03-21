@@ -52,14 +52,6 @@ httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssfox1&vw=620&vh=490$htt
 httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssfox2&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/31
 #EXTINF:-1, TSN 1
 httphost://$http-raw=http://www.webtv.ws/embed.php?live=sstsn1&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/32
-#EXTINF:-1, TSN 2
-httphost://$http-raw=http://www.wlive.tv/crichd.php?player=desktop&live=yt13&vw=620&vh=490$http-refferer=http://cdn.crichd.to/embed2.php?id=tsn3
-#EXTINF:-1, TSN 3
-httphost://$http-raw=http://www.webtv.ws/embed.php?live=sstsn1&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/32
-#EXTINF:-1, TSN 4
-httphost://$http-raw=http://www.webtv.ws/embed.php?live=sstsn1&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/32
-#EXTINF:-1, TSN 5
-httphost://$http-raw=http://www.wlive.tv/crichd.php?player=desktop&live=yt15&vw=620&vh=490$http-refferer=http://cdn.crichd.to/embed2.php?id=tsn5
 #EXTINF:-1, NFL NETWORK
 httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssnfl&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/34
 #EXTINF:-1, GOLF CHANNEL
