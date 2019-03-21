@@ -1,5 +1,12 @@
 #EXTINF:-1, pl canal plus
 http://zee18.online/m3u8.php?page=https://sblive.online/plcanalplus.html
+#EXTINF:-1, Sky Sports NEWS
+httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssnews&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/12
+#EXTINF:-1, Sky Sports Main Event
+httphost://$http-raw=http://www.webtv.ws/embed.php?live=spstreamskymv&vw=700&vh=440$http-refferer=http://www.sports-stream.net/ch/sps.php?ch=skymv
+
+#EXTINF:-1, Sky Sports NEWS
+httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssnews&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/12
 #EXTINF:-1, Sky Sports Main Event
 httphost://$http-raw=http://www.webtv.ws/embed.php?live=spstreamskymv&vw=700&vh=440$http-refferer=http://www.sports-stream.net/ch/sps.php?ch=skymv
 #EXTINF:-1 tvg-logo="", UK: SKY SPORTS MAIN EVENT
@@ -46,9 +53,87 @@ httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNHaHZj
 xmtv://aHR0cGhvc3Q6Ly8kaHR0cC1yYXc9aHR0cHM6Ly93d3cud2xpdmUudHYvY3JpY3NwLnBocD9wbGF5ZXI9P3BsYXllcj1kZXNrdG9wJmxpdmU9c3M0JnZ3PTYyMCZ2aDQ5MCRodHRwLXJlZmZlcmVyPWh0dHA6Ly9jcmljaGQud3MvdXBkYXRlL3NreXM0LnBocA%3D%3D
 
 
+#EXTINF:-1, BT SPORT 1
+httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssbt1&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/18
+#EXTINF:-1, BT SPORT 2
+httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssbt2&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/19
+#EXTINF:-1, BT SPORT 3
+httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssbt3&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/74
+#EXTINF:-1, BT SPORT ESPN
+httphost://$http-raw=http://www.webtv.ws/embed.php?live=btessss&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/20
+#EXTINF:-1, EUROSPORT 1
+httphost://$http-raw=http://www.webtv.ws/embed.php?live=euro1ss&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/21
+#EXTINF:-1, EUROSPORT 2
+httphost://$http-raw=http://www.webtv.ws/embed.php?live=sseuro2&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/22
+#EXTINF:-1, BEIN SPORTS 1 FR
+httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssbein1&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/23
+#EXTINF:-1, SPORTSNET WORLD
+httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssworld&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/24
+#EXTINF:-1, SPORTSNET ONE
+httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssone&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/25
+#EXTINF:-1, SPORTSNET ONTARIO
+httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssontario&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/26
+#EXTINF:-1, NBCSN
+httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssnbc&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/27
 #EXTINF:-1, 
+httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssbt1&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/
+#EXTINF:-1, 
+httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssbt1&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/
+#EXTINF:-1, 
+httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssbt1&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/
+#EXTINF:-1, 
+httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssbt1&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/
+#EXTINF:-1, 
+httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssbt1&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/
+#EXTINF:-1, 
+httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssbt1&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/
+#EXTINF:-1, 
+httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssbt1&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/
+#EXTINF:-1, 
+httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssbt1&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/
+#EXTINF:-1, 
+httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssbt1&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/
+#EXTINF:-1, 
+httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssbt1&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/
+#EXTINF:-1, 
+httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssbt1&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/
+#EXTINF:-1, 
+httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssbt1&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/
+#EXTINF:-1, 
+httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssbt1&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/
+#EXTINF:-1, 
+httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssbt1&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/
+#EXTINF:-1, 
+httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssbt1&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/
+#EXTINF:-1, 
+httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssbt1&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/
+#EXTINF:-1, 
+httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssbt1&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/
+#EXTINF:-1, 
+httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssbt1&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/
+#EXTINF:-1, 
+httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssbt1&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/
+#EXTINF:-1, 
+httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssbt1&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/
+#EXTINF:-1, 
+httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssbt1&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/
+#EXTINF:-1, 
+httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssbt1&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/
+#EXTINF:-1, 
+httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssbt1&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/
+#EXTINF:-1, 
+httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssbt1&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/
+#EXTINF:-1, 
+httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssbt1&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/
+#EXTINF:-1, 
+httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssbt1&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/
+#EXTINF:-1, 
+httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssbt1&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/
+#EXTINF:-1, 
+httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssbt1&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/
 
 #EXTINF:-1, 
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNHaHZjM1E2THk4a2FIUjBjQzF5WVhjOWFIUjBjRG92TDJaMWJuUjJMbk5wZEdVNk1UVTFOeTlKYkVsc01ERWhTVEJ2YkVrd0lTOUlWM0F3SVUxcU9WSWhNWGhtUnk4eE1EY3lNeVJvZEhSd0xYSmxabVpsY21WeVBXaDBkSEE2THk5bWRXNTBkaTV6YVhSbEwzVmhNeTV3YUhBPXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
 
 #EXTINF:-1, 
 
