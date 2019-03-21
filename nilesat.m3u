@@ -26,11 +26,12 @@ http://thoptvstream.gq/api/scilla/play.m3u8?id=9229
 http://thoptvstream.gq/api/scilla/play.m3u8?id=9228
 #EXTINF:0, HALA TURK
 http://thoptvstream.gq/api/scilla/play.m3u8?id=2514
-
+#EXTINF:-1,alyaumtv
+rtmp://185.255.47.55:1935/live/alyaumtv
 #EXTINF:-1,alarabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1,alarabiya alhadath
-https://av.alarabiya.neSky News Arabiat/alarabiapublish/alhadath.smil/playlist.m3u8
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/chunklist.m3u8
 #EXTINF:-1,Sky News Arabia
 https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:-1, france 24 AR
