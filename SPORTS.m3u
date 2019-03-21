@@ -1,4 +1,4 @@
-#EXTINF:-1, pl canal plus
+#EXTINF:-1, canal plus POLAND
 http://zee18.online/m3u8.php?page=https://sblive.online/plcanalplus.html
 #EXTINF:-1, BEIN
 httphost://$http-raw=https://streamcdn.co/e/kinusynqaphkd$http-refferer=https://izlemac10.net/plyr/frm.php#u=https://streamcdn.co/e/kinusynqaphkd
@@ -74,8 +74,8 @@ httphost://$http-raw=http://whostreams.net/embed/2dbrbt50ibw21jq$http-refferer=h
 httphost://$http-raw=http://whostreams.net/embed/5bw0ttm$http-refferer=http://sportzonline.xyz/channels/pt/sporttv3.php
 #EXTINF:-1, Sport TV 4 Portugal
 httphost://$http-raw=http://whostreams.net/embed/3ant1pjxw3$http-refferer=http://sportzonline.xyz/channels/pt/sporttv4.php
-#EXTINF:-1, 
-httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssbt1&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/
+#EXTINF:-1, Sport TV 5 Portugal
+http://zee18.online/m3u8.php?page=https://sblive.online/ptsport5.html
 #EXTINF:-1, 
 httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssbt1&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/
 #EXTINF:-1, 
