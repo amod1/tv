@@ -4,11 +4,6 @@ http://zee18.online/m3u8.php?page=https://sblive.online/plcanalplus.html
 httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssnews&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/12
 #EXTINF:-1, Sky Sports Main Event
 httphost://$http-raw=http://www.webtv.ws/embed.php?live=spstreamskymv&vw=700&vh=440$http-refferer=http://www.sports-stream.net/ch/sps.php?ch=skymv
-
-#EXTINF:-1, Sky Sports NEWS
-httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssnews&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/12
-#EXTINF:-1, Sky Sports Main Event
-httphost://$http-raw=http://www.webtv.ws/embed.php?live=spstreamskymv&vw=700&vh=440$http-refferer=http://www.sports-stream.net/ch/sps.php?ch=skymv
 #EXTINF:-1 tvg-logo="", UK: SKY SPORTS MAIN EVENT
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNHaHZjM1E2THk4a2FIUjBjQzF5WVhjOWFIUjBjRG92TDJaMWJuUjJMbk5wZEdVNk1UVTFOeTlKYkVsc01ERWhTVEJ2YkVrd0lTOUlWM0F3SVUxcU9WSWhNWGhtUnk4eE1EY3lNQ1JvZEhSd0xYSmxabVpsY21WeVBXaDBkSEE2THk5bWRXNTBkaTV6YVhSbEwzVmhNeTV3YUhBPXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1,sky sports main event
