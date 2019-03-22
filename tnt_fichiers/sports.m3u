@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:
-httphost://$http-raw=http://www.247bay.tv/hembedplayer/beinspors1zba/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports1
-#EXTINF:
-httphost://$http-raw=https://telerium.tv/embed/27336.html$http-refferer=http://1me.club/le/1/6.html?id=channelstream
-#EXTINF:
-httphost://$http-raw=http://1me.club/le/1/6.html?id=channelstream$http-refferer=http://channelstream.club/stream/canal_sport.php
-#EXTINF:
-httphost://$http-raw=https://telerium.tv/embed/27336.html$http-refferer=http://channelstream.live/canal_sport-1.php
