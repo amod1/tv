@@ -1,31 +1,21 @@
-#EXTINF:0, mbc 1 [color green]TV FABOR[/color] 
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/pwAAAB%2bLCAAAAAAABAAFwcEOgiAAANAPaqxBEHLgoNNUODQ3o%2bziMDLF3LThlM2P77228W7YxvW%2b9Obpxlm58FIW6VRVPrl2WZmFLbOkod0BBon%2fpjgYpI2pUxUSbysmePQUihKS4xyj6GZo4ohcOd9raZVcVivqycmawh23GCGjCYD6xADGbQPY2SDAjMZQM8LgC%2b%2fogYstRDqac5FFedf%2f1kB9OP8Dq6u35qcAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, mbc 2
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/pwAAAB%2bLCAAAAAAABAANzM0OQzAAAOAnElSLHhwMW6fZEBvlhqYXf12ClXj47XuAr5jHW1kOKn5PkotimdOaXO7VMYW5vqtXFwXjABi1PzKPAzFm18hQ1epPuu8EXRZS9uA7425PgZJJnpBBdu3%2b9bxzNVyrF8sG2jzkBYEnFBAA3iDNbCysQShaDdscaJg30GwwwmYHT0cip6c1SXzE3I0%2b2ZG68t%2f9AOwQ4vanAAAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, mbc 3
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/pwAAAB%2bLCAAAAAAABAAFwd0OgiAYANAHam4BnywuvMhM0kyizdktij85dE6ptPnwnbO%2bSCdNmDyiyKxPedCUo1oUvYBPhvUyit5Kq%2bOUKJspm79PAbrSlv6IGCqOJ0tnl69Vj4bg8viqkaf%2b2HbS8zYgfR7uJ8GLKfVVNm9QA8ZauQ5ShDkAdeEwqrHDtAKkmMtQCRu5N8fbYoZE7sw5ZkuJUwgbz%2fsD1oLVJqcAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, mbc 4
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/pwAAAB%2bLCAAAAAAABAAFwdsOQzAYAOAHEtnKr9ILF8yh2KnmkLjr2uGiMzKMxMPv%2b%2b5aro2Dl83rCbfL2o90ogpq7MOjDt%2bp%2bQ0QPkbJNhWQX1TKina2NBZoZSwz%2fCvZR9pyXaiawzjBsZ%2bk15BszHF2rzAWXKmRud2L3YZuhwYMQ3JLR9wkOkDz1AmWhk4kB8SJRZCAvWSB5KK3BcTR4VzRQKgOuY7zBxzoMnenAAAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, mbc DRAMA
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/pwAAAB%2bLCAAAAAAABAANzEkOgjAAAMAHkR6AUuiBg%2bzIaoSacmuBShSLSwJCeLzOAwZRuYVwqmaCgswbxti3wuSo0GKm79LJm5Tz5Sa4dy6Hyv3mhR61TznOs7JemqJHRcCI8RJkwrVQjITeiax7vtj23sRyyVLLNa1NfXCw7lBATeuYAVSmYwCh4ACjTgO4Y1Bl2MBqC%2fePPIiGEtH6mdhOTmUOEbz%2bux9PVygRpwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, mbc DRAMA PLUS
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/uwAAAB%2bLCAAAAAAABAAFwd0SQkAYANAHMsbfp%2fFduNCUaqisVuFuxdYWtSWi8fCdI%2bvzcWyFXgydF%2bdsU9%2bq7wWqIIsptFtfQfIUYr5o6I47ufdTtOqmR3Ll8BepE%2b3RfnnJ4hUrgvsGjLD7xQq5RMR1J11EeNpb4rB%2b2LsZygk4mGbJbNVgFqoAvFBxVpoqlgwMhjYaZ5iwCUQvx%2bsn1MJk6dMkoJq45kWvyzR727RxhvcrUxBS4v4BKd3I8bsAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, mbc MAX
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/pwAAAB%2bLCAAAAAAABAAFwd0KgjAYANAHCilt03bhRVgutNLIYnoTn65VMrVN%2fAsfvnM8jLNnz7Iw3ncLFemg7hmj7zFs1I2kbOMEA%2f1YsmiSVdXGR4UcqYMKg4Jyl4ylOPnLrmIm0mcGNG0LSPtD%2f3Ld%2bbeNfG%2biNH%2boK8AoZySQZXHAhglrYiAkcoPY3DIIB2QCwcQs0CwJixox3IVWdvTl9lQ3Jb247h8k2wgOpwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, mbc BOLLYWOOD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/uwAAAB%2bLCAAAAAAABAANyUkOgjAAAMAHESJdIPTAhcgiyFZBwVttAWvRRCAuhMfrXOdh09BT5bPS8iQbbZKmULpcwiiiQsrwaSwHNG0S1m8BOZTZMfxmuzZ6mKjQvm6lqdybVU3ZyYfWQsF10LpANlHcvBdUfbrbnA1%2bEd%2b3NLWUs3q1N8XG2F10tndLHqy4wxAKZuqAIaJj%2fB9iCagTwTBgxCSA43WWilvL0IzcF6OBzm37kkXvOD%2bj3PqduwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, mbc ACTION
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/pwAAAB%2bLCAAAAAAABAAFwd0SQkAYANAHMka7Fn0XLvwsifyUpEssYo2hCTXj4TunXyIqu0S4vQNe%2fSTv7HWU5wecRbFQ5dr21IDL%2fjjUCdhx6KqmbJT2cqL19oglC0%2fmtaFlbR0FqTPv%2fZqtGZ1DQ9d3B0Niv7qQg89GgtadNARjVigiKmQQCWlKEVSGRWAFQQUogCqyT8Pn41xaJ9X4N221eWZeQFtd%2fwPiMwnepwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, mbc VARIETY
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/pwAAAB%2bLCAAAAAAABAANzNsOgiAAANAPaqyBkPLgg10x1LRaWm8g3hbaKszl%2fPg6H3DGh4TtBRd5US3rI0ed1iM%2fyatph8TxhXrvGUQ8vGVxUH05oYGzTvr4Ew1n21bampFGzHEceYbxHXommYZa3j3XnWq%2fi%2f1Ahn2zilIT8AmXGCElCIDCogDjUgK6UAhQJTAUlFCY42lrSvRiyNlYnpOyQ9EoMpp%2f9wO7KHlrpwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, HALA DRAMA HD
-http://thoptvstream.gq/api/scilla/play.m3u8?id=13568
-#EXTINF:0, HALA MIX
-http://thoptvstream.gq/api/scilla/play.m3u8?id=9229
-#EXTINF:0, HALA BOLLYOOD
-http://thoptvstream.gq/api/scilla/play.m3u8?id=9228
-#EXTINF:0, HALA TURK
-http://thoptvstream.gq/api/scilla/play.m3u8?id=2514
+#EXTINF:-1,Al Aoula Laayoune [color green]TV FABOR[/color] 
+http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
+#EXTINF:-1,Al Aoula International
+http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
+#EXTINF:-1,2M Monde
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
+#EXTINF:-1,Arryadia
+http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1,Arrabiaa
+http://cdn-hls.globecast.tv/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+#EXTINF:-1,Al Maghribia
+http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
+#EXTINF:-1,Assadissa
+http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
+#EXTINF:-1,Tamazight
+http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
+#EXTINF:-1,Medi 1 TV Maghreb
+http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist.m3u8
 #EXTINF:-1,alyaumtv
 rtmp://185.255.47.55:1935/live/alyaumtv
 #EXTINF:-1,alarabiya
