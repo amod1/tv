@@ -74,8 +74,53 @@ httphost://$http-raw=http://whostreams.net/embed/5bw0ttm$http-refferer=http://sp
 httphost://$http-raw=http://whostreams.net/embed/3ant1pjxw3$http-refferer=http://sportzonline.xyz/channels/pt/sporttv4.php
 #EXTINF:-1, Sport TV 5 Portugal
 http://zee18.online/m3u8.php?page=https://sblive.online/ptsport5.html
+#EXTINF:-1, hd khl
+http://zee18.online/m3u8.php?page=https://sblive.online/hdkhl.html
+#EXTINF:-1, ukraine tv
+http://zee18.online/m3u8.php?page=https://sblive.online/ukrainetv.html
+#EXTINF:-1, digi 3 ro
+http://zee18.online/m3u8.php?page=https://sblive.online/digi3ro.html
+#EXTINF:-1, ds 1 ro
+http://zee18.online/m3u8.php?page=https://sblive.online/ds1ro.html
+#EXTINF:-1, viasat hockey
+http://zee18.online/m3u8.php?page=https://sblive.online/viasathockey.html
+#EXTINF:-1, sk 2 serbia
+http://zee18.online/m3u8.php?page=https://sblive.online/sk2serbia.html
+#EXTINF:-1, bein sport 1 tur
+http://zee18.online/m3u8.php?page=https://sblive.online/beinsport1tur.html
+#EXTINF:-1, super tennis
+http://zee18.online/m3u8.php?page=https://sblive.online/itsupertennis.html
+#EXTINF:-1, Match! Arena
+http://zee18.online/m3u8.php?page=https://sblive.online/rumatcharena.html
+#EXTINF:-1, albania sport 3
+http://zee18.online/m3u8.php?page=https://sblive.online/albaniasport3.html
+#EXTINF:-1, mnsport
+http://zee18.online/m3u8.php?page=https://sblive.online/mnsport.html
+#EXTINF:-1, sw viasat sport
+http://zee18.online/m3u8.php?page=https://sblive.online/swviasatsport.html
+#EXTINF:-1, sport 1 ukraine
+http://zee18.online/m3u8.php?page=https://sblive.online/sport1ukraine.html
+#EXTINF:-1, bein 3 turkey
+http://zee18.online/m3u8.php?page=https://sblive.online/bein3turkey.html
+#EXTINF:-1, ro digi 4
+http://zee18.online/m3u8.php?page=https://sblive.online/rodigi4.html
+#EXTINF:-1, rus football
+http://zee18.online/m3u8.php?page=https://sblive.online/rusfootball.html
+#EXTINF:-1, beIN Sports 1
+http://zee18.online//streamurl/getm3u8.php?page=http://www.buaksib.com/live-football/ch3.php
 #EXTINF:-1, 
-httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssbt1&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/
+http://zee18.online/m3u8.php?page=
+#EXTINF:-1, 
+http://zee18.online/m3u8.php?page=
+#EXTINF:-1, 
+http://zee18.online/m3u8.php?page=
+#EXTINF:-1, 
+http://zee18.online/m3u8.php?page=
+#EXTINF:-1, 
+http://zee18.online/m3u8.php?page=
+#EXTINF:-1, 
+http://zee18.online/m3u8.php?page=
+
 #EXTINF:-1, 
 httphost://$http-raw=http://www.webtv.ws/embed.php?live=ssbt1&vw=620&vh=490$http-refferer=http://cricfree.live/watchfeeds/index/
 #EXTINF:-1, 
