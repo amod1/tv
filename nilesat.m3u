@@ -156,6 +156,49 @@ https://cllive.itworkscdn.net/nbnlive/token=nva=1548976701~dirs=1~hash=07b0bd915
 http://185.27.116.54:8081/livestream/teleliban/chunks.m3u8
 #EXTINF:-1,alfajer tv
 http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/chunks.m3u8
+#EXTINF:-1, القناة الاولى - KTV 1
+https://svs.itworkscdn.net/ktv1live/ktv1.smil/chunklist_b2400000.m3u8
+#EXTINF:-1, القناة الثانية - KTV 2https://svs.itworkscdn.net/ktv2live/ktv2.smil/chunklist_b2400000.m3u8
+https://svs.itworkscdn.net/ktv2live/ktv2.smil/chunklist_b2400000.m3u8
+#EXTINF:-1, القناة الثالثة الرياضية - KTV Sport
+https://svs.itworkscdn.net/ktvsportslive/smil:ksports.smil/chunklist.m3u8
+#EXTINF:-1, قناة اثراء - KTV Ethraa
+https://svs.itworkscdn.net/ktvethraalive/smil:kethraa.smil/chunklist.m3u8
+#EXTINF:-1, قناة العربي - KTV Arabe
+https://svs.itworkscdn.net/ktvarabelive/smil:karabe.smil/chunklist.m3u8
+#EXTINF:-1, قناة القرين - Al Qurain
+https://svs.itworkscdn.net/ktvpluslive/smil:kplus.smil/chunklist.m3u8
+#EXTINF:-1, KTV kids
+https://svs.itworkscdn.net/ktvsportspluslive/smil:ksportsplus.smil/playlist.m3u8
+#EXTINF:-1, قناة المجلس - KTV Al Majlis
+https://svs.itworkscdn.net/ktvalmajlislive/smil:kalmajlis.smil/playlist.m3u8
+#EXTINF:-1, Alresalah tv - قناة الرسالة
+http://199.167.151.237:1935/live/nsahs19_28.stream/playlist.m3u8
+#EXTINF:-1, alafasy
+http://www.elahmad.com/tv/swf/playlist.php?id=alafasy_kw
+#EXTINF:-1, OMAN TV
+http://38.96.148.35:1935/live/omantv01/playlist.m3u8
+#EXTINF:-1, oman tv sport
+http://38.96.148.35:1935/live/omantv02/playlist.m3u8
+#EXTINF:-1, oman TV Mobashir
+http://38.96.148.35:1935/live/omantv03/chunklist.m3u8
+#EXTINF:-1, Oman Tv Cultural
+http://38.96.148.35:1935/live/omantv04/chunklist.m3u8
+#EXTINF:-1, JORDAN TV
+http://stream.joinvisions.net:1935/jorlive/jrtv/playlist.m3u8?DVR
+#EXTINF:-1, JORDAN SPORT
+http://stream.joinvisions.net:1935/jorlive/sport/playlist.m3u8?DVR
+#EXTINF:-1, 
+
+#EXTINF:-1, 
+
+#EXTINF:-1, 
+
+#EXTINF:-1, 
+
+
+
+
 #EXTINF:0, ARABIAN TV MBC 1 HD
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwcmSQ0AAANAPUkoPTcfBgbYFUzEklqMlWhuNlDUpH5%2f3JpPkVckVVUeGzQrXNXPKMBInqzxeEaGrUmbX8WFcBF91VH0F%2f7%2bJoFN7QoiTkv0z4hz7bVXrtpfNm1TWB8CobWAgMEbmED2Dbmx7N2adhO9uI9zrQey4d1FUwyYQWUBysd%2fi29zLAzFyLvLYktkL0bSTJQ1Oe79Leu%2b598d6ykjEWJQkHtn6hYcIAl5VIOSBrKjIlC0DquD80JTGPwl9O6t4dVuAnWNPMWUjCB%2f%2bbi3YfCW0UwLq%2fmlfDVuHlfsAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, ARABIAN TV MBC 1
