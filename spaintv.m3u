@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:-1, la1
+http://mvod.lvlt.rtve.es/resources/TE_NGVA/mp4/0/0/2200000000000.mp4
+#EXTINF:-1, la2
+http://mvod.lvlt.rtve.es/resources/TE_NGVA/mp4/0/0/2200000000000.mp4
+#EXTINF:-1, antena3
+https://livestartover.atresmedia.com/antena3/master.m3u8
+#EXTINF:-1, telecinco
+https://www.mytvonline.org/esp/telecinco/getmanifest.aspx?chn=telecinco&type=.m3u8'
+#EXTINF:-1,lasexta
+https://livestartover.atresmedia.com/lasexta/master.m3u8
+#EXTINF:-1,cuatro
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
+#EXTINF:-1,Neox HD
+https://livestartover.atresmedia.com/neox/master.m3u8
+#EXTINF:-1,Nova
+https://livestartover.atresmedia.com/nova/master.m3u8
+#EXTINF:-1,Mega
+https://livestartover.atresmedia.com/mega/master.m3u8
+#EXTINF:-1,Atreseries
+https://livestartover.atresmedia.com/a3series/master.m3u8
+#EXTINF:-1,FDF
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_2.m3u8
+#EXTINF:-1,Energy 
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_2.m3u8
+#EXTINF:-1,Divinity 
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_2.m3u8
+#EXTINF:-1,Be Mad
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_2.m3u8
+#EXTINF:-1,Paramount Network
+https://paramount-live.flumotion.com/live/playlist.m3u8
+#EXTINF:-1,TRECE 
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8
+#EXTINF:-1,DKISS
+http://kissfm-cires21-video.secure.footprint.net/dkiss/master.m3u8
+#EXTINF:-1,mtmad 24h
+https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
+#EXTINF:-1,La Voz 24h
+https://pull12.atresmedia.com/lavoz/master.m3u8
+#EXTINF:-1,TDP 
+http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8
+#EXTINF:-1,+tdp
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl1/irtve17_lv3_aosv4_gl1/irtve17_lv3_aosv4_gl1.isml/master.m3u8
+#EXTINF:-1,RealMadrid TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
+#EXTINF:-1,Disney Channel
+http://cdnapi.kaltura.com/p/1068292/sp/106829200/playManifest/entryId/1_d8lnsqu0/format/applehttp/.m3u8
+#EXTINF:-1,Boing
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8
+#EXTINF:-1,Hit TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
+#EXTINF:-1,Canal Sur HD
+http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/rtva/master.m3u8
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
