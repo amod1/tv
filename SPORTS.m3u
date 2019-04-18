@@ -108,6 +108,48 @@ http://zee18.online/m3u8.php?page=https://sblive.online/rodigi4.html
 http://zee18.online/m3u8.php?page=https://sblive.online/rusfootball.html
 #EXTINF:-1, beIN Sports 1
 http://zee18.online//streamurl/getm3u8.php?page=http://www.buaksib.com/live-football/ch3.php
+#EXTINF:-1,ESPN Mais
+httphost://$http-raw=https://www.p3g.tv/hembedplayer/aovivotudo_espnmais/2/600/420$http-refferer=http://c247.to/live.php?ch=ESPN_Mais
+#EXTINF:-1,ESPN_Brasil
+httphost://$http-raw=https://www.p3g.tv/hembedplayer/aovivotudo_espnbr/2/600/420$http-refferer=http://c247.to/live.php?ch=ESPN_Brasil
+#EXTINF:-1,ESPN
+httphost://$http-raw=https://www.p3g.tv/hembedplayer/aovivotudo_espn/2/600/420$http-refferer=http://c247.to/live.php?ch=ESPN
+#EXTINF:-1,Combate
+httphost://$http-raw=https://www.p3g.tv/hembedplayer/aovivotudo_combate/2/600/420$http-refferer=http://c247.to/live.php?ch=Combate
+#EXTINF:-1,Fox Sports 2
+httphost://$http-raw=https://www.p3g.tv/hembedplayer/aovivotudo_foxsports2/2/600/420$http-refferer=http://c247.to/live.php?ch=Fox_Sports2
+#EXTINF:-1,Fox Sports
+httphost://$http-raw=https://www.p3g.tv/hembedplayer/aovivotudo_foxsports/2/600/420$http-refferer=http://c247.to/live.php?ch=Fox_Sports
+#EXTINF:-1,Sportv
+httphost://$http-raw=https://www.p3g.tv/hembedplayer/aovivotudo_sportv/2/600/420$http-refferer=http://c247.to/live.php?ch=SportV
+#EXTINF:-1,SportV 2
+httphost://$http-raw=https://www.p3g.tv/hembedplayer/aovivotudo_sportv2/2/600/420$http-refferer=http://c247.to/live.php?ch=SportV_2
+#EXTINF:-1,SportV 3
+httphost://$http-raw=https://www.p3g.tv/hembedplayer/aovivotudo_sportv3/2/600/420$http-refferer=http://c247.to/live.php?ch=SportV_3
+#EXTINF:-1,Tivibu Spor 1
+httphost://$http-raw=https://www.janjua.tv/hembedplayer/tr_tivibu1h/2/600/420$http-refferer=http://c247.to/live.php?ch=tr_Tivibuspor1
+#EXTINF:-1,Tivibu Spor 2
+httphost://$http-raw=https://www.janjua.tv/hembedplayer/tivibue2_91/2/600/420$http-refferer=http://c247.to/live.php?ch=tr_Tivibuspor2
+#EXTINF:-1,Tivibu Spor 3
+httphost://$http-raw=https://www.janjua.tv/hembedplayer/tr_tivibu30/2/600/420$http-refferer=http://c247.to/live.php?ch=tr_Tivibuspor3
+#EXTINF:-1,Tivibu Spor 4
+httphost://$http-raw=https://www.janjua.tv/hembedplayer/tr_tivibu4/2/600/420$http-refferer=http://c247.to/live.php?ch=tr_Tivibuspor4
+#EXTINF:-1,Euro Sports 1
+httphost://$http-raw=https://www.janjua.tv/hembedplayer/eurorsprotsh_1011/2/600/420$http-refferer=http://c247.to/live.php?ch=tr_EuroSports1
+#EXTINF:-1,Euro Sports 2
+httphost://$http-raw=https://www.janjua.tv/hembedplayer/eurorsprotsh_2/2/600/420$http-refferer=http://c247.to/live.php?ch=tr_EuroSports2
+#EXTINF:-1,TR Bein Sports 1
+httphost://$http-raw=https://www.janjua.tv/hembedplayer/beinsports1_1/2/600/420$http-refferer=http://c247.to/live.php?ch=tr_Beinsports1
+#EXTINF:-1,TR Bein Sports 2
+httphost://$http-raw=https://www.janjua.tv/hembedplayer/beino2trreo/2/600/420$http-refferer=http://c247.to/live.php?ch=tr_Beinsports2
+#EXTINF:-1,TR Bein Sports 3
+httphost://$http-raw=https://www.janjua.tv/hembedplayer/tr_bein3/2/600/420$http-refferer=http://c247.to/live.php?ch=tr_Beinsports3
+#EXTINF:-1,TR Bein Sports 4
+httphost://$http-raw=https://www.janjua.tv/hembedplayer/tr_bein4/2/600/420$http-refferer=http://c247.to/live.php?ch=tr_Beinsports4
+#EXTINF:-1,S Sports
+httphost://$http-raw=https://www.janjua.tv/hembedplayer/smartsport_90/2/600/420$http-refferer=http://c247.to/live.php?ch=tr_Ssport
+#EXTINF:-1,Smart Spor
+httphost://$http-raw=https://www.janjua.tv/hembedplayer/smartsport_91/2/600/420$http-refferer=http://c247.to/live.php?ch=tr_Smarsport
 #EXTINF:-1, 
 http://zee18.online/m3u8.php?page=
 #EXTINF:-1, 
