@@ -253,7 +253,7 @@ http://109.236.92.216:9090/spacetoon/mpegts
 http://livecdnh3.tvanywhere.ae/hls/funoon/04.m3u8
  
 #EXTINF:-1,MBC 1
-http://livecdnh2.tvanywhere.ae/hls/mbc1/index.m3u8
+http://livecdnh2.tvanywhere.ae/hls/mbc1/04.m3u8
  
 #EXTINF:-1,MBC 2
 http://livecdnh3.tvanywhere.ae/hls/mbc2/04.m3u8
