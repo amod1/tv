@@ -1,4 +1,7 @@
 #EXTINF:-1,Al Aoula Laayoune [color green]TV FABOR[/color] 
+httphost://$http-raw=http://www.janjua.tv/sharedcdn/hembedplayer/mbc11aflam4/1/764/371$http-refferer=https://aflam4you.tv/emb472.php?vid=5&aflam_s=2&aflam_w=764&aflam_h=401
+
+#EXTINF:-1,Al Aoula Laayoune [color green]TV FABOR[/color] 
 http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
 #EXTINF:-1,Al Aoula International
 http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
