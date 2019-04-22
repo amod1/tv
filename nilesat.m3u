@@ -716,139 +716,12 @@ http://95.170.215.124/live/disk1/CN_Arabia/anevia1/CN_Arabia-video=1279600-audio
  
 http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8
  
-#EXTINF:-1,Disney channel
-http://95.170.215.118/hls/m3u8/Disney-Channel.m3u8|User-Agent=Lavf/56.15.102
- 
- 
-#EXTINF:-1,BOOMERANG
-http://95.170.215.118/hls/m3u8/Boomerang.m3u8|User-Agent=Lavf/56.15.102
- 
- 
-#EXTINF:-1,OSN MOVIES KIDS
-http://95.170.215.118/hls/m3u8/OSN-Movies-Kids.m3u8|User-Agent=Lavf/56.15.102
- 
  
 #EXTINF:-1,Toyor janah
 http://streaming.i-sat.tv:8081/livestream/toyourjanaa/playlist.m3u8
  
  
  
-#EXTINF:-1,====(AR) BEIN HD1=================================
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD.m3u8|User-Agent=http-user-agent=Lavf/56.15.102
- 
-#EXTINF:-1,BEIN MAX HD1
-http://95.170.215.120/hls/m3u8/BeinMax1.m3u8|User-Agent=Lavf/56.15.102
- 
- 
-#EXTINF:-1,BEIN MAX HD2
-http://95.170.215.120/hls/m3u8/BeinMax2.m3u8|User-Agent=Lavf/56.15.102
- 
-#EXTINF:-1,(AR) BEIN HD1
-http://95.170.215.120/hls/m3u8/BeinSport1-NGC-MCR.m3u8|User-Agent=http-user-agent=Lavf/56.15.102
- 
- 
-#EXTINF:-1,(AR) BEIN HD2
-http://95.170.215.120/hls/m3u8/BeinSport2-NGC-IMH.m3u8|User-Agent=http-user-agent=Lavf/56.15.102
- 
-#EXTINF:-1,(AR) BEIN HD3
-http://95.170.215.120/hls/m3u8/BeinSport3-NGC-IMH.m3u8|User-Agent=http-user-agent=Lavf/56.15.102
- 
- 
-#EXTINF:-1,(AR) BEIN HD4
-http://95.170.215.120/hls/m3u8/BeinSport4-NGC-IMH.m3u8|User-Agent=Lavf/56.15.102
- 
- 
-#EXTINF:-1,(AR) BEIN HD5
-http://95.170.215.120/hls/m3u8/BeinSport5-NGC-IMH.m3u8|User-Agent=http-user-agent=Lavf/56.15.102
- 
-#EXTINF:-1,(AR) BEIN HD6
-http://95.170.215.120/hls/m3u8/BeinSport6-IMH-MCR.m3u8|User-Agent=http-user-agent=Lavf/56.15.102
- 
-#EXTINF:-1,(AR) BEIN HD7
-http://95.170.215.120/hls/m3u8/BeinSport7-IMH-NGC.m3u8|User-Agent=http-user-agent=Lavf/56.15.102
- 
- 
-#EXTINF:-1,(AR) BEIN HD8
-http://95.170.215.120/hls/m3u8/BeinSport8-IMH-NGC.m3u8|User-Agent=http-user-agent=Lavf/56.15.102
- 
-#EXTINF:-1,(AR) BEIN HD9
-http://95.170.215.120/hls/m3u8/BeinSport9-NGC-IMH.m3u8|User-Agent=http-user-agent=Lavf/56.15.102
- 
-#EXTINF:-1,(AR) BEIN HD10
-http://95.170.215.120/hls/m3u8/BeinSport10-MCR-NGC.m3u8|User-Agent=http-user-agent=Lavf/56.15.102
- 
- 
-#EXTINF:-1,BEIN HD11
-http://95.170.215.120/hls/m3u8/BeinSport11-MCR.m3u8|User-Agent=http-user-agent=Lavf/56.15.102  
- 
- 
-#EXTINF:-1,BEIN HD12
-http://95.170.215.120/hls/m3u8/BeinSport12-IMH-NGC.m3u8|User-Agent=http-user-agent=Lavf/56.15.102  
- 
- 
-#EXTINF:-1,BEIN HD13
-http://95.170.215.120/hls/m3u8/BeinSport13-IMH-MAR-NGC.m3u8|User-Agent=http-user-agent=Lavf/56.15.102
- 
- 
-#EXTINF:-1,BEIN HD14
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD14.m3u8|User-Agent=http-user-agent=Lavf/56.15.102  
-#EXTINF:-1,BEIN HD15
-http://95.170.215.120/hls/m3u8/BeinSport15-IMH-NGC-HAM.m3u8|User-Agent=http-user-agent=Lavf/56.15.102
- 
- 
-#EXTINF:-1,BEIN HD16
-http://95.170.215.120/hls/m3u8/BeinSport16-IMH-NGC-HAM.m3u8|User-Agent=http-user-agent=Lavf/56.15.102
- 
- 
-#EXTINF:-1,BEIN NBA
-http://95.170.215.120/hls/m3u8/Bein-Sport-NBA.m3u8|User-Agent=http-user-agent=Lavf/56.15.102
- 
-#EXTINF:-1,C MORE FOOTBALL
-http://95.170.215.120/hls/m3u8/CMore-Football.m3u8|User-Agent=http-user-agent=Lavf/56.15.102
- 
- 
- 
-#EXTINF:-1,Bein movies hd1 premiere
- 
-http://95.170.215.120/hls/m3u8/Bein-Movies-HD1.m3u8|User-Agent=http-user-agent=Lavf/56.15.102
- 
-#EXTINF:-1,Bein movies hd2 ACTION
-http://95.170.215.120/hls/m3u8/Bein-Movies-HD2.m3u8|User-Agent=http-user-agent=Lavf/56.15.102
- 
-#EXTINF:-1,Bein movies hd3 DRAMA
-http://95.170.215.120/hls/m3u8/Bein-Movies-HD3.m3u8|User-Agent=http-user-agent=Lavf/56.15.102
- 
-#EXTINF:-1,Bein movies hd4 FAMILY
-http://95.170.215.120/hls/m3u8/Bein-Movies-HD4.m3u8|User-Agent=http-user-agent=Lavf/56.15.102
- 
-#EXTINF:-1,Bein DRAMA
-http://95.170.215.120/hls/m3u8/Bein-Drama-HD1.m3u8|User-Agent=http-user-agent=Lavf/56.15.102
- 
-#EXTINF:-1,Bein series hd1
-http://95.170.215.120/hls/m3u8/Bein-Series-HD1.m3u8|User-Agent=http-user-agent=Lavf/56.15.102
- 
-#EXTINF:-1,Bein series hd2
-http://95.170.215.120/hls/m3u8/Bein-Series-HD2.m3u8|User-Agent=http-user-agent=Lavf/56.15.102
- 
- 
- 
- 
- 
-#EXTINF:-1,Bein baraem
- 
-http://95.170.215.120/hls/m3u8/Baraem-HD.m3u8|User-Agent=http-user-agent=Lavf/56.15.102
- 
- 
- 
- 
-#EXTINF:-1,BEIN jeem
-http://95.170.215.120/hls/m3u8/jeem-HD.m3u8|User-Agent=Lavf/56.15.102
- 
-#EXTINF:-1,BEIN Fatafeet
-http://95.170.215.120/hls/m3u8/Bein-Fatafeat.m3u8|User-Agent=Lavf/56.15.102
- 
-#EXTINF:-1,Bein gourmet
-http://95.170.215.120/hls/m3u8/Bein-Gourmet-HD.m3u8|User-Agent=Lavf/56.15.102
  
  
 #EXTINF:-1,Beity
@@ -860,61 +733,7 @@ http://185.27.116.54:1935/livestream/csofra/playlist.m3u8?v=1559314384
 #EXTINF:-1,Samira TV
 http://144.217.76.52:8080/SAMIRATV/tracks-v1a1/mono.m3u8
  
-#EXTINF:-1,====AD sport hd1====================================
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?v=3157566659
-#EXTINF:-1,AD sport hd2
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?v=3157566659
-#EXTINF:-1,AD SPORT HD3
-http://95.170.215.120/hls/m3u8/AD-Sport-HD3.m3u8|User-Agent=Lavf/56.15.102
- 
- 
-#EXTINF:-1,AD SPORT HD4
-http://95.170.215.120/hls/m3u8/AD-Sport-HD4.m3u8|User-Agent=Lavf/56.15.102
- 
- 
-#EXTINF:-1,AD SPORT HD5
-http://95.170.215.120/hls/m3u8/AD-Sport-HD5.m3u8|User-Agent=Lavf/56.15.102
- 
- 
-#EXTINF:-1,AD SPORT HD6
-http://95.170.215.120/hls/m3u8/AD-Sport-HD6.m3u8|User-Agent=Lavf/56.15.102
- 
- 
- 
- 
-#EXTINF:-1,====Osn yahala cinema=========================
-http://95.170.215.118/hls/m3u8/OSN-Yahala-Cinem.m3u8|User-Agent=Lavf/56.15.102
- 
-#EXTINF:-1,Osn yahala hd
-http://95.170.215.118/hls/m3u8/OSN-YH-HD.m3u8|User-Agent=Lavf/56.15.102
- 
-#EXTINF:-1,Osn yahala alola
-http://95.170.215.118/hls/m3u8/OSN-YH-ALOLA.m3u8|User-Agent=Lavf/56.15.102
-#EXTINF:-1,OSN cinema 1
-http://livecdnh1.tvanywhere.ae/hls/cin1/02.m3u8
- 
-#EXTINF:-1,OSN MOVIES HD
-http://95.170.215.118/hls/m3u8/OSN-MOVIES-HD.m3u8|User-Agent=Lavf/56.15.102
-#EXTINF:-1,Osn movies hd FIRST
-http://95.170.215.118/hls/m3u8/OSN-Movies-First.m3u8|User-Agent=Lavf/56.15.102
-#EXTINF:-1,Osn movies ACTION
-http://95.170.215.118/hls/m3u8/OSN-MOVIES-AC.m3u8|User-Agent=Lavf/56.15.102
-#EXTINF:-1,Osn movies kids
-http://95.170.215.118/hls/m3u8/OSN-Movies-Kids.m3u8|User-Agent=Lavf/56.15.102
- 
-#EXTINF:-1,OSN FOX ACTION HD
-http://95.170.215.118/hls/m3u8/FOX-ACTION-MOV.m3u8|User-Agent=Lavf/56.15.102
- 
- 
-#EXTINF:-1,Osn fox movies hd
-http://streaming.i-sat.tv:8081/livestream/fox/chunks.m3u8
-#EXTINF:-1,FOX FAMILY HD
-http://95.170.215.118/hls/m3u8/FOX-FAMILY-MOV.m3u8|User-Agent=Lavf/56.15.102
- 
- 
-#EXTINF:-1,OSN Fox hd
-http://95.170.215.118/hls/m3u8/FX-HD.m3u8|User-Agent=Lavf/56.15.102
- 
+
  
 #EXTINF:-1,Osn star world
 http://livecdnh1.tvanywhere.ae/hls/star_world/02.m3u8
@@ -951,87 +770,6 @@ http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
 #EXTINF:1,osn yahala cinema
 http://itats.dynv6.net:8081/livestream/osnm/playlist.m3u8
  
-#EXTINF:-1,====MYHD Mbc hd1====================================
-http://95.170.215.118/hls/m3u8/MBC-1-HD.m3u8|User-Agent=Lavf/56.15.102
- 
- 
-#EXTINF:-1,Mbc hd2
-http://95.170.215.118/hls/m3u8/MBC-2-HD.m3u8|User-Agent=Lavf/56.15.102
-#EXTINF:-1,Mbc HD3
-http://95.170.215.118/hls/m3u8/MBC-3-HD.m3u8|User-Agent=Lavf/56.15.102
- 
- 
-#EXTINF:-1,Mbc4 HD4
-http://95.170.215.118/hls/m3u8/MBC-4-HD.m3u8|User-Agent=Lavf/56.15.102
- 
-#EXTINF:-1,MBC MAX HD
-http://95.170.215.118/hls/m3u8/MBC-MAX-HD.m3u8|User-Agent=Lavf/56.15.102
-#EXTINF:-1,Action
-http://95.170.215.118/hls/m3u8/MBC-ACTION-HD.m3u8|User-Agent=Lavf/56.15.102
-#EXTINF:-1,MBC BOLLYWOOD HD
-http://95.170.215.118/hls/m3u8/MBC-Bollywood-HD.m3u8|User-Agent=Lavf/56.15.102
- 
-#EXTINF:-1,MBC DRAMA HD
-http://95.170.215.118/hls/m3u8/MBC-DRAMA.m3u8|User-Agent=Lavf/56.15.102
- 
-#EXTINF:-1,MBC PLUS DRAMA HD
-http://95.170.215.118/hls/m3u8/MBC-DRAMA-Plus.m3u8|User-Agent=Lavf/56.15.102
- 
-#EXTINF:-1,MBC +drama HD
-http://212.224.72.194:2200/TR/mbcplusdramahd-ar/index.m3u8?token=WbJL7LcL3rjxpDJa&sd=10&rebase=on
- 
- 
- 
-#EXTINF:-1,MBC MASR
-http://livecdnh2.tvanywhere.ae/hls/mbc_msr/02.m3u8?sd=10&rebase=on
- 
-#EXTINF:-1,Mbc masr2
-http://95.170.215.118/hls/m3u8/MBC-Masir-2.m3u8|User-Agent=Lavf/56.15.102
- 
-#EXTINF:-1,Tok Tok aflam
-http://95.170.215.124/disk1/TOKTOK-AFLAM/anevia1/TOKTOK-AFLAM.m3u8|User-Agent=Lavf/56.15.102
- 
-#EXTINF:-1,ROTANA CLASSIC HD
-http://95.170.215.124/live/disk1/Rotana-Classic/anevia1/Rotana-Classic.m3u8|User-Agent=Lavf/56.15.102
- 
-#EXTINF:-1,ROTANA CINEMA EGY
-http://95.170.215.124/live/disk1/Rotana-Cinema-EGY/anevia1/Rotana-Cinema-EGY.m3u8|User-Agent=Lavf/56.15.102
- 
-#EXTINF:-1,ROTANA CINEMA KSA
-http://95.170.215.124/live/disk1/Rotana-Cinema-KSA/anevia1/Rotana-Cinema-KSA.m3u8|User-Agent=Lavf/56.15.102  
- 
- 
-#EXTINF:-1,ART HEKAYAT1
-http://95.170.215.120/hls/m3u8/ART-HEKAYAT.m3u8|User-Agent=Lavf/56.15.102
- 
-#EXTINF:-1,ART HEKAYAT2
-http://95.170.215.120/hls/m3u8/ART-HEKAYAT-2.m3u8|User-Agent=Lavf/56.15.102
-#EXTINF:-1,ART AFLAM1
-http://95.170.215.120/hls/m3u8/ART-AFLAM-1.m3u8|User-Agent=Lavf/56.15.102
-#EXTINF:-1,ART AFLAM2
-http://95.170.215.120/hls/m3u8/ART-AFLAM-2.m3u8|User-Agent=Lavf/56.15.102
-#EXTINF:-1,ART CINEMA
-http://95.170.215.120/hls/m3u8/ART-CINEMA.m3u8|User-Agent=Lavf/56.15.102
- 
-#EXTINF:-1,My cinema
-http://95.170.215.118/hls/m3u8/My-Cinema-HD.m3u8|User-Agent=Lavf/56.15.102  
- 
- 
-#EXTINF:-1,STAR WORLD HD
-http://95.170.215.118/hls/m3u8/Star-World-HD.m3u8|User-Agent=Lavf/56.15.102
- 
- 
-#EXTINF:-1,Star movies hd
-http://95.170.215.118/hls/m3u8/Star-Movies-HD.m3u8|User-Agent=Lavf/56.15.102  
- 
- 
-#EXTINF:-1,FIGHT BOX HD
-http://95.170.215.118/hls/m3u8/FIGHT-BOX-HD.m3u8|User-Agent=Lavf/56.15.102  
- 
-#EXTINF:-1,FILM BOX HD
-http://95.170.215.118/hls/m3u8/MY-FILM-BOX-HD.m3u8|User-Agent=Lavf/56.15.102
- 
- 
  
 #EXTINF:-1,B4U PLUS
 http://95.170.215.124/live/disk1/B4u_Plus/anevia1/B4u_Plus.m3u8
@@ -1051,67 +789,6 @@ http://95.170.215.124/live/disk1/CBC_Drama/anevia1/CBC_Drama-video=1279600-audio
  
 #EXTINF:-1,Extra news hd
 http://95.170.215.124/live/disk1/Extra-News/anevia1/Extra-News.m3u8
- 
-#EXTINF:-1,SYRIA DRAMA
-http://95.170.215.124/live/disk1/Syria_Drama/anevia1/Syria_Drama.m3u8|User-Agent=Lavf/56.15.102
- 
- 
-#EXTINF:-1,====UK Planet green===============================
-http://80.80.160.168/live/4/500000/live.m3u8
- 
-#EXTINF:-1,Travel ch
-http://80.80.160.168/live/3/500000/live.m3u8
-#EXTINF:-1,TLC uk
-http://80.80.160.168/live/2/500000/live.m3u8
- 
-#EXTINF:-1,Animal planet
-http://80.80.160.168/live/1/500000/live.m3u8
- 
-#EXTINF:-1,Discovery ID
-http://80.80.160.168/live/5/500000/live.m3u8
- 
-#EXTINF:-1,BBC NEWS
-http://185.53.163.214:5678/ipvt_009
-#EXTINF:-1,Bbc news
-http://185.53.163.214:5678/ipvt_010
-#EXTINF:-1,bbc one
-http://185.53.163.214:5678/ipvt_011
-#EXTINF:-1,BBC two
-http://185.53.163.214:5678/ipvt_012
- 
-#EXTINF:-1,BBC alba x
-http://185.53.163.214:5678/ipvt_008
- 
-#EXTINF:-1,Bbc two
-http://185.53.163.214:5678/ipvt_007
-BBC vews
-http://185.53.163.214:5678/ipvt_006
- 
- 
-#EXTINF:-1,QVC style
-http://live.qvcuk.simplestreamcdn/live/qvcuk_style_clean/bitrate1.isml/1/prog_index.m3u8
- 
-#EXTINF:-1,OVC EXTRA
-Http://live.qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/1/prog_index.m3u8
- 
-#EXTINF:1,osndiscovery1
-http://itats.dynv6.net:8081/livestream/discovery1/playlist.m3u8
- 
- 
-#EXTINF:1,osn discovery2
-http://itats.dynv6.net:8081/livestream/discovery2/playlist.m3u8
- 
-#EXTINF:-1,DISCOVERY science
-http://80.80.160.168/live/9/2500000/live.m3u8
- 
-#EXTINF:-1,Discovery hd
-http://80.80.160.168/live/8/2500000/live.m3u8
- 
-#EXTINF:-1,Showtime hd
-http://80.80.160.168/live/7/2500000/live.m3u8
- 
-#EXTINF:-1,ESPN
-http://80.80.160.168/live/6/2500000/live.m3u8
  
  
 #EXTINF:-1,====documentary Quest=============================
@@ -1139,57 +816,6 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
 #EXTINF:-1,Nat geo wild HD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
- 
-#EXTINF:-1,Discovery showcase
-http://95.170.215.118/hls/m3u8/Discovery-Showca.m3u8|User-Agent=Lavf/56.15.102
-#EXTINF:-1,Nat geo hd
-http://95.170.215.118/hls/m3u8/Nat-Geo-CZ.m3u8|User-Agent=Lavf/56.15.102
- 
- 
-#EXTINF:-1,Animal planet
-http://95.170.215.118/hls/m3u8/Animal-Planet.m3u8|User-Agent=Lavf/56.15.102
- 
- 
- 
-#EXTINF:-1,Kaif
-http://185.27.116.54:1935/livestream/kifa.stream_360p/chunklist_w1220504427.m3u8?v=694671932
- 
-#EXTINF:-1,History
-http://95.170.215.118/hls/m3u8/History.m3u8|User-Agent=http-user-agent=Lavf/56.15.102
- 
- 
- 
- 
-#EXTINF:-1,HDTV
-http://95.170.215.120/hls/m3u8/HGTV-HD.m3u8|User-Agent=http-user-agent=Lavf/56.15.102
- 
- 
- 
-#EXTINF:-1,OSN TLC
-http://95.170.215.120/hls/m3u8/TLC-HD.m3u8|User-Agent=Lavf/56.15.102
- 
-#EXTINF:-1,====MOVIES HBO1==================================
-http://95.170.215.118/hls/m3u8/HBO.m3u8|User-Agent=Lavf/56.15.102
- 
- 
-#EXTINF:-1,HBO2
-http://95.170.215.118/hls/m3u8/HBO-2.m3u8|User-Agent=Lavf/56.15.102
- 
- 
-#EXTINF:-1,HBO3
-http://95.170.215.118/hls/m3u8/HBO-3.m3u8|User-Agent=Lavf/56.15.102
- 
- 
-#EXTINF:-1,Skymovies action
-http://95.170.215.118/hls/m3u8/Sky-MoviesAction.m3u8|User-Agent=Lavf/56.15.102
- 
- 
-#EXTINF:-1,Sky movies premiere
-http://95.170.215.118/hls/m3u8/Sky-MoviesPremie.m3u8|User-Agent=Lavf/56.15.102
- 
- 
-#EXTINF:-1,Sky movies select
-http://95.170.215.118/hls/m3u8/Sky-MoviesSelect.m3u8|User-Agent=Lavf/56.15.102
  
  
  
@@ -1253,35 +879,6 @@ http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
  
  
  
-#EXTINF:-1,====KURDISH WOW sport hd========================
-http://95.170.215.118/hls/m3u8/WOW-Sport-HD.m3u8|User-Agent=Lavf/56.15.102
- 
-#EXTINF:-1,Tivibu sport 1
-http://95.170.215.120/hls/m3u8/Tivibu-sport-1.m3u8|User-Agent=Lavf/56.15.102
-#EXTINF:-1,Tivibu sport 2
-http://95.170.215.120/hls/m3u8/Tivibu-sport-2.m3u8|User-Agent=Lavf/56.15.102
-#EXTINF:-1,Tivibu sport 3
-http://95.170.215.120/hls/m3u8/Tivibu-sport-3.m3u8|User-Agent=Lavf/56.15.102
- 
- 
-#EXTINF:-1,Abu dhabi hd3
-http://95.170.215.120/hls/m3u8/AD-Sport-HD3.m3u8|User-Agent=Lavf/56.15.102
-#EXTINF:-1,Abu dhabi hd4
-http://95.170.215.120/hls/m3u8/AD-Sport-HD4.m3u8|User-Agent=Lavf/56.15.102
-#EXTINF:-1,Aso sport
-http://95.170.215.118/hls/m3u8/Aso-Sport.m3u8|User-Agent=Lavf/56.15.102
- 
-#EXTINF:-1,Astera sports
-http://95.170.215.118/hls/m3u8/Astera-Sport.m3u8|User-Agent=Lavf/56.15.102
-#EXTINF:-1,ASTERA SPORT HD2
-http://95.170.215.118/hls/m3u8/Astera-HD.m3u8|User-Agent=Lavf/56.15.102
- 
-#EXTINF:-1,Kurdistan sport
-http://95.170.215.118/hls/m3u8/Kurdistan-Sport.m3u8|User-Agent=Lavf/56.15.102
- 
- 
-#EXTINF:-1,Ziggo sport
-http://95.170.215.118/hls/m3u8/ZIGGO-voetbal.m3u8|User-Agent=Lavf/56.15.102
  
 #EXTINF:-1,C-SPORT HD1
 http://tv.utv-live.com:1935/2020/sport1/playlist.m3u8
@@ -1326,33 +923,6 @@ http://live10.karwan.tv/www.karwan.tv/rengin-classic-tv/playlist.m3u8
 #EXTINF:-1,Rengin music
 http://live10.karwan.tv/www.karwan.tv/rengin-music-tv/playlist.m3u8
  
-#EXTINF:-1,====Sky sport hd1================================
-http://95.170.215.120/hls/m3u8/Sky-Sports-1HD.m3u8|User-Agent=Lavf/56.15.102
-#EXTINF:-1,Sky sport hd2
-http://95.170.215.120/hls/m3u8/Sky-Sports-2HD.m3u8|User-Agent=Lavf/56.15.102
- 
-#EXTINF:-1,Sky sport hd3 Usa
-http://95.170.215.120/hls/m3u8/Sky-Sports-3HD.m3u8|User-Agent=Lavf/56.15.102
-#EXTINF:-1,Sky sport hd4 GOLF
-http://95.170.215.120/hls/m3u8/Sky-Sports-4HD.m3u8|User-Agent=Lavf/56.15.102
-#EXTINF:-1,Sky sport hd5 premiere league
-http://95.170.215.120/hls/m3u8/Sky-Sports-5HD.m3u8|User-Agent=Lavf/56.15.102
- 
- 
- 
-#EXTINF:-1,====Fox sport hd1==============================
-http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/5.ts|User-Agent=freeapppsss
-#EXTINF:-1,Fox hd2
-http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/4.ts|User-Agent=freeapppsss
-#EXTINF:-1,Fox hd3
-http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/3.ts|User-Agent=freeapppsss
-#EXTINF:-1,Fox hd4
-http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2.ts|User-Agent=freeapppsss
-#EXTINF:-1,Fox hd5
-http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/1.ts|User-Agent=freeapppsss
- 
-#EXTINF:-1,Fox sport hd2
-http://flu1.podzone.net:9091/Fox/2/index.m3u8
  
 #EXTINF:-1,====ARABIC On sport====================================
 http://185.27.116.54:1935/livestream/sno/playlist.m3u8
@@ -1370,58 +940,6 @@ http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8
  
  
  
-#EXTINF:-1,Dubai Sports
-http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
-#EXTINF:-1,Saudi sport hd1
-http://sport.genius-stream.com:80/GeniusStreamAPK/KsaSport.m3u8
- 
- 
-#EXTINF:-1,AD sport hd1
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?v=3157566659
-#EXTINF:-1,AD sport sd1
-http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8?v=3157566659
-#EXTINF:-1,AD sport low1
-http://adtv.ercdn.net/adsport1/adsport1_360p.m3u8?v=3157566659
- 
-#EXTINF:-1,AD sport hd2
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?v=3157566659
-#EXTINF:-1,AD sport sd1
-http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8?v=3157566659
-#EXTINF:-1,Ad sport low2
-http://adtv.ercdn.net/adsport2/adsport2_360p.m3u8?v=3157566659
-#EXTINF:-1,Abu Dhabi Sports hd1 elahmed
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
- 
-#EXTINF:-1,Abu Dhabi Sports 2 elahmed
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
- 
-#EXTINF:-1,Abu Dhabi Sports 3
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
-#EXTINF:-1,Abu Dhabi Sports 4
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
-#EXTINF:-1,Abu Dhabi Sports 5
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
-#EXTINF:-1,Abu Dhabi Sports 6
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports6
- 
- 
-#EXTINF:-1,Al Kass Sports 1
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
-#EXTINF:-1,Al Kass Sports 2
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
-#EXTINF:-1,Al Kass Sports 3
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
-#EXTINF:-1,Al Kass Sports 4
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
-#EXTINF:-1,Al Kass Sports 5
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
-#EXTINF:-1,Elhadaf
-http://zona-live-tv.com/streamm/beoutY.m3u8?cat=10&id=127
-#EXTINF:-1,Bahrain sport
-http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist_w1093987354.m3u8
- 
-#EXTINF:-1,Iraqia sport
-http://95.170.215.124/live/disk1/Iraqia-Sport/anevia1/Iraqia-Sport-video=1279600-audio_AACL_eng_160000_34=160000.m3u8
  
  
 #EXTINF:-1,====WORLD Eleven sport hd1===============================
@@ -1882,76 +1400,7 @@ http://livecdnh2.tvanywhere.ae/hls/mbc_drama/03.m3u8
  
  
  
-#EXTINF:-1,====SERVER THIRD MBC HD1=====================
- 
- 
- 
-http://212.224.72.199:2200/TN/mbc1-ar/tracks-v1a1/index.m3u8?token=WbJL7LcL3rjxpDJa
- 
- 
- 
- 
- 
- 
- 
- 
-#EXTINF:-1,Mbc2
-http://212.224.72.199:2200/TN/mbc2-ar/tracks-v1a1/index.m3u8?token=WbJL7LcL3rjxpDJa
- 
- 
-#EXTINF:-1,Mbc3
-http://212.224.72.199:2200/TN/mbc3-ar/tracks-v1a1/index.m3u8?token=WbJL7LcL3rjxpDJa
- 
- 
-#EXTINF:-1,Mbc4
-http://212.224.72.199:2200/TN/mbc4-ar/tracks-v1a1/index.m3u8?token=WbJL7LcL3rjxpDJa
- 
- 
-#EXTINF:-1,Mbc +drama
-http://212.224.72.194:2200/TR/mbcplusdramahd-ar/index.m3u8?token=WbJL7LcL3rjxpDJa
- 
-#EXTINF:-1,Mbc max
-http://212.224.72.199:2200/TN/mbcmax-ar/tracks-v1a1/index.m3u8?token=WbJL7LcL3rjxpDJa
- 
- 
-#EXTINF:-1,Mbc variety hd
-http://212.224.72.199:2200/TR/mbcvarietyhd-ar/tracks-v1a1/index.m3u8?token=WbJL7LcL3rjxpDJa
- 
-#EXTINF:-1,Mbc action
-http://212.224.72.199:2200/TR/mbcaction-ar/tracks-v1a1/index.m3u8?token=WbJL7LcL3rjxpDJa
- 
-#EXTINF:-1,Mbc bollywood
-http://212.224.72.199:2200/TR/mbcbollywood-ar/tracks-v1a1/index.m3u8?token=WbJL7LcL3rjxpDJa
- 
- 
- 
- 
- 
-#EXTINF:-1,====Art hekayat 1=================================
- 
-http://89.163.140.211:8787/ARTHikayat1/tracks-v1a1/mono.m3u8
- 
-#EXTINF:-1,Art hekayat 2
- 
-http://89.163.140.211:8787/ARTHikayat2/tracks-v1a1/mono.m3u8
- 
- 
- 
-#EXTINF:-1,Art Aflam1
- 
-http://89.163.140.211:8787/ARTAflem1/index.m3u8
- 
-#EXTINF:-1,Art Aflam2
- 
-http://89.163.140.211:8787/ARTAflem2/index.m3u8
- 
- 
-#EXTINF:-1,Art cinema
- 
-http://89.163.140.211:8787/ARTCinema/index.m3u8
- 
- 
- 
+
  
 #EXTINF:-1,====NILESAT Rotana cinema================
 http://212.224.72.202:2200/TN/rotanacinema-ar/index.m3u8?token=WbJL7LcL3rjxpDJa
@@ -1988,8 +1437,6 @@ http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
 https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
  
  
-m3u8
- 
 #EXTINF:-1,Zee alwan
  
 http://95.170.215.124/live/disk1/ZEE-ALWAN/anevia1/ZEE-ALWAN.m3u8
@@ -2022,50 +1469,7 @@ https://5a69dcfbbc91d.streamlock.net/live/alqanat9/playlist.m3u8
  
 http://82.212.74.99:8000/live/8111.m3u8
  
-#EXTINF:-1,Dubai TV
-http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.smil/chunklist_b1800000.m3u8
-#EXTINF:-1,Dubai TV elahmad
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
-#EXTINF:-1,Dubai One
-http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/master.m3u8
- 
-#EXTINF:-1,dubai one
-http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b1800000.m3u8
- 
-#EXTINF:-1,Dubai One elahmed
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
- 
-#EXTINF:-1,Dubai Zaman elahmed
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
- 
-#EXTINF:-1,Sama Dubai elahmed
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai
- 
-#EXTINF:-1,Emarat TV
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
- 
- 
-#EXTINF:-1,Abu dhabi alola sd
-http://adtv.ercdn.net/adaloula/adaloula_480p.m3u8
-#EXTINF:-1,Abu Dhabi TV elahmed
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
- 
-#EXTINF:-1,Abu Dhabi Drama elahmed
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
-#EXTINF:-1,abu dhabi drama
-http://adtv.ercdn.net/addrama/addrama_360p.m3u8
-#EXTINF:-1,National Geographic
-http://adtv.ercdn.net/adnatgeo/adnatgeo.m3u8
- 
-#EXTINF:-1,Sama TV
-http://sama-tv.net:1935/live/samatv/playlist.m3u8
- 
- 
- 
- 
- 
- 
- 
+
  
  
 #EXTINF:-1,Dijla
@@ -2106,19 +1510,7 @@ http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
 https://svs.itworkscdn.net/ktvarabelive/karabe.smil/playlist.m3u8
  
  
-#EXTINF:-1,Al Aoula International
-http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
-#EXTINF:-1,Al Aoula Laayoune
-http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
-#EXTINF:-1,Arryadia
-http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:-1,Arrabiaa
-http://cdn-hls.globecast.tv/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
-#EXTINF:-1,Al Maghribia
-http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
-#EXTINF:-1,Assadissa
-http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
- 
+
 #EXTINF:-1,SBC
 http://zona-live-tv.com/streamm/sbc.m3u8
  
@@ -2697,50 +2089,7 @@ http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
 http://95.170.215.124/live/disk1/Payam-TV/anevia1/Payam-TV.m3u8
  
  
-#EXTINF:-1,Chelsea tv
-http://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/prog_index.m3u8#EXTINF:-1,Tivibu  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
 #EXTINF:-1,Max tv
 http://tvmaximum.kesintisizyayin.com:1935/tvmaximum/tvmaximum/playlist.m3u8
  
@@ -2757,62 +2106,3 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
 http://zu2or9hg.rocketcdn.com/konf/mob/web16009.isml/QualityLevels(1564000)/manifest(format=m3u8-aapl).m3u8
  
  
-#EXTINF:-1,====Bein max hd1===========================
-http://95.170.215.120/hls/m3u8/Bein-Max-HD1.m3u8|User-Agent=Lavf/56.15.102
- 
- 
-#EXTINF:-1,Bein max hd2
-http://95.170.215.120/hls/m3u8/Bein-Max-HD2.m3u8|User-Agent=Lavf/56.15.102
- 
- 
-#EXTINF:-1,Bein hd1
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD1.m3u8|User-Agent=Lavf/56.15.102
- 
- 
- 
- 
- 
-#EXTINF:-1,Bein hd2
- 
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD2.m3u8|User-Agent=Lavf/56.15.102
- 
- 
-#EXTINF:-1,Bein hd3
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD3.m3u8|User-Agent=Lavf/56.15.102
-#EXTINF:-1,Bein hd4
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD4.m3u8|User-Agent=Lavf/56.15.102
-#EXTINF:-1,Bein hd5
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD5.m3u8|User-Agent=Lavf/56.15.102
-#EXTINF:-1,Bein hd6
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD6.m3u8|User-Agent=Lavf/56.15.102
-#EXTINF:-1,Bein hd7
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD7.m3u8|User-Agent=Lavf/56.15.102
-#EXTINF:-1,Bein hd8
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD8.m3u8|User-Agent=Lavf/56.15.102
-#EXTINF:-1,Bein hd9
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD9.m3u8|User-Agent=Lavf/56.15.102
-#EXTINF:-1,Bein hd10
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD10.m3u8|User-Agent=Lavf/56.15.102
- 
-#EXTINF:-1,Bein hd11
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD11.m3u8|User-Agent=Lavf/56.15.102
- 
-#EXTINF:-1,Bein hd12
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD12.m3u8|User-Agent=Lavf/56.15.102
- 
- 
-#EXTINF:-1,Bein hd13
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD13.m3u8|User-Agent=Lavf/56.15.102
- 
-#EXTINF:-1,Bein hd14
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD14.m3u8|User-Agent=Lavf/56.15.102
- 
-#EXTINF:-1,Bein hd15
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD15.m3u8|User-Agent=Lavf/56.15.102
- 
-#EXTINF:-1,Bein hd16
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD16.m3u8|User-Agent=Lavf/56.15.102
- 
-#EXTINF:-1,Bein NBA
-http://95.170.215.120/hls/m3u8/Bein-Sport-NBA.m3u8|User-Agent=http-user-agent=Lavf/56.15.102
-
