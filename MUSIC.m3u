@@ -1,0 +1,22 @@
+#EXTM3U
+#EXTINF:-1, VH 1 US
+#IMG:https://20933.000webhostapp.com/images/vh1.png
+httphost://$http-raw=http://photocall.tv/b7Ad/l1?ch=vh1$http-refferer=http://photocall.tv/
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
