@@ -2,8 +2,8 @@
 #EXTINF:-1, VH 1 US
 #IMG:https://20933.000webhostapp.com/images/vh1.png
 httphost://$http-raw=http://photocall.tv/b7Ad/l1?ch=vh1$http-refferer=http://photocall.tv/
-#EXTINF:-1,
-
+#EXTINF:-1,FFF tvg-logo="https://20933.000webhostapp.com/images/vh1.png
+https://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd.m3u8?pbs=62317bc417264eaeb05c22777b5c8697
 #EXTINF:-1,
 
 #EXTINF:-1,
