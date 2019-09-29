@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1,CN:CCTV 1
-httphost://$http-raw=http://hdstreams.club/hd/ch1.php$http-refferer=http://hdstreams.club
+#EXTINF:-1,SPORT TV:CH 1
+httphost://$http-raw=http://hdstreams.club/page/ch10.php$http-refferer=http://hdstreams.club/live/ch1.php
