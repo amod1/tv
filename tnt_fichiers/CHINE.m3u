@@ -1,3 +1,3 @@
 #EXTM3U
 #EXTINF:-1,CN:CCTV 1
-http://zee18.online/streamurl/hdstream.php
+httphost://$http-raw=http://hdstreams.club/hd/ch1.php$http-refferer=http://linkprotect.xmtvplayer.com
