@@ -1,12 +1,7 @@
 #EXTM3U
-#EXTINF:-1,swift
-http://vprxy.com/swift/.m3u
-#EXTINF:-1,SPORTS TV ITALY/UK/EX-YU
-http://vprxy.com/iatv/.m3u
-#EXTINF:-1,B30
-http://vprxy.com/b3o5a1b4l2x6/.m3u
-#EXTINF:-1,
-http://vprxy.com/swift/.m3u
+
+#EXTINF:-1,SPORT TV:CH 1
+httphost://$http-raw=https://www.janjua.tv/hembedplayer/beinsports1aac/1/600/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
 #EXTINF:-1,SPORT TV:CH 1
 httphost://$http-raw=http://hdstreams.club/page/ch1.php$http-refferer=http://hdstreams.club/live/ch1.php
 #EXTINF:-1,SPORT TV:CH 2
