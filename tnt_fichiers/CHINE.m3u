@@ -1,3 +1,31 @@
 #EXTM3U
 #EXTINF:-1,SPORT TV:CH 1
+httphost://$http-raw=http://hdstreams.club/page/ch1.php$http-refferer=http://hdstreams.club/live/ch1.php
+#EXTINF:-1,SPORT TV:CH 2
+httphost://$http-raw=http://hdstreams.club/page/ch2.php$http-refferer=http://hdstreams.club/live/ch1.php
+#EXTINF:-1,SPORT TV:CH 3
+httphost://$http-raw=http://hdstreams.club/page/ch3.php$http-refferer=http://hdstreams.club/live/ch1.php
+#EXTINF:-1,SPORT TV:CH 4
+httphost://$http-raw=http://hdstreams.club/page/ch4.php$http-refferer=http://hdstreams.club/live/ch1.php
+#EXTINF:-1,SPORT TV:CH 5
+httphost://$http-raw=http://hdstreams.club/page/ch5.php$http-refferer=http://hdstreams.club/live/ch1.php
+#EXTINF:-1,SPORT TV:CH 6
+httphost://$http-raw=http://hdstreams.club/page/ch6.php$http-refferer=http://hdstreams.club/live/ch1.php
+#EXTINF:-1,SPORT TV:CH 7
+httphost://$http-raw=http://hdstreams.club/page/ch7.php$http-refferer=http://hdstreams.club/live/ch1.php
+#EXTINF:-1,SPORT TV:CH 8
+httphost://$http-raw=http://hdstreams.club/page/ch8.php$http-refferer=http://hdstreams.club/live/ch1.php
+#EXTINF:-1,SPORT TV:CH 9
+httphost://$http-raw=http://hdstreams.club/page/ch9.php$http-refferer=http://hdstreams.club/live/ch1.php
+#EXTINF:-1,SPORT TV:CH 10
 httphost://$http-raw=http://hdstreams.club/page/ch10.php$http-refferer=http://hdstreams.club/live/ch1.php
+#EXTINF:-1,SPORT TV:CH 11
+httphost://$http-raw=http://hdstreams.club/page/ch11.php$http-refferer=http://hdstreams.club/live/ch1.php
+#EXTINF:-1,SPORT TV:CH 12
+httphost://$http-raw=http://hdstreams.club/page/ch12.php$http-refferer=http://hdstreams.club/live/ch1.php
+#EXTINF:-1,SPORT TV:CH 13
+httphost://$http-raw=http://hdstreams.club/page/ch13.php$http-refferer=http://hdstreams.club/live/ch1.php
+#EXTINF:-1,SPORT TV:CH 14
+httphost://$http-raw=http://hdstreams.club/page/ch14.php$http-refferer=http://hdstreams.club/live/ch1.php
+#EXTINF:-1,SPORT TV:CH 15
+httphost://$http-raw=http://hdstreams.club/page/ch15.php$http-refferer=http://hdstreams.club/live/ch1.php
