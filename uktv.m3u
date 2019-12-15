@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:0, BBC 1 [color green]TV FABOR[/color] 
-https://57channels.info/clappr2.html?stream=filmon.php?url=https://www.filmon.com/api-v2/channel/14?protocol=hls
-#EXTINF:0, FOOTBALL 1
+#EXTINF:0, FOOTBALL 1 [color green]TV FABOR[/color] 
 httphost://$http-raw=https://wstream.to/embed/waqq3o4$http-refferer=https://sportzonline.to/channels/hd/hd1.php
 #EXTINF:0, FOOTBALL 2
 httphost://$http-raw=https://wstream.to/embed/r4x6s9zcdf74tv$http-refferer=https://sportzonline.to/channels/hd/hd2.php
