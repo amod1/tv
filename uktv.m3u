@@ -1,3 +1,29 @@
 #EXTM3U
 #EXTINF:0, BBC 1
 https://57channels.info/clappr2.html?stream=filmon.php?url=https://www.filmon.com/api-v2/channel/14?protocol=hls
+#EXTINF:0, FOOTBALL 1
+httphost://$http-raw=https://wstream.to/embed/waqq3o4$http-refferer=https://sportzonline.to/channels/hd/hd1.php
+#EXTINF:0, FOOTBALL 2
+httphost://$http-raw=https://wstream.to/embed/r4x6s9zcdf74tv$http-refferer=https://sportzonline.to/channels/hd/hd2.php
+#EXTINF:0, FOOTBALL 3
+httphost://$http-raw=https://wstream.to/embed/yu3w26c9imgo814$http-refferer=https://sportzonline.to/channels/hd/hd5.php
+#EXTINF:0, BT SPORT 1
+httphost://$http-raw=https://wstream.to/embed/iqeu1cap364fj$http-refferer=http://hindimean.com/freestreams/btsport-1.php
+#EXTINF:0, BT SPORT 2
+httphost://$http-raw=https://wstream.to/embed/ylil5$http-refferer=http://hindimean.com/freestreams/btsport-2.php
+#EXTINF:0, BT SPORT 3
+httphost://$http-raw=https://wstream.to/embed/u7qnfi39$http-refferer=http://hindimean.com/freestreams/btsport-3.php
+#EXTINF:0, BT ESPN
+httphost://$http-raw=https://wstream.to/embed/r4x6s9zcdf74tv$http-refferer=https://sportzonline.co/channels/hd/hd2.php
+#EXTINF:0, SKY SPORT ARENA
+httphost://$http-raw=https://wstream.to/embed/dk5ba5h9$http-refferer=http://hindimean.com/freestreams/skysportsmainevent.php
+#EXTINF:0, SKY SPORT FOOTBALL
+httphost://$http-raw=https://wstream.to/embed/yl80w1dwg5tgs5$http-refferer=http://hindimean.com/freestreams/skysportsfootball.php
+#EXTINF:0, SKY SPORT MAIN EVENT
+httphost://$http-raw=https://wstream.to/embed/dk5ba5h9$http-refferer=http://hindimean.com/freestreams/skysportsmainevent.php
+#EXTINF:0, SKY SPORT ACTION
+httphost://$http-raw=http://www.freecast123.com/cricsp.php?player=desktop&live=skysact&vw=620&vh=490$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, 
+
+#EXTINF:0, 
+
