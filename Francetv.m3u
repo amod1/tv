@@ -1,137 +1,29 @@
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/36133_beinfr1.jpg", SPORTS TV BEIN FRANCE 1
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl6ZDJsbWRIazJMM1Z5YkQxb2RIUndKVE5CSlRKR0pUSkdNVGcxTGpZekxqSTFOQzR4TlRNbE0wRXhNakF3SlRKR2MzQnZjblJ6TWpBeU1DVXlSbUpsYVc0eFpuSWxNa1p3YkdGNWJHbHpkQzV0TTNVNHxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/92053_beinfr2.jpg", SPORTS TV BEIN FRANCE 2
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl6ZDJsbWRIazJMM1Z5YkQxb2RIUndKVE5CSlRKR0pUSkdNVGcxTGpZekxqSTFOQzR4TlRNbE0wRXhNakF3SlRKR2MzQnZjblJ6TWpBeU1DVXlSbUpsYVc0eVpuSWxNa1p3YkdGNWJHbHpkQzV0TTNVNHxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/75741_beinfr3.jpg", SPORTS TV BEIN FRANCE 3
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl6ZDJsbWRIazJMM1Z5YkQxb2RIUndKVE5CSlRKR0pUSkdNVGcxTGpZekxqSTFOQzR4TlRNbE0wRXhNakF3SlRKR2MzQnZjblJ6TWpBeU1DVXlSbUpsYVc0elpuSWxNa1p3YkdGNWJHbHpkQzV0TTNVNHxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/1529_france2.jpg", FRANCE TV France 2
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl6ZDJsbWRIa3hOeTkxY213OWFIUjBjQ1V6UVNVeVJpVXlSak0wTGpZMUxqRXpOaTR4TkRJbE0wRTFNRFl4SlRKR1puSmhibU5sTWpBeE9TVXlSbVp5WVc1alpUSWxNa1p3YkdGNWJHbHpkQzV0TTNVNHxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/78616_france3.jpg", FRANCE TV France 3
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl6ZDJsbWRIa3hOeTkxY213OWFIUjBjQ1V6UVNVeVJpVXlSak0wTGpZMUxqRXpOaTR4TkRJbE0wRTFNRFl4SlRKR1puSmhibU5sTWpBeE9TVXlSbVp5WVc1alpUTWxNa1p3YkdGNWJHbHpkQzV0TTNVNHxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/24720_france4.jpg", FRANCE TV France 4
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl6ZDJsbWRIa3hOeTkxY213OWFIUjBjQ1V6UVNVeVJpVXlSak0wTGpZMUxqRXpOaTR4TkRJbE0wRTFNRFl4SlRKR1puSmhibU5sTWpBeE9TVXlSbVp5WVc1alpUUWxNa1p3YkdGNWJHbHpkQzV0TTNVNHxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/97395_france5.jpg", FRANCE TV France 5
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl6ZDJsbWRIa3hOeTkxY213OWFIUjBjQ1V6UVNVeVJpVXlSak0wTGpZMUxqRXpOaTR4TkRJbE0wRTFNRFl4SlRKR1puSmhibU5sTWpBeE9TVXlSbVp5WVc1alpUVWxNa1p3YkdGNWJHbHpkQzV0TTNVNHxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/41537_franceo.jpg", FRANCE TV France O
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl6ZDJsbWRIa3hOeTkxY213OWFIUjBjQ1V6UVNVeVJpVXlSak0wTGpZMUxqRXpOaTR4TkRJbE0wRTFNRFl4SlRKR1puSmhibU5sTWpBeE9TVXlSbVp5WVc1alpXOGxNa1p3YkdGNWJHbHpkQzV0TTNVNHxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/74201_france24.jpg", FRANCE TV France 24
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl6ZDJsbWRIa3hOeTkxY213OWFIUjBjQ1V6UVNVeVJpVXlSak0wTGpZMUxqRXpOaTR4TkRJbE0wRTFNRFl4SlRKR1puSmhibU5sTWpBeE9TVXlSbVp5WVc1alpUSTBKVEpHY0d4aGVXeHBjM1F1YlROMU9BPT18WVhVMU5YVmFXSG80VTJwSk4yYzRYdz09fDU3MkNDMjMzLTdGQTgtNDc0MC05NjQ0LTA1Njk3RDVFQjQ5MHxSRU4zZUE9PQ%3D%3D$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/78994_tf1.jpg", FRANCE TV TF1
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl6ZDJsbWRIa3hOeTkxY213OWFIUjBjQ1V6UVNVeVJpVXlSak0wTGpZMUxqRXpOaTR4TkRJbE0wRTFNRFl4SlRKR1puSmhibU5sTWpBeE9TVXlSblJtTVNVeVJuQnNZWGxzYVhOMExtMHpkVGc9fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/96588_m6.jpg", FRANCE TV M6
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl6ZDJsbWRIa3hOeTkxY213OWFIUjBjQ1V6UVNVeVJpVXlSak0wTGpZMUxqRXpOaTR4TkRJbE0wRTFNRFl4SlRKR1puSmhibU5sTWpBeE9TVXlSbTAySlRKR2NHeGhlV3hwYzNRdWJUTjFPQT09fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/43142_m6music.jpg", FRANCE TV M6 MUSIC
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl6ZDJsbWRIa3hOeTkxY213OWFIUjBjQ1V6UVNVeVJpVXlSak0wTGpZMUxqRXpOaTR4TkRJbE0wRTFNRFl4SlRKR1puSmhibU5sTWpBeE9TVXlSbTAyYlhWemFXTWxNa1p3YkdGNWJHbHpkQzV0TTNVNHxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/3324_canalplus.jpg", FRANCE TV Canal+ Sport
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl6ZDJsbWRIazJMM1Z5YkQxb2RIUndKVE5CSlRKR0pUSkdNVGcxTGpZekxqSTFOQzR4TlRNbE0wRXhNakF3SlRKR2MzQnZjblJ6TWpBeU1DVXlSbU5oYm1Gc2MzQnZjblJ6SlRKR2FXNWtaWGd1YlROMU9BPT18WVhVMU5YVmFXSG80VTJwSk4yYzRYdz09fDU3MkNDMjMzLTdGQTgtNDc0MC05NjQ0LTA1Njk3RDVFQjQ5MHxSRU4zZUE9PQ%3D%3D$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/73998_canalserries.jpg", FRANCE TV Canal+ Series
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl6ZDJsbWRIa3hOeTkxY213OWFIUjBjQ1V6UVNVeVJpVXlSak0wTGpZMUxqRXpOaTR4TkRJbE0wRTFNRFl4SlRKR1puSmhibU5sTWpBeE9TVXlSbU5oYm1Gc2MyVnlhV1Z6SlRKR2NHeGhlV3hwYzNRdWJUTjFPQT09fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/46657_canalfamily.jpg", FRANCE TV Canal+ Family
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl6ZDJsbWRIa3hOeTkxY213OWFIUjBjQ1V6UVNVeVJpVXlSak0wTGpZMUxqRXpOaTR4TkRJbE0wRTFNRFl4SlRKR1puSmhibU5sTWpBeE9TVXlSbU5oYm1Gc1ptRnRhV3g1SlRKR2NHeGhlV3hwYzNRdWJUTjFPQT09fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/20685_canalcinema.jpg", FRANCE TV Canal+ Cinema
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl6ZDJsbWRIa3hOeTkxY213OWFIUjBjQ1V6UVNVeVJpVXlSak0wTGpZMUxqRXpOaTR4TkRJbE0wRTFNRFl4SlRKR1puSmhibU5sTWpBeE9TVXlSbU5oYm1Gc1kybHVaVzFoSlRKR2NHeGhlV3hwYzNRdWJUTjFPQT09fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/82182_cinepre.jpg", FRANCE TV CINE PREMIER
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl6ZDJsbWRIa3hOeTkxY213OWFIUjBjQ1V6UVNVeVJpVXlSak0wTGpZMUxqRXpOaTR4TkRJbE0wRTFNRFl4SlRKR1puSmhibU5sTWpBeE9TVXlSbU5wYm1Wd2NtVnRhV1Z5SlRKR2NHeGhlV3hwYzNRdWJUTjFPQT09fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/29373_cinepolor.jpg", FRANCE TV CINE POLAR
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl6ZDJsbWRIa3hOeTkxY213OWFIUjBjQ1V6UVNVeVJpVXlSak0wTGpZMUxqRXpOaTR4TkRJbE0wRTFNRFl4SlRKR1puSmhibU5sTWpBeE9TVXlSbU5wYm1Wd2IyeGhjaVV5Um5Cc1lYbHNhWE4wTG0wemRUZz18WVhVMU5YVmFXSG80VTJwSk4yYzRYdz09fDU3MkNDMjMzLTdGQTgtNDc0MC05NjQ0LTA1Njk3RDVFQjQ5MHxSRU4zZUE9PQ%3D%3D$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/59313_cinefx.jpg", FRANCE TV CINE FX
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl6ZDJsbWRIa3hOeTkxY213OWFIUjBjQ1V6UVNVeVJpVXlSak0wTGpZMUxqRXpOaTR4TkRJbE0wRTFNRFl4SlRKR1puSmhibU5sTWpBeE9TVXlSbU5wYm1WbWVDVXlSbkJzWVhsc2FYTjBMbTB6ZFRnPXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/61296_cinefam.jpg", FRANCE TV CINE FAMIZ
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl6ZDJsbWRIa3hOeTkxY213OWFIUjBjQ1V6UVNVeVJpVXlSak0wTGpZMUxqRXpOaTR4TkRJbE0wRTFNRFl4SlRKR1puSmhibU5sTWpBeE9TVXlSbU5wYm1WbVlXMXBlaVV5Um5Cc1lYbHNhWE4wTG0wemRUZz18WVhVMU5YVmFXSG80VTJwSk4yYzRYdz09fDU3MkNDMjMzLTdGQTgtNDc0MC05NjQ0LTA1Njk3RDVFQjQ5MHxSRU4zZUE9PQ%3D%3D$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/2290_cineclassic.jpg", FRANCE TV CINE CLASSIC
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl6ZDJsbWRIa3hOeTkxY213OWFIUjBjQ1V6UVNVeVJpVXlSak0wTGpZMUxqRXpOaTR4TkRJbE0wRTFNRFl4SlRKR1puSmhibU5sTWpBeE9TVXlSbU5wYm1WamJHRnpjMmxqSlRKR2NHeGhlV3hwYzNRdWJUTjFPQT09fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/88768_syfy.jpg", FRANCE TV SYFY FRANCE
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl6ZDJsbWRIa3hOeTkxY213OWFIUjBjQ1V6UVNVeVJpVXlSak0wTGpZMUxqRXpOaTR4TkRJbE0wRTFNRFl4SlRKR1puSmhibU5sTWpBeE9TVXlSbk41Wm5rbE1rWndiR0Y1YkdsemRDNXRNM1U0fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/26821_cinemagic.jpg", FRANCE TV Disney Cinemagic
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl6ZDJsbWRIa3hOeTkxY213OWFIUjBjQ1V6UVNVeVJpVXlSak0wTGpZMUxqRXpOaTR4TkRJbE0wRTFNRFl4SlRKR1puSmhibU5sTWpBeE9TVXlSbVJwYzI1bGVXTnBibVZ0WVdkcFl5VXlSbkJzWVhsc2FYTjBMbTB6ZFRnPXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/33398_OCSCHOC.jpg", FRANCE TV OCS CHOC
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl6ZDJsbWRIa3hOeTkxY213OWFIUjBjQ1V6UVNVeVJpVXlSak0wTGpZMUxqRXpOaTR4TkRJbE0wRTFNRFl4SlRKR1puSmhibU5sTWpBeE9TVXlSbTlqYzJOb2IyTWxNa1p3YkdGNWJHbHpkQzV0TTNVNHxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/97966_ocsmax.jpg", FRANCE TV OCS MAX
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl6ZDJsbWRIa3hOeTkxY213OWFIUjBjQ1V6UVNVeVJpVXlSak0wTGpZMUxqRXpOaTR4TkRJbE0wRTFNRFl4SlRKR1puSmhibU5sTWpBeE9TVXlSbTlqYzIxaGVDVXlSbkJzWVhsc2FYTjBMbTB6ZFRnPXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/33308_ocscity.jpg", FRANCE TV OCS CITY
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl6ZDJsbWRIa3hOeTkxY213OWFIUjBjQ1V6UVNVeVJpVXlSak0wTGpZMUxqRXpOaTR4TkRJbE0wRTFNRFl4SlRKR1puSmhibU5sTWpBeE9TVXlSbTlqYzJOcGRIa2xNa1p3YkdGNWJHbHpkQzV0TTNVNHxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/35936_oltv.jpg", FRANCE TV OLTV HD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl6ZDJsbWRIa3hOeTkxY213OWFIUjBjQ1V6UVNVeVJpVXlSak0wTGpZMUxqRXpOaTR4TkRJbE0wRTFNRFl4SlRKR1puSmhibU5sTWpBeE9TVXlSbTlzZEhZbE1rWndiR0Y1YkdsemRDNXRNM1U0fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/41527_comehd.jpg", FRANCE TV COMEDIE  HD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl6ZDJsbWRIa3hOeTkxY213OWFIUjBjQ1V6UVNVeVJpVXlSak0wTGpZMUxqRXpOaTR4TkRJbE0wRTFNRFl4SlRKR1puSmhibU5sTWpBeE9TVXlSbU52YldWa2FXVWxNa1p3YkdGNWJHbHpkQzV0TTNVNHxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/45409_gillifr.jpg", FRANCE TV GULLI FRANCE
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl6ZDJsbWRIa3hOeTkxY213OWFIUjBjQ1V6UVNVeVJpVXlSak0wTGpZMUxqRXpOaTR4TkRJbE0wRTFNRFl4SlRKR1puSmhibU5sTWpBeE9TVXlSbWQxYkd4MGFXWnlKVEpHY0d4aGVXeHBjM1F1YlROMU9BPT18WVhVMU5YVmFXSG80VTJwSk4yYzRYdz09fDU3MkNDMjMzLTdGQTgtNDc0MC05NjQ0LTA1Njk3RDVFQjQ5MHxSRU4zZUE9PQ%3D%3D$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/50288_DISCOVERYFR.jpg", FRANCE TV Discovery France
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl6ZDJsbWRIa3hOeTkxY213OWFIUjBjQ1V6UVNVeVJpVXlSak0wTGpZMUxqRXpOaTR4TkRJbE0wRTFNRFl4SlRKR1puSmhibU5sTWpBeE9TVXlSbVJwYzJOdmRtVnllV1p5SlRKR2NHeGhlV3hwYzNRdWJUTjFPQT09fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/50319_NATGEOFR.jpg", FRANCE TV NAT GEO FRANCE
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl6ZDJsbWRIa3hOeTkxY213OWFIUjBjQ1V6UVNVeVJpVXlSak0wTGpZMUxqRXpOaTR4TkRJbE0wRTFNRFl4SlRKR1puSmhibU5sTWpBeE9TVXlSbTVoZEdkbGIyWnlKVEpHY0d4aGVXeHBjM1F1YlROMU9BPT18WVhVMU5YVmFXSG80VTJwSk4yYzRYdz09fDU3MkNDMjMzLTdGQTgtNDc0MC05NjQ0LTA1Njk3RDVFQjQ5MHxSRU4zZUE9PQ%3D%3D$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/18039_NATGEOWILDFR.jpg", FRANCE TV NAT GEO WILD FRANCE
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl6ZDJsbWRIa3hOeTkxY213OWFIUjBjQ1V6UVNVeVJpVXlSak0wTGpZMUxqRXpOaTR4TkRJbE0wRTFNRFl4SlRKR1puSmhibU5sTWpBeE9TVXlSbTVoZEdkbGIzZHBiR1JtY2lVeVJuQnNZWGxzYVhOMExtMHpkVGc9fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/18299_DISCOVERYSCIFR.jpg", FRANCE TV DISCOVERY SCI FRANCE
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl6ZDJsbWRIa3hOeTkxY213OWFIUjBjQ1V6UVNVeVJpVXlSak0wTGpZMUxqRXpOaTR4TkRJbE0wRTFNRFl4SlRKR1puSmhibU5sTWpBeE9TVXlSbVJwYzJOdmRtVnllWE5qYVdaeUpUSkdjR3hoZVd4cGMzUXViVE4xT0E9PXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/99203_w9.jpg", FRANCE TV W9 HD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl6ZDJsbWRIa3hOeTkxY213OWFIUjBjQ1V6UVNVeVJpVXlSak0wTGpZMUxqRXpOaTR4TkRJbE0wRTFNRFl4SlRKR1puSmhibU5sTWpBeE9TVXlSbmM1YUdSbWNpVXlSbkJzWVhsc2FYTjBMbTB6ZFRnPXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/77715_rtl9.jpg", FRANCE TV RTL9 HD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl6ZDJsbWRIa3hOeTkxY213OWFIUjBjQ1V6UVNVeVJpVXlSak0wTGpZMUxqRXpOaTR4TkRJbE0wRTFNRFl4SlRKR1puSmhibU5sTWpBeE9TVXlSbkowYkRrbE1rWndiR0Y1YkdsemRDNXRNM1U0fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/79053_boomrang.jpg", FRANCE TV Boomrang France
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl6ZDJsbWRIa3hOeTkxY213OWFIUjBjQ1V6UVNVeVJpVXlSak0wTGpZMUxqRXpOaTR4TkRJbE0wRTFNRFl4SlRKR1puSmhibU5sTWpBeE9TVXlSbUp2YjIxeVlXNW5abklsTWtad2JHRjViR2x6ZEM1dE0zVTR8WVhVMU5YVmFXSG80VTJwSk4yYzRYdz09fDU3MkNDMjMzLTdGQTgtNDc0MC05NjQ0LTA1Njk3RDVFQjQ5MHxSRU4zZUE9PQ%3D%3D$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/71606_action.jpg", FRANCE TV ACTION
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl6ZDJsbWRIa3hOeTkxY213OWFIUjBjQ1V6UVNVeVJpVXlSak0wTGpZMUxqRXpOaTR4TkRJbE0wRTFNRFl4SlRKR1puSmhibU5sTWpBeE9TVXlSbUZqZEdsdmJpVXlSbkJzWVhsc2FYTjBMbTB6ZFRnPXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/96659_animaux.jpg", FRANCE TV ANIMAUX
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl6ZDJsbWRIa3hOeTkxY213OWFIUjBjQ1V6UVNVeVJpVXlSak0wTGpZMUxqRXpOaTR4TkRJbE0wRTFNRFl4SlRKR1puSmhibU5sTWpBeE9TVXlSbUZ1YVcxaGRYZ2xNa1p3YkdGNWJHbHpkQzV0TTNVNHxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/7365_eenter.jpg", FRANCE TV E! ENT FRANCE
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl6ZDJsbWRIa3hOeTkxY213OWFIUjBjQ1V6UVNVeVJpVXlSak0wTGpZMUxqRXpOaTR4TkRJbE0wRTFNRFl4SlRKR1puSmhibU5sTWpBeE9TVXlSbVZsYm5SbGNpVXlSbkJzWVhsc2FYTjBMbTB6ZFRnPXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/47852_mangas.jpg", FRANCE TV MANGAS
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl6ZDJsbWRIa3hOeTkxY213OWFIUjBjQ1V6UVNVeVJpVXlSak0wTGpZMUxqRXpOaTR4TkRJbE0wRTFNRFl4SlRKR1puSmhibU5sTWpBeE9TVXlSbTFoYm1kaGN5VXlSbkJzWVhsc2FYTjBMbTB6ZFRnPXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/63900_bfmtv.jpg", FRANCE TV BFMTV
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl6ZDJsbWRIa3hOeTkxY213OWFIUjBjQ1V6UVNVeVJpVXlSak0wTGpZMUxqRXpOaTR4TkRJbE0wRTFNRFl4SlRKR1puSmhibU5sTWpBeE9TVXlSbUptYlhSMkpUSkdjR3hoZVd4cGMzUXViVE4xT0E9PXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/43691_rfmtv.jpg", FRANCE TV RFM TV
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl6ZDJsbWRIa3hOeTkxY213OWFIUjBjQ1V6UVNVeVJpVXlSak0wTGpZMUxqRXpOaTR4TkRJbE0wRTFNRFl4SlRKR1puSmhibU5sTWpBeE9TVXlSbkptYlhSMkpUSkdjR3hoZVd4cGMzUXViVE4xT0E9PXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/33562_mcmtop.jpg", FRANCE TV MCM TOP
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl6ZDJsbWRIa3hOeTkxY213OWFIUjBjQ1V6UVNVeVJpVXlSak0wTGpZMUxqRXpOaTR4TkRJbE0wRTFNRFl4SlRKR1puSmhibU5sTWpBeE9TVXlSbTFqYlhSdmNDVXlSbkJzWVhsc2FYTjBMbTB6ZFRnPXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/37176_lequipe21.jpg", FRANCE TV LEQUIPE 21
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl6ZDJsbWRIa3hOeTkxY213OWFIUjBjQ1V6UVNVeVJpVXlSak0wTGpZMUxqRXpOaTR4TkRJbE0wRTFNRFl4SlRKR1puSmhibU5sTWpBeE9TVXlSbXhsY1hWcGNHVXlNU1V5Um5Cc1lYbHNhWE4wTG0wemRUZz18WVhVMU5YVmFXSG80VTJwSk4yYzRYdz09fDU3MkNDMjMzLTdGQTgtNDc0MC05NjQ0LTA1Njk3RDVFQjQ5MHxSRU4zZUE9PQ%3D%3D$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/96747_gongmax.jpg", FRANCE TV GONGMAX
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl6ZDJsbWRIa3hOeTkxY213OWFIUjBjQ1V6UVNVeVJpVXlSak0wTGpZMUxqRXpOaTR4TkRJbE0wRTFNRFl4SlRKR1puSmhibU5sTWpBeE9TVXlSbWR2Ym1kdFlYZ2xNa1p3YkdGNWJHbHpkQzV0TTNVNHxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-logo="jpg", RMC SPORT NEWS
+httphost://$http-raw=http://nlive.club/stream/1/38928.html$http-refferer=http://csport.xyz/t/4/18.php
+#EXTINF:-1 tvg-logo="jpg", RMC SPORT 1
+httphost://$http-raw=http://nlive.club/stream/1/38914.html$http-refferer=http://csport.xyz/t/4/4.php
+#EXTINF:-1 tvg-logo="jpg", RMC SPORT 2
+httphost://$http-raw=http://nlive.club/stream/1/38919.html$http-refferer=http://csport.xyz/t/1/9.php
+#EXTINF:-1 tvg-logo="jpg", beIN SPORT 1
+httphost://$http-raw=http://nlive.club/stream/1/38911.html$http-refferer=http://csport.xyz/t/1/1.php
+#EXTINF:-1 tvg-logo="jpg", beIN SPORT 2
+httphost://$http-raw=http://nlive.club/stream/1/38912.html$http-refferer=http://csport.xyz/t/1/2.php
+#EXTINF:-1 tvg-logo="jpg", beIN SPORT 3
+httphost://$http-raw=http://nlive.club/stream/1/38913.html$http-refferer=http://csport.xyz/t/1/3.php
+#EXTINF:-1 tvg-logo="jpg", beIN SPORT 4
+httphost://$http-raw=http://nlive.club/stream/1/38920.html$http-refferer=http://csport.xyz/t/4/18.php
+#EXTINF:-1 tvg-logo="jpg", beIN SPORT 5
+httphost://$http-raw=http://nlive.club/stream/1/38921.html$http-refferer=http://csport.xyz/t/4/18.php
+#EXTINF:-1 tvg-logo="jpg", beIN SPORT 6
+httphost://$http-raw=http://nlive.club/stream/1/38922.html$http-refferer=http://csport.xyz/t/4/18.php
+#EXTINF:-1 tvg-logo="jpg", beIN SPORT 7
+httphost://$http-raw=http://nlive.club/stream/1/38923.html$http-refferer=http://csport.xyz/t/4/18.php
+#EXTINF:-1 tvg-logo="jpg", beIN SPORT 8
+httphost://$http-raw=http://nlive.club/stream/1/38924.html$http-refferer=http://csport.xyz/t/4/18.php
+#EXTINF:-1 tvg-logo="jpg", beIN SPORT 9
+httphost://$http-raw=http://nlive.club/stream/1/38925.html$http-refferer=http://csport.xyz/t/4/18.php
+#EXTINF:-1 tvg-logo="jpg", beIN SPORT 10
+httphost://$http-raw=http://nlive.club/stream/1/38926.html$http-refferer=http://csport.xyz/t/4/18.php
 
 #EXTINF:-1 tvg-logo="http://51.15.209.90:8800/data/img/files/88753_action.jpg", ACTION French
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl5WldSaWIzZ3ZkWEpzUFdoMGRIQWxNMEVsTWtZbE1rWXdibVZzYVhabExtaHFhMjB1YVc1bWJ5VXpRVEV6TWpreUpUSkdZWEJ2Ykd4dkpUSkdZV04wYVc5dUpUSkdjR3hoZVd4cGMzUXViVE4xT0E9PXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
