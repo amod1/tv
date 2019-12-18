@@ -1,6 +1,6 @@
-
+#EXTINF:-1 tvg-logo="jpg", [color green]SPORT TV - TV FABOR APK[/color]
 #EXTINF:-1 tvg-logo="jpg", RMC SPORT NEWS [color green]TV FABOR APK[/color]
-httphost://$http-raw=http://nlive.club/stream/1/38928.html$http-refferer=http://csport.xyz/t/4/18.php
+httphost://$http-raw=https://wstream.to/embed/s7yzor7$http-refferer=http://csport.xyz/t/2/18.php
 #EXTINF:-1 tvg-logo="jpg", RMC SPORT 1
 httphost://$http-raw=http://nlive.club/stream/1/38914.html$http-refferer=http://csport.xyz/t/4/4.php
 #EXTINF:-1 tvg-logo="jpg", RMC SPORT 2
