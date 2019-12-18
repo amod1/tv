@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://51.15.209.90:8800/data/img/files/17014_axnblack.jpg", [color green]SPORT TV - TV FABOR APK[/color]
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl5WldSaWIzZ3ZkWEpzUFdoMGRIQWxNMEVsTWtZbE1rWXdibVZzYVhabExtaHFhMjB1YVc1bWJ5VXpRVEV6TWpreUpUSkdaR2xoYm1FbE1rWmhlRzVpYkdGamEyaGtKVEpHY0d4aGVXeHBjM1F1YlROMU9BPT18WVhVMU5YVmFXSG80VTJwSk4yYzRYdz09fDU3MkNDMjMzLTdGQTgtNDc0MC05NjQ0LTA1Njk3RDVFQjQ5MHxSRU4zZUE9PQ%3D%3D$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/static/logos/sporttv-1.svg", SPORT TV1
+httphost://$http-raw=https://wstream.to/embed/cyqomyts14egn$http-refferer=https://v2.sportzonline.to/channels/pt/sporttv1.php
+#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/static/logos/sporttv-2.svg",SPORT TV2
+httphost://$http-raw=https://wstream.to/embed/dftsbx86z8qhvbg$http-refferer=https://v2.sportzonline.to/channels/pt/sporttv2.php
+#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/static/logos/sporttv-3.svg",SPORT TV3
+httphost://$http-raw=https://wstream.to/embed/rxujvy5u40gwel$http-refferer=https://v2.sportzonline.to/channels/pt/sporttv3.php
+#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/static/logos/sporttv-4.svg",SPORT TV4
+httphost://$http-raw=https://wstream.to/embed/oh66wnqhpbdcy$http-refferer=https://v2.sportzonline.to/channels/pt/sporttv4.phphttphost://$http-raw=https://wstream.to/embed/oecm2no$http-refferer=https://v2.sportzonline.to/channels/pt/sporttv5.php
+#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/static/logos/sporttv-5.svg",SPORT TV5
+httphost://$http-raw=https://wstream.to/embed/oecm2no$http-refferer=https://v2.sportzonline.to/channels/pt/sporttv5.php
 #EXTINF:-1 tvg-logo="http://51.15.209.90:8800/data/img/files/17014_axnblack.jpg", AXN BLACK Portugues PORTUGAL TV [color green]TV FABOR APK[/color]
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl5WldSaWIzZ3ZkWEpzUFdoMGRIQWxNMEVsTWtZbE1rWXdibVZzYVhabExtaHFhMjB1YVc1bWJ5VXpRVEV6TWpreUpUSkdaR2xoYm1FbE1rWmhlRzVpYkdGamEyaGtKVEpHY0d4aGVXeHBjM1F1YlROMU9BPT18WVhVMU5YVmFXSG80VTJwSk4yYzRYdz09fDU3MkNDMjMzLTdGQTgtNDc0MC05NjQ0LTA1Njk3RDVFQjQ5MHxSRU4zZUE9PQ%3D%3D$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1 tvg-logo="http://51.15.209.90:8800/data/img/files/56191_axn.jpg", AXN HD Portugues PORTUGAL TV
