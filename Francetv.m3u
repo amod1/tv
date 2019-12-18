@@ -1,5 +1,6 @@
-#EXTINF:-1 tvg-logo="jpg", [color green]SPORT TV - TV FABOR APK[/color]
-httphost://$http-raw=https://wstream.to/embed/s7yzor7$http-refferer=http://csport.xyz
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color green]FRANCE TV - TV FABOR APK[/color]
+httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1 tvg-logo="jpg", RMC SPORT NEWS
 httphost://$http-raw=https://wstream.to/embed/s7yzor7$http-refferer=http://csport.xyz/t/2/18.php
 #EXTINF:-1 tvg-logo="jpg", RMC SPORT 1
