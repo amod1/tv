@@ -1,9 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color green]ARABIC TV - TV FABOR APK[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="", [color green]BEIN SPORT 1 TV FABOR APK[/color]
+#EXTINF:-1 tvg-logo="", [color green]BEIN SPORT 1 [/color]
 httphost://$http-raw=https://wstream.to/embed/97w5hd0$http-refferer=https://kora-live.tv
-#EXTINF:-1 tvg-logo="", BEIN SPORT 1 [color green]TV FABOR APK[/color]
+#EXTINF:-1 tvg-logo="", BEIN SPORT 1 
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNHaHZjM1E2THk4a2FIUjBjQzF5WVhjOWFIUjBjRG92TDJ4dlkyRnNhRzl6ZEM5aGJHSmliM2d6TXlSb2RIUndMWEpsWm1abGNtVnlQV2gwZEhBNkx5OHhOak11TVRjeUxqTTVMakUzTlRvNE1EZ3hMMnhwZG1VdlFrVkpUbE5RVDFKVU1TOXdiR0Y1YkdsemRDNXRNM1U0fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-logo="", BEIN SPORT 2
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNHaHZjM1E2THk4a2FIUjBjQzF5WVhjOWFIUjBjRG92TDJ4dlkyRnNhRzl6ZEM5aGJHSmliM2d6TXlSb2RIUndMWEpsWm1abGNtVnlQV2gwZEhBNkx5OHhOak11TVRjeUxqTTVMakUzTlRvNE1EZ3hMMnhwZG1VdlFrVkpUbE5RVDFKVU1pOXdiR0Y1YkdsemRDNXRNM1U0fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-logo="", BEIN SPORT 1 
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwduSgiAAANAPapz1giAPPbCgljmK5Kb2stNUFjaWUlIxfXznkINuWX6NbkXnQ7%2bKTy4acwVjufoj08Zz1zbfUzkTWWwWvMENp0iSjDldgiQrdT%2bOuSz2StzTfnm4TCXvV%2bX93BgkvKCdxM3J5CPU%2bZbnTrcUowaDR4V51qms6UY5g8BDAYssdlkebuNXp48o3qe4Wd05ZLU2F1FVyTOAtXOMkhkgE1nfmkRV2JDzTyXrzyNk70EuanvH1v%2fZ2fv4yKXU9TwLRSSwAAK2hSEAlu1DjJgf%2fgJsf3r%2fNSjVXqNTOTsY9bZbTHdkPv8C0lQDbA8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1 tvg-logo="", BEIN SPORT 2
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwcuWQzAAANAPchxGE2HRBaGeLaXUzK7ooCPxiLTq9OPn3nIII2FyF2GJVD%2bZYuSXqKCFoTpwMBnw8Lkb1%2bxLpRNr1PWOt5GeH6kX52MeG92TSWPGE1q%2fH1rirEfqbDYv89S15W27EPiCrNIrp8f3I%2bbPl2weMo6yufaAXmcc9i2waCqEjcZH%2b2URduuixq1O201yTnyIlJQliUT6a9v%2bzLqxfANYvIdA0QiYFuZreZB%2f%2bkWcS9EiyvRnkoaPH4gUjJXdTkQHQxMBArKoqwCIMlR1ZEHbBLr8SVkQmsVlV2qEWrnv%2fb6363De7%2f8BlpKEVg8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
