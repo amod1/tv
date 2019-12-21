@@ -4,7 +4,7 @@ httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1 tvg-logo="", [color green]BEIN SPORT 1 [/color]
 httphost://$http-raw=https://wstream.to/embed/97w5hd0$http-refferer=https://kora-live.tv
 #EXTINF:-1 tvg-logo="", BEIN SPORT 2
-httphost://$http-raw=https://kora-live.tv/iframe/bein2/bein2.html$http-refferer=https://kora-live.tv
+httphost://$http-raw=https://kora-live.tv/iframe/bein2/beinsports2.html$http-refferer=https://kora-live.tv
 #EXTINF:-1 tvg-logo="", BEIN SPORT 1 
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwduSgiAAANAPapz1giAPPbCgljmK5Kb2stNUFjaWUlIxfXznkINuWX6NbkXnQ7%2bKTy4acwVjufoj08Zz1zbfUzkTWWwWvMENp0iSjDldgiQrdT%2bOuSz2StzTfnm4TCXvV%2bX93BgkvKCdxM3J5CPU%2bZbnTrcUowaDR4V51qms6UY5g8BDAYssdlkebuNXp48o3qe4Wd05ZLU2F1FVyTOAtXOMkhkgE1nfmkRV2JDzTyXrzyNk70EuanvH1v%2fZ2fv4yKXU9TwLRSSwAAK2hSEAlu1DjJgf%2fgJsf3r%2fNSjVXqNTOTsY9bZbTHdkPv8C0lQDbA8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1 tvg-logo="", BEIN SPORT 2
