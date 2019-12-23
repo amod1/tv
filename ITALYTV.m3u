@@ -4,9 +4,9 @@ httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]ITALY TV - SERVER 1[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="", Italian TV#* - 51 Radio TV
+#EXTINF:-1 tvg-logo="",  51 Radio TV
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/4wAAAB%2bLCAAAAAAABAAFwUtygjAAANADMQwhHyOLLjBKChUQaiosKZ8oitYBAmQ4fN%2fzn%2bzFTpSqMZMwvbZ2HB4LXh%2fmhmjvqjgHykq9WentPE4ghyO0i%2fgMX50cqksWDMSA9U0gV4JFlZrJXDB711WtfxcuxEdf4Ev8jnmQGr%2fT8rfXRh99yb5rP0sKlPso1t7Ov211qnGoMr6QYCUUMgYRMqnnbk1MMTCdDcYmIBuH7slhhx2wJo8mEZ2V60EjsPxYTRTjGTjliKbnPZCV8b5V51xFYZN8%2fAOTBca94wAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="", Italian TV#* - AB Channel
+#EXTINF:-1 tvg-logo="",  AB Channel
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwdtyRDAAANAPMoYlSB48rMiWurUm1uWlg45tFKllNhgf33NyUA%2bdK1UjT7zjkEymqsXNi0AeGx%2fUJyjBVlnn1%2bk4nqVSJn%2f7QuJfvSJjn4Uk6hoPmX50D%2fDoMYtxiD7Z4HdwAg296PRRBc%2bNwbgdUji846wUDRXcSP0Xd0i%2fDERMlS5Wb3bf1ipYG2fYv7U1DR62fY6tQ2lYvOr5y%2bVtn5yGpWGs6bps3a5QBhZQZWQCIKuGiSzXIA5A6qmQeRZTXii4ZlsBC7B3UDL5htbE7xnqL6G%2b%2fGTwblBh%2fwOgFOOp%2bwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1 tvg-logo="", Italian TV#* - Alto Adige TV
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/4wAAAB%2bLCAAAAAAABAAFwUtygyAAANADdZz4QZBFF42fCFpjJmLRHa1Bo7GRElvNePi%2bdyFSzt%2bJVbKi1liIww1J4OTr0euWPvqB8JpU2QALDI%2b%2fJEysupJ6fSl7np4FDUn7WXVL3pKs1nlpF2f3zsaLQPdr9D744xOw5KYjn8YtzJndzGoSOxbP42NpCrLKEw02ZXi4oVh%2bYc35vs83F9m%2bbzuOgaI3zwAImAaGABimCzEK3HAPsLl1U9XJv4GmAc%2fSoLOISvkuHvnHoiB6SvXgU8jw6aD86vUfjOXgQeMAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
@@ -200,33 +200,33 @@ httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCA
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwclygjAAANAPYpgGDEQOHkKKLKnWKEvgBhJUllrAJsr48X1Pe42VqaRoF%2fOYAhczvxYUr4V76LSL95tZCil1CoJW1LHhx8i%2bsQdi%2bXcr3QstKW9hcb2uCCj3bXjc2jy8puQkotdM7fvQzYgMO49JHAR%2fOT2snbpbsr758T7K%2b35eLkB2yTLBW3g430jf7YF9H7VEkMhnJVVwx3lzLIJBPaehxps3zjFFTRmLSvb6g%2fVvC5mEmKuVjrZ4rUMEge7YEOrAsh30aXkudMA70aLdaBi8Yu34mqq%2b4HORLdILVd08eZot52hyJE%2b%2fQL75B9f1ENwPAQAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1 tvg-logo="", Italian TV#* - Radionorba TV
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwduSQzAAANAPMsYtkeTBg1vbVRpt1e2NihYji6pZxsfvOT%2fJNnfM2Qh6jh4lYUPnkaSfr%2f0HPGjVpcVbGAt3P7ktlg4DSXk2j6LlSipHynSpV61kXB1S2NNwY3k5jBTfT5eHq5wyro2chllAMcjT94ytrD6%2fUjefcLgg0zz2ty5vS5pIDYwtzDOJoTXxV%2fBmV8PYAduGPOLqFGnfAC%2bHHSLVtlVNE9HBxCJAQBaJDoAoQ50gB7oWIPK%2bTna8FED%2fpdfqkwoCUbFXBX1jouLsHCmbexu5ftVJr8z4B4MC6Qv7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="", Italian TV#* - Rai 3
+#EXTINF:-1 tvg-logo="",  Rai 3
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/4wAAAB%2bLCAAAAAAABAAFwcGSQzAAANAP6pgGiXDYA5G2bHZRZaQ3pGimq9uaknR8fN9z2WDN8jYIGeZqq%2f1T4pYtBpzODVsyprTQafTcmjeqSDP%2b1brfxFFNpc7q8%2biLginyUz26b4bgbiyfwfnQCK9jM5YqSPoyb1%2fVPXFFcf%2fHNIHprLpjZ572vCTTK4%2b7ajV7NA1HIBZNG83d94qwRYhl2wbe%2ba4BMQSG50BoAOR4OEQ0gB5YBZ4uzmbws6K9tPmhB9x%2bV82Vx5DJSKc2XR5tLH%2fDQkRfH8NdQ17jAAAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="", Italian TV#* - Rai 3
+#EXTINF:-1 tvg-logo="",  Rai 3
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/4wAAAB%2bLCAAAAAAABAAFwVFzQzAAAOAf5JyECHnYQxrZ4Q7pNDbexpCLtVQZ3fnx%2fb5OZz5CzSVn8uoMYH%2f0PSqT8KcPPsCTf6%2b2bu78rDGHZLQky6MCglWQWDpD%2b9nGtVrVPLVfqQTbtvyqbsyhaOA4w79YCZIpvul5G3NglZa8G9V04wWjMhCkDjSI4HpE6VjvSzdRv%2bhvT0EO17MZsx3H9N6pbyIPAZNghEzgYuIFLj8hAo6ESk1PD4O5vLoaYeyUg4%2f%2f9zJRaUbDRePhcs6qrRWF%2f%2fYCigrILuMAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="", Italian TV#* - Rai 4
+#EXTINF:-1 tvg-logo="",  Rai 4
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/4wAAAB%2bLCAAAAAAABAAFwduSQzAAANAPMkYQIQ%2f7QMKWVlfUmpWXTrttonpTooPx8T1HehkoMTKfJrJFLsxoTD3aqWT3Gx9Ury7zSeuMK%2fJeraVuUxErFEtcPlaaUQX2%2fzohFdyOV5sPjPONP4RKY8XOryH5Q4xkKJLvsIpcwNldeKR8tGua17ybb9uAHpqYjEuxF%2ffLuXa646mU7YstjmsRYtm27ka%2bp0MXAh0jCHXgIOxSJwwgBguNcwmdQOVNmk3neWL4%2fR1s5OQP3U8CjEys%2bjo1RF80z68P7zZzOOMAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="", Italian TV#* - Rai 4
+#EXTINF:-1 tvg-logo="",  Rai 4
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/4wAAAB%2bLCAAAAAAABAAFwcmOgjAAANAPIqQUWloOcxCEKViWsiQyN7TVKlYOLGMmfPy8d9UmyU%2brFJCCDRfMs6IuV%2bNsvtEHn%2bOwSrGaAh49oCxoWzbecu3zpwNqVdGlTp%2fWrMfDL1Ab8eEIRcdvqSpi0g6hgq8UmPiSPUappyZBetmMrrMzEW5fNqs1GDlk%2b4%2bB7V3%2fua3g89100Y6JG0Wu59kkOVAbEeTYgY%2bQ7WA%2fIEcchyhwdvWpQNlLttAaVH18mRgruLi9FyYn%2fspFmPDVQxtLEP36B3LbEXzjAAAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="", Italian TV#* - Rai 5
+#EXTINF:-1 tvg-logo="",  Rai 5
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwduSQzAAANAPMkZUJPLggUQsdixFZ7JvS2u161LTKDE%2bfs8RaXABkrFv05DN06Bj9OEkKJ6HGHmlsxtFiZoup91FTppVbg77eSRq3dH9i%2fehVHIT7zjuwmIcDNHfr%2bDVTgRRGxK7fykPh4toY1KndDBFzUOzmoc8CocMmRnB551%2fmhmoSLMjo7ol7W36mwtv1n5d99hUTfzVf%2ftbv50JY4eNT5SeLEvH3HN0iCHQCYJQBzYimNmBDwk4kva5KIECpWVOPi7pyHlNwepPQBP1tEdNK%2bRjtHhzrdx%2f5PdEwPsAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="", Italian TV#* - Rai 5
+#EXTINF:-1 tvg-logo="",  Rai 5
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/4wAAAB%2bLCAAAAAAABAAFwctygjAUANAPYhgDXBKy6MJGYhORFqWg2VkVCYKI8lCGj%2b85oOR9DwU4WgyGMh6IH7rL%2bfprn8Z2Ee%2bqNAEahrh%2fVnS5bdbHEcbNI6k5L8V%2bjMBiQ3rMZis8330TTzvxRVuzIG%2bM98A7L4f6rw6aW6tosZbIL%2fwkaTh3f%2bhK1ULcva2angpiFraYy5QfsuI1ucRmzHYck%2fC5ZwIBZFIMYCIXU7Jw%2fU%2bgaCJoFDo%2ftXTjyayLXqxEgy4J%2fiqtoL8JR8bAaF%2bl9Bp9%2fAOw45rb4wAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="", Italian TV#* - Rai Gulp
+#EXTINF:-1 tvg-logo="",  Rai Gulp
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/4wAAAB%2bLCAAAAAAABAAFwclSgzAAANAPyjBJydYcPIR9k4wgBLhZlcpisaVUcPh43%2bugTtfaAi6AXnyJXj6%2fOrzJvy2M4luVHc21eev6Iu%2ffo0RByHREY3O8OLdFsiBeZ34tiVPauXR6LMsqAW7r5w0IzMeZx5qGGoL213Wak3vl6nX2%2fCr7VsUYwgOcE21Nwy7aE8vvQ7bpZ%2fwzKn%2bn3LRtE2ODe%2fJoEE6QIRghBqJMcIe6FhFo70igJoH684enln5pH1VegyFFeJ6WRha%2bApqtdzGlh%2frpH5QuizjjAAAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="", Italian TV#* - Rai Movie
+#EXTINF:-1 tvg-logo="",  Rai Movie
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/4wAAAB%2bLCAAAAAAABAAFwUtygjAAANADMQxpfsCii5CGT6qjIaDWnQy0YrFgiFAdDu97JPtX4tbTIPlrKkui8X6t75GtL%2beznzm4BFENITPbJkUysLpTeE3mHdI7Uzi3NCeaEz2MyYQ9EBdP3fDPgZ%2f0OrGbThbdV4uRVz2qeaCi8aYtNXFWtvTJC%2fmtjipkhwX%2bCHBqDymrutHlerUQH3IOEXL9mAUu9jFwQ4qxCwgN%2fQ8iIhyCxdlLks%2boRhMjVyxU%2bStkbEwfveUX5OxXx5RvOmsfvO%2ffX%2fqzH5rjAAAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="", Italian TV#* - Rai News 24
+#EXTINF:-1 tvg-logo="",  Rai News 24
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwduSQzAAANAP6phFSHjwEEFaaRd12eWlU0OJe03bwfj4ntM3vxAcg%2fh6J7SKLWhqZudf%2fx75e4kKKvtszYJsVJsOSsXw2sQ5qUo3b2obAm96OqFVe810av6HPuPlFC4xj1xSnJfO5myc27D3UJTNoYU3xCLIyhWQ6UfCzTv1Ex23bFjouR5GSubDqXTRwuPPS8aGsW%2b35GbaYE4dT5UvgbCrSCZEBkBADtYEBSmioENFEUQV6shSbVPRxf0eFlXCcbXWfn55UhBI2ucxMk5ae0oP64fqWz3AiClHbHwBEkrRvvsAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="", Italian TV#* - Rai News 24
+#EXTINF:-1 tvg-logo="",  Rai News 24
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwd2WQkAAAOAHcpyYZgwXXRihYWnlr%2bmONLYkJio5Hn6%2fLw2QQeKnw171DwNw5Cp47i%2b71WCyGIvxyPIRaqiiLDOTPBNDmDTsj7Sd57tqV5f5uim7iToHLYz7yg%2frD3T5%2fY71HeraXULRuW8uaV6%2fRnrdSwRGJPZE5BTqt8pX93e2PZzKvhglY1ihgOvSVoQT9xFuxORps907HwLiFKdq%2b2g2C7la%2b16lwZuef2%2fYTBaEgWWB9VrGjqnLEENFNjQIZQVpBt4im0BDWURgR%2bzRziO%2fuqB6oznjt2MhIuBRvznNw9fnYsLkWKfK5h9VnzF2DwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="", Italian TV#* - Rai Premium
+#EXTINF:-1 tvg-logo="",  Rai Premium
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/4wAAAB%2bLCAAAAAAABAAFwclygjAAANAPchiWBEIOPQBhMyo2yJZboJoIgyiOLTp8fN9LwSzLPi3HJktuO9O0jXcv7%2b4g6tZpK9mpy4cpuxfZ37KcR0SLvihfuxHjH3qjp1CxSrCTjN0k9On8Sxh7IDwhXceL%2f9LB%2fkq%2fx2x4w7oYZs7bg3p6jdvn8RZNEdkcOVpJ53W54I%2fyGMKKF5fVRlYQWABoKPJcDSJoaNiBUDNsByNihz7ExkpMmgbRmOVXmbB2OBgiv29iFWCx5%2bY5zS1AoCzraVDN1z9ERJEo4wAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="", Italian TV#* - Rai Sport
+#EXTINF:-1 tvg-logo="",  Rai Sport
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwcdugzAAANAPQkjUeMCBA7GZCrOigd6YIQHTGIURxMf3PY0FOWSdhbxj1F3T8ZXP3NN9rNsEcM3qpZtf2%2bSZHmDfllw0GZs6Ie6E3nsriyN4SGVY4Ah5a%2ftVkevbzR58KkklJvWnmECIctjQJiDtnHTVHxYzCAn2g4WHQ1rxfii%2fs2mmcf1IncN2njH99TfPNIyTF1Et10PsEb2oBqqdiABKgarKxDY1GRKoyDqGUFYQ1glD1gXqyglWbXbxhlX0Wk3fIbdLPDbsuoiNH1LSfFhI9zcfX6DdjH8uAxbm%2bwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="", Italian TV#* - Rai YoYo
+#EXTINF:-1 tvg-logo="",  Rai YoYo
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/4wAAAB%2bLCAAAAAAABAAFwdF2QzAAANAPcpxKJJI87EGETbEqtWnf2poqpiOG9Pj43jt81Bv%2bBS70qppiC9vEiYOlzX1pzHHl%2fdC0vIxDByJNNnYepQqUN35qHwqQLsOBxR51IrT%2bGfL4c%2b8XjnoSMYw7PB3I%2b9UNoeZU2vetxacu0RQKTArP%2bT%2f%2fndiu4rkSs7%2bO876UW1Bn4DzJxa5WTKDjQNPUiWdTHRFk6MxCSDewxYjALkfMWO%2b910kqrO6YTPwOI1AEfyAd514WjciISsLjRh1Mly3y7QUWswrc4wAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="", Italian TV#* - ReggioTV
+#EXTINF:-1 tvg-logo="",  ReggioTV
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwclygjAAANAPchjSEAgcOBggTWWtBQFvhE3ZykRtmQwf73vZkostZM3na5RAqqcXm9veephumFFuqaH7592AbHPoyiKYLvxMx9QZa42TasOCgLkDkRr76vVp9rl3NeHxNGQivPvQCGQeLzeHfBWHdJ1aOIyAHuQd%2bJFXNixpZrrwgVWdKqriY3uUHF98EIqDUfa2vQe45miuA%2bKRtdR%2b%2f3cdQ8eBmqZgejQVhBFQLAMhBeiGhV3dI8gCe7qd9X5tM9wm4XPr4E9tMSqiBPnom%2fB5EmgiDJWFG9f2G%2b%2f0erH7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1 tvg-logo="", Italian TV#* - Retesole Lazio
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwduSQzAAANAPMqZZIuTBg7vQsnUp6RuyW1PrspaKjo%2ffc%2frpSbwvB7JlNbq%2fn%2fvNMOgAY7fZUuKWc2WNGdr5zWDLL%2fjsL2EzRIldy5jiFF8LyW%2fbup0FOZF8d3EmuzBHTv0%2bC9lIvDRA49Ca5%2fAEOoeYM%2b8Seynqh4Y8NgV%2bfuG8vLOo6bpXvGUBlcwPEFjRSq%2b6fqxK8gDzt7hHcaEFjXYoqmRZkiyLqmtoIlQhEDGCUAQKwqqtOCbE4HjX5kkAVT4I6l7zp5XCMi9eGd7QmVY0Yc6WahUnNh%2bI%2fg8oiGYe%2bwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
