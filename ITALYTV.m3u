@@ -1,3 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color green]ITALY TV - TV FABOR APK[/color]
+httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]ITALY TV - SERVER 1[/color]
+httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1 tvg-logo="", Italian TV#* - 51 Radio TV
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/4wAAAB%2bLCAAAAAAABAAFwUtygjAAANADMQwhHyOLLjBKChUQaiosKZ8oitYBAmQ4fN%2fzn%2bzFTpSqMZMwvbZ2HB4LXh%2fmhmjvqjgHykq9WentPE4ghyO0i%2fgMX50cqksWDMSA9U0gV4JFlZrJXDB711WtfxcuxEdf4Ev8jnmQGr%2fT8rfXRh99yb5rP0sKlPso1t7Ov211qnGoMr6QYCUUMgYRMqnnbk1MMTCdDcYmIBuH7slhhx2wJo8mEZ2V60EjsPxYTRTjGTjliKbnPZCV8b5V51xFYZN8%2fAOTBca94wAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1 tvg-logo="", Italian TV#* - AB Channel
