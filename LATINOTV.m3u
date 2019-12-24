@@ -1,3 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]LATINO TV - TV FABOR APK[/color]
+httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color green]LATINO TV - SERVER 1[/color]
+httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1 tvg-logo="", Argentina - 13 Max
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/4wAAAB%2bLCAAAAAAABAAFwduSQzAAANAP2jFSSYSHfRCXcSlKUdu3uLRDkWqtZo2P33MS%2bO5LfTYgkZc7q3%2bZC6uW9Y44dSKaGGnFc8KMW4e8M13%2fZ4xvDe8GNX6W46Px9N4iq6YZ70uWt9cr34boyEs7zwICYZW9jIEvvpnM1Sf1C98NJ4plcSeGurX2Ks9zmO5zvDjFo24mH3fpeex3TBTTVCCUiGNoEiIISLqKkASwqhML2xTpYKdfERXJiQcjgR8PCe8VKgcabHlWuX%2fAAYWXnlfXay5R%2ff0Pj%2bhuheMAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1 tvg-logo="", Argentina - 13 Max
