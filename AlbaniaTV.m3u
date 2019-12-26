@@ -3,7 +3,7 @@
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]Albania TV - SERVER 1[/color]
-httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
+httphost://$http-raw=http://telerium.tv/embed/57382.html$http-refferer=http://zobacz.ws/player/polsat.php
 #EXTINF:-1 tvg-logo="", LIVE SOT
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAANyEeygjAAANADMYyUhJCFC5pB6agY2AGG8hGxgIjj4f1v%2bUQQvLwujiXUYOxkzXG1t7yUyfHrrlQCTvtCEZ8WWbpk1Sctt4tt%2b3Fy6OWwcH5YXwjjnpQmcHtSc2VjEjhdaRrFQyXk2zcTM6cV0%2b71YI0LE3U%2ffOo5HFAxrz6irbdXcJvYtvDAJzdoj3zSL6VVVeWNdS4xy1M7AdEnuVYY7rRw79J3j5qXDIe5CaIsDRHtFtIW5yxaBh2oEO2i0S5q1TGzqq31zhxlf3zMdxU1eqRa0fq7xyPTpJsZjn8GzYP6C5FkGJIs82ijqTxAQOCxAgAvQAUjE1o6wMJ3PJ4v4XD9P5AFQgHsStrZ9Xr9AxG8nic7AQAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1 tvg-logo="", TV KLAN
