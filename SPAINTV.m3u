@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color green]SPAIN TV - TV FABOR APK[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1 tvg-logo="", nova
-httphost://$http-raw=https://vergol.com/canales996/live/plusestrenos.php$http-refferer=https://vercanalestv1.com/tv/nacionales/canal-estrenos.php
+httphost://$http-raw=https://verliga1.net/tv/nacionales/movistar-estrenos.php$http-refferer=https://vergol.com/canales996/live/plusestrenos.php
 #EXTINF:-1 tvg-logo="", [color green]EspaÃ±a TDT[/color] 24h
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMM2QzZHk1MGRuQmhkRzh1WTI5dEwybGtQVEk1TnpnekxUYzJ8WVhVMU5YVmFXSG80VTJwSk4yYzRYdz09fDU3MkNDMjMzLTdGQTgtNDc0MC05NjQ0LTA1Njk3RDVFQjQ5MHxSRU4zZUE9PQ%3D%3D$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1 tvg-logo="", [color green]EspaÃ±a TDT[/color] 24h Catalunya
