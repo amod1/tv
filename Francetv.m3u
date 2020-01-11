@@ -28,6 +28,8 @@ httphost://$http-raw=https://wstream.to/embed/rwv3d786ikyk8w3$http-refferer=http
 httphost://$http-raw=https://wstream.to/embed/lw37xlh2b3rz3ra$http-refferer=http://csport.xyz/t/4/18.php
 #EXTINF:-1 tvg-logo="jpg", beIN SPORT 9
 httphost://$http-raw=https://wstream.to/embed/f6xlwn$http-refferer=http://csport.xyz/t/4/18.php
+#EXTINF:-1 tvg-logo="jpg", beIN SPORT 10
+httphost://$http-raw=http://wstream.to/embed/vlvjlnl$http-refferer=http://csport.xyz/t/4/18.php
 #EXTINF:-1 tvg-logo="jpg", CANAL+ SPORT
 httphost://$http-raw=http://wstream.to/embed/zboqfc4atym$http-refferer=http://csport.xyz/t/2/6.php
 #EXTINF:-1 tvg-logo="jpg", CANAL+
