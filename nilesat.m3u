@@ -7,44 +7,6 @@ httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1 tvg-logo="", BEIN SPORT 1
 httphost://$http-raw=https://wstream.to/embed/97w5hd0$http-refferer=https://kora-live.tv
 
-#EXTINF:-1 tvg-logo="", beIN SPORTS 1 FULL HD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNHaHZjM1E2THk4a2FIUjBjQzF5WVhjOWFIUjBjRG92TDJ4dlkyRnNhRzl6ZEM5aGJHSmliM2d6TXlSb2RIUndMWEpsWm1abGNtVnlQV2gwZEhBNkx5OHhOak11TVRjeUxqTTVMakUzTlRvNE1EZ3hMMnhwZG1VdlFrVkpUbE5RVDFKVU1TOXdiR0Y1YkdsemRDNXRNM1U0fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="", beIN SPORTS 2 FULL HD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNHaHZjM1E2THk4a2FIUjBjQzF5WVhjOWFIUjBjRG92TDJ4dlkyRnNhRzl6ZEM5aGJHSmliM2d6TXlSb2RIUndMWEpsWm1abGNtVnlQV2gwZEhBNkx5OHhOak11TVRjeUxqTTVMakUzTlRvNE1EZ3hMMnhwZG1VdlFrVkpUbE5RVDFKVU1pOXdiR0Y1YkdsemRDNXRNM1U0fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="", beIN SPORTS 3 FULL HD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl6ZDJsbWRIazJMM1Z5YkQxb2RIUndKVE5CSlRKR0pUSkdNVGcxTGpZekxqSTFOQzR4TlRNbE0wRXhNakF3SlRKR2MzQnZjblJ6TWpBeU1DVXlSbUpsYVc0emMyUWxNa1p3YkdGNWJHbHpkQzV0TTNVNHxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="", beIN SPORTS 4 FULL HD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNHaHZjM1E2THk4a2FIUjBjQzF5WVhjOWFIUjBjRG92TDJ4dlkyRnNhRzl6ZEM5aGJHSmliM2d6TXlSb2RIUndMWEpsWm1abGNtVnlQV2gwZEhBNkx5OHhOak11TVRjeUxqTTVMakUzTlRvNE1EZ3hMMnhwZG1VdlFrVkpUbE5RVDFKVU5DOXdiR0Y1YkdsemRDNXRNM1U0fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="", beIN SPORTS 5 FULL HD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNHaHZjM1E2THk4a2FIUjBjQzF5WVhjOWFIUjBjRG92TDJ4dlkyRnNhRzl6ZEM5aGJHSmliM2d6TXlSb2RIUndMWEpsWm1abGNtVnlQV2gwZEhBNkx5OHhOak11TVRjeUxqTTVMakUzTlRvNE1EZ3hMMnhwZG1VdlFrVkpUbE5RVDFKVU5TOXdiR0Y1YkdsemRDNXRNM1U0fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="", beIN SPORTS 6 FULL HD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNHaHZjM1E2THk4a2FIUjBjQzF5WVhjOWFIUjBjRG92TDJ4dlkyRnNhRzl6ZEM5aGJHSmliM2d6TXlSb2RIUndMWEpsWm1abGNtVnlQV2gwZEhBNkx5OHhOak11TVRjeUxqTTVMakUzTlRvNE1EZ3hMMnhwZG1VdlFrVkpUbE5RVDFKVU5pOXdiR0Y1YkdsemRDNXRNM1U0fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="", beIN SPORTS 7 FULL HD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNHaHZjM1E2THk4a2FIUjBjQzF5WVhjOWFIUjBjRG92TDJ4dlkyRnNhRzl6ZEM5aGJHSmliM2d6TXlSb2RIUndMWEpsWm1abGNtVnlQV2gwZEhBNkx5OHhOak11TVRjeUxqTTVMakUzTlRvNE1EZ3hMMnhwZG1VdlFrVkpUbE5RVDFKVU55OXdiR0Y1YkdsemRDNXRNM1U0fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="", beIN SPORTS 8 FULL HD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNHaHZjM1E2THk4a2FIUjBjQzF5WVhjOWFIUjBjRG92TDJ4dlkyRnNhRzl6ZEM5aGJHSmliM2d6TXlSb2RIUndMWEpsWm1abGNtVnlQV2gwZEhBNkx5OHhOak11TVRjeUxqTTVMakUzTlRvNE1EZ3hMMnhwZG1VdlFrVkpUbE5RVDFKVU9DOXdiR0Y1YkdsemRDNXRNM1U0fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="", beIN SPORTS 9 FULL HD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNHaHZjM1E2THk4a2FIUjBjQzF5WVhjOWFIUjBjRG92TDJ4dlkyRnNhRzl6ZEM5aGJHSmliM2d6TXlSb2RIUndMWEpsWm1abGNtVnlQV2gwZEhBNkx5OHhOak11TVRjeUxqTTVMakUzTlRvNE1EZ3hMMnhwZG1VdlFrVkpUbE5RVDFKVU9TOXdiR0Y1YkdsemRDNXRNM1U0fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="", beIN SPORTS 10 FULL HD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNHaHZjM1E2THk4a2FIUjBjQzF5WVhjOWFIUjBjRG92TDJ4dlkyRnNhRzl6ZEM5aGJHSmliM2d6TXlSb2RIUndMWEpsWm1abGNtVnlQV2gwZEhBNkx5OHhOak11TVRjeUxqTTVMakUzTlRvNE1EZ3hMMnhwZG1VdlFrVkpUbE5RVDFKVU1UQXZjR3hoZVd4cGMzUXViVE4xT0E9PXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-#EXhttphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNHaHZjM1E2THk4a2FIUjBjQzF5WVhjOWFIUjBjRG92TDJ4dlkyRnNhRzl6ZEM5aGJHSmliM2d6TXlSb2RIUndMWEpsWm1abGNtVnlQV2gwZEhBNkx5OHhOak11TVRjeUxqTTVMakUzTlRvNE1EZ3hMMnhwZG1VdlFrVkpUbE5RVDFKVU1UQXZjR3hoZVd4cGMzUXViVE4xT0E9PXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.comTINF:-1 tvg-logo="", BEIN SPORT 1 
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwduSgiAAANAPapz1giAPPbCgljmK5Kb2stNUFjaWUlIxfXznkINuWX6NbkXnQ7%2bKTy4acwVjufoj08Zz1zbfUzkTWWwWvMENp0iSjDldgiQrdT%2bOuSz2StzTfnm4TCXvV%2bX93BgkvKCdxM3J5CPU%2bZbnTrcUowaDR4V51qms6UY5g8BDAYssdlkebuNXp48o3qe4Wd05ZLU2F1FVyTOAtXOMkhkgE1nfmkRV2JDzTyXrzyNk70EuanvH1v%2fZ2fv4yKXU9TwLRSSwAAK2hSEAlu1DjJgf%2fgJsf3r%2fNSjVXqNTOTsY9bZbTHdkPv8C0lQDbA8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="", BEIN SPORT 1
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwduSgiAAANAPapz1giAPPbCgljmK5Kb2stNUFjaWUlIxfXznkINuWX6NbkXnQ7%2bKTy4acwVjufoj08Zz1zbfUzkTWWwWvMENp0iSjDldgiQrdT%2bOuSz2StzTfnm4TCXvV%2bX93BgkvKCdxM3J5CPU%2bZbnTrcUowaDR4V51qms6UY5g8BDAYssdlkebuNXp48o3qe4Wd05ZLU2F1FVyTOAtXOMkhkgE1nfmkRV2JDzTyXrzyNk70EuanvH1v%2fZ2fv4yKXU9TwLRSSwAAK2hSEAlu1DjJgf%2fgJsf3r%2fNSjVXqNTOTsY9bZbTHdkPv8C0lQDbA8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="", BEIN SPORT 2
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwcuWQzAAANAPchxGE2HRBaGeLaXUzK7ooCPxiLTq9OPn3nIII2FyF2GJVD%2bZYuSXqKCFoTpwMBnw8Lkb1%2bxLpRNr1PWOt5GeH6kX52MeG92TSWPGE1q%2fH1rirEfqbDYv89S15W27EPiCrNIrp8f3I%2bbPl2weMo6yufaAXmcc9i2waCqEjcZH%2b2URduuixq1O201yTnyIlJQliUT6a9v%2bzLqxfANYvIdA0QiYFuZreZB%2f%2bkWcS9EiyvRnkoaPH4gUjJXdTkQHQxMBArKoqwCIMlR1ZEHbBLr8SVkQmsVlV2qEWrnv%2fb6363De7%2f8BlpKEVg8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="", BEIN SPORT 3
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwV3XQjAAAOBf5PjazC660EgHr6yY5q50lLJoSBw%2f%2fn2e28epyCwBmVJm9bCOaJoGXsL%2fUKkTn6KgqPNn9h6sqO0fxbKcMwmFEZs6bqolHu9%2b%2bGbf6rpnZ6l23wszD7M06zKjj8AzLF4eRUKl8MeO4KM1X6fcFUvI%2b%2fhoN%2bw1gGqKn4dxd2j1EZdq7C6PBPIQB56oTnX9MhInmn%2f2hYtSW65hIZvvm26RGp4ix2E%2bDro1cgikGffuSO6V331YITIIMUxTQTvHVgACmoItABQNWhi50NsCrK05qyJ0y7htfKZWSKoHDfpMm80%2fHScDUw8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="", BEIN SPORT 4
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwduSQzAAANAP6piGCPHQBxSl3Up1qfRlh7o0Vew2gzA%2bfs85Ta%2fYU4KSV5slYjxvUvaXRS48BM7dOvRfZcO0l9v9grll5J7Rcua9Mb%2fbmQDSPWQc03Ls68fdt%2f1iTFJ8so4N%2bAxi43%2bGLJThdAsKZxG5byWOBomep%2bWZiwgfQpG7XsgHj3E53G61qbdNxsxgeTZoFAv5prSPTdJqEdpQCutxuLhNLzogK7Ufd0d%2byS4gQWuF0x9oXTtcu4pISLEiXbFtBUJJd00sqboKJENTVQkgzdD3yLFUA6x2NoZe9aTVG53LYb5do3CvTrvdP6gJc6gPAQAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="", BEIN SPORT 5
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwd1yQ0AYANAHMiYbPpaLXKzfri1JETW56ViWaBA0GWLy8D2HIbaEz56QYW9dzzFvXWpoSzAlZ7HbSnN1j3fUfO6MyN7TTNMH2qR%2bBLEEAy6c5qoGyomRPGRM%2be0HnmHv7LEoVBG%2fpKuHaQ%2f%2b0HrxnYyBhPPFiMAvfGZRUU9PdDPoSJKpm04jDYze9i9%2fj3B%2bMiJ6VKAV20en%2ftah%2fajEK4wykT4q3m45K2ez6WDN83gS7y9r%2b4EbrqyTMnvjfXtrWLFtRVVl7BFDBgxINnUAGWm6iR3NtcBEb6dVeXPkPJmFlF1qCmXnBM3h8A%2f26bF%2bDwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="", BEIN SPORT 6
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwclygjAAANAPchgjWTAHD%2bzYsMlACd6UpRaFCAXUDB%2ff9%2bC37OooPXbi2h3j2i2jURePa4TjO7WTwODLs8eXUTsZqtiR6vw1kWTz9tGMZreqtqfpxXCR%2f%2bC4dcgF53vieAYbX7Jv53zDhc3rYRa3c3ItXN%2fqPXdIAUayqdJEfAI26cu%2bpO1fQPVF9g6fMmre7awY6q1ayt8eDqlXRHXMo7s0WOIV4CGf4EEajfNw3rF4XklnseYtTH8BZsY6vGJNNU0VQkVz9L2CNAQUShBSACZUs7BtIArWBd7ayCku0Nf7MIdhLcNp9zoc%2fgFFHyzhDwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://51.15.209.90:8800/data/img/files/50740_bein1.jpg", BEIN 1 Sports 
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl5WldSaWIzZ3ZkWEpzUFdoMGRIQWxNMEVsTWtZbE1rWjZaWEl3YkdsMlpTNW9hbXR0TG1sdVptOGxNMEV4TXpJNU1pVXlSbTFsY21OMWNua2xNa1ppWldsdWMzQnZjblJ6TVNVeVJuQnNZWGxzYVhOMExtMHpkVGc9fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://51.15.209.90:8800/data/img/files/50740_bein1.jpg", BEIN 1 Sports
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl5WldSaWIzZ3ZkWEpzUFdoMGRIQWxNMEVsTWtZbE1rWnpjR1ZqYVdGc2JHbDJaUzVvYW10dExtbHVabThsTTBFeE16STVNaVV5Um0xbGNtTjFjbmtsTWtaaVpXbHVjM0J2Y25Sek1TVXlSbkJzWVhsc2FYTjBMbTB6ZFRnPXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1 tvg-logo="http://51.15.209.90:8800/data/img/files/50740_bein1.jpg", BEIN 1 Sports
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl5WldSaWIzZ3ZkWEpzUFdoMGRIQWxNMEVsTWtZbE1rWnpjR1ZqYVdGc2JHbDJaUzVvYW10dExtbHVabThsTTBFeE16STVNaVV5Um0xbGNtTjFjbmtsTWtaaVpXbHVjM0J2Y25Sek1TVXlSbkJzWVhsc2FYTjBMbTB6ZFRnPXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1 tvg-logo="http://51.15.209.90:8800/data/img/files/50740_bein1.jpg", BEIN 1 Sports
@@ -98,174 +60,42 @@ httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZM
 #EXTINF:-1 tvg-logo="http://51.15.209.90:8800/data/img/files/5758_bein12.jpg", BEIN 12 Sports
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl5WldSaWIzZ3ZkWEpzUFdoMGRIQWxNMEVsTWtZbE1rWjZaWEl3YkdsMlpTNW9hbXR0TG1sdVptOGxNMEV4TXpJNU1pVXlSbTFsY21OMWNua2xNa1ppWldsdWMzQnZjblJ6TVRJbE1rWndiR0Y1YkdsemRDNXRNM1U0fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
 
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color green]SERVER 2 -ARABIC TV - TV FABOR APK[/color]
-httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,Al Aoula Laayoune 
-http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
-#EXTINF:-1,Al Aoula International
-http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
-#EXTINF:-1,2M Monde
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
-#EXTINF:-1,Arryadia
-http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:-1,Arrabiaa
-http://cdn-hls.globecast.tv/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
-#EXTINF:-1,Al Maghribia
-http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
-#EXTINF:-1,Assadissa
-http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
-#EXTINF:-1,Tamazight
-http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
-#EXTINF:-1,Medi 1 TV Maghreb
-http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist.m3u8
-#EXTINF:-1,alyaumtv
-rtmp://185.255.47.55:1935/live/alyaumtv
-#EXTINF:-1,alarabiya
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1,alarabiya alhadath
-https://av.alarabiya.net/alarabiapublish/alhadath.smil/chunklist.m3u8
-#EXTINF:-1,Sky News Arabia
-https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:-1, france 24 AR
-http://f24hls-i.akamaihd.net/hls/live/221196/F24_AR_LO_HLS/master.m3u8
-#EXTINF:-1, BBC ARAB
-http://bbcwslive.mmdlive.lldns.net/bbcwslive/333091d555e2404785a0339bf4779ac1/chunklist.m3u8?v=1771904733
-#EXTINF:-1,alhiwar
-http://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist.m3u8?v=1771904733&__mn_sid=13380223219124813958
-#EXTINF:-1,alaraby
-http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8?v=1771904733
-#EXTINF:-1,rt arab
-https://rt-arab.secure.footprint.net/1104-inadv-qidx-1k_v3.m3u8
-#EXTINF:-1,dw ARAB
-http://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/index_1_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,Alalam
-http://live2.alalam.ir/live/Alalam_high/index.m3u8?v=1771904733
-#EXTINF:-1,Al Hurra
-http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
-#EXTINF:-1,CGTN (China)
-http://live.cgtn.com/1000a/prog_index.m3u8
-#EXTINF:-1,Masdar TV (KSA)
-http://streamer12.elementssys.com:8080/SAUDI-Channels/MASDAR_TV/index.m3u8
-#EXTINF:-1,Sharqiya News (Iraq)
-http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
-#EXTINF:-1,Al Mayadeen
-http://live.mdn.tv/almayadeen/smil:mayadeen.smil/chunklist.m3u8
-#EXTINF:-1,Al Jazeera
-http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/appleman.m3u8
-#EXTINF:-1,Al Jazeera Mubasher
-http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/appleman.m3u8
-#EXTINF:-1,Al Jazeera Documentary
-http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-#EXTINF:-1,Al Kass Sport 1
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
-#EXTINF:-1,Al Kass Sport 2
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
-#EXTINF:-1,Al Kass Sport 3
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
-#EXTINF:-1,Al Kass Sport 4
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
-#EXTINF:-1,Al Kass Sport 5
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
-#EXTINF:-1,Saudi 1 TV
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl2YkdFeEwzVnliRDFvZEhSd0pUTkJKVEpHSlRKR056Z3VNVEk1TGpFMU1DNHhNVEFsTTBFM01EY3hKVEpHWVhKMGRYUnRNakExTUNVeVJuTmhkV1JwTVNVeVJuQnNZWGxzYVhOMExtMHpkVGc9fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,makkah tv
-http://jmc-live.ercdn.net/makkahtv/makkahtv.m3u8
-#EXTINF:-1,Canadian Arab TV
-http://192.226.228.32:8080/hls/catv/index.m3u8
-#EXTINF:-1,Sharjah TV
-https://svs.itworkscdn.net/smc1live/smc1.smil/chunklist.m3u8
-#EXTINF:-1,Sharjah Sports
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:-1, Alsharqiya kalba
-https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
-#EXTINF:-1,Dubai TV
-http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/master.m3u8
-#EXTINF:-1,Dubai One
-http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/chunklist.m3u8
-#EXTINF:-1,Sama Dubai
-http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.smil/chunklist.m3u8
-#EXTINF:-1,Dubai Zaman
-http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist.m3u8
-#EXTINF:-1,Dubai Sports 1
-http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8
-#EXTINF:-1,Dubai Sports 2
-http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#EXTINF:-1,Dubai Sports 3
-http://dmiftvll.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
-#EXTINF:-1,Noor Dubai
-http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b725000.m3u8
-#EXTINF:-1,YAS Sports
-http://adtv.ercdn.net/adsportextra/adsportextra.m3u8
-#EXTINF:-1,Abu Dhabi TV
-http://adtv.ercdn.net/adaloula/adaloula.m3u8
-#EXTINF:-1,AD Drama
-http://adtv.ercdn.net/addrama/addrama.m3u8
-#EXTINF:-1,AD EMARAT
-http://adtv.ercdn.net/adalemarat/adalemarat.m3u8
-#EXTINF:-1,Abu Dhabi Sports 1
-http://adtv.ercdn.net/adsport1/adsport1.m3u8
-#EXTINF:-1,Abu Dhabi Sports 2 
-http://adtv.ercdn.net/adsport2/adsport2.m3u8
-#EXTINF:-1,Al Aan
-http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist.m3u8
-#EXTINF:-1,Fox Movies
-http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1,Fox Action Movies
-https://hls.heberg.fr/frv2/starmoviesae.m3u8
-#EXTINF:-1,National Geographic
-http://adtv.ercdn.net/adnatgeo/adnatgeo.m3u8
-#EXTINF:-1,Al Sharqiya
-http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
-#EXTINF:-1,mtv lebanon
-https://svs.itworkscdn.net/mtvlebanonlive/smil:mtvlive.smil/chunklist.m3u8
-#EXTINF:-1,otv lebanon
-https://svs.itworkscdn.net/otvlebanonlive/otv.smil/chunklist_t64TFE=.m3u8
-#EXTINF:-1,nbnlive
-https://cllive.itworkscdn.net/nbnlive/token=nva=1548976701~dirs=1~hash=07b0bd9153fa7f7057bd7/nbnhd/chunklist.m3u8
-#EXTINF:-1,teleliban
-http://185.27.116.54:8081/livestream/teleliban/chunks.m3u8
-#EXTINF:-1,alfajer tv
-http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/chunks.m3u8
-#EXTINF:-1, القناة الاولى - KTV 1
-https://svs.itworkscdn.net/ktv1live/ktv1.smil/chunklist_b2400000.m3u8
-#EXTINF:-1, القناة الثانية - KTV 2https://svs.itworkscdn.net/ktv2live/ktv2.smil/chunklist_b2400000.m3u8
-https://svs.itworkscdn.net/ktv2live/ktv2.smil/chunklist_b2400000.m3u8
-#EXTINF:-1, القناة الثالثة الرياضية - KTV Sport
-https://svs.itworkscdn.net/ktvsportslive/smil:ksports.smil/chunklist.m3u8
-#EXTINF:-1, قناة اثراء - KTV Ethraa
-https://svs.itworkscdn.net/ktvethraalive/smil:kethraa.smil/chunklist.m3u8
-#EXTINF:-1, قناة العربي - KTV Arabe
-https://svs.itworkscdn.net/ktvarabelive/smil:karabe.smil/chunklist.m3u8
-#EXTINF:-1, قناة القرين - Al Qurain
-https://svs.itworkscdn.net/ktvpluslive/smil:kplus.smil/chunklist.m3u8
-#EXTINF:-1, KTV kids
-https://svs.itworkscdn.net/ktvsportspluslive/smil:ksportsplus.smil/playlist.m3u8
-#EXTINF:-1, قناة المجلس - KTV Al Majlis
-https://svs.itworkscdn.net/ktvalmajlislive/smil:kalmajlis.smil/playlist.m3u8
-#EXTINF:-1, Alresalah tv - قناة الرسالة
-http://199.167.151.237:1935/live/nsahs19_28.stream/playlist.m3u8
-#EXTINF:-1, alafasy
-http://www.elahmad.com/tv/swf/playlist.php?id=alafasy_kw
-#EXTINF:-1, OMAN TV
-http://38.96.148.35:1935/live/omantv01/playlist.m3u8
-#EXTINF:-1, oman tv sport
-http://38.96.148.35:1935/live/omantv02/playlist.m3u8
-#EXTINF:-1, oman TV Mobashir
-http://38.96.148.35:1935/live/omantv03/chunklist.m3u8
-#EXTINF:-1, Oman Tv Cultural
-http://38.96.148.35:1935/live/omantv04/chunklist.m3u8
-#EXTINF:-1, JORDAN TV
-http://stream.joinvisions.net:1935/jorlive/jrtv/playlist.m3u8?DVR
-#EXTINF:-1, JORDAN SPORT
-http://stream.joinvisions.net:1935/jorlive/sport/playlist.m3u8?DVR
-#EXTINF:-1, 
+#EXTINF:-1 tvg-logo="", beIN SPORTS 1 FULL HD
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNHaHZjM1E2THk4a2FIUjBjQzF5WVhjOWFIUjBjRG92TDJ4dlkyRnNhRzl6ZEM5aGJHSmliM2d6TXlSb2RIUndMWEpsWm1abGNtVnlQV2gwZEhBNkx5OHhOak11TVRjeUxqTTVMakUzTlRvNE1EZ3hMMnhwZG1VdlFrVkpUbE5RVDFKVU1TOXdiR0Y1YkdsemRDNXRNM1U0fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-logo="", beIN SPORTS 2 FULL HD
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNHaHZjM1E2THk4a2FIUjBjQzF5WVhjOWFIUjBjRG92TDJ4dlkyRnNhRzl6ZEM5aGJHSmliM2d6TXlSb2RIUndMWEpsWm1abGNtVnlQV2gwZEhBNkx5OHhOak11TVRjeUxqTTVMakUzTlRvNE1EZ3hMMnhwZG1VdlFrVkpUbE5RVDFKVU1pOXdiR0Y1YkdsemRDNXRNM1U0fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-logo="", beIN SPORTS 3 FULL HD
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl6ZDJsbWRIazJMM1Z5YkQxb2RIUndKVE5CSlRKR0pUSkdNVGcxTGpZekxqSTFOQzR4TlRNbE0wRXhNakF3SlRKR2MzQnZjblJ6TWpBeU1DVXlSbUpsYVc0emMyUWxNa1p3YkdGNWJHbHpkQzV0TTNVNHxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-logo="", beIN SPORTS 4 FULL HD
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNHaHZjM1E2THk4a2FIUjBjQzF5WVhjOWFIUjBjRG92TDJ4dlkyRnNhRzl6ZEM5aGJHSmliM2d6TXlSb2RIUndMWEpsWm1abGNtVnlQV2gwZEhBNkx5OHhOak11TVRjeUxqTTVMakUzTlRvNE1EZ3hMMnhwZG1VdlFrVkpUbE5RVDFKVU5DOXdiR0Y1YkdsemRDNXRNM1U0fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-logo="", beIN SPORTS 5 FULL HD
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNHaHZjM1E2THk4a2FIUjBjQzF5WVhjOWFIUjBjRG92TDJ4dlkyRnNhRzl6ZEM5aGJHSmliM2d6TXlSb2RIUndMWEpsWm1abGNtVnlQV2gwZEhBNkx5OHhOak11TVRjeUxqTTVMakUzTlRvNE1EZ3hMMnhwZG1VdlFrVkpUbE5RVDFKVU5TOXdiR0Y1YkdsemRDNXRNM1U0fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-logo="", beIN SPORTS 6 FULL HD
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNHaHZjM1E2THk4a2FIUjBjQzF5WVhjOWFIUjBjRG92TDJ4dlkyRnNhRzl6ZEM5aGJHSmliM2d6TXlSb2RIUndMWEpsWm1abGNtVnlQV2gwZEhBNkx5OHhOak11TVRjeUxqTTVMakUzTlRvNE1EZ3hMMnhwZG1VdlFrVkpUbE5RVDFKVU5pOXdiR0Y1YkdsemRDNXRNM1U0fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-logo="", beIN SPORTS 7 FULL HD
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNHaHZjM1E2THk4a2FIUjBjQzF5WVhjOWFIUjBjRG92TDJ4dlkyRnNhRzl6ZEM5aGJHSmliM2d6TXlSb2RIUndMWEpsWm1abGNtVnlQV2gwZEhBNkx5OHhOak11TVRjeUxqTTVMakUzTlRvNE1EZ3hMMnhwZG1VdlFrVkpUbE5RVDFKVU55OXdiR0Y1YkdsemRDNXRNM1U0fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-logo="", beIN SPORTS 8 FULL HD
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNHaHZjM1E2THk4a2FIUjBjQzF5WVhjOWFIUjBjRG92TDJ4dlkyRnNhRzl6ZEM5aGJHSmliM2d6TXlSb2RIUndMWEpsWm1abGNtVnlQV2gwZEhBNkx5OHhOak11TVRjeUxqTTVMakUzTlRvNE1EZ3hMMnhwZG1VdlFrVkpUbE5RVDFKVU9DOXdiR0Y1YkdsemRDNXRNM1U0fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-logo="", beIN SPORTS 9 FULL HD
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNHaHZjM1E2THk4a2FIUjBjQzF5WVhjOWFIUjBjRG92TDJ4dlkyRnNhRzl6ZEM5aGJHSmliM2d6TXlSb2RIUndMWEpsWm1abGNtVnlQV2gwZEhBNkx5OHhOak11TVRjeUxqTTVMakUzTlRvNE1EZ3hMMnhwZG1VdlFrVkpUbE5RVDFKVU9TOXdiR0Y1YkdsemRDNXRNM1U0fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-logo="", beIN SPORTS 10 FULL HD
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNHaHZjM1E2THk4a2FIUjBjQzF5WVhjOWFIUjBjRG92TDJ4dlkyRnNhRzl6ZEM5aGJHSmliM2d6TXlSb2RIUndMWEpsWm1abGNtVnlQV2gwZEhBNkx5OHhOak11TVRjeUxqTTVMakUzTlRvNE1EZ3hMMnhwZG1VdlFrVkpUbE5RVDFKVU1UQXZjR3hoZVd4cGMzUXViVE4xT0E9PXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
+#EXhttphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNHaHZjM1E2THk4a2FIUjBjQzF5WVhjOWFIUjBjRG92TDJ4dlkyRnNhRzl6ZEM5aGJHSmliM2d6TXlSb2RIUndMWEpsWm1abGNtVnlQV2gwZEhBNkx5OHhOak11TVRjeUxqTTVMakUzTlRvNE1EZ3hMMnhwZG1VdlFrVkpUbE5RVDFKVU1UQXZjR3hoZVd4cGMzUXViVE4xT0E9PXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.comTINF:-1 tvg-logo="", BEIN SPORT 1 
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwduSgiAAANAPapz1giAPPbCgljmK5Kb2stNUFjaWUlIxfXznkINuWX6NbkXnQ7%2bKTy4acwVjufoj08Zz1zbfUzkTWWwWvMENp0iSjDldgiQrdT%2bOuSz2StzTfnm4TCXvV%2bX93BgkvKCdxM3J5CPU%2bZbnTrcUowaDR4V51qms6UY5g8BDAYssdlkebuNXp48o3qe4Wd05ZLU2F1FVyTOAtXOMkhkgE1nfmkRV2JDzTyXrzyNk70EuanvH1v%2fZ2fv4yKXU9TwLRSSwAAK2hSEAlu1DjJgf%2fgJsf3r%2fNSjVXqNTOTsY9bZbTHdkPv8C0lQDbA8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-logo="", BEIN SPORT 1
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwduSgiAAANAPapz1giAPPbCgljmK5Kb2stNUFjaWUlIxfXznkINuWX6NbkXnQ7%2bKTy4acwVjufoj08Zz1zbfUzkTWWwWvMENp0iSjDldgiQrdT%2bOuSz2StzTfnm4TCXvV%2bX93BgkvKCdxM3J5CPU%2bZbnTrcUowaDR4V51qms6UY5g8BDAYssdlkebuNXp48o3qe4Wd05ZLU2F1FVyTOAtXOMkhkgE1nfmkRV2JDzTyXrzyNk70EuanvH1v%2fZ2fv4yKXU9TwLRSSwAAK2hSEAlu1DjJgf%2fgJsf3r%2fNSjVXqNTOTsY9bZbTHdkPv8C0lQDbA8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-logo="", BEIN SPORT 2
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwcuWQzAAANAPchxGE2HRBaGeLaXUzK7ooCPxiLTq9OPn3nIII2FyF2GJVD%2bZYuSXqKCFoTpwMBnw8Lkb1%2bxLpRNr1PWOt5GeH6kX52MeG92TSWPGE1q%2fH1rirEfqbDYv89S15W27EPiCrNIrp8f3I%2bbPl2weMo6yufaAXmcc9i2waCqEjcZH%2b2URduuixq1O201yTnyIlJQliUT6a9v%2bzLqxfANYvIdA0QiYFuZreZB%2f%2bkWcS9EiyvRnkoaPH4gUjJXdTkQHQxMBArKoqwCIMlR1ZEHbBLr8SVkQmsVlV2qEWrnv%2fb6363De7%2f8BlpKEVg8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-logo="", BEIN SPORT 3
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwV3XQjAAAOBf5PjazC660EgHr6yY5q50lLJoSBw%2f%2fn2e28epyCwBmVJm9bCOaJoGXsL%2fUKkTn6KgqPNn9h6sqO0fxbKcMwmFEZs6bqolHu9%2b%2bGbf6rpnZ6l23wszD7M06zKjj8AzLF4eRUKl8MeO4KM1X6fcFUvI%2b%2fhoN%2bw1gGqKn4dxd2j1EZdq7C6PBPIQB56oTnX9MhInmn%2f2hYtSW65hIZvvm26RGp4ix2E%2bDro1cgikGffuSO6V331YITIIMUxTQTvHVgACmoItABQNWhi50NsCrK05qyJ0y7htfKZWSKoHDfpMm80%2fHScDUw8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-logo="", BEIN SPORT 4
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwduSQzAAANAP6piGCPHQBxSl3Up1qfRlh7o0Vew2gzA%2bfs85Ta%2fYU4KSV5slYjxvUvaXRS48BM7dOvRfZcO0l9v9grll5J7Rcua9Mb%2fbmQDSPWQc03Ls68fdt%2f1iTFJ8so4N%2bAxi43%2bGLJThdAsKZxG5byWOBomep%2bWZiwgfQpG7XsgHj3E53G61qbdNxsxgeTZoFAv5prSPTdJqEdpQCutxuLhNLzogK7Ufd0d%2byS4gQWuF0x9oXTtcu4pISLEiXbFtBUJJd00sqboKJENTVQkgzdD3yLFUA6x2NoZe9aTVG53LYb5do3CvTrvdP6gJc6gPAQAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-logo="", BEIN SPORT 5
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwd1yQ0AYANAHMiYbPpaLXKzfri1JETW56ViWaBA0GWLy8D2HIbaEz56QYW9dzzFvXWpoSzAlZ7HbSnN1j3fUfO6MyN7TTNMH2qR%2bBLEEAy6c5qoGyomRPGRM%2be0HnmHv7LEoVBG%2fpKuHaQ%2f%2b0HrxnYyBhPPFiMAvfGZRUU9PdDPoSJKpm04jDYze9i9%2fj3B%2bMiJ6VKAV20en%2ftah%2fajEK4wykT4q3m45K2ez6WDN83gS7y9r%2b4EbrqyTMnvjfXtrWLFtRVVl7BFDBgxINnUAGWm6iR3NtcBEb6dVeXPkPJmFlF1qCmXnBM3h8A%2f26bF%2bDwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-logo="", BEIN SPORT 6
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwclygjAAANAPchgjWTAHD%2bzYsMlACd6UpRaFCAXUDB%2ff9%2bC37OooPXbi2h3j2i2jURePa4TjO7WTwODLs8eXUTsZqtiR6vw1kWTz9tGMZreqtqfpxXCR%2f%2bC4dcgF53vieAYbX7Jv53zDhc3rYRa3c3ItXN%2fqPXdIAUayqdJEfAI26cu%2bpO1fQPVF9g6fMmre7awY6q1ayt8eDqlXRHXMo7s0WOIV4CGf4EEajfNw3rF4XklnseYtTH8BZsY6vGJNNU0VQkVz9L2CNAQUShBSACZUs7BtIArWBd7ayCku0Nf7MIdhLcNp9zoc%2fgFFHyzhDwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
 
-#EXTINF:-1, 
 
-#EXTINF:-1, 
-
-#EXTINF:-1, 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color green]SERVER 3 -ARABIC TV - TV FABOR APK[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
