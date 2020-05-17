@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:0,=======> France <=======
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/529.m3u8$http-refferer=http://localhost
-#EXTINF:0,FR: Cartoon Network HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/520.m3u8$http-refferer=http://localhost
+https://www.dropbox.com/s/riqptykps84lqeu/France.m3u?dl=1
+#EXTINF:0,FR: IPTV 2
+https://freedailyiptv.com/countries/FR/FR_freedailyiptv.com.m3u8
 #EXTINF:0,FR: Discovery Science HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/519.m3u8$http-refferer=http://localhost
 #EXTINF:0,FR: Disney Jr Fr
