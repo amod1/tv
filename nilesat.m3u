@@ -4,11 +4,6 @@ httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color green]beIN SPORTS - TV FABOR APK[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="", BEIN SPORT 1
-httphost://$http-raw=https://www.janjua.tv/hembedplayer/stekks11s/1/940/600$http-refferer=https://kora-live.tv/iframe/bein1/bein1.html
-#EXTINF:-1 tvg-logo="", BEIN SPORT 1
-httphost://$http-raw=https://www.liveflashplayer.org/hembedplayer/stekks11s/1/940/600$http-refferer=https://kora-live.tv
-
 
 #EXTINF:-1 tvg-logo="http://51.15.209.90:8800/data/img/files/50740_bein1.jpg", BEIN 1 Sports
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl5WldSaWIzZ3ZkWEpzUFdoMGRIQWxNMEVsTWtZbE1rWnpjR1ZqYVdGc2JHbDJaUzVvYW10dExtbHVabThsTTBFeE16STVNaVV5Um0xbGNtTjFjbmtsTWtaaVpXbHVjM0J2Y25Sek1TVXlSbkJzWVhsc2FYTjBMbTB6ZFRnPXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
