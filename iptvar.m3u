@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]Choose a file IPTV[/color]
+httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0 tvg-logo="https://cdn3.iconfinder.com/data/icons/finalflags/256/Saudi-Arabia-Flag.png",ARAB: M3U List 1
+https://dailym3uiptv.com/m3u/AR-1-dailym3uiptv-com.m3u
+#EXTINF:0 tvg-logo="https://cdn3.iconfinder.com/data/icons/finalflags/256/Saudi-Arabia-Flag.png",ARAB: M3U List 2
+https://dailym3uiptv.com/m3u/AR-2-dailym3uiptv-com.m3u
+#EXTINF:0 tvg-logo="https://cdn3.iconfinder.com/data/icons/finalflags/256/Saudi-Arabia-Flag.png",ARAB: M3U List 3
+https://dailym3uiptv.com/m3u/AR-3-dailym3uiptv-com.m3u
+#EXTINF:0 tvg-logo="https://cdn3.iconfinder.com/data/icons/finalflags/256/Saudi-Arabia-Flag.png",ARAB: M3U List 4
+https://dailym3uiptv.com/m3u/AR-4-dailym3uiptv-com.m3u
+#EXTINF:0 tvg-logo="https://cdn3.iconfinder.com/data/icons/finalflags/256/Saudi-Arabia-Flag.png",ARAB: M3U List 5
+https://dailym3uiptv.com/m3u/AR-5-dailym3uiptv-com.m3u
+#EXTINF:0 tvg-logo="https://cdn3.iconfinder.com/data/icons/finalflags/256/Saudi-Arabia-Flag.png",ARAB: M3U List 6
+https://freedailyiptv.com/countries/AR/AR_freedailyiptv.com.m3u
+#EXTINF:0 tvg-logo="https://cdn3.iconfinder.com/data/icons/finalflags/256/Saudi-Arabia-Flag.png",ARAB: M3U List 7
+https://freedailyiptv.com/countries/AR/AR2_freedailyiptv.com.m3u
+#EXTINF:0 tvg-logo="https://cdn3.iconfinder.com/data/icons/finalflags/256/Saudi-Arabia-Flag.png",ARAB: M3U List 8
+https://freedailyiptv.com/countries/AR/AR3_freedailyiptv.com.m3u
+#EXTINF:0 tvg-logo="https://cdn3.iconfinder.com/data/icons/finalflags/256/Saudi-Arabia-Flag.png",ARAB: M3U List 9
+https://freedailyiptv.com/countries/AR/AR4_freedailyiptv.com.m3u
