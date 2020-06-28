@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]Choose a file IPTV[/color]
+httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/256x256/2015/09/09/98470_flag_512x512.png",FRANCE: M3U List 1
+https://dailym3uiptv.com/m3u/FR-1-dailym3uiptv-com.m3u
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/256x256/2015/09/09/98470_flag_512x512.png",FRANCE: M3U List 2
+https://dailym3uiptv.com/m3u/FR-2-dailym3uiptv-com.m3u
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/256x256/2015/09/09/98470_flag_512x512.png",FRANCE: M3U List 3
+https://dailym3uiptv.com/m3u/FR-3-dailym3uiptv-com.m3u
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/256x256/2015/09/09/98470_flag_512x512.png",FRANCE: M3U List 4
+https://dailym3uiptv.com/m3u/FR-4-dailym3uiptv-com.m3u
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/256x256/2015/09/09/98470_flag_512x512.png",FRANCE: M3U List 5
+https://dailym3uiptv.com/m3u/FR-5-dailym3uiptv-com.m3u
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/256x256/2015/09/09/98470_flag_512x512.png",FRANCE: M3U List 6
+https://freedailyiptv.com/countries/FR/FR_freedailyiptv.com.m3u
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/256x256/2015/09/09/98470_flag_512x512.png",FRANCE: M3U List 7
+https://freedailyiptv.com/countries/FR/FR2_freedailyiptv.com.m3u
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/256x256/2015/09/09/98470_flag_512x512.png",FRANCE: M3U List 8
+https://freedailyiptv.com/countries/FR/FR3_freedailyiptv.com.m3u
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/256x256/2015/09/09/98470_flag_512x512.png",FRANCE: M3U List 9
+https://freedailyiptv.com/countries/FR/FR4_freedailyiptv.com.m3u
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/256x256/2015/09/09/98470_flag_512x512.png",FRANCE: M3U List 10
+https://freedailyiptv.com/countries/FR/FR5_freedailyiptv.com.m3u
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/256x256/2015/09/09/98470_flag_512x512.png",FRANCE: M3U List 11
+https://freedailyiptv.com/countries/FR/FR6_freedailyiptv.com.m3u
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/256x256/2015/09/09/98470_flag_512x512.png",FRANCE: M3U List 12
+https://freedailyiptv.com/countries/FR/FR7_freedailyiptv.com.m3u
