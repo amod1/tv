@@ -25,3 +25,12 @@ https://freedailyiptv.com/countries/FR/FR5_freedailyiptv.com.m3u
 https://freedailyiptv.com/countries/FR/FR6_freedailyiptv.com.m3u
 #EXTINF:0 tvg-logo="https://www.shareicon.net/data/256x256/2015/09/09/98470_flag_512x512.png",FRANCE: M3U List 12
 https://freedailyiptv.com/countries/FR/FR7_freedailyiptv.com.m3u
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/256x256/2015/09/09/98470_flag_512x512.png",FRANCE: M3U List 13
+https://www.dropbox.com/s/riqptykps84lqeu/France.m3u?dl=1    
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/256x256/2015/09/09/98470_flag_512x512.png",FRANCE: M3U List 14
+https://www.dropbox.com/s/jlihp4pj0ky4vwd/Canalsat.m3u?dl=1
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/256x256/2015/09/09/98470_flag_512x512.png",FRANCE: M3U List 15
+https://www.dropbox.com/s/sydb43pjj8mz9m6/Dropbox.m3u?dl=1
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/256x256/2015/09/09/98470_flag_512x512.png",FRANCE: M3U List 16 MUSIC
+https://iptv-org.github.io/iptv/categories/music.m3u
+
