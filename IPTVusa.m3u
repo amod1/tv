@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]Choose a file IPTV[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0,USA: M3U List 1
+#EXTINF:0 tvg-logo="https://www.iconninja.com/files/151/76/845/us-icon.png",USA: M3U List 1
 https://dailym3uiptv.com/m3u/US-1-dailym3uiptv-com.m3u
 #EXTINF:0,USA: M3U List 2
 https://dailym3uiptv.com/m3u/US-2-dailym3uiptv-com.m3u
