@@ -9,7 +9,9 @@ httphost://$http-raw=https://wstream.to/embed/s7yzor7$http-refferer=http://cspor
 #EXTINF:-1 tvg-logo="jpg", RMC SPORT 1
 httphost://$http-raw=https://wstream.to/embed/n19o7$http-refferer=http://csport.xyz/t/4/4.php
 #EXTINF:-1 tvg-logo="jpg", RMC SPORT 2
-httphost://$http-raw=https://wstream.to/embed/8x8zgyxoh$http-refferer=http://csport.xyz/t/1/9.php
+httphost://$http-raw=https://wstream.to/embed/8x8zgyxoh$http-refferer=http://csport.xyz/t/2/9.php
+#EXTINF:-1 tvg-logo="jpg", RMC SPORT 3
+httphost://$http-raw=http://xyzembed379.net/embed/5d53qtzrakxss$http-refferer=http://csport.xyz/t/2/19.php
 #EXTINF:-1 tvg-logo="jpg", beIN SPORT 1
 httphost://$http-raw=https://wstream.to/embed/w0wdoebm$http-refferer=http://csport.xyz/t/1/1.php
 #EXTINF:-1 tvg-logo="jpg", beIN SPORT 2
@@ -17,27 +19,27 @@ httphost://$http-raw=https://wstream.to/embed/m0lifppmbm$http-refferer=http://cs
 #EXTINF:-1 tvg-logo="jpg", beIN SPORT 3
 httphost://$http-raw=https://wstream.to/embed/lur8dg$http-refferer=http://csport.xyz/t/1/3.php
 #EXTINF:-1 tvg-logo="jpg", beIN SPORT 4
-httphost://$http-raw=https://wstream.to/embed/kfqwzi3lf$http-refferer=http://csport.xyz/t/4/18.php
+httphost://$http-raw=https://wstream.to/embed/kfqwzi3lf$http-refferer=http://csport.xyz/t/4/10.php
 #EXTINF:-1 tvg-logo="jpg", beIN SPORT 5
-httphost://$http-raw=https://wstream.to/embed/dl646izhy1rl$http-refferer=http://csport.xyz/t/4/18.php
+httphost://$http-raw=https://wstream.to/embed/dl646izhy1rl$http-refferer=http://csport.xyz/t/4/11.php
 #EXTINF:-1 tvg-logo="jpg", beIN SPORT 6
-httphost://$http-raw=https://wstream.to/embed/y9bz6ebol7dvvfe$http-refferer=http://csport.xyz/t/4/18.php
+httphost://$http-raw=https://wstream.to/embed/y9bz6ebol7dvvfe$http-refferer=http://csport.xyz/t/4/12.php
 #EXTINF:-1 tvg-logo="jpg", beIN SPORT 7
-httphost://$http-raw=https://wstream.to/embed/rwv3d786ikyk8w3$http-refferer=http://csport.xyz/t/4/18.php
+httphost://$http-raw=https://wstream.to/embed/rwv3d786ikyk8w3$http-refferer=http://csport.xyz/t/4/13.php
 #EXTINF:-1 tvg-logo="jpg", beIN SPORT 8
-httphost://$http-raw=https://wstream.to/embed/lw37xlh2b3rz3ra$http-refferer=http://csport.xyz/t/4/18.php
+httphost://$http-raw=https://wstream.to/embed/lw37xlh2b3rz3ra$http-refferer=http://csport.xyz/t/4/14.php
 #EXTINF:-1 tvg-logo="jpg", beIN SPORT 9
-httphost://$http-raw=https://wstream.to/embed/f6xlwn$http-refferer=http://csport.xyz/t/4/18.php
+httphost://$http-raw=https://wstream.to/embed/f6xlwn$http-refferer=http://csport.xyz/t/4/15.php
 #EXTINF:-1 tvg-logo="jpg", beIN SPORT 10
-httphost://$http-raw=http://wstream.to/embed/vlvjlnl$http-refferer=http://csport.xyz/t/4/18.php
+httphost://$http-raw=http://wstream.to/embed/vlvjlnl$http-refferer=http://csport.xyz/t/4/16.php
 #EXTINF:-1 tvg-logo="jpg", CANAL+ SPORT
-httphost://$http-raw=http://wstream.to/embed/zboqfc4atym$http-refferer=http://csport.xyz/t/4/18.php
+httphost://$http-raw=http://wstream.to/embed/zboqfc4atym$http-refferer=http://csport.xyz/t/2/6.php
 #EXTINF:-1 tvg-logo="jpg", CANAL+
 httphost://$http-raw=https://wstream.to/embed/3tf2x0$http-refferer=http://csport.xyz/t/4/18.php
 #EXTINF:-1 tvg-logo="jpg", EUROSPORT 1 
-httphost://$http-raw=http://wstream.to/embed/hiss13b4dht54d0$http-refferer=http://csport.xyz/t/4/7.php
+httphost://$http-raw=http://wstream.to/embed/hiss13b4dht54d0$http-refferer=http://csport.xyz/t/2/7.php
 #EXTINF:-1 tvg-logo="jpg", EUROSPORT 2
-httphost://$http-raw=http://wstream.to/embed/axlylf1chvzdb$http-refferer=http://csport.xyz/t/4/8.php
+httphost://$http-raw=http://wstream.to/embed/axlylf1chvzdb$http-refferer=http://csport.xyz/t/2/8.php
 
 
 #EXTM3U
