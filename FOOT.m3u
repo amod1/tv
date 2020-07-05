@@ -54,7 +54,7 @@ httphost://$http-raw=https://telerium.tv/embed/35238.html$http-refferer=https://
 #EXTINF:0, FOX Sports1
 httphost://$http-raw=https://wstream.to/embed/rqr2ckrf5a41$http-refferer=http://hindimean.com/freestreams/fs1.php
 #EXTINF:0, FOX Sports2
-httphost://$http-raw=https://wstream.to/embed/yywfjanjdw7$http-refferer=http://hindimean.com/freestreams/fs2.php
+httphost://$http-raw=https://wstream.to/embed/yywfjanjdw7$http-refferer=http://hindimean.com/freestreams/fs1.php
 #EXTINF:0, SKY Sports1 DE
 httphost://$http-raw=https://telerium.tv/embed/63691.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
 #EXTINF:0, SKY Sports2 DE
