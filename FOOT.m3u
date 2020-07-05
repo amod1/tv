@@ -44,7 +44,7 @@ httphost://$http-raw=https://telerium.tv/embed/53659.html$http-refferer=https://
 #EXTINF:0, Bein Sports2 AR
 httphost://$http-raw=http://telerium.tv/embed/53636.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
 #EXTINF:0, Bein Sports3 AR
-httphost://$http-raw=https://www.janjua.tv/hembedplayer/beinsportsh3bdhn/1/600/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports3
+httphost://$http-raw=http://www.janjua.tv/hembedplayer/beinsportsh3bdhn/1/600/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports3
 #EXTINF:0, RMC Sports1
 httphost://$http-raw=https://telerium.tv/embed/56900.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
 #EXTINF:0, RMC Sports2
