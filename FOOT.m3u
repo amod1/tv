@@ -45,7 +45,19 @@ httphost://$http-raw=https://telerium.tv/embed/53659.html$http-refferer=https://
 httphost://$http-raw=http://telerium.tv/embed/53636.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
 #EXTINF:0, Bein Sports3
 httphost://$http-raw=https://www.janjua.tv/hembedplayer/beinsportsh3bdhn/1/600/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
-#EXTINF:0, RMC Sports2
+#EXTINF:0, RMC Sports1
 httphost://$http-raw=https://telerium.tv/embed/56900.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
 #EXTINF:0, RMC Sports2
+httphost://$http-raw=https://telerium.tv/embed/56827.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0, RMC Sports3
+httphost://$http-raw=https://telerium.tv/embed/35238.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0, FOX Sports1
 httphost://$http-raw=https://wstream.to/embed/rqr2ckrf5a41$http-refferer=http://hindimean.com/freestreams/fs1.php
+#EXTINF:0, FOX Sports2
+httphost://$https://wstream.to/embed/yywfjanjdw7$http-refferer=http://hindimean.com/freestreams/fs2.php
+#EXTINF:0, SKY Sports1 DE
+httphost://$http-raw=https://telerium.tv/embed/63691.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0, SKY Sports2 DE
+httphost://$http-raw=https://wstream.to/embed/cg2hrchp$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0, CANAL+ SPORT POLAND
+httphost://$http-raw=https://wstream.to/embed/k8faa$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
