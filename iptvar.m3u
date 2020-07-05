@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]Choose a file IPTV[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0 tvg-logo="https://cdn3.iconfinder.com/data/icons/finalflags/256/Saudi-Arabia-Flag.png",ARAB: PREMIUM
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/uwAAAB%2bLCAAAAAAABAAFwd0WQjAAAOAHchzWZnThAv2tcIrSqbvZKKtFodjx8H3fb1iFKmBEs2z8jiv13je%2fUqj6vkk0Asgthv1ZazlhpzJv00%2bRN9l30%2bZb4dVIXpLr8sHywGrOfpFRsVR%2bGFqROLju9KrGY7EIUlPeBXNAPXFsQopsphcczXUEOdUdZkKdAduhAJcMYjTZhhzljmRZ02nGeuA%2bj6rn0D3GmJ46JeUlBWCWGL2HI%2fcPSA4oebsAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0 tvg-logo="https://cdn3.iconfinder.com/data/icons/finalflags/256/Saudi-Arabia-Flag.png",ARAB: M3U List 1
 https://dailym3uiptv.com/m3u/AR-1-dailym3uiptv-com.m3u
 #EXTINF:0 tvg-logo="https://cdn3.iconfinder.com/data/icons/finalflags/256/Saudi-Arabia-Flag.png",ARAB: M3U List 2
