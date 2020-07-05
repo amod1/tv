@@ -39,12 +39,12 @@ httphost://$http-raw=https://wstream.to/embed/akfmyi$http-refferer=https://sport
 httphost://$http-raw=https://wstream.to/embed/jg3eg8t$http-refferer=https://sportzonline.to/
 #EXTINF:0, BRAZILIAN Football 3
 httphost://$http-raw=https://wstream.to/embed/t78tc195vja$http-refferer=https://sportzonline.to/
-#EXTINF:0, Bein Sports1
+#EXTINF:0, Bein Sports1 AR
 httphost://$http-raw=https://telerium.tv/embed/53659.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
-#EXTINF:0, Bein Sports2
+#EXTINF:0, Bein Sports2 AR
 httphost://$http-raw=http://telerium.tv/embed/53636.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
-#EXTINF:0, Bein Sports3
-httphost://$http-raw=https://www.janjua.tv/hembedplayer/beinsportsh3bdhn/1/600/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0, Bein Sports3 AR
+httphost://$http-raw=https://kora-live.tv/iframe/embeds/bein3.php$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
 #EXTINF:0, RMC Sports1
 httphost://$http-raw=https://telerium.tv/embed/56900.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
 #EXTINF:0, RMC Sports2
@@ -55,9 +55,9 @@ httphost://$http-raw=https://telerium.tv/embed/35238.html$http-refferer=https://
 httphost://$http-raw=https://wstream.to/embed/rqr2ckrf5a41$http-refferer=http://hindimean.com/freestreams/fs1.php
 #EXTINF:0, FOX Sports2
 httphost://$http-raw=https://wstream.to/embed/yywfjanjdw7$http-refferer=http://hindimean.com/freestreams/fs1.php
-#EXTINF:0, SKY Sports1 DE
-httphost://$http-raw=https://telerium.tv/embed/63691.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0, BEIN Sports1 FR
+httphost://$http-raw=https://telerium.tv/embed/55048.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
 #EXTINF:0, BEIN Sports2 FR
 httphost://$http-raw=https://telerium.tv/embed/34836.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
-#EXTINF:0, FOOTBALL 9
-httphost://$http-raw=http://www.ovostreams.com/1.php$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0, BEIN Sports3 FR
+httphost://$http-raw=https://telerium.tv/embed/44641.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
