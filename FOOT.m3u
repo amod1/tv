@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", SERVER 1 [color green]UK TV - TV FABOR APK[/color]
+httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0, FOOTBALL 1 
+httphost://$http-raw=https://wstream.to/embed/waqq3o4$http-refferer=https://sportzonline.to/channels/hd/hd1.php
+#EXTINF:0, FOOTBALL 2
+httphost://$http-raw=https://wstream.to/embed/r4x6s9zcdf74tv$http-refferer=https://sportzonline.to/channels/hd/hd2.php
+#EXTINF:0, FOOTBALL 3
+httphost://$http-raw=https://wstream.to/embed/cg2hrchp$http-refferer=https://sportzonline.to/channels/hd/hd3.php
+#EXTINF:0, FOOTBALL 4
+httphost://$http-raw=https://wstream.to/embed/8x5kyd2dh4y$http-refferer=https://sportzonline.to/channels/hd/hd4.php
+#EXTINF:0, FOOTBALL 5
+httphost://$http-raw=https://wstream.to/embed/yu3w26c9imgo814$http-refferer=https://sportzonline.to/channels/hd/hd5.php
+#EXTINF:0, FOOTBALL 6
+httphost://$http-raw=https://wstream.to/embed/55ught5e$http-refferer=https://sportzonline.to/channels/hd/hd6.php
+#EXTINF:0, FOOTBALL 7
+httphost://$http-raw=https://wstream.to/embed/o1n49qeq$http-refferer=https://sportzonline.to/channels/hd/hd7.php
+#EXTINF:0, FOOTBALL 8
+httphost://$http-raw=https://wstream.to/embed/lv2dn79af5e$http-refferer=https://sportzonline.to/channels/hd/hd8.php
+#EXTINF:0, PORTUGUESE SPORT TV 1
+httphost://$http-raw=https://wstream.to/embed/cyqomyts14egn$http-refferer=https://sportzonline.to/
+#EXTINF:0, PORTUGUESE SPORT TV 2
+httphost://$http-raw=https://wstream.to/embed/cyqomyts14egn$http-refferer=https://sportzonline.to/
+#EXTINF:0, PORTUGUESE SPORT TV 3
+httphost://$http-raw=https://wstream.to/embed/cyqomyts14egn$http-refferer=https://sportzonline.to/
+#EXTINF:0, PORTUGUESE SPORT TV 4
+httphost://$http-raw=https://wstream.to/embed/cyqomyts14egn$http-refferer=https://sportzonline.to/
+#EXTINF:0, PORTUGUESE SPORT TV 5
+httphost://$http-raw=https://wstream.to/embed/cyqomyts14egn$http-refferer=https://sportzonline.to/
