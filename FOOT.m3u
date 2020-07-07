@@ -69,5 +69,3 @@ httphost://$http-raw=https://telerium.tv/embed/64790.html$http-refferer=https://
 httphost://$http-raw=https://telerium.tv/embed/29389.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
 #EXTINF:0, Infosport +
 httphost://$http-raw=https://telerium.tv/embed/34843.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
-#EXTINF:0, Infosport +
-httphost://$http-raw=https://korahome.info/ch1.php$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
