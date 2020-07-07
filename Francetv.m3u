@@ -1,7 +1,43 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]FRANCE TV - TV FABOR APK[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTM3U
+#EXTINF:-1 tvg-logo="https://channelstream.me/images/prog/tv.png", [color red]Chaîne Sportive[/color]
+httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/rmcsport_1.png", RMC Sports1
+httphost://$http-raw=https://telerium.tv/embed/56900.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/rmcsport_2.png", RMC Sports2
+httphost://$http-raw=https://telerium.tv/embed/56827.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/rmcsport_3.png", RMC Sports3
+httphost://$http-raw=https://telerium.tv/embed/35238.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/bein_1.png", BEIN Sports1 FR
+httphost://$http-raw=https://telerium.tv/embed/55048.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/bein_2.png", BEIN Sports2 FR
+httphost://$http-raw=https://telerium.tv/embed/34836.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/bein_3.png", BEIN Sports3 FR
+httphost://$http-raw=https://telerium.tv/embed/44641.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/foot_plus.png", Foot +
+httphost://$http-raw=https://telerium.tv/embed/29389.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/infosport.png", Infosport +
+httphost://$http-raw=https://telerium.tv/embed/34843.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/canal_sport.png", CANAL+ sport
+httphost://$http-raw=https://telerium.tv/embed/27336.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:-1 tvg-logo="https://channelstream.me/images/prog/tv.png", [color red]Chaîne consacrée aux Film/Série est animée[/color]
+httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/canal_plus.png", CANAL+ FR
+httphost://$http-raw=https://telerium.tv/embed/64790.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/canal_cinema.png",  Canal + Cinéma
+httphost://$http-raw=https://telerium.tv/embed/34839.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/canal_serie.png", Canal + Série
+httphost://$http-raw=https://telerium.tv/embed/34654.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/canal_family.png", Canal+ Family
+httphost://$http-raw=https://telerium.tv/embed/37892.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/cine_premier.png", Ciné + Premier
+httphost://$http-raw=https://telerium.tv/embed/63542.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/cine_frisson.png", Ciné + Frisson
+httphost://$http-raw=https://telerium.tv/embed/63544.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+
+
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color green]FRANCE TV - SERVER 1[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1 tvg-logo="jpg", RMC SPORT NEWS
