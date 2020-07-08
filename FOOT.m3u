@@ -68,3 +68,5 @@ httphost://$http-raw=https://telerium.tv/embed/34843.html$http-refferer=https://
 
 #EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/canal_sport.png", CANAL+ sport
 httphost://$http-raw=https://telerium.tv/embed/27336.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/canal_sport.png", CANAL+ sport
+httphost://$http-raw=https://wstream.to/embed/bz9kot4$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
