@@ -9,12 +9,50 @@ httphost://$http-raw=https://telerium.tv/embed/56900.html$http-refferer=https://
 httphost://$http-raw=https://telerium.tv/embed/56827.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
 #EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/rmcsport_3.png", RMC Sports3
 httphost://$http-raw=https://telerium.tv/embed/35238.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/rmcsport_4.png", RMC Sport 4
+httphost://$http-raw=https://telerium.tv/embed/33949.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/rmcsport_5.png", RMC Sport Live 5
+httphost://$http-raw=https://telerium.tv/embed/40049.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/rmcsport_6.png", RMC Sport Live 6
+httphost://$http-raw=https://telerium.tv/embed/40051.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/rmcsport_7.png", RMC Sport Live 7
+httphost://$http-raw=https://telerium.tv/embed/40053.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/rmcsport_8.png", RMC Sport Live 8
+httphost://$http-raw=https://telerium.tv/embed/40064.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+
 #EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/bein_1.png", BEIN Sports1 FR
 httphost://$http-raw=https://telerium.tv/embed/55048.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
 #EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/bein_2.png", BEIN Sports2 FR
 httphost://$http-raw=https://telerium.tv/embed/34836.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
 #EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/bein_3.png", BEIN Sports3 FR
 httphost://$http-raw=https://telerium.tv/embed/44641.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/bein_4.png", beIN SPORT 4
+httphost://$http-raw=https://telerium.tv/embed/52771.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/bein_5.png", beIN SPORT 5
+httphost://$http-raw=https://telerium.tv/embed/29374.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/bein_6.png", beIN SPORT 6
+httphost://$http-raw=https://telerium.tv/embed/29375.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/bein_7.png", beIN SPORT 7
+httphost://$http-raw=https://telerium.tv/embed/29376.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/bein_8.png", beIN SPORT 8
+httphost://$http-raw=https://telerium.tv/embed/29377.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/bein_9.png", beIN SPORT 9
+httphost://$http-raw=https://telerium.tv/embed/29378.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/bein_10.png", beIN SPORT 10
+httphost://$http-raw=https://telerium.tv/embed/34428.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/canal_sport_weekend.png", Canal + Sport Week-end
+httphost://$http-raw=https://telerium.tv/embed/54698.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/canal_decale.png", Canal + Décalé
+httphost://$http-raw=https://telerium.tv/embed/54698.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/golf.png", Golf +
+httphost://$http-raw=https://telerium.tv/embed/46394.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/multisport_1.png", Multisports 1
+httphost://$http-raw=https://telerium.tv/embed/40056.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/eurosport_1.png", Eurosport 1
+httphost://$http-raw=https://telerium.tv/embed/39691.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/eurosport_2.png", Eurosport 2
+httphost://$http-raw=https://telerium.tv/embed/34833.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+
 #EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/foot_plus.png", Foot +
 httphost://$http-raw=https://telerium.tv/embed/29389.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
 #EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/infosport.png", Infosport +
@@ -90,8 +128,41 @@ httphost://$http-raw=https://telerium.tv/embed/34841.html$http-refferer=https://
 httphost://$http-raw=https://telerium.tv/embed/54969.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
 #EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/crime_distric.png", Crime Distric
 httphost://$http-raw=https://telerium.tv/embed/33563.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
-#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/01net.png", 01net TV
-httphost://$http-raw=https://www.dailymotion.com/embed/video/k4HSurCuB7v2sQvwFiw$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:-1 tvg-logo="https://channelstream.me/images/prog/tv.png", [color red]Chaîne de télévision généraliste[/color]
+httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/tf1.png", TF1
+httphost://$http-raw=https://telerium.tv/embed/35001.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/france_2.png", France 2
+httphost://$http-raw=https://telerium.tv/embed/34655.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/france_3.png", France 3
+httphost://$http-raw=https://telerium.tv/embed/39689.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/france_5.png", France 5
+httphost://$http-raw=https://telerium.tv/embed/56806.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/m6.png", M6
+httphost://$http-raw=https://telerium.tv/embed/34175.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/w9.png", W9
+httphost://$http-raw=https://telerium.tv/embed/34761.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/tmc.png", TMC
+httphost://$http-raw=https://telerium.tv/embed/63817.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/tfx.png", TFX
+httphost://$http-raw=https://telerium.tv/embed/34715.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/nrj12.png", NRJ 12
+httphost://$http-raw=https://telerium.tv/embed/63523.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/arte.png", Arte
+httphost://$http-raw=https://telerium.tv/embed/63821.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/rts_un.png", RTS Un
+httphost://$http-raw=https://telerium.tv/embed/63815.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/rts_deux.png", RTS Deux
+httphost://$http-raw=https://telerium.tv/embed/63816.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/la_une.png", La Une
+httphost://$http-raw=https://telerium.tv/embed/63818.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/la_deux.png", La Deux
+httphost://$http-raw=https://telerium.tv/embed/63819.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/la_trois.png", La Trois
+httphost://$http-raw=https://telerium.tv/embed/63820.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/ab1.png", AB1
+httphost://$http-raw=https://telerium.tv/embed/34849.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+
 
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color green]FRANCE TV - SERVER 1[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
