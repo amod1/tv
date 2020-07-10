@@ -4,26 +4,4 @@ httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0 tvg-logo="https://www.iconninja.com/files/151/76/845/us-icon.png",USA: PREMIUM
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/pwAAAB%2bLCAAAAAAABAANxNsSQkAAANAPaozYZXcfPJCKNcTIJW9YuWRE5ZLx8XUeTlOH5y7sjSl6AkRdIXBuWp2c7AR78YprikK30%2bOhXsEhK1kOmDdSnpfKZc4n6%2fW4SgYtzCWKQL%2bCndNYdPnwwawoWyO%2bE%2fsyJ77pH2GlGpsAMIL3PeYYEBEHiUA4Av%2bxgki4yFKZEGFrK11OYavG%2bpeO5doPgdFrnqL8ADlU2N2nAAAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0 tvg-logo="https://www.iconninja.com/files/151/76/845/us-icon.png",USA: M3U List 1
-https://dailym3uiptv.com/m3u/US-1-dailym3uiptv-com.m3u
-#EXTINF:0 tvg-logo="https://www.iconninja.com/files/151/76/845/us-icon.png",USA: M3U List 2
-https://dailym3uiptv.com/m3u/US-2-dailym3uiptv-com.m3u
-#EXTINF:0 tvg-logo="https://www.iconninja.com/files/151/76/845/us-icon.png",USA: M3U List 3
-https://dailym3uiptv.com/m3u/US-3-dailym3uiptv-com.m3u
-#EXTINF:0 tvg-logo="https://www.iconninja.com/files/151/76/845/us-icon.png",USA: M3U List 4
-https://dailym3uiptv.com/m3u/US-4-dailym3uiptv-com.m3u
-#EXTINF:0 tvg-logo="https://www.iconninja.com/files/151/76/845/us-icon.png",USA: M3U List 5
-https://dailym3uiptv.com/m3u/US-5-dailym3uiptv-com.m3u
-#EXTINF:0 tvg-logo="https://www.iconninja.com/files/151/76/845/us-icon.png",USA: M3U List 6
-https://freedailyiptv.com/countries/US/US_freedailyiptv.com.m3u
-#EXTINF:0 tvg-logo="https://www.iconninja.com/files/151/76/845/us-icon.png",USA: M3U List 7
-https://freedailyiptv.com/countries/US/US2_freedailyiptv.com.m3u
-#EXTINF:0 tvg-logo="https://www.iconninja.com/files/151/76/845/us-icon.png",USA: M3U List 8
-https://freedailyiptv.com/countries/US/US3_freedailyiptv.com.m3u
-#EXTINF:0 tvg-logo="https://www.iconninja.com/files/151/76/845/us-icon.png",USA: M3U List 9
-https://freedailyiptv.com/countries/US/US4_freedailyiptv.com.m3u
-#EXTINF:0 tvg-logo="https://www.iconninja.com/files/151/76/845/us-icon.png",USA: M3U List 10
-https://freedailyiptv.com/countries/US/US5_freedailyiptv.com.m3u
-#EXTINF:0 tvg-logo="https://www.iconninja.com/files/151/76/845/us-icon.png",USA: M3U List 11
-https://freedailyiptv.com/countries/US/US6_freedailyiptv.com.m3u
-#EXTINF:0 tvg-logo="https://www.iconninja.com/files/151/76/845/us-icon.png",USA: M3U List 12
-https://freedailyiptv.com/countries/US/US7_freedailyiptv.com.m3u
+https://iptv-org.github.io/iptv/countries/us.m3u	
