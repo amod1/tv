@@ -4,35 +4,14 @@ httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0 tvg-logo="https://www.shareicon.net/data/256x256/2015/09/09/98470_flag_512x512.png",FRANCE: PREMIUM
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/uwAAAB%2bLCAAAAAAABAANw9sSgUAAANAPMo291OKhB22XlSwjlemttm0XUQyJ6eM5M8dj6%2fgi9GuOXSrv3gaf0nBmfrlWPaOBu%2fisxDI4rZfM28speEQWRaQr0l0XKjLQ9yfnSna6mF455WFaq8A5nG9v2x6TRhxWle63x5zIpHyOqAZEFqA0%2folhAoiMBTFNo0LQgqUF8RzisSnbPmMi84Fzxpr0A0tcdrFifyIhf0StREW%2bbxRxd8L%2bAS%2brfXK7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0 tvg-logo="https://www.shareicon.net/data/256x256/2015/09/09/98470_flag_512x512.png",FRANCE: M3U List 1
-https://dailym3uiptv.com/m3u/FR1-dailym3uiptv-com.m3u
+https://iptv-org.github.io/iptv/languages/fra.m3u
 #EXTINF:0 tvg-logo="https://www.shareicon.net/data/256x256/2015/09/09/98470_flag_512x512.png",FRANCE: M3U List 2
-https://dailym3uiptv.com/m3u/FR-2-dailym3uiptv-com.m3u
+https://www.dropbox.com/s/riqptykps84lqeu/France.m3u?dl=1
 #EXTINF:0 tvg-logo="https://www.shareicon.net/data/256x256/2015/09/09/98470_flag_512x512.png",FRANCE: M3U List 3
-https://dailym3uiptv.com/m3u/FR-3-dailym3uiptv-com.m3u
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/256x256/2015/09/09/98470_flag_512x512.png",FRANCE: M3U List 4
-https://dailym3uiptv.com/m3u/FR-4-dailym3uiptv-com.m3u
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/256x256/2015/09/09/98470_flag_512x512.png",FRANCE: M3U List 5
-https://dailym3uiptv.com/m3u/FR-5-dailym3uiptv-com.m3u
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/256x256/2015/09/09/98470_flag_512x512.png",FRANCE: M3U List 6
-https://freedailyiptv.com/countries/FR/FR_freedailyiptv.com.m3u
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/256x256/2015/09/09/98470_flag_512x512.png",FRANCE: M3U List 7
-https://freedailyiptv.com/countries/FR/FR2_freedailyiptv.com.m3u
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/256x256/2015/09/09/98470_flag_512x512.png",FRANCE: M3U List 8
-https://freedailyiptv.com/countries/FR/FR3_freedailyiptv.com.m3u
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/256x256/2015/09/09/98470_flag_512x512.png",FRANCE: M3U List 9
-https://freedailyiptv.com/countries/FR/FR4_freedailyiptv.com.m3u
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/256x256/2015/09/09/98470_flag_512x512.png",FRANCE: M3U List 10
-https://freedailyiptv.com/countries/FR/FR5_freedailyiptv.com.m3u
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/256x256/2015/09/09/98470_flag_512x512.png",FRANCE: M3U List 11
-https://freedailyiptv.com/countries/FR/FR6_freedailyiptv.com.m3u
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/256x256/2015/09/09/98470_flag_512x512.png",FRANCE: M3U List 12
-https://freedailyiptv.com/countries/FR/FR7_freedailyiptv.com.m3u
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/256x256/2015/09/09/98470_flag_512x512.png",FRANCE: M3U List 13
-https://www.dropbox.com/s/riqptykps84lqeu/France.m3u?dl=1    
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/256x256/2015/09/09/98470_flag_512x512.png",FRANCE: M3U List 14
 https://www.dropbox.com/s/jlihp4pj0ky4vwd/Canalsat.m3u?dl=1
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/256x256/2015/09/09/98470_flag_512x512.png",FRANCE: M3U List 15
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/256x256/2015/09/09/98470_flag_512x512.png",FRANCE: M3U List 4
 https://www.dropbox.com/s/sydb43pjj8mz9m6/Dropbox.m3u?dl=1
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/256x256/2015/09/09/98470_flag_512x512.png",FRANCE: M3U List 16 MUSIC
-https://iptv-org.github.io/iptv/categories/music.m3u
-
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/256x256/2015/09/09/98470_flag_512x512.png",FRANCE: M3U List 5
+https://raw.githubusercontent.com/kilirushi/m3u/master/fr.m3u
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/256x256/2015/09/09/98470_flag_512x512.png",FRANCE: M3U List 6
+https://www.dropbox.com/s/ml4wabh9n0vqpwt/Github.m3u?dl=1
