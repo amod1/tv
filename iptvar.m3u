@@ -4,20 +4,10 @@ httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0 tvg-logo="https://cdn3.iconfinder.com/data/icons/finalflags/256/Saudi-Arabia-Flag.png",ARAB: PREMIUM
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/uwAAAB%2bLCAAAAAAABAAFwd0WQjAAAOAHchzWZnThAv2tcIrSqbvZKKtFodjx8H3fb1iFKmBEs2z8jiv13je%2fUqj6vkk0Asgthv1ZazlhpzJv00%2bRN9l30%2bZb4dVIXpLr8sHywGrOfpFRsVR%2bGFqROLju9KrGY7EIUlPeBXNAPXFsQopsphcczXUEOdUdZkKdAduhAJcMYjTZhhzljmRZ02nGeuA%2bj6rn0D3GmJ46JeUlBWCWGL2HI%2fcPSA4oebsAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0 tvg-logo="https://cdn3.iconfinder.com/data/icons/finalflags/256/Saudi-Arabia-Flag.png",ARAB: M3U List 1
-https://dailym3uiptv.com/m3u/AR-1-dailym3uiptv-com.m3u
-#EXTINF:0 tvg-logo="https://cdn3.iconfinder.com/data/icons/finalflags/256/Saudi-Arabia-Flag.png",ARAB: M3U List 2
-https://dailym3uiptv.com/m3u/AR-2-dailym3uiptv-com.m3u
-#EXTINF:0 tvg-logo="https://cdn3.iconfinder.com/data/icons/finalflags/256/Saudi-Arabia-Flag.png",ARAB: M3U List 3
-https://dailym3uiptv.com/m3u/AR-3-dailym3uiptv-com.m3u
+https://iptv-org.github.io/iptv/languages/ara.m3u
+#EXTINF:0 tvg-logo="https://cdn3.iconfinder.com/data/icons/finalflags/256/Saudi-Arabia-Flag.png",ARAB: M3U List 2 OSN
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/owAAAB%2bLCAAAAAAABAANyc0OgiAAAOAHYs4UHHjo4NKZZeksV3IzUMpp5Q8qzoev7%2fqhDJM88tR7cK1SNojoAfDprcJn6V53iynSOFXVBPYbEcqXqudYisgf22%2bnN2nTjiu%2fpMbp%2bIx7R3IKB3PNsW0Ulm1puMRcQ1bONJsjoqHiASFj%2f2ZwVeoQJrNe24UnEzooAJzwkwDWAWckwb2oRD%2b21M%2fQMm1%2fCpBlUKMAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0 tvg-logo="https://cdn3.iconfinder.com/data/icons/finalflags/256/Saudi-Arabia-Flag.png",ARAB: M3U List 3 BEIN SPORTS HD
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/owAAAB%2bLCAAAAAAABAAFwdkWQkAAANAPcuZkzBg89IIkZKksebPLVlMojo%2fv3pbVvICSwcDMZTQnvcqH4zR2tiueiBCLQrQ8jSbl6C%2bYA5Vr%2blnWnFXX37vYecm9%2fd1ujX4ueUBJOVfoaoRbQZIsRTgHJcowwBClQIIFBBwroYRAnuSQ3cLO%2fAgxc2g7d3WoQnhOW7D76L2pFkNVudM6khrWsyzf3%2f8BRZkNGaMAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0 tvg-logo="https://cdn3.iconfinder.com/data/icons/finalflags/256/Saudi-Arabia-Flag.png",ARAB: M3U List 4
-https://dailym3uiptv.com/m3u/AR-4-dailym3uiptv-com.m3u
-#EXTINF:0 tvg-logo="https://cdn3.iconfinder.com/data/icons/finalflags/256/Saudi-Arabia-Flag.png",ARAB: M3U List 5
-https://dailym3uiptv.com/m3u/AR-5-dailym3uiptv-com.m3u
-#EXTINF:0 tvg-logo="https://cdn3.iconfinder.com/data/icons/finalflags/256/Saudi-Arabia-Flag.png",ARAB: M3U List 6
-https://freedailyiptv.com/countries/AR/AR_freedailyiptv.com.m3u
-#EXTINF:0 tvg-logo="https://cdn3.iconfinder.com/data/icons/finalflags/256/Saudi-Arabia-Flag.png",ARAB: M3U List 7
-https://freedailyiptv.com/countries/AR/AR2_freedailyiptv.com.m3u
-#EXTINF:0 tvg-logo="https://cdn3.iconfinder.com/data/icons/finalflags/256/Saudi-Arabia-Flag.png",ARAB: M3U List 8
-https://freedailyiptv.com/countries/AR/AR3_freedailyiptv.com.m3u
-#EXTINF:0 tvg-logo="https://cdn3.iconfinder.com/data/icons/finalflags/256/Saudi-Arabia-Flag.png",ARAB: M3U List 9
-https://freedailyiptv.com/countries/AR/AR4_freedailyiptv.com.m3u
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/uwAAAB%2bLCAAAAAAABAAFwdsOQzAAANAvEtq61IMHG0ZkY5p0tjeldQ%2fbTDfx8TsHFp8ctOkidTeMZ7lF9%2btbIzLeghexEEsRCbXWayjyKUhroPr1CLHMiOFf6I2f1q%2f%2bKzpWJodVHacvblxTtFHtOHsuR20u%2b27LHs8mS5YdwQoboiwUuyyEoiPLVDAETBHIsAWvKqBBvi9WSs%2fQtxleyThwZgbRQfQDzKWbQC%2bcP%2bI4LT%2fu2lR3%2fvoc%2bri7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
