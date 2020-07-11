@@ -15,3 +15,5 @@ httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/uwAAAB%2bLCA
 https://dcunilive189-lh.akamaihd.net/i/dclive_1@14780/master.m3u8
 #EXTINF:0 tvg-logo="https://cdn3.iconfinder.com/data/icons/finalflags/256/Saudi-Arabia-Flag.png",ARAB: M3U List 6 SPORTS
 https://dcunilive238-lh.akamaihd.net/i/dclive_1@122371/master.m3u8
+#EXTINF:0 tvg-logo="https://cdn3.iconfinder.com/data/icons/finalflags/256/Saudi-Arabia-Flag.png",ARAB: M3U List 7 SPORTS
+https://dcunilive219-lh.akamaihd.net/i/dclive_1@335585/index_150_av-p.m3u8?sd=10
