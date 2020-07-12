@@ -27,12 +27,6 @@ httphost://$http-raw=https://wstream.to/embed/rxujvy5u40gwel$http-refferer=https
 httphost://$http-raw=https://wstream.to/embed/oh66wnqhpbdcy$http-refferer=https://sportzonline.to/
 #EXTINF:0, PORTUGUESE SPORT TV 5
 httphost://$http-raw=https://wstream.to/embed/oecm2no$http-refferer=https://sportzonline.to/
-#EXTINF:0, RUSSIAN Match! Football 1
-httphost://$http-raw=https://xyzembed379.net/embed/4xtjn$http-refferer=https://sportzonline.to/
-#EXTINF:0, RUSSIAN Match! Football 2
-httphost://$http-raw=https://xyzembed379.net/embed/sy7oklsmqsen0vh$http-refferer=https://sportzonline.to/
-#EXTINF:0, RUSSIAN Match! Football 3
-httphost://$http-raw=https://xyzembed379.net/embed/730ktp1pu5stp2$http-refferer=https://sportzonline.to/
 #EXTINF:0, BRAZILIAN Football 1
 httphost://$http-raw=https://wstream.to/embed/akfmyi$http-refferer=https://sportzonline.to/
 #EXTINF:0, BRAZILIAN Football 2
@@ -47,8 +41,6 @@ httphost://$http-raw=https://wstream.to/embed/yywfjanjdw7$http-refferer=http://h
 httphost://$http-raw=https://telerium.tv/embed/53659.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
 #EXTINF:0, Bein Sports2 AR
 httphost://$http-raw=http://telerium.tv/embed/53636.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
-#EXTINF:0, Bein Sports3 AR
-httphost://$http-raw=http://www.janjua.tv/hembedplayer/beinsportsh3bdhn/1/600/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports3
 #EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/rmcsport_1.png", RMC Sports1
 httphost://$http-raw=https://telerium.tv/embed/56900.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
 #EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/rmcsport_2.png", RMC Sports2
@@ -65,10 +57,8 @@ httphost://$http-raw=https://telerium.tv/embed/44641.html$http-refferer=https://
 httphost://$http-raw=https://telerium.tv/embed/29389.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
 #EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/infosport.png", Infosport +
 httphost://$http-raw=https://telerium.tv/embed/34843.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
-
 #EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/canal_sport.png", CANAL+ sport
 httphost://$http-raw=https://telerium.tv/embed/27336.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
 #EXTINF:0 tvg-logo="https://vertelevision.tv/logos/laligalogo.png", M LALIGA
 httphost://$http-raw=https://telerium.tv/embed/46718.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
-#EXTINF:0 tvg-logo="https://vertelevision.tv/logos/laligalogo.png", ABC
-httphost://$http-raw=https://ustvgo.tv/player.php?stream=ABC$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+
