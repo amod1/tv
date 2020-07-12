@@ -70,3 +70,5 @@ httphost://$http-raw=https://telerium.tv/embed/34843.html$http-refferer=https://
 httphost://$http-raw=https://telerium.tv/embed/27336.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
 #EXTINF:0 tvg-logo="https://vertelevision.tv/logos/laligalogo.png", M LALIGA
 httphost://$http-raw=https://telerium.tv/embed/46718.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0 tvg-logo="https://vertelevision.tv/logos/laligalogo.png", M LALIGA
+httphost://$http-raw=https://vergol.com/canales228/live1/plusseries.php$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
