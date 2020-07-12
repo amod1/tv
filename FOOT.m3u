@@ -61,4 +61,11 @@ httphost://$http-raw=https://telerium.tv/embed/34843.html$http-refferer=https://
 httphost://$http-raw=https://telerium.tv/embed/27336.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
 #EXTINF:0 tvg-logo="https://vertelevision.tv/logos/laligalogo.png", M LALIGA
 httphost://$http-raw=https://telerium.tv/embed/46718.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
-
+#EXTINF:0 tvg-logo="png", bt sport 1
+httphost://$http-raw=https://wstream.to/embed/iqeu1cap364fj$http-refferer=http://hindimean.com/freestreams/btsport-1.php
+#EXTINF:0 tvg-logo="png", bt sport 2
+httphost://$http-raw=https://wstream.to/embed/ylil5$http-refferer=http://hindimean.com/freestreams/btsport-2.php
+#EXTINF:0 tvg-logo="png", bt sport 3
+httphost://$http-raw=https://wstream.to/embed/u7qnfi39$http-refferer=http://hindimean.com/freestreams/btsport-3.php
+#EXTINF:0 tvg-logo="png", bt sport ESPN
+httphost://$http-raw=https://wstream.to/embed/mge5y3m1s$http-refferer=http://hindimean.com/freestreams/btsportespn.php
