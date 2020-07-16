@@ -5,3 +5,5 @@ httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/pwAAAB%2bLCAAAAAAABAANxNsSQkAAANAPaozYZXcfPJCKNcTIJW9YuWRE5ZLx8XUeTlOH5y7sjSl6AkRdIXBuWp2c7AR78YprikK30%2bOhXsEhK1kOmDdSnpfKZc4n6%2fW4SgYtzCWKQL%2bCndNYdPnwwawoWyO%2bE%2fsyJ77pH2GlGpsAMIL3PeYYEBEHiUA4Av%2bxgki4yFKZEGFrK11OYavG%2bpeO5doPgdFrnqL8ADlU2N2nAAAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0 tvg-logo="https://www.iconninja.com/files/151/76/845/us-icon.png",USA: M3U List 1
 https://iptv-org.github.io/iptv/countries/us.m3u	
+#EXTINF:0 tvg-logo="https://www.iconninja.com/files/151/76/845/us-icon.png",USA: M3U List 2
+http://51.161.84.66:8080/SD_AE/index.m3u8
