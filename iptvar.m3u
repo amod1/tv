@@ -17,7 +17,7 @@ https://deadman.website/newapp/BeinEntertiment.m3u
 https://deadman.website/newapp/ART.m3u
 #EXTINF:0 tvg-logo="https://cdn3.iconfinder.com/data/icons/finalflags/256/Saudi-Arabia-Flag.png",ARAB: M3U List MBC
 https://deadman.website/newapp/MBC.m3u
-#EXTINF:0 tvg-logo="https://cdn3.iconfinder.com/data/icons/finalflags/256/Saudi-Arabia-Flag.png",ARAB: M3U List Netflix
+#EXTINF:0 tvg-logo="https://cdn3.iconfinder.com/data/icons/finalflags/256/Saudi-Arabia-Flag.png",ARAB: M3U List News 
 https://deadman.website/newapp/Netflix.m3u
 #EXTINF:0 tvg-logo="https://cdn3.iconfinder.com/data/icons/finalflags/256/Saudi-Arabia-Flag.png",ARAB: M3U List Rotana
 https://deadman.website/newapp/Rotana.m3u
