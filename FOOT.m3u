@@ -81,7 +81,7 @@ httphost://$http-raw=https://wstream.to/embed/7ksvk1ppa$http-refferer=https://da
 httphost://$http-raw=https://wstream.to/embed/2vewskxuho8rq$http-refferer=https://daddylive.live/channels/stream-44.php
 #EXTINF:0 tvg-logo="https://daddylive.live/images/espn_2.png", ESPN 2
 httphost://$http-raw=https://wstream.to/embed/hyhtubdiidbixd$http-refferer=https://daddylive.live/channels/stream-45.php
-#EXTINF:0 tvg-logo="png", bt
-httphost://$http-raw=https$http-refferer=http
+#EXTINF:0 tvg-logo="png", CW
+httphost://$http-raw=https://sports24.club/tv/embed?id=cw$http-refferer=https://www.stream2watch.ws/streams/125587/229678
 #EXTINF:0 tvg-logo="png", bt
 httphost://$http-raw=https$http-refferer=http
