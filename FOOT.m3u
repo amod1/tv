@@ -69,3 +69,5 @@ httphost://$http-raw=https://wstream.to/embed/ylil5$http-refferer=http://hindime
 httphost://$http-raw=https://wstream.to/embed/u7qnfi39$http-refferer=http://hindimean.com/freestreams/btsport-3.php
 #EXTINF:0 tvg-logo="png", bt sport ESPN
 httphost://$http-raw=https://wstream.to/embed/mge5y3m1s$http-refferer=http://hindimean.com/freestreams/btsportespn.php
+#EXTINF:0 tvg-logo="png", bt sport ESPN
+httphost://$http-raw=https://wstream.to/embed/mysxo54w$http-refferer=http://hindimean.com/freestreams/btsportespn.php
