@@ -71,3 +71,17 @@ httphost://$http-raw=https://wstream.to/embed/u7qnfi39$http-refferer=http://hind
 httphost://$http-raw=https://wstream.to/embed/mge5y3m1s$http-refferer=http://hindimean.com/freestreams/btsportespn.php
 #EXTINF:0 tvg-logo="https://daddylive.live/images/sky_uk_sports_football.png", Sky Sports Football
 httphost://$http-raw=https://wstream.to/embed/wtswasobwlmgv$http-refferer=https://daddylive.live/channels/stream-35.php
+#EXTINF:0 tvg-logo="https://daddylive.live/images/sky_uk_sports_action.png", Sky Sports Action
+httphost://$http-raw=https://wstream.to/embed/8gs4tif1$http-refferer=https://daddylive.live/channels/stream-37.php
+#EXTINF:0 tvg-logo="https://daddylive.live/images/sky_uk_sports_main_event.png", Sky Sports Main Event
+httphost://$http-raw=https://wstream.to/embed/kf236$http-refferer=https://daddylive.live/channels/stream-38.php
+#EXTINF:0 tvg-logo="https://daddylive.live/images/nbcsn-us.png", NBCSN
+httphost://$http-raw=https://wstream.to/embed/7ksvk1ppa$http-refferer=https://daddylive.live/channels/stream-43.php
+#EXTINF:0 tvg-logo="https://daddylive.live/images/espn_us.png", ESPN
+httphost://$http-raw=https://wstream.to/embed/2vewskxuho8rq$http-refferer=https://daddylive.live/channels/stream-44.php
+#EXTINF:0 tvg-logo="https://daddylive.live/images/espn_2.png", ESPN 2
+httphost://$http-raw=https://wstream.to/embed/hyhtubdiidbixd$http-refferer=https://daddylive.live/channels/stream-45.php
+#EXTINF:0 tvg-logo="png", bt
+httphost://$http-raw=https$http-refferer=http
+#EXTINF:0 tvg-logo="png", bt
+httphost://$http-raw=https$http-refferer=http
