@@ -81,7 +81,7 @@ httphost://$http-raw=https://wstream.to/embed/7ksvk1ppa$http-refferer=https://da
 httphost://$http-raw=https://wstream.to/embed/2vewskxuho8rq$http-refferer=https://daddylive.live/channels/stream-44.php
 #EXTINF:0 tvg-logo="https://daddylive.live/images/espn_2.png", ESPN 2
 httphost://$http-raw=https://wstream.to/embed/hyhtubdiidbixd$http-refferer=https://daddylive.live/channels/stream-45.php
-#EXTINF:0 tvg-logo="png", sky
-httphost://$http-raw=http://www.freecast123.com/cricsp.php?player=desktop&live=skysprem&vw=620&vh=490$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
-#EXTINF:0 tvg-logo="png", bt
-httphost://$http-raw=http://www.freecast123.com/cricsp.php?player=desktop&live=skysprem&vw=620&vh=490$http-refferer=http://crichd.ws/update/skys5.php
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/skysport_pl.png", Sky Sports Premier League
+httphost://$http-raw=https://telerium.tv/embed/46572.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0 tvg-logo="png", Sky Sports Arena
+httphost://$http-raw=https://telerium.tv/embed/46570.html$http-refferer=http://hindimean.com/freestreams/skysportsarena.php
