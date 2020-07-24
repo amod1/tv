@@ -85,3 +85,5 @@ httphost://$http-raw=https://wstream.to/embed/hyhtubdiidbixd$http-refferer=https
 httphost://$http-raw=https://telerium.tv/embed/46572.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
 #EXTINF:0 tvg-logo="png", Sky Sports Arena
 httphost://$http-raw=https://telerium.tv/embed/46570.html$http-refferer=http://hindimean.com/freestreams/skysportsarena.php
+#EXTINF:0 tvg-logo="png", Canal+ Sport
+httphost://$http-raw=https://wstream.to/embed/mysxo54w$http-refferer=https://daddylive.live/channels/stream-45.php
