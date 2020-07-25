@@ -1,489 +1,261 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color green]DEUTSCHLAND TV - TV FABOR APK[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0,VIP | DE: ZDFinfo HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18047
-#EXTINF:0,VIP | DE: ZDF HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18048
-#EXTINF:0,VIP | DE: WELT HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18049
-#EXTINF:0,VIP | DE: Welt der Wunder
-http://www.jokertv.link:25461/PrjwR/StMEK/18050
-#EXTINF:0,VIP | DE: WDR HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18051
-#EXTINF:0,VIP | DE: Vox HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18052
-#EXTINF:0,VIP | DE: VOX FHD
-http://www.jokertv.link:25461/PrjwR/StMEK/18053
-#EXTINF:0,VIP | DE: TLC FHD
-http://www.jokertv.link:25461/PrjwR/StMEK/18054
-#EXTINF:0,VIP | DE: Tele 5 HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18055
-#EXTINF:0,VIP | DE: SWR HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18056
-#EXTINF:0,VIP | DE: Sky Krimi
-http://www.jokertv.link:25461/PrjwR/StMEK/18057
-#EXTINF:0,VIP | DE: Sky Cinema Nostalgie HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18058
-#EXTINF:0,VIP | DE: Sky Cinema Nostalgie
-http://www.jokertv.link:25461/PrjwR/StMEK/18059
-#EXTINF:0,VIP | DE: Sky Cinema FHD
-http://www.jokertv.link:25461/PrjwR/StMEK/18060
-#EXTINF:0,VIP | DE: Sky Cinema Family FHD
-http://www.jokertv.link:25461/PrjwR/StMEK/18061
-#EXTINF:0,VIP | DE: Sky Cinema Family
-http://www.jokertv.link:25461/PrjwR/StMEK/18062
-#EXTINF:0,VIP | DE: Sky Cinema Comedy
-http://www.jokertv.link:25461/PrjwR/StMEK/18063
-#EXTINF:0,VIP | DE: Sky Cinema  24
-http://www.jokertv.link:25461/PrjwR/StMEK/18064
-#EXTINF:0,VIP | DE: Sky Cinema  1 FHD
-http://www.jokertv.link:25461/PrjwR/StMEK/18065
-#EXTINF:0,VIP | DE: Sky Cinema  1
-http://www.jokertv.link:25461/PrjwR/StMEK/18066
-#EXTINF:0,VIP | DE: Sky Cinema
-http://www.jokertv.link:25461/PrjwR/StMEK/18067
-#EXTINF:0,VIP | DE: Sky Atlantic HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18068
-#EXTINF:0,VIP | DE: Sky Atlantic FHD
-http://www.jokertv.link:25461/PrjwR/StMEK/18069
-#EXTINF:0,VIP | DE: RTLplus
-http://www.jokertv.link:25461/PrjwR/StMEK/18070
-#EXTINF:0,VIP | DE: RTL UHD
-http://www.jokertv.link:25461/PrjwR/StMEK/18071
-#EXTINF:0,VIP | DE: RTL Passion HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18072
-#EXTINF:0,VIP | DE: RTL Passion
-http://www.jokertv.link:25461/PrjwR/StMEK/18073
-#EXTINF:0,VIP | DE: RTL Nitro HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18074
-#EXTINF:0,VIP | DE: RTL Nitro FHD
-http://www.jokertv.link:25461/PrjwR/StMEK/18075
-#EXTINF:0,VIP | DE: RTL HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18076
-#EXTINF:0,VIP | DE: RTL FHD
-http://www.jokertv.link:25461/PrjwR/StMEK/18077
-#EXTINF:0,VIP | DE: RTL Crime HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18078
-#EXTINF:0,VIP | DE: RTL 2 FHD
-http://www.jokertv.link:25461/PrjwR/StMEK/18079
-#EXTINF:0,VIP | DE: ProSieben MAXX FHD
-http://www.jokertv.link:25461/PrjwR/StMEK/18080
-#EXTINF:0,VIP | DE: ProSieben HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18081
-#EXTINF:0,VIP | DE: ProSieben FHD
-http://www.jokertv.link:25461/PrjwR/StMEK/18082
-#EXTINF:0,VIP | DE: Phoenix
-http://www.jokertv.link:25461/PrjwR/StMEK/18083
-#EXTINF:0,VIP | DE: one HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18084
-#EXTINF:0,VIP | DE: Nickelodeon HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18085
-#EXTINF:0,VIP | DE: Nat Geo Wild FHD
-http://www.jokertv.link:25461/PrjwR/StMEK/18086
-#EXTINF:0,VIP | DE: N24 Doku
-http://www.jokertv.link:25461/PrjwR/StMEK/18087
-#EXTINF:0,VIP | DE: n-tv FHD
-http://www.jokertv.link:25461/PrjwR/StMEK/18088
-#EXTINF:0,VIP | DE: MTV FHD
-http://www.jokertv.link:25461/PrjwR/StMEK/18089
-#EXTINF:0,VIP | DE: Motorvision TV
-http://www.jokertv.link:25461/PrjwR/StMEK/18090
-#EXTINF:0,VIP | DE: MDR Sachsen HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18091
-#EXTINF:0,VIP | DE: Kinowelt TV
-http://www.jokertv.link:25461/PrjwR/StMEK/18092
-#EXTINF:0,VIP | DE: KiKA HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18093
-#EXTINF:0,VIP | DE: Kabel Eins HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18094
-#EXTINF:0,VIP | DE: Kabel Eins FHD
-http://www.jokertv.link:25461/PrjwR/StMEK/18095
-#EXTINF:0,VIP | DE: Kabel Eins Doku
-http://www.jokertv.link:25461/PrjwR/StMEK/18096
-#EXTINF:0,VIP | DE: Junior
-http://www.jokertv.link:25461/PrjwR/StMEK/18097
-#EXTINF:0,VIP | DE: Jukebox
-http://www.jokertv.link:25461/PrjwR/StMEK/18098
-#EXTINF:0,VIP | DE: hr-fernsehen HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18099
-#EXTINF:0,VIP | DE: History FHD
-http://www.jokertv.link:25461/PrjwR/StMEK/18100
-#EXTINF:0,VIP | DE: Fox FHD
-http://www.jokertv.link:25461/PrjwR/StMEK/18101
-#EXTINF:0,VIP | DE: Disney Junior FHD
-http://www.jokertv.link:25461/PrjwR/StMEK/18102
-#EXTINF:0,VIP | DE: Disney Cinemagic HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18103
-#EXTINF:0,VIP | DE: Disney Cinemagic FHD
-http://www.jokertv.link:25461/PrjwR/StMEK/18104
-#EXTINF:0,VIP | DE: Disney Channel FHD
-http://www.jokertv.link:25461/PrjwR/StMEK/18105
-#EXTINF:0,VIP | DE: Discovery Channel FHD
-http://www.jokertv.link:25461/PrjwR/StMEK/18106
-#EXTINF:0,VIP | DE: Comedy Central FHD
-http://www.jokertv.link:25461/PrjwR/StMEK/18107
-#EXTINF:0,VIP | DE: Classica
-http://www.jokertv.link:25461/PrjwR/StMEK/18108
-#EXTINF:0,VIP | DE: Arte HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18109
-#EXTINF:0,VIP | DE: A&E HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18110
-#EXTINF:0,VIP | DE: 13th Street FHD
-http://www.jokertv.link:25461/PrjwR/StMEK/18111
-#EXTINF:0,DE: Das Erste HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18112
-#EXTINF:0,DE: ZDF
-http://www.jokertv.link:25461/PrjwR/StMEK/18113
-#EXTINF:0,DE: WDR HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18114
-#EXTINF:0,DE: NDR HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18115
-#EXTINF:0,DE: 3SAT HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18116
-#EXTINF:0,DE: MDR HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18117
-#EXTINF:0,DE: SWR HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18118
-#EXTINF:0,DE: BR HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18119
-#EXTINF:0,DE: RTL HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18120
-#EXTINF:0,DE: RTL 2 HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18121
-#EXTINF:0,DE: Sat 1 HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18122
-#EXTINF:0,DE: Prosieben HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18123
-#EXTINF:0,DE: Prosieben MAXX HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18124
-#EXTINF:0,DE: DMAX HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18125
-#EXTINF:0,DE: VOX HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18126
-#EXTINF:0,DE: TLC HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18127
-#EXTINF:0,DE: RTL Nitro HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18128
-#EXTINF:0,DE: Sat 1 Gold HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18129
-#EXTINF:0,DE: Kabel Eins
-http://www.jokertv.link:25461/PrjwR/StMEK/18130
-#EXTINF:0,DE: Sixx HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18131
-#EXTINF:0,DE: Arte HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18132
-#EXTINF:0,DE: Kabel 1 Doku
-http://www.jokertv.link:25461/PrjwR/StMEK/18133
-#EXTINF:0,DE: Spiegel TV Wissen
-http://www.jokertv.link:25461/PrjwR/StMEK/18134
-#EXTINF:0,DE: Tagesschau HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18135
-#EXTINF:0,DE: N-TV
-http://www.jokertv.link:25461/PrjwR/StMEK/18136
-#EXTINF:0,DE: WELT HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18137
-#EXTINF:0,DE: ZDF Info HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18138
-#EXTINF:0,DE: ZDF Neo HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18139
-#EXTINF:0,DE: Anixe HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18140
-#EXTINF:0,DE: SONNENKLAR TV
-http://www.jokertv.link:25461/PrjwR/StMEK/18141
-#EXTINF:0,DE: EUROSPORT 1 HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18142
-#EXTINF:0,DE: EUROSPORT2 XTRA HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18143
-#EXTINF:0,DE: SKY 1 HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18144
-#EXTINF:0,DE: Sky Cinema HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18145
-#EXTINF:0,DE: Sky Cinema +1 HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18146
-#EXTINF:0,DE: Sky Cinema +24 HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18147
-#EXTINF:0,DE: Sky Cinema Family HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18148
-#EXTINF:0,DE: Sky Cinema Action HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18149
-#EXTINF:0,DE: Sky Cinema Hits HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18150
-#EXTINF:0,DE: Sky Atlantic HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18151
-#EXTINF:0,DE: Sky Krimi
-http://www.jokertv.link:25461/PrjwR/StMEK/18152
-#EXTINF:0,DE: RTL Crime HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18153
-#EXTINF:0,DE: Sky Emotion HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18154
-#EXTINF:0,DE: 13th Street HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18155
-#EXTINF:0,DE: FOX HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18156
-#EXTINF:0,DE: Nat Geo Wild HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18157
-#EXTINF:0,DE: Heimatkanal
-http://www.jokertv.link:25461/PrjwR/StMEK/18158
-#EXTINF:0,DE: Romance Tv
-http://www.jokertv.link:25461/PrjwR/StMEK/18159
-#EXTINF:0,DE: Spiegel Geschichte HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18160
-#EXTINF:0,DE: TNT Serie HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18161
-#EXTINF:0,DE: TNT Comedy HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18162
-#EXTINF:0,DE: Universal HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18163
-#EXTINF:0,DE: RTL Living HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18164
-#EXTINF:0,DE: AXN HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18165
-#EXTINF:0,DE: ZEE ONE HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18166
-#EXTINF:0,DE: Pro 7 Fun FHD
-http://www.jokertv.link:25461/PrjwR/StMEK/18167
-#EXTINF:0,DE: Disney Channel HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18168
-#EXTINF:0,DE: Disney Cinemagic HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18169
-#EXTINF:0,DE: Disney Junior HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18170
-#EXTINF:0,DE: Disney XD
-http://www.jokertv.link:25461/PrjwR/StMEK/18171
-#EXTINF:0,DE: Super RTL HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18172
-#EXTINF:0,DE: Cartoon Network
-http://www.jokertv.link:25461/PrjwR/StMEK/18173
-#EXTINF:0,DE: Boomerang
-http://www.jokertv.link:25461/PrjwR/StMEK/18174
-#EXTINF:0,DE: Kika HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18175
-#EXTINF:0,DE: Deluxe Music HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18176
-#EXTINF:0,DE: MTV HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18177
-#EXTINF:0,DE: Jukebox
-http://www.jokertv.link:25461/PrjwR/StMEK/18178
-#EXTINF:0,DE: Classica
-http://www.jokertv.link:25461/PrjwR/StMEK/18179
-#EXTINF:0,DE: Sky Select 1 SD/HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18180
-#EXTINF:0,DE: Sky Select 2 SD/HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18181
-#EXTINF:0,DE: Sky Select 3 SD/HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18182
-#EXTINF:0,DE: SKY Select 4 SD/HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18183
-#EXTINF:0,DE: SKY Select 5 SD/HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18184
-#EXTINF:0,DE: Sky Select 6 SD/HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18185
-#EXTINF:0,DE: Sky Select 7 SD/HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18186
-#EXTINF:0,DE: Sky Select 8 SD/HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18187
-#EXTINF:0,DE: Sky Select 9 SD/HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18188
-#EXTINF:0,DE: DAZN 1 BAR HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18189
-#EXTINF:0,DE: DAZN 2 BAR HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18190
-#EXTINF:0,DE: Danz Sport 1 HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18191
-#EXTINF:0,DE: Danz Sport 2 HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18192
-#EXTINF:0,DE: EUROSPORT 1 HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18193
-#EXTINF:0,DE: EUROSPORT 2 HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18194
-#EXTINF:0,DE: EuroSPORT 2EXTRA + HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18195
-#EXTINF:0,DE: SKY SPORT NEWS HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18196
-#EXTINF:0,DE: SKY BUNDESLIGA 1 HD
-http://www.jokertv.link:25461/PrjwR/StMEK/20726
-#EXTINF:0,DE: Sky Bundesliga 2
-http://www.jokertv.link:25461/PrjwR/StMEK/20727
-#EXTINF:0,DE: Sky Sport 1
-http://www.jokertv.link:25461/PrjwR/StMEK/20728
-#EXTINF:0,DE: SKY SPORT 1 HD
-http://www.jokertv.link:25461/PrjwR/StMEK/20729
-#EXTINF:0,DE: Sky Sport 2
-http://www.jokertv.link:25461/PrjwR/StMEK/20730
-#EXTINF:0,DE: SKY SPORT 2 HD
-http://www.jokertv.link:25461/PrjwR/StMEK/20731
-#EXTINF:0,DE: Sky Sport Austria
-http://www.jokertv.link:25461/PrjwR/StMEK/20732
-#EXTINF:0,DE: Sky Sport Austria FHD
-http://www.jokertv.link:25461/PrjwR/StMEK/20733
-#EXTINF:0,DE: SKY SPORT NEWS HD
-http://www.jokertv.link:25461/PrjwR/StMEK/20734
-#EXTINF:0,DE: Sky Sport Austria HD
-http://www.jokertv.link:25461/PrjwR/StMEK/20735
-#EXTINF:0,DE: Eurosport 1 HD
-http://www.jokertv.link:25461/PrjwR/StMEK/20736
-#EXTINF:0,DE: Eurosport 2 HD
-http://www.jokertv.link:25461/PrjwR/StMEK/20737
-#EXTINF:0,DE: Eurosport 2 Xtra HD
-http://www.jokertv.link:25461/PrjwR/StMEK/20738
-#EXTINF:0,DE: Sky Sport 1
-http://www.jokertv.link:25461/PrjwR/StMEK/20739
-#EXTINF:0,DE: SKY SPORT 1 HD
-http://www.jokertv.link:25461/PrjwR/StMEK/20740
-#EXTINF:0,DE: SKY SPORT 2 HD
-http://www.jokertv.link:25461/PrjwR/StMEK/20741
-#EXTINF:0,DE: SKY Sport 3
-http://www.jokertv.link:25461/PrjwR/StMEK/20742
-#EXTINF:0,DE: SKY SPORT 3 HD [ON MATCHDAY]
-http://www.jokertv.link:25461/PrjwR/StMEK/20743
-#EXTINF:0,DE: SKY Sport 4
-http://www.jokertv.link:25461/PrjwR/StMEK/20744
-#EXTINF:0,DE: SKY SPORT 4 HD [ON MATCHDAY]
-http://www.jokertv.link:25461/PrjwR/StMEK/20745
-#EXTINF:0,DE: SKY Sport 5
-http://www.jokertv.link:25461/PrjwR/StMEK/20746
-#EXTINF:0,DE: SKY SPORT 5 HD [ON MATCHDAY]
-http://www.jokertv.link:25461/PrjwR/StMEK/20747
-#EXTINF:0,DE: SKY Sport 6
-http://www.jokertv.link:25461/PrjwR/StMEK/20748
-#EXTINF:0,DE: SKY SPORT 6 HD [ON MATCHDAY]
-http://www.jokertv.link:25461/PrjwR/StMEK/20749
-#EXTINF:0,DE: SKY Sport 7
-http://www.jokertv.link:25461/PrjwR/StMEK/20750
-#EXTINF:0,DE: SKY SPORT 7 HD [ON MATCHDAY]
-http://www.jokertv.link:25461/PrjwR/StMEK/20751
-#EXTINF:0,DE: Sky Sport 8
-http://www.jokertv.link:25461/PrjwR/StMEK/20752
-#EXTINF:0,DE: SKY SPORT 8 HD [ON MATCHDAY]
-http://www.jokertv.link:25461/PrjwR/StMEK/20753
-#EXTINF:0,DE: Sky Sport 9
-http://www.jokertv.link:25461/PrjwR/StMEK/20754
-#EXTINF:0,DE: SKY SPORT 9 HD [ON MATCHDAY]
-http://www.jokertv.link:25461/PrjwR/StMEK/20755
-#EXTINF:0,DE: Sky Sport 10
-http://www.jokertv.link:25461/PrjwR/StMEK/20756
-#EXTINF:0,DE: SKY SPORT 10 HD [ON MATCHDAY]
-http://www.jokertv.link:25461/PrjwR/StMEK/20757
-#EXTINF:0,DE: Sky Sport 11
-http://www.jokertv.link:25461/PrjwR/StMEK/20758
-#EXTINF:0,-----Bundesliga--on Match--Day-----
-http://www.jokertv.link:25461/PrjwR/StMEK/20759
-#EXTINF:0,DE: Sky Bundesliga 1
-http://www.jokertv.link:25461/PrjwR/StMEK/20760
-#EXTINF:0,DE: SKY BUNDESLIGA 1 HD
-http://www.jokertv.link:25461/PrjwR/StMEK/20761
-#EXTINF:0,DE: Sky Bundesliga 2
-http://www.jokertv.link:25461/PrjwR/StMEK/20762
-#EXTINF:0,DE: SKY BUNDESLIGA 2 HD [ON MATCHDAY]
-http://www.jokertv.link:25461/PrjwR/StMEK/20763
-#EXTINF:0,DE: Sky Bundesliga 3
-http://www.jokertv.link:25461/PrjwR/StMEK/20764
-#EXTINF:0,DE: SKY BUNDESLIGA 3 HD [ON MATCHDAY]
-http://www.jokertv.link:25461/PrjwR/StMEK/20765
-#EXTINF:0,DE: Sky Bundesliga 4
-http://www.jokertv.link:25461/PrjwR/StMEK/20766
-#EXTINF:0,DE: SKY BUNDESLIGA 4 HD [ON MATCHDAY]
-http://www.jokertv.link:25461/PrjwR/StMEK/20767
-#EXTINF:0,DE: Sky Bundesliga 5
-http://www.jokertv.link:25461/PrjwR/StMEK/20768
-#EXTINF:0,DE: SKY BUNDESLIGA 5 HD [ON MATCHDAY]
-http://www.jokertv.link:25461/PrjwR/StMEK/20769
-#EXTINF:0,DE: Sky Bundesliga 6
-http://www.jokertv.link:25461/PrjwR/StMEK/20770
-#EXTINF:0,DE: SKY BUNDESLIGA 6 HD [ON MATCHDAY]
-http://www.jokertv.link:25461/PrjwR/StMEK/20771
-#EXTINF:0,DE: Sky Bundesliga 7
-http://www.jokertv.link:25461/PrjwR/StMEK/20772
-#EXTINF:0,DE: SKY BUNDESLIGA 7 HD [ON MATCHDAY]
-http://www.jokertv.link:25461/PrjwR/StMEK/20773
-#EXTINF:0,DE: Sky Bundesliga 8
-http://www.jokertv.link:25461/PrjwR/StMEK/20774
-#EXTINF:0,DE: SKY BUNDESLIGA 8 HD [ON MATCHDAY]
-http://www.jokertv.link:25461/PrjwR/StMEK/20775
-#EXTINF:0,DE: Sky Bundesliga 9
-http://www.jokertv.link:25461/PrjwR/StMEK/20776
-#EXTINF:0,DE: SKY BUNDESLIGA 9 HD [ON MATCHDAY]
-http://www.jokertv.link:25461/PrjwR/StMEK/20777
-#EXTINF:0,DE: Sky Bundesliga 10
-http://www.jokertv.link:25461/PrjwR/StMEK/20778
-#EXTINF:0,DE: SKY BUNDESLIGA 10 HD [ON MATCHDAY]
-http://www.jokertv.link:25461/PrjwR/StMEK/20779
-#EXTINF:0,DE: Dazn 1 HD
-http://www.jokertv.link:25461/PrjwR/StMEK/20780
-#EXTINF:0,DE: Dazn 2 HD
-http://www.jokertv.link:25461/PrjwR/StMEK/20781
-#EXTINF:0,DE: Discovery Chanel
-http://www.jokertv.link:25461/PrjwR/StMEK/20782
-#EXTINF:0,DE: DMAX HD
-http://www.jokertv.link:25461/PrjwR/StMEK/20783
-#EXTINF:0,DE: Eurosport 1 HD
-http://www.jokertv.link:25461/PrjwR/StMEK/20784
-#EXTINF:0,DE: Eurosport 2 HD
-http://www.jokertv.link:25461/PrjwR/StMEK/20785
-#EXTINF:0,DE: Eurosport 2 Xtra HD
-http://www.jokertv.link:25461/PrjwR/StMEK/20786
-#EXTINF:0,DE: Sportdigital HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18226
-#EXTINF:0,DE: Sport 1 HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18227
-#EXTINF:0,DE: Sport 1+ HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18228
-#EXTINF:0,DE : DAZN 1 BAR HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18229
-#EXTINF:0,DE: DAZN 2 BAR HD
-http://www.jokertv.link:25461/PrjwR/StMEK/18230
-#EXTINF:0,DE: Sky Bundesliga HD 1
-http://www.jokertv.link:25461/PrjwR/StMEK/18231
-#EXTINF:0,DE: Sky Bundesliga HD 2 (only on match time)
-http://www.jokertv.link:25461/PrjwR/StMEK/18232
-#EXTINF:0,DE: Sky Bundesliga HD 3 (only on match time)
-http://www.jokertv.link:25461/PrjwR/StMEK/18233
-#EXTINF:0,DE: Sky Bundesliga HD 4 (only on match time)
-http://www.jokertv.link:25461/PrjwR/StMEK/18234
-#EXTINF:0,DE: Sky Bundesliga HD 5 (only on match time)
-http://www.jokertv.link:25461/PrjwR/StMEK/18235
-#EXTINF:0,DE: Sky Bundesliga HD 6 (only on match time)
-http://www.jokertv.link:25461/PrjwR/StMEK/18236
-#EXTINF:0,DE: Sky Bundesliga HD 7 (only on match time)
-http://www.jokertv.link:25461/PrjwR/StMEK/18237
-#EXTINF:0,DE: Sky Bundesliga HD 8 (only on match time)
-http://www.jokertv.link:25461/PrjwR/StMEK/18238
-#EXTINF:0,DE: Sky Bundesliga HD 9 (only on match time)
-http://www.jokertv.link:25461/PrjwR/StMEK/18239
-#EXTINF:0,DE: Sky Bundesliga HD 10 (only on match time)
-http://www.jokertv.link:25461/PrjwR/StMEK/18240
-#EXTINF:0,DE: Sky Sport HD 1
-http://www.jokertv.link:25461/PrjwR/StMEK/18241
-#EXTINF:0,DE: Sky Sport HD 2
-http://www.jokertv.link:25461/PrjwR/StMEK/18242
-#EXTINF:0,DE: Sky Sport HD 3 (only on match time)
-http://www.jokertv.link:25461/PrjwR/StMEK/18243
-#EXTINF:0,DE: Sky Sport HD 4 (only on match time)
-http://www.jokertv.link:25461/PrjwR/StMEK/18244
-#EXTINF:0,DE: Sky Sport HD 5 (only on match time)
-http://www.jokertv.link:25461/PrjwR/StMEK/18245
-#EXTINF:0,DE: Sky Sport HD 6 (only on match time)
-http://www.jokertv.link:25461/PrjwR/StMEK/18246
-#EXTINF:0,DE: Sky Sport HD 7 (only on match time)
-http://www.jokertv.link:25461/PrjwR/StMEK/18247
-#EXTINF:0,DE: Sky Sport HD 8 (only on match time)
-http://www.jokertv.link:25461/PrjwR/StMEK/18248
-#EXTINF:0,DE: Sky Sport HD 9 (only on match time)
-http://www.jokertv.link:25461/PrjwR/StMEK/18249
-#EXTINF:0,DE: Telekom Fussball 1
-http://www.jokertv.link:25461/PrjwR/StMEK/18250
-#EXTINF:0,DE:  Telekom Fussball 2
-http://www.jokertv.link:25461/PrjwR/StMEK/18251
-#EXTINF:0,DE: Telekom Fussball 3
-http://www.jokertv.link:25461/PrjwR/StMEK/18252
-#EXTINF:0,DE: Telekom Fussball 4
-http://www.jokertv.link:25461/PrjwR/StMEK/18253
-#EXTINF:0,DE: Telekom Fussball 5
-http://www.jokertv.link:25461/PrjwR/StMEK/18254
-#EXTINF:0,DE: Telekom Fussball 6
-http://www.jokertv.link:25461/PrjwR/StMEK/18255
-#EXTINF:0,DE: Telekom Fussball 7
-http://www.jokertv.link:25461/PrjwR/StMEK/18256
-#EXTINF:0,DE: Telekom Fussball 8
-http://www.jokertv.link:25461/PrjwR/StMEK/18257
+#EXTINF:-1,DE: 3 SAT FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1222
+#EXTINF:-1,DE: 13 STREET HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1223
+#EXTINF:-1,DE: 13th Street FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1224
+#EXTINF:-1,DE: ANIXE
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1226
+#EXTINF:-1,DE: ARD FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1227
+#EXTINF:-1,DE: ARD One HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1228
+#EXTINF:-1,DE: A&E HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1225
+#EXTINF:-1,DE: ARTE HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1229
+#EXTINF:-1,DE: Auto Motor Sport HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1232
+#EXTINF:-1,DE: AXN HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1233
+#EXTINF:-1,DE: B TIME SELECT 8 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1235
+#EXTINF:-1,DE: B TIME SELECT 10 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1236
+#EXTINF:-1,DE: BIBEL TV HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1237
+#EXTINF:-1,DE: Boomerang HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1238
+#EXTINF:-1,DE: Cartoon Network HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1239
+#EXTINF:-1,DE: Comedy Central HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1240
+#EXTINF:-1,DE: DAS ERSTE FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1241
+#EXTINF:-1,DE: DAZN 1 Bar FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1242
+#EXTINF:-1,DE: DAZN 1 FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1243
+#EXTINF:-1,DE: DAZN 2 Bar FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1244
+#EXTINF:-1,DE: DAZN 2 FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1245
+#EXTINF:-1,DE: Deluxe Music HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1246
+#EXTINF:-1,DE: DEUTSCHES MUSIK HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1247
+#EXTINF:-1,DE: Discovery CHANNEL HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1248
+#EXTINF:-1,DE: Disney Channel FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1249
+#EXTINF:-1,DE: Disney Cinemagic FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1250
+#EXTINF:-1,DE: Disney Junior HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1251
+#EXTINF:-1,DE: Disney XD HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1252
+#EXTINF:-1,DE: DMAX FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1253
+#EXTINF:-1,DE: E! FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1255
+#EXTINF:-1,DE: EAGLE CINEMA ABENTEUER HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1256
+#EXTINF:-1,DE: Elite Cinema 1 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1257
+#EXTINF:-1,DE: Elite Cinema 2 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1258
+#EXTINF:-1,DE: Elite Cinema 3 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1259
+#EXTINF:-1,DE: Elite Cinema 4 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1260
+#EXTINF:-1,DE: ERZ TV STOLLBERG
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1261
+#EXTINF:-1,DE: euronews HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1262
+#EXTINF:-1,DE: EUROSPORT 1 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1263
+#EXTINF:-1,DE: EUROSPORT 2 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1264
+#EXTINF:-1,DE: EUROSPORT 2 XTRA FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1265
+#EXTINF:-1,DE: FILSTALWELLE HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1266
+#EXTINF:-1,DE: FOLX TV
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1267
+#EXTINF:-1,DE: FOX FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1268
+#EXTINF:-1,DE: Heimatkanal HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1269
+#EXTINF:-1,DE: HISTORY CHANNEL
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1270
+#EXTINF:-1,DE: HR
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1271
+#EXTINF:-1,DE: Kabel
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1272
+#EXTINF:-1,DE: Kabel 1 Doku HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1273
+#EXTINF:-1,DE: Kabel Doku
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1275
+#EXTINF:-1,DE: Kabel 1 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1274
+#EXTINF:-1,DE: Kabel Eins Classica HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1276
+#EXTINF:-1,DE: Kabel Eins Doku HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1277
+#EXTINF:-1,DE: Kabel Eins FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1278
+#EXTINF:-1,DE: KIKA HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1279
+#EXTINF:-1,DE: MDR S Anhalt FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1281
+#EXTINF:-1,DE: MotorVision HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1282
+#EXTINF:-1,DE: MTV FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1283
+#EXTINF:-1,DE: MUNCHEN TV FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1284
+#EXTINF:-1,DE: N TV HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1285
+#EXTINF:-1,DE: N-TV HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1286
+#EXTINF:-1,DE: N24 Doku HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1287
+#EXTINF:-1,DE: MDR HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1280
+#EXTINF:-1,DE: N24 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1288
+#EXTINF:-1,DE: NAT GEO FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1289
+#EXTINF:-1,DE: NAT GEO WILD FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1290
+#EXTINF:-1,DE: NDR Fernsehen HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1291
+#EXTINF:-1,DE: NDR HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1292
+#EXTINF:-1,DE: Nickelodeon HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1293
+#EXTINF:-1,DE: NITRO HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1294
+#EXTINF:-1,DE: NRJ TV HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1295
+#EXTINF:-1,DE: ONE HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1298
+#EXTINF:-1,DE: Phoenix HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1299
+#EXTINF:-1,DE: Planet HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1300
+#EXTINF:-1,DE: POPCORN SELECT 2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1302
+#EXTINF:-1,DE: POPCORN SELECT 3
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1303
+#EXTINF:-1,DE: POPCORN SELECT 4
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1304
+#EXTINF:-1,DE: POPCORN SELECT 5
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1305
+#EXTINF:-1,DE: Popcorn Select 6 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1306
+#EXTINF:-1,DE: POPCORN SELECT 7
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1307
+#EXTINF:-1,DE: POPCORN SELECT 8
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1308
+#EXTINF:-1,DE: POPCORN SELECT 9
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1309
+#EXTINF:-1,DE: PRO 7 MAXX HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1311
+#EXTINF:-1,DE: PRO7 FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1312
+#EXTINF:-1,DE: ProSieben Fun FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1314
+#EXTINF:-1,DE: ProSieben Maxx HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1315
+#EXTINF:-1,DE: RBB Berlin HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1316
+#EXTINF:-1,DE: Rnf
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1317
+#EXTINF:-1,DE: ROMANCE TV HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1318
+#EXTINF:-1,DE: RTL 1 FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1319
+#EXTINF:-1,DE: RTL 2 FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1320
+#EXTINF:-1,DE: RTL Crime FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1321
+#EXTINF:-1,DE: RTL HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1322
+#EXTINF:-1,DE: RTL II HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1323
+#EXTINF:-1,DE: RTL Living HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1324
+#EXTINF:-1,DE: RTL Nitro HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1325
+#EXTINF:-1,DE: RTL PASION
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1326
+#EXTINF:-1,DE: RTL Passion FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1327
+#EXTINF:-1,DE: RTL plus HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1328
+#EXTINF:-1,DE: RTL Super
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1329
+#EXTINF:-1,DE: SAT 1 FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1330
+#EXTINF:-1,DE: SAT 1 GOLD FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1331
+#EXTINF:-1,DE: Servus HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1332
+#EXTINF:-1,DE: SIXX FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1333
+#EXTINF:-1,DE: Sony HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1411
+#EXTINF:-1,DE: SPIEGEL GESCHICHTE HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1412
+#EXTINF:-1,DE: Spiegel TV Wissen HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1413
+#EXTINF:-1,DE: Sport 1 + HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1414
+#EXTINF:-1,DE: Sport 1 Plus HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1416
+#EXTINF:-1,DE: SRF 1 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1418
+#EXTINF:-1,DE: SUPER RTL FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1419
+#EXTINF:-1,DE: SPORT 1 FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1415
+#EXTINF:-1,DE: Sport Digital FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1417
+#EXTINF:-1,DE: SWR
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1420
+#EXTINF:-1,DE: SyFy FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1421
+#EXTINF:-1,DE: tagesschau 24 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1422
+#EXTINF:-1,DE: TELE 5 FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1423
+#EXTINF:-1,DE: TLC HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1442
+#EXTINF:-1,DE: TNT COMEDY FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1443
+#EXTINF:-1,DE: TNT FILM HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1444
+#EXTINF:-1,DE: TNT SERIE HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1445
+#EXTINF:-1,DE: TV A OSTBAYERN HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1446
+#EXTINF:-1,DE: UNIVERSAL CHANNEL HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1447
+#EXTINF:-1,DE: VOX FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1450
+#EXTINF:-1,DE: WDR HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1452
+#EXTINF:-1,DE: Welt
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1453
+#EXTINF:-1,DE: ZDF FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1455
+#EXTINF:-1,DE: ZDF info HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1456
+#EXTINF:-1,DE: ZDF NEO HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1457
+#EXTINF:-1,DE: ZEE ONE FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1458
