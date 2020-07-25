@@ -1,45 +1,147 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color green]TURKEY TV - TV FABOR APK[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://51.15.209.90:8800/data/img/files/a-haber.png", A Haber Turkish [color green]TV FABOR APK[/color]
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl5WldSaWIzZ3ZkWEpzUFdoMGRIQWxNMEVsTWtZbE1rWjZaWEl3YkdsMlpTNW9hbXR0TG1sdVptOGxNMEV4TXpJNU1pVXlSbTFsY21OMWNua2xNa1poYUdGaVpYSWxNa1p3YkdGNWJHbHpkQzV0TTNVNHxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://51.15.209.90:8800/data/img/files/11379_animalplanet.jpg", ANIMAL PLANET Turk Turkish
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl5WldSaWIzZ3ZkWEpzUFdoMGRIQWxNMEVsTWtZbE1rWjZaWEl3YkdsMlpTNW9hbXR0TG1sdVptOGxNMEV4TXpJNU1pVXlSbTFsY21OMWNua2xNa1poYm1sdFlXeHdiR0Z1WlhRbE1rWndiR0Y1YkdsemRDNXRNM1U0fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://51.15.209.90:8800/data/img/files/ATV.png", ATV HD Turkish
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl5WldSaWIzZ3ZkWEpzUFdoMGRIQWxNMEVsTWtZbE1rWjZaWEl3YkdsMlpTNW9hbXR0TG1sdVptOGxNMEV4TXpJNU1pVXlSbTFsY21OMWNua2xNa1poZEhZbE1rWndiR0Y1YkdsemRDNXRNM1U0fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://51.15.209.90:8800/data/img/files/95056_bbcearthtr.jpg", BBC EARTH TR Turkish
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl5WldSaWIzZ3ZkWEpzUFdoMGRIQWxNMEVsTWtZbE1rWjZaWEl3YkdsMlpTNW9hbXR0TG1sdVptOGxNMEV4TXpJNU1pVXlSbTFsY21OMWNua2xNa1ppWW1ObFlYSjBhQ1V5Um5Cc1lYbHNhWE4wTG0wemRUZz18WVhVMU5YVmFXSG80VTJwSk4yYzRYdz09fDU3MkNDMjMzLTdGQTgtNDc0MC05NjQ0LTA1Njk3RDVFQjQ5MHxSRU4zZUE9PQ%3D%3D$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://51.15.209.90:8800/data/img/files/5880_boxoffice1.jpg", BEIN BOXOFFICE 1 Turkish
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl5WldSaWIzZ3ZkWEpzUFdoMGRIQWxNMEVsTWtZbE1rWjZaWEl3YkdsMlpTNW9hbXR0TG1sdVptOGxNMEV4TXpJNU1pVXlSbTFsY21OMWNua2xNa1ppWldsdVltOTRiMlptYVdObE1TVXlSbkJzWVhsc2FYTjBMbTB6ZFRnPXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://51.15.209.90:8800/data/img/files/51141_boxoffice2.jpg", BEIN BOXOFFICE 2 Turkish
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl5WldSaWIzZ3ZkWEpzUFdoMGRIQWxNMEVsTWtZbE1rWjZaWEl3YkdsMlpTNW9hbXR0TG1sdVptOGxNMEV4TXpJNU1pVXlSbTFsY21OMWNua2xNa1ppWldsdVltOTRiMlptYVdObE1pVXlSbkJzWVhsc2FYTjBMbTB6ZFRnPXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://51.15.209.90:8800/data/img/files/19243_boxoffice3.jpg", BEIN BOXOFFICE 3 Turkish
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl5WldSaWIzZ3ZkWEpzUFdoMGRIQWxNMEVsTWtZbE1rWjZaWEl3YkdsMlpTNW9hbXR0TG1sdVptOGxNMEV4TXpJNU1pVXlSbTFsY21OMWNua2xNa1ppWldsdVltOTRiMlptYVdObE15VXlSbkJzWVhsc2FYTjBMbTB6ZFRnPXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://51.15.209.90:8800/data/img/files/23012_beinpremier.jpg", BEIN MOVIES PREMIER Turkish
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl5WldSaWIzZ3ZkWEpzUFdoMGRIQWxNMEVsTWtZbE1rWjZaWEl3YkdsMlpTNW9hbXR0TG1sdVptOGxNMEV4TXpJNU1pVXlSbTFsY21OMWNua2xNa1ppWldsdWJXOTJhV1Z6ZEhWeWF5VXlSbkJzWVhsc2FYTjBMbTB6ZFRnPXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://51.15.209.90:8800/data/img/files/BEYAZ.png", Beyaz TV Turkish
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl5WldSaWIzZ3ZkWEpzUFdoMGRIQWxNMEVsTWtZbE1rWjZaWEl3YkdsMlpTNW9hbXR0TG1sdVptOGxNMEV4TXpJNU1pVXlSbTFsY21OMWNua2xNa1ppWlhsaGVuUjJKVEpHY0d4aGVXeHBjM1F1YlROMU9BPT18WVhVMU5YVmFXSG80VTJwSk4yYzRYdz09fDU3MkNDMjMzLTdGQTgtNDc0MC05NjQ0LTA1Njk3RDVFQjQ5MHxSRU4zZUE9PQ%3D%3D$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://51.15.209.90:8800/data/img/files/CNNTK.png", CNN Turk Turkish
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl5WldSaWIzZ3ZkWEpzUFdoMGRIQWxNMEVsTWtZbE1rWjZaWEl3YkdsMlpTNW9hbXR0TG1sdVptOGxNMEV4TXpJNU1pVXlSbTFsY21OMWNua2xNa1pqYm01MGRYSnJKVEpHY0d4aGVXeHBjM1F1YlROMU9BPT18WVhVMU5YVmFXSG80VTJwSk4yYzRYdz09fDU3MkNDMjMzLTdGQTgtNDc0MC05NjQ0LTA1Njk3RDVFQjQ5MHxSRU4zZUE9PQ%3D%3D$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://51.15.209.90:8800/data/img/files/52919_discoverysci.jpg", DISCOVERY SCI Turk Turkish
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl5WldSaWIzZ3ZkWEpzUFdoMGRIQWxNMEVsTWtZbE1rWjZaWEl3YkdsMlpTNW9hbXR0TG1sdVptOGxNMEV4TXpJNU1pVXlSbTFoY25NbE1rWmthWE5qYjNabGNubHpZMmtsTWtad2JHRjViR2x6ZEM1dE0zVTR8WVhVMU5YVmFXSG80VTJwSk4yYzRYdz09fDU3MkNDMjMzLTdGQTgtNDc0MC05NjQ0LTA1Njk3RDVFQjQ5MHxSRU4zZUE9PQ%3D%3D$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://51.15.209.90:8800/data/img/files/25559_discovery.jpg", DISCOVERY TV Turk Turkish
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl5WldSaWIzZ3ZkWEpzUFdoMGRIQWxNMEVsTWtZbE1rWjZaWEl3YkdsMlpTNW9hbXR0TG1sdVptOGxNMEV4TXpJNU1pVXlSbTFsY21OMWNua2xNa1prYVhOamIzWmxjbmxqYUdGdWJtVnNKVEpHY0d4aGVXeHBjM1F1YlROMU9BPT18WVhVMU5YVmFXSG80VTJwSk4yYzRYdz09fDU3MkNDMjMzLTdGQTgtNDc0MC05NjQ0LTA1Njk3RDVFQjQ5MHxSRU4zZUE9PQ%3D%3D$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://51.15.209.90:8800/data/img/files/haberturk.png", Haber Turk Turkish
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl5WldSaWIzZ3ZkWEpzUFdoMGRIQWxNMEVsTWtZbE1rWjZaWEl3YkdsMlpTNW9hbXR0TG1sdVptOGxNMEV4TXpJNU1pVXlSbTFsY21OMWNua2xNa1pvWVdKbGNuUjFjbXNsTWtad2JHRjViR2x6ZEM1dE0zVTR8WVhVMU5YVmFXSG80VTJwSk4yYzRYdz09fDU3MkNDMjMzLTdGQTgtNDc0MC05NjQ0LTA1Njk3RDVFQjQ5MHxSRU4zZUE9PQ%3D%3D$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://51.15.209.90:8800/data/img/files/77061_historytv.jpg", HISTORY TV Turk Turkish
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl5WldSaWIzZ3ZkWEpzUFdoMGRIQWxNMEVsTWtZbE1rWjZaWEl3YkdsMlpTNW9hbXR0TG1sdVptOGxNMEV4TXpJNU1pVXlSbTFsY21OMWNua2xNa1pvYVhOMGIzSjVkSFowY2lVeVJuQnNZWGxzYVhOMExtMHpkVGc9fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://51.15.209.90:8800/data/img/files/3163_natgeo.jpg", NAT GEO Turk Turkish
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl5WldSaWIzZ3ZkWEpzUFdoMGRIQWxNMEVsTWtZbE1rWjZaWEl3YkdsMlpTNW9hbXR0TG1sdVptOGxNMEV4TXpJNU1pVXlSbTFsY21OMWNua2xNa1p1WVhSblpXOGxNa1p3YkdGNWJHbHpkQzV0TTNVNHxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://51.15.209.90:8800/data/img/files/95982_sinematv.jpg", SINEMA TV Turkish
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl5WldSaWIzZ3ZkWEpzUFdoMGRIQWxNMEVsTWtZbE1rWjZaWEl3YkdsMlpTNW9hbXR0TG1sdVptOGxNMEV4TXpJNU1pVXlSbTFsY21OMWNua2xNa1p6YVc1bGJXRjBkaVV5Um5Cc1lYbHNhWE4wTG0wemRUZz18WVhVMU5YVmFXSG80VTJwSk4yYzRYdz09fDU3MkNDMjMzLTdGQTgtNDc0MC05NjQ0LTA1Njk3RDVFQjQ5MHxSRU4zZUE9PQ%3D%3D$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://51.15.209.90:8800/data/img/files/77926_sinema1001.jpg", SINEMA TV 1001 Turkish
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl5WldSaWIzZ3ZkWEpzUFdoMGRIQWxNMEVsTWtZbE1rWjZaWEl3YkdsMlpTNW9hbXR0TG1sdVptOGxNMEV4TXpJNU1pVXlSbTFsY21OMWNua2xNa1p6YVc1bGJXRXhNREF4SlRKR2NHeGhlV3hwYzNRdWJUTjFPQT09fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://51.15.209.90:8800/data/img/files/80497_sinematv2.jpg", SINEMA TV 2 Turkish
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl5WldSaWIzZ3ZkWEpzUFdoMGRIQWxNMEVsTWtZbE1rWjZaWEl3YkdsMlpTNW9hbXR0TG1sdVptOGxNMEV4TXpJNU1pVXlSbTFsY21OMWNua2xNa1p6YVc1bGJXRjBkaklsTWtad2JHRjViR2x6ZEM1dE0zVTR8WVhVMU5YVmFXSG80VTJwSk4yYzRYdz09fDU3MkNDMjMzLTdGQTgtNDc0MC05NjQ0LTA1Njk3RDVFQjQ5MHxSRU4zZUE9PQ%3D%3D$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://51.15.209.90:8800/data/img/files/75027_sinemaaile.jpg", SINEMA TV AILE Turkish
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl5WldSaWIzZ3ZkWEpzUFdoMGRIQWxNMEVsTWtZbE1rWjZaWEl3YkdsMlpTNW9hbXR0TG1sdVptOGxNMEV4TXpJNU1pVXlSbTFsY21OMWNua2xNa1p6YVc1bGJXRmhhV3hsSlRKR2NHeGhlV3hwYzNRdWJUTjFPQT09fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://51.15.209.90:8800/data/img/files/12470_sinemaaksiyon.jpg", SINEMA TV AKSIYON Turkish
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl5WldSaWIzZ3ZkWEpzUFdoMGRIQWxNMEVsTWtZbE1rWjZaWEl3YkdsMlpTNW9hbXR0TG1sdVptOGxNMEV4TXpJNU1pVXlSbTFsY21OMWNua2xNa1p6YVc1bGJXRmhhM05wZVc5dUpUSkdjR3hoZVd4cGMzUXViVE4xT0E9PXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://51.15.209.90:8800/data/img/files/TV8.png", TV 8 Turkish
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl5WldSaWIzZ3ZkWEpzUFdoMGRIQWxNMEVsTWtZbE1rWjZaWEl3YkdsMlpTNW9hbXR0TG1sdVptOGxNMEV4TXpJNU1pVXlSbTFsY21OMWNua2xNa1owZGpnbE1rWndiR0Y1YkdsemRDNXRNM1U0fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1,•●★★--- Turkey ---★★●•
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/477
+#EXTINF:-1,TR: Lig tv (BeinSPorts) 2 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2623
+#EXTINF:-1,TR: Lig TV (BeinSPorts) 3 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2624
+#EXTINF:-1,TR: LIG TV (BeinSPorts) 1 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2625
+#EXTINF:-1,TR:DiSCOVERY CHANNEL TR *
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2626
+#EXTINF:-1,TR:DiSCOVERY SCiENCE TR
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2627
+#EXTINF:-1,TR:DISCOVERY TURBO XTRA TR
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2628
+#EXTINF:-1,TR: DiSNEY CHANNEL HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2629
+#EXTINF:-1,TR:DiSNEY JUNIOR
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2630
+#EXTINF:-1,TR: KANAL B
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2631
+#EXTINF:-1,TR: KRAL TV
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2632
+#EXTINF:-1,TR: KRAL TV POP
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2633
+#EXTINF:-1,TR: NR1 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2634
+#EXTINF:-1,TR: DREAM TURK
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2635
+#EXTINF:-1,TR:BEIN BOX OFFICE 1 TR
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2636
+#EXTINF:-1,TR:BEIN BOX OFFiCE 3 TR
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2637
+#EXTINF:-1,TR:BEIN BOX OFFiCE 2 TR
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2638
+#EXTINF:-1,TR:TRT 1 FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2639
+#EXTINF:-1,TR:ATV FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2640
+#EXTINF:-1,TR:STAR TV HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2641
+#EXTINF:-1,TR:KANAL D FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2642
+#EXTINF:-1,TR:SHOW TV HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2643
+#EXTINF:-1,TR:FOX TV HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2644
+#EXTINF:-1,TR:TEVE 2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2645
+#EXTINF:-1,TR:TV 8 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2646
+#EXTINF:-1,TR:TR: TV 8.5
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2647
+#EXTINF:-1,TR:TV8 INT
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2648
+#EXTINF:-1,TR:KANAL 7
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2649
+#EXTINF:-1,TR:BEYAZ TV
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2650
+#EXTINF:-1,TR:A2 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2651
+#EXTINF:-1,TR:A2 FHD TR
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2652
+#EXTINF:-1,TR: TLC
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2653
+#EXTINF:-1,TR:NTV FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2654
+#EXTINF:-1,TR:A HABER HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2655
+#EXTINF:-1,TR:CNN TURK FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2656
+#EXTINF:-1,TR:TRT HABER
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2657
+#EXTINF:-1,TR: TRT 1
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2023
+#EXTINF:-1,TR: TRT 2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2024
+#EXTINF:-1,TR: Star TV FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2117
+#EXTINF:-1,TR: Show TV
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2021
+#EXTINF:-1,TR: ATV
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2020
+#EXTINF:-1,TR: Kanal D
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2022
+#EXTINF:-1,TR: NATIONAL GEO WILD HQ
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/244
+#EXTINF:-1,TR: NATIONAL GEO HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/245
+#EXTINF:-1,TR: HABERTURK
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2658
+#EXTINF:-1,TR:TRT BELGESEL FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2659
+#EXTINF:-1,TR:TRT COCUK TR
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2660
+#EXTINF:-1,TR: HALK TV
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2661
+#EXTINF:-1,TR:TRT MUZiK
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2662
+#EXTINF:-1,TR:TELE 1
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2663
+#EXTINF:-1,TR:TRT SPOR HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2664
+#EXTINF:-1,TR:TRT TURK
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2665
+#EXTINF:-1,TR:TV 5
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2666
+#EXTINF:-1,TR: TV EM
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2667
+#EXTINF:-1,TR: TVNET HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2668
+#EXTINF:-1,TR:ULKE TV
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2669
+#EXTINF:-1,TR: ULUSAL KANAL
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2670
+#EXTINF:-1,TR:24 FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2671
+#EXTINF:-1,TR: KRAL POP AKUSTiK
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2672
+#EXTINF:-1,TR:360 TV
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2673
+#EXTINF:-1,TR:BEREKET TV
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2674
+#EXTINF:-1,TR:EUROSPORT 1 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2675
+#EXTINF:-1,TR:EUROSPORT 2 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2676
+#EXTINF:-1,TR:A SPOR HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2677
+#EXTINF:-1,TR:SMART SPOR TR
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2678
+#EXTINF:-1,TR: FB TV
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2679
+#EXTINF:-1,TR: GS TV
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2680
+#EXTINF:-1,TR:ANiMAL PLANET TR
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2681
+#EXTINF:-1,TR:BBC EARTH TR
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2682
+#EXTINF:-1,TR:DiSCOVERY CHANNEL TR
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2683
+#EXTINF:-1,TR: SPORTS TV HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2684
+#EXTINF:-1,TR: TRT WORLD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2685ZkWEpzUFdoMGRIQWxNMEVsTWtZbE1rWjZaWEl3YkdsMlpTNW9hbXR0TG1sdVptOGxNMEV4TXpJNU1pVXlSbTFsY21OMWNua2xNa1owZGpnbE1rWndiR0Y1YkdsemRDNXRNM1U0fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
