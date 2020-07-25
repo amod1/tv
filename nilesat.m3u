@@ -1,56 +1,1169 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color green]ARABIC TV - TV FABOR APK[/color]
-httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="", BeinSport 1
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNHaHZjM1E2THk4a2FIUjBjQzF5WVhjOWFIUjBjRG92TDJ4dlkyRnNhRzl6ZEM5aGJHSmliM2d6TXlSb2RIUndMWEpsWm1abGNtVnlQV2gwZEhBNkx5OHhOak11TVRjeUxqTTVMakUzTlRvNE1EZ3hMMnhwZG1VdlFrVkpUbE5RVDFKVU1TOXdiR0Y1YkdsemRDNXRNM1U0fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="", BeinSport 2
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNHaHZjM1E2THk4a2FIUjBjQzF5WVhjOWFIUjBjRG92TDJ4dlkyRnNhRzl6ZEM5aGJHSmliM2d6TXlSb2RIUndMWEpsWm1abGNtVnlQV2gwZEhBNkx5OHhOak11TVRjeUxqTTVMakUzTlRvNE1EZ3hMMnhwZG1VdlFrVkpUbE5RVDFKVU1pOXdiR0Y1YkdsemRDNXRNM1U0fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="", BeinSport 3
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNHaHZjM1E2THk4a2FIUjBjQzF5WVhjOWFIUjBjRG92TDJ4dlkyRnNhRzl6ZEM5aGJHSmliM2d6TXlSb2RIUndMWEpsWm1abGNtVnlQV2gwZEhBNkx5OHhOak11TVRjeUxqTTVMakUzTlRvNE1EZ3hMMnhwZG1VdlFrVkpUbE5RVDFKVU15OXdiR0Y1YkdsemRDNXRNM1U0fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="", BeinSport 4
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNHaHZjM1E2THk4a2FIUjBjQzF5WVhjOWFIUjBjRG92TDJ4dlkyRnNhRzl6ZEM5aGJHSmliM2d6TXlSb2RIUndMWEpsWm1abGNtVnlQV2gwZEhBNkx5OHhOak11TVRjeUxqTTVMakUzTlRvNE1EZ3hMMnhwZG1VdlFrVkpUbE5RVDFKVU5DOXdiR0Y1YkdsemRDNXRNM1U0fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="", BeinSport 5
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNHaHZjM1E2THk4a2FIUjBjQzF5WVhjOWFIUjBjRG92TDJ4dlkyRnNhRzl6ZEM5aGJHSmliM2d6TXlSb2RIUndMWEpsWm1abGNtVnlQV2gwZEhBNkx5OHhOak11TVRjeUxqTTVMakUzTlRvNE1EZ3hMMnhwZG1VdlFrVkpUbE5RVDFKVU5TOXdiR0Y1YkdsemRDNXRNM1U0fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="", BeinSport 6
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNHaHZjM1E2THk4a2FIUjBjQzF5WVhjOWFIUjBjRG92TDJ4dlkyRnNhRzl6ZEM5aGJHSmliM2d6TXlSb2RIUndMWEpsWm1abGNtVnlQV2gwZEhBNkx5OHhOak11TVRjeUxqTTVMakUzTlRvNE1EZ3hMMnhwZG1VdlFrVkpUbE5RVDFKVU5pOXdiR0Y1YkdsemRDNXRNM1U0fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="", BeinSport 7
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNHaHZjM1E2THk4a2FIUjBjQzF5WVhjOWFIUjBjRG92TDJ4dlkyRnNhRzl6ZEM5aGJHSmliM2d6TXlSb2RIUndMWEpsWm1abGNtVnlQV2gwZEhBNkx5OHhOak11TVRjeUxqTTVMakUzTlRvNE1EZ3hMMnhwZG1VdlFrVkpUbE5RVDFKVU55OXdiR0Y1YkdsemRDNXRNM1U0fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="", BeinSport 8
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNHaHZjM1E2THk4a2FIUjBjQzF5WVhjOWFIUjBjRG92TDJ4dlkyRnNhRzl6ZEM5aGJHSmliM2d6TXlSb2RIUndMWEpsWm1abGNtVnlQV2gwZEhBNkx5OHhOak11TVRjeUxqTTVMakUzTlRvNE1EZ3hMMnhwZG1VdlFrVkpUbE5RVDFKVU9DOXdiR0Y1YkdsemRDNXRNM1U0fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="", BeinSport 9
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNHaHZjM1E2THk4a2FIUjBjQzF5WVhjOWFIUjBjRG92TDJ4dlkyRnNhRzl6ZEM5aGJHSmliM2d6TXlSb2RIUndMWEpsWm1abGNtVnlQV2gwZEhBNkx5OHhOak11TVRjeUxqTTVMakUzTlRvNE1EZ3hMMnhwZG1VdlFrVkpUbE5RVDFKVU9TOXdiR0Y1YkdsemRDNXRNM1U0fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1 tvg-logo="", BeinSport 10
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNHaHZjM1E2THk4a2FIUjBjQzF5WVhjOWFIUjBjRG92TDJ4dlkyRnNhRzl6ZEM5aGJHSmliM2d6TXlSb2RIUndMWEpsWm1abGNtVnlQV2gwZEhBNkx5OHhOak11TVRjeUxqTTVMakUzTlRvNE1EZ3hMMnhwZG1VdlFrVkpUbE5RVDFKVU1UQXZjR3hoZVd4cGMzUXViVE4xT0E9PXxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1,Bein Sports 1
-httphost://$http-raw=https://www.janjuaplayer.com/hembedplayer/bieno1isk/1/600/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
-#EXTINF:-1,Bein Sports 2
-httphost://$http-raw=https://www.janjuaplayer.com/hembedplayer/beinsports3hzbaaac/1/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports3
-#EXTINF:-1,Bein Sports 4
-httphost://$http-raw=https://www.janjuaplayer.com/hembedplayer/beinsports4ad/1/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports4
-#EXTINF:-1,Bein Sports 5
-httphost://$http-raw=https://www.janjuaplayer.com/hembedplayer/stream_bein5az/1/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports5
-#EXTINF:-1,Bein Sports 6
-httphost://$http-raw=https://www.janjuaplayer.com/hembedplayer/beino6sij/1/600/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports6
-#EXTINF:-1,Bein Sports 7
-httphost://$http-raw=https://www.janjuaplayer.com/hembedplayer/stream_bein7hz/1/600/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports7
-#EXTINF:-1,Bein Sports 8
-httphost://$http-raw=https://www.janjuaplayer.com/hembedplayer/beinsports_8/1/600/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports8
-#EXTINF:-1,Bein Sports 9
-httphost://$http-raw=https://www.janjuaplayer.com/hembedplayer/beinsports9a/1/600/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports9
-#EXTINF:-1,Bein Sports 10
-httphost://$http-raw=https://www.janjuaplayer.com/hembedplayer/beinsports10hdaz/1/600/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports10
-#EXTINF:-1,Bein Sports 11
-httphost://$http-raw=https://www.janjuaplayer.com/hembedplayer/bein_stream11/1/600/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports11
-#EXTINF:-1,Bein Sports 12
-httphost://$http-raw=https://www.janjuaplayer.com/hembedplayer/beinsports10hdaz/1/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports12
+#EXTINF:-1,•●★★--- Islami ---★★●•
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/116
+#EXTINF:-1,AR: Saudi Qraan
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/126
+#EXTINF:-1,AR: Saudi Sunna
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/958
+#EXTINF:-1,AR: Almajd TV
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2092
+#EXTINF:-1,AR: Almajd Quraan
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/957
+#EXTINF:-1,AR: Almajd Hadeth
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/956
+#EXTINF:-1,AR:  Almajd Documentary
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2090
+#EXTINF:-1,AR:  Bahrain Quran
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2091
+#EXTINF:-1,AR: Ayat
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2089
+#EXTINF:-1,راديو مشارى بن راشد العفاسى
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2739
+#EXTINF:-1,راديو احمد بن على العجمى
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2740
+#EXTINF:-1,راديو محمد جبريل
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2741
+#EXTINF:-1,راديو عبدا الباسط عبد الصمد
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2742
+#EXTINF:-1,راديو ابو بكر الشاطرى
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2743
+#EXTINF:-1,راديو ماهر المعيقلى
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2744
+#EXTINF:-1,راديو الحصرى
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2745
+#EXTINF:-1,راديو احمد الطرابلسى
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2746
+#EXTINF:-1,•●★★---beIN SPORTS HEVC 2 M ---★★●•
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2854
+#EXTINF:-1,Bein Sport 1 Hevc 2m
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2855
+#EXTINF:-1,Bein Sport 2 Hevc 2m
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2856
+#EXTINF:-1,Bein Sport 3 Hevc 2m
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2857
+#EXTINF:-1,Bein Sport 4 Hevc 2m
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2858
+#EXTINF:-1,Bein Sport 5 Hevc 2m
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2859
+#EXTINF:-1,•●★★--- BEIN SPORTS HVEC---★★●•
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/492
+#EXTINF:-1,AR: beIN 4 K
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2853
+#EXTINF:-1,AR: beIN Sports 1 4K HEVC
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/459
+#EXTINF:-1,AR: beIN Sports 2 4K HEVC
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/450
+#EXTINF:-1,AR: beIN Sports  3 4K HEVC
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/451
+#EXTINF:-1,AR: beIN Sports  4 4K HEVC
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/452
+#EXTINF:-1,AR: beIN Sports  5 4K HEVC
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/453
+#EXTINF:-1,AR: beIN Sports  6 4K HEVC
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/454
+#EXTINF:-1,AR: beIN Sports  7 4K HEVC
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/455
+#EXTINF:-1,AR: beIN Sports  8 4K HEVC
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/456
+#EXTINF:-1,AR: beIN Sports  9 4K HEVC
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/457
+#EXTINF:-1,AR: beIN Sports  10 4K HEVC
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/458
+#EXTINF:-1,•●★★--- BEIN SPORTS HVEC LOCAL 8M ---★★●•
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2844
+#EXTINF:-1,beIN HEVC 1 G
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2845
+#EXTINF:-1,beIN HEVC 2 G
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2846
+#EXTINF:-1,beIN HEVC 3 G
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2847
+#EXTINF:-1,beIN HEVC 4 G
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2848
+#EXTINF:-1,beIN HEVC 5 G
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2849
+#EXTINF:-1,beIN HEVC 6 G
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2850
+#EXTINF:-1,beIN HEVC 7 G
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2852
+#EXTINF:-1,beIN HEVC 8 G
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2851
+#EXTINF:-1,•●★★--- beIN SPORTS HD ---★★●•
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/117
+#EXTINF:-1,AR: beIN Soprt HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/960
+#EXTINF:-1,AR: beIN sports News
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2051
+#EXTINF:-1,AR: beIN SPORTS HD1
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/46
+#EXTINF:-1,AR: beIN SPORTS HD2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/47
+#EXTINF:-1,AR: beIN SPORTS HD3
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/48
+#EXTINF:-1,AR: beIN SPORTS HD4
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/49
+#EXTINF:-1,AR: beIN SPORTS HD5
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/50
+#EXTINF:-1,AR: beIN SPORTS HD6
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/51
+#EXTINF:-1,AR: beIN SPORTS HD7
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/52
+#EXTINF:-1,AR: beIN SPORTS HD8
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/53
+#EXTINF:-1,AR: beIN SPORTS HD9
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/54
+#EXTINF:-1,AR: beIN SPORTS HD10
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/55
+#EXTINF:-1,AR: beIN SPORTS HD11
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/3001
+#EXTINF:-1,AR: beIN SPORTS HD12
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/3002
+#EXTINF:-1,•●★★---Local beIN SPORTS HD MS ---★★●•
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2860
+#EXTINF:-1,MS  beIN Sport 1 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2861
+#EXTINF:-1,MS beIN Sport 2 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2862
+#EXTINF:-1,MS beIN Sport 3 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2863
+#EXTINF:-1,MS beIN Sport 4 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2864
+#EXTINF:-1,MS beIN Sport 5 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2865
+#EXTINF:-1,MS beIN Sport 6 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2866
+#EXTINF:-1,MS beIN Sport 7 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2867
+#EXTINF:-1,MS beIN Sport 8 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2868
+#EXTINF:-1,MS beIN Sport 9 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2869
+#EXTINF:-1,MS beIN Sport 10 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2870
+#EXTINF:-1,•●★★---Local beIN SPORTS HD ---★★●•
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2058
+#EXTINF:-1,local bein sport hd 1
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2059
+#EXTINF:-1,local bein sport hd 2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2060
+#EXTINF:-1,local bein sport hd 3
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2061
+#EXTINF:-1,local bein sport hd 4
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2062
+#EXTINF:-1,local bein sport hd 5
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2063
+#EXTINF:-1,local bein sport hd 6
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2064
+#EXTINF:-1,local bein sport hd 7
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2065
+#EXTINF:-1,local bein sport hd 8
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2066
+#EXTINF:-1,•●★★--- beout Q--★★●•
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2990
+#EXTINF:-1,BEOUT 1 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2991
+#EXTINF:-1,BEOUT 2 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2992
+#EXTINF:-1,BEOUT 3 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2993
+#EXTINF:-1,BEOUT 4 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2994
+#EXTINF:-1,BEOUT 5 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2995
+#EXTINF:-1,BEOUT 6 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2996
+#EXTINF:-1,BEOUT 7 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2997
+#EXTINF:-1,BEOUT 8 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2998
+#EXTINF:-1,BEOUT 9HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2999
+#EXTINF:-1,BEOUT 10 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/3000
+#EXTINF:-1,•●★★--- beIN SPORTS SD ---★★●•
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2873
+#EXTINF:-1,AR: beIN SPORTS SD1
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/56
+#EXTINF:-1,AR: beIN SPORTS SD2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/57
+#EXTINF:-1,AR: beIN SPORTS SD3
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/58
+#EXTINF:-1,AR: beIN SPORTS SD4
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/59
+#EXTINF:-1,AR: beIN SPORTS SD5
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/60
+#EXTINF:-1,AR: beIN SPORTS SD6
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/93
+#EXTINF:-1,AR: beIN SPORTS SD7
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/92
+#EXTINF:-1,AR: beIN SPORTS SD8
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/91
+#EXTINF:-1,AR: beIN SPORTS SD9
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/61
+#EXTINF:-1,AR: beIN SPORTS SD10
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1459
+#EXTINF:-1,•●★★--- MS beIN SD-★★●•
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/3003
+#EXTINF:-1,beIN 1 SD MS
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/3004
+#EXTINF:-1,beIN 2 SD MS
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/3005
+#EXTINF:-1,beIN 3 SD MS
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/3006
+#EXTINF:-1,beIN 4 SD MS
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/3007
+#EXTINF:-1,beIN 5 SD MS
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/3008
+#EXTINF:-1,•●★★--- beIN SPORTS LOW ---★★●•
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/119
+#EXTINF:-1,AR: beIN SPORTS LOW1
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/62
+#EXTINF:-1,AR: beIN SPORTS LOW2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/63
+#EXTINF:-1,AR: beIN SPORTS LOW3
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/64
+#EXTINF:-1,AR: beIN SPORTS LOW4
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/65
+#EXTINF:-1,AR: beIN SPORTS LOW5
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/66
+#EXTINF:-1,AR:bein sport low6
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2108
+#EXTINF:-1,AR:bein sport low7
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2109
+#EXTINF:-1,AR:bein sport low8
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2110
+#EXTINF:-1,AR:bein sport low9
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2111
+#EXTINF:-1,AR: bein sport low10
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2112
+#EXTINF:-1,•●★★--- Radio beIN --★★●• 
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2014
+#EXTINF:-1,beIN Radio 1
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2015
+#EXTINF:-1,beIN Radio 2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2016
+#EXTINF:-1,beIN Radio 3
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2017
+#EXTINF:-1,beIN Radio 4
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2018
+#EXTINF:-1,beIN Radio 5
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2019
+#EXTINF:-1,•●★★--- beIN Entertainment ---★★●•
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/121
+#EXTINF:-1,AR: beIN Movies 1 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/24
+#EXTINF:-1,AR: beIN Movies 2 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/17
+#EXTINF:-1,AR: beIN Movies 3 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/18
+#EXTINF:-1,AR: beIN Movies 4 HD 
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/19
+#EXTINF:-1,AR: beIN Series 1 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/20
+#EXTINF:-1,AR: beIN Series 2 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/21
+#EXTINF:-1,AR:  beIN Outdoor
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/13
+#EXTINF:-1,AR:  beIN AMC
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/14
+#EXTINF:-1,AR: beIN  Drama
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/15
+#EXTINF:-1,AR: beIN  Gourmet
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/16
+#EXTINF:-1,AR: beIN Jeem HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/22
+#EXTINF:-1,AR: beIN Fox Movies
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/23
+#EXTINF:-1,AR: beIN FATAFEAT HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/25
+#EXTINF:-1,AR: beIN Baraeem
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2028
+#EXTINF:-1,AR: beIN Baraem 2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2950
+#EXTINF:-1,AR :beIN_BOOMERANG
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2945
+#EXTINF:-1,AR: beIN DTX
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2946
+#EXTINF:-1,AR: beIN JUNIOR HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2947
+#EXTINF:-1,AR: beIN DREAMWORKS HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2948
+#EXTINF:-1,AR:Cartoon Network Arabic
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2949
+#EXTINF:-1,AR: Seevii PRIME 1 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2951
+#EXTINF:-1,AR: Seevii_PRIME 2 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2952
+#EXTINF:-1,•●★★--- KAICER BOX OFFICE---★★●•
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/513
+#EXTINF:-1,KAICER BOX OFFICE 1
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/494
+#EXTINF:-1,KAICER BOX OFFICE 2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/512
+#EXTINF:-1,KAICER BOX OFFICE 3
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/515
+#EXTINF:-1,KAICER BOX OFFICE 4
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/514
+#EXTINF:-1,KAICER BOX OFFICE 5
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/516
+#EXTINF:-1,KAICER BOX OFFICE 6
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2465
+#EXTINF:-1,KAICER BOX OFFICE 7
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2466
+#EXTINF:-1,KAICER BOX ARAB 1
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1476
+#EXTINF:-1,KAICER BOX ARAB 2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1477
+#EXTINF:-1,KAICER BOX ARAB 3
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1478
+#EXTINF:-1,KAICER BOX ARAB 4
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1479
+#EXTINF:-1,KAICER BOX ARAB 5
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1480
+#EXTINF:-1,[NETFLIX] Action
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2418
+#EXTINF:-1,[NETFLIX] Thriller
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2419
+#EXTINF:-1,[NETFLIX] SCi-Fi
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2420
+#EXTINF:-1,[NETFLIX] Animation
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2421
+#EXTINF:-1,[NETFLIX] Horror
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2422
+#EXTINF:-1,NETFLIX_Comedy+
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2505
+#EXTINF:-1,NETFLIX_SCI FI
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2506
+#EXTINF:-1,NETFLIX_HOME_CINEMA_1
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2507
+#EXTINF:-1,shahid TV
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2464
+#EXTINF:-1,[Shahid Action]
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2423
+#EXTINF:-1,[Shahid Aflam]
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2424
+#EXTINF:-1,[Shahid Aflam2]
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2425
+#EXTINF:-1,[Shahid HINDI]
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2426
+#EXTINF:-1,[Shahid HORROR]
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2427
+#EXTINF:-1,[Shahid RMANCE]
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2428
+#EXTINF:-1,NETFLIX N action
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2463
+#EXTINF:-1,Netflex Action
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2116
+#EXTINF:-1,Netflix SCF FI
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2041
+#EXTINF:-1,Netflix Kids
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2042
+#EXTINF:-1,Netflix Horror
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2043
+#EXTINF:-1,Netflix Comedy
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2044
+#EXTINF:-1,NETFLIX  ACTION
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2047
+#EXTINF:-1,Netflix Comedy 2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2346
+#EXTINF:-1,NETFLIX_DRAMA
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2347
+#EXTINF:-1,NETFLIX_Musalsalat_3
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2349
+#EXTINF:-1,Netflix Horror 2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2350
+#EXTINF:-1,Netflix Bollywood
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2351
+#EXTINF:-1,Netflix Drama+
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2354
+#EXTINF:-1,NETFLIX_KIDS2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2357
+#EXTINF:-1,NETFLIX_THRILLER
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2358
+#EXTINF:-1,Alkaicer Action Movies
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2398
+#EXTINF:-1,Alkaicer B-Cinema
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2399
+#EXTINF:-1,Alkaicer Box-Movies
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2400
+#EXTINF:-1,Alkaicer Comedy-Movies
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2401
+#EXTINF:-1,Alkaicer Disney-Movies
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2402
+#EXTINF:-1,Alkaicer  Cinema_One
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2403
+#EXTINF:-1,Alkaicer Famely-Movies
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2404
+#EXTINF:-1,Alkaicer KidsCo-Movies
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2405
+#EXTINF:-1,Alkaicer MasterPiece-Movies
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2406
+#EXTINF:-1,Alkaicer Premiere-Movies
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2407
+#EXTINF:-1,Alkaicer Thriller-Movies
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2408
+#EXTINF:-1,Alkaicer W-Movies
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2409
+#EXTINF:-1,Alkaicer The-Movies
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2410
+#EXTINF:-1,Alkaicer The-Movies2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2411
+#EXTINF:-1,MAX HD HORROR 1
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2520
+#EXTINF:-1,TOM &JERRY LIVE
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2819
+#EXTINF:-1,X Premuim Movies
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2914
+#EXTINF:-1,X Premuim Cinema 2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2915
+#EXTINF:-1,X Premuim EL ZAE3EM
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2916
+#EXTINF:-1,X Premuim Tom & Jerry
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2920
+#EXTINF:-1,X Premuim Cinema 1
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2921
+#EXTINF:-1,X Premuim Kids
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2922
+#EXTINF:-1,Aroma Action
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2953
+#EXTINF:-1,Aroma Arabic Films
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2954
+#EXTINF:-1,Aroma Kids
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2955
+#EXTINF:-1,Aroma Discovery
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2956
+#EXTINF:-1,Aroma Drama Films
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2957
+#EXTINF:-1,Aroma Masra7yat
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2958
+#EXTINF:-1,Aroma Horror
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2959
+#EXTINF:-1,Aroma Zaman
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2960
+#EXTINF:-1,Aroma WWE
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2961
+#EXTINF:-1,Aroma  Box Office 1
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2962
+#EXTINF:-1,Aroma  Box Office 2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2963
+#EXTINF:-1,Aroma  Box Office 3
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2964
+#EXTINF:-1,Aroma  Box Office 4
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2965
+#EXTINF:-1,ShowMe Comedy HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2933
+#EXTINF:-1,ShowMe Tom & Jerry HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2934
+#EXTINF:-1,ShowMe Anime HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2935
+#EXTINF:-1,ShowMe Classic HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2936
+#EXTINF:-1,ShowMe Cinema HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2937
+#EXTINF:-1,HBO MAX 1
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2928
+#EXTINF:-1,HBO MAX 2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2929
+#EXTINF:-1,HBO MAX 3
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2930
+#EXTINF:-1,HBO MAX 4
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2931
+#EXTINF:-1,HBO MAX 5
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2932
+#EXTINF:-1,OXN YA HALA
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2971
+#EXTINF:-1,OXN YA HALA MIX
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2972
+#EXTINF:-1,OXN YA HALA CINEMA 1
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2973
+#EXTINF:-1,OXN YA HALA CINEMA 2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2974
+#EXTINF:-1,OXN YA HALA ZAMAN
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2975
+#EXTINF:-1,OXN YA HALA MOVIES 1
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2976
+#EXTINF:-1,OXN YA HALA MOVIES 2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2977
+#EXTINF:-1,OXN YA HALA INDIA
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2978
+#EXTINF:-1,OXN YA HALA TARAB
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2979
+#EXTINF:-1,OXN YA HALA CLIP
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2980
+#EXTINF:-1,4K-Horror
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2981
+#EXTINF:-1,4K-CINEMA 1
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2982
+#EXTINF:-1,4K-CINEMA 2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2983
+#EXTINF:-1,4K-INDIA
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2984
+#EXTINF:-1,4K-AFLAM 1
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2985
+#EXTINF:-1,4K-AFLAM 2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2986
+#EXTINF:-1,4K-AFLAM 3
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2987
+#EXTINF:-1,4K-AFLAM 4
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2988
+#EXTINF:-1,4K-ZAMAN
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2989
+#EXTINF:-1,Majestic Cinema 1 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/3009
+#EXTINF:-1,Majestic Cinema 2 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/3010
+#EXTINF:-1,Majestic Movies HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/3011
+#EXTINF:-1,Majestic Movies plus HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/3012
+#EXTINF:-1,Majestic Horror HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/3013
+#EXTINF:-1,Majestic Kids HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/3014
+#EXTINF:-1,Majestic Premium HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/3015
+#EXTINF:-1,Majistic Geographic HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/3016
+#EXTINF:-1,Majistic Tom &Jerry HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/3017
+#EXTINF:-1,•●★★--- ART Channels ---★★●•
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/122
+#EXTINF:-1,AR: ART Aflam 1
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/997
+#EXTINF:-1,AR: ART Aflam  2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/102
+#EXTINF:-1,AR: ART Cinema
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/103
+#EXTINF:-1,AR: ART Hekayat 1
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/104
+#EXTINF:-1,AR: ART Hekayat 2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/105
+#EXTINF:-1,•●★★--- OSN HD ---★★●•
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/124
+#EXTINF:-1,AR: OSN Nat Geo SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/85
+#EXTINF:-1,AR: OSN Cinema 1 SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/86
+#EXTINF:-1,AR: OSN Nat Geo pepole SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/88
+#EXTINF:-1,AR: OSN Star World SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/89
+#EXTINF:-1,AR: OSN Star Movies SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/90
+#EXTINF:-1,OSN:  ITV Choice
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2172
+#EXTINF:-1,[OSN] OSN Box Office 2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2825
+#EXTINF:-1,[OSN] OSN Box Office 3
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2826
+#EXTINF:-1,AR: OSN  Binge
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/84
+#EXTINF:-1,OSN Movies
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/153
+#EXTINF:-1,OSN Disney XD HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2543
+#EXTINF:-1,[OSN] Alfa Mosalsalat
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/995
+#EXTINF:-1,[OSN] Alfa Musalsalat 2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2542
+#EXTINF:-1,OSN : M TV
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/154
+#EXTINF:-1,OSN Action
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/155
+#EXTINF:-1,OSN YAHALA HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/156
+#EXTINF:-1,OSN Nat Geo
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/157
+#EXTINF:-1,OSN Nat Geo Pepole
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/158
+#EXTINF:-1,OSN Star Movies
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/159
+#EXTINF:-1,OSN Star World 
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/160
+#EXTINF:-1,OSN Ya Hala Cinema
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/161
+#EXTINF:-1,OSN Disny Junior
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/162
+#EXTINF:-1,OSN Enigma
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/164
+#EXTINF:-1,OSN Discovery Show 
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/165
+#EXTINF:-1,OSN TLC
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/166
+#EXTINF:-1,OSN: Nickelodeon HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2969
+#EXTINF:-1,OSN History Channel
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/167
+#EXTINF:-1,OSN Discovery Science 
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/168
+#EXTINF:-1,OSN  OSN BBC First
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/169
+#EXTINF:-1,OSN Movies First 
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/170
+#EXTINF:-1,OSN Movies Disney
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/171
+#EXTINF:-1,OSN  Movies First  +2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/175
+#EXTINF:-1, OSN: Disney Channel
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/667
+#EXTINF:-1,OSN: Movies First  
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/738
+#EXTINF:-1,[OSN] Movies 
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/963
+#EXTINF:-1,[OSN] wwe
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/994
+#EXTINF:-1,[OSN] Food
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/993
+#EXTINF:-1,[OSN] Alfa Cinema 1
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/991
+#EXTINF:-1,[OSN] Alfa Cinema 2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/992
+#EXTINF:-1,[OSN] OSN Cinema
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/964
+#EXTINF:-1,[OSN] Alfa Alyoum
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/990
+#EXTINF:-1,[OSN] OSN Ya Hala Aloula
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/988
+#EXTINF:-1,[OSN] : Enigma
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/987
+#EXTINF:-1,[OSN] OSN Series First
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/986
+#EXTINF:-1,[OSN] OSN Animal Planet
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/962
+#EXTINF:-1,[OSN] OSN Nat Geo Abudhabi
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/983
+#EXTINF:-1,[OSN] OSN Nat Geo Wild
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/982
+#EXTINF:-1,[OSN] OSN Comedy
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/965
+#EXTINF:-1,[OSN] OSN Nat Geo People
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/981
+#EXTINF:-1,[OSN] OSN Movies First
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/980
+#EXTINF:-1,[OSN] Nick JR
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/979
+#EXTINF:-1,[OSN] OSN Living
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/977
+#EXTINF:-1,[OSN] OSN Kids
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/976
+#EXTINF:-1,[OSN] Premer
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/975
+#EXTINF:-1,[OSN] Movies Family
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/974
+#EXTINF:-1,[OSN] OSN Box Office 1
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/973
+#EXTINF:-1,[OSN] premere 2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/972
+#EXTINF:-1,OSN Fight Box HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/971
+#EXTINF:-1,[OSN] OSN Discovery HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/969
+#EXTINF:-1,[OSN] Discovery ID
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/968
+#EXTINF:-1,[OSN] OSN Comedy Central
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/966
+#EXTINF:-1,OSN: ON-DEMAND-1HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2827
+#EXTINF:-1,OSN: ON-DEMAND-2HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2828
+#EXTINF:-1,OSN: ON-DEMAND-3HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2829
+#EXTINF:-1,OSN: ON-DEMAND-EXTRA-1HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2830
+#EXTINF:-1,OSN: ON-DEMAND-EXTRA-2HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2831
+#EXTINF:-1,OSN: ON-DEMAND-EXTRA-3HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2832
+#EXTINF:-1,YAHALA_SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2891
+#EXTINF:-1,Ya_Hala_Oula_SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2892
+#EXTINF:-1,YAHALA_CINEMA_SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2893
+#EXTINF:-1,CINEMA1_SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2894
+#EXTINF:-1,FANN _SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2895
+#EXTINF:-1,MUSIC_NOW_SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2896
+#EXTINF:-1,ALYOUM_SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2897
+#EXTINF:-1,MUSALSALAT_SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2898
+#EXTINF:-1,MOVIES_SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2899
+#EXTINF:-1,Movies_First_SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2901
+#EXTINF:-1,History_Channel_SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2903
+#EXTINF:-1,NAT_GEO_People_SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2904
+#EXTINF:-1,Nat_GEO_Wild_SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2905
+#EXTINF:-1,•●★★--- MBC HD ---★★●•
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/125
+#EXTINF:-1,MYHD: MBC 1 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/845
+#EXTINF:-1,MYHD: MBC 2 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/846
+#EXTINF:-1,MYHD: MBC 3 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/847
+#EXTINF:-1,MYHD: MBC 4 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/848
+#EXTINF:-1,MYHD: MBC 5 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2114
+#EXTINF:-1,MYHD: MBC Bollywood HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/849
+#EXTINF:-1,MYHD: MBC Massr HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/850
+#EXTINF:-1,MYHD: MBC Masr 2 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/851
+#EXTINF:-1,MYHD: MBC Drama HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/852
+#EXTINF:-1,MYHD: MBC Action HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/853
+#EXTINF:-1,MYHD: MBC Max HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/854
+#EXTINF:-1,MYHD: MBC Iraq HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/855
+#EXTINF:-1,MYHD: MBC Drama+ HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/856
+#EXTINF:-1,MYHD: MBC+Variety HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/857
+#EXTINF:-1,MYHD: FOX Rewayat HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/859
+#EXTINF:-1,MYHD: FOX Life HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/860
+#EXTINF:-1,MYHD: Family Movies HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/861
+#EXTINF:-1,MYHD: FOX Crime HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/862
+#EXTINF:-1,MYHD: Fox Action
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/863
+#EXTINF:-1,MYHD: Film box
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/864
+#EXTINF:-1,MYHD: Docu Box HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/865
+#EXTINF:-1,MYHD: Fight Box HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/866
+#EXTINF:-1,MYHD: Fox Movies
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/867
+#EXTINF:-1,MYHD: Planet Earth HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/869
+#EXTINF:-1,MYHD: Discovery SC HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/871
+#EXTINF:-1,MYHD: Gulli Arabic HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/872
+#EXTINF:-1,MYHD: Duck TV HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/874
+#EXTINF:-1,MBC_1 sd
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2771
+#EXTINF:-1,MBC_2 sd
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2772
+#EXTINF:-1,MBC_3 sd
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2773
+#EXTINF:-1,MBC_4 sd
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2774
+#EXTINF:-1,,MBC_5 sd
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2775
+#EXTINF:-1,MBC_MAX sd
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2776
+#EXTINF:-1,MBC_ACTION sd
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2777
+#EXTINF:-1,MBC_DRAMA sd
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2778
+#EXTINF:-1,MBC_MASR sd
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2779
+#EXTINF:-1,MBC_MASR 2 sd
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2780
+#EXTINF:-1,MBC_FM_PANORAMA sd
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2781
+#EXTINF:-1,•●★★--- KIDS ---★★●•
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1009
+#EXTINF:-1,AR: Semsem
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1010
+#EXTINF:-1,AR: Cartoon Network
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1011
+#EXTINF:-1,AR: Taha
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1012
+#EXTINF:-1,AR: Al Mickey Channel
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1013
+#EXTINF:-1,AR: Atfal W Mawaheb
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1014
+#EXTINF:-1,AR: Kooky
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1015
+#EXTINF:-1,AR: Hodhod
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1021
+#EXTINF:-1,AR: Toyor Baby
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1018
+#EXTINF:-1,AR: Toyor Al Ganna
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1020
+#EXTINF:-1,AR: Maged
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1019
+#EXTINF:-1,AR: Spacetoon
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1017
+#EXTINF:-1,AR: Mody Kids
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1016
+#EXTINF:-1,TOM & JERRY LIVE
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2429
+#EXTINF:-1,•●★★--- NEWS ---★★●•
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/998
+#EXTINF:-1,AR: Al Jazeera
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/999
+#EXTINF:-1,AR: Al Jazeera Documentry
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1000
+#EXTINF:-1,AR: Al ALArabiya
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1001
+#EXTINF:-1,AR: Al ALArabiya Alhadaath
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1002
+#EXTINF:-1,AR: BBC Arabic
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1005
+#EXTINF:-1,AR: RT News
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1008
+#EXTINF:-1,AR: Sky News
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1007
+#EXTINF:-1,AR: TRT-ELARABIYE
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1006
+#EXTINF:-1,AR: DW TV ARABIA
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1004
+#EXTINF:-1,AR: AL-AAN-TV
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1003
+#EXTINF:-1,•●★★--- Rotana ---★★●•
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/176
+#EXTINF:-1,AR:Rotana Cinema 
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/106
+#EXTINF:-1,AR: Rotana Cinema KSA
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/107
+#EXTINF:-1,AR:Rotana Aflam
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/108
+#EXTINF:-1,AR: Rotana  Comedy 
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/109
+#EXTINF:-1,AR: Rotana Classic 
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/110
+#EXTINF:-1,•●★★--- Egypt ---★★●•
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/511
+#EXTINF:-1,AR: ON Time Sport 1 SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2397
+#EXTINF:-1,AR: ON Time Sport 1HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/507
+#EXTINF:-1,AR: ON Time Sport 2 SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2396
+#EXTINF:-1,AR: ON Time Sport 2 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/949
+#EXTINF:-1,AR: Time Sport HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/953
+#EXTINF:-1,AR: Time Sport
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/951
+#EXTINF:-1,AR: Alahly
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/952
+#EXTINF:-1,AR: Zamalek TV
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2068
+#EXTINF:-1,AR:  Sada Elbabad
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/495
+#EXTINF:-1,AR:  Nile Sport
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/496
+#EXTINF:-1,AR:  Nile Comedy
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/497
+#EXTINF:-1,AR: Nile News
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/498
+#EXTINF:-1,AR:Cairo Drama
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/499
+#EXTINF:-1,AR:CBC Drama
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/500
+#EXTINF:-1,AR:CBC Sofra
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/501
+#EXTINF:-1,AR:CBC
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/502
+#EXTINF:-1,AR:DMC
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/503
+#EXTINF:-1,AR:Alnahar
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/504
+#EXTINF:-1,AR: ALnahar Drama
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/505
+#EXTINF:-1,AR: ON Drama
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/506
+#EXTINF:-1,AR: ON E
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/508
+#EXTINF:-1,AR: Alhayah
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/509
+#EXTINF:-1,AR:  Maspero-Zaman
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/950
+#EXTINF:-1,AR: Mehwar
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/510
+#EXTINF:-1,•●★★--- PALESTINE ---★★●•
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/493
+#EXTINF:-1,AR: Fele Sport HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2841
+#EXTINF:-1,AR: betlahem 1 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2843
+#EXTINF:-1,AR: Betlahem 2 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2842
+#EXTINF:-1,AR: FajerTV1 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/584
+#EXTINF:-1,AR: FajerTV1 SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/585
+#EXTINF:-1,AR: FajerTV2 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/587
+#EXTINF:-1,AR: FajerTV2 SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/588
+#EXTINF:-1,AR: FajerTV3 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/590
+#EXTINF:-1,AR: FajerTV4 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/593
+#EXTINF:-1,AR: FajerTV5 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/596
+#EXTINF:-1,AR: Raya
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/481
+#EXTINF:-1,AR: Ajyal
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/482
+#EXTINF:-1,AR: Amwaj sport
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/484
+#EXTINF:-1,Al salam
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/483
+#EXTINF:-1,AR: Palstine Today
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/486
+#EXTINF:-1,AR: Alhorrya
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2942
+#EXTINF:-1,AR: Alhorrya sport
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2943
+#EXTINF:-1,AR: Aqsa tv
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2944
+#EXTINF:-1,VARZESH TV 1
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2782
+#EXTINF:-1,VARZESH TV 2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2783
+#EXTINF:-1,VARZESH TV 3
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2784
+#EXTINF:-1,VARZESH TV 4
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2785
+#EXTINF:-1,AR: Fajr 1 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/448
+#EXTINF:-1,AR: Fajr 2 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/449
+#EXTINF:-1,•●★★--- MAROC ---★★●•
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/725
+#EXTINF:-1, MA:ALOULA INT 
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/726
+#EXTINF:-1, MA:ALMAGHRIBIA 
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/727
+#EXTINF:-1, MA:2M 
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/728
+#EXTINF:-1, MA:ALRABIA 
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/729
+#EXTINF:-1, MA:ASSADISA 
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/730
+#EXTINF:-1, MA: telemaroc 
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/733
+#EXTINF:-1, MA:ARRIADIA 
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/731
+#EXTINF:-1, MA:MEDI1 
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/732
+#EXTINF:-1, MA:ALMAGHRIBIA NEWS 
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/734
+#EXTINF:-1, MA:TELE MAROC 
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/735
+#EXTINF:-1, MA:TAMAZIGHT 
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/736
+#EXTINF:-1,•●★★--- TUNISIA ---★★●•
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/889
+#EXTINF:-1,TN:WATANIA1
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/890
+#EXTINF:-1,TN:WATANIA2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/891
+#EXTINF:-1,TN:ELHIWAR
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/892
+#EXTINF:-1,TN:NESSMA
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/893
+#EXTINF:-1,Tunisia Carthage
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2541
+#EXTINF:-1,TN:HANNIBAL
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/894
+#EXTINF:-1,TN:ATTESIA
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/895
+#EXTINF:-1,TN:MTUNISIA
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/896
+#EXTINF:-1,TN:TELEVISION1
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/903
+#EXTINF:-1,TN:SAHELTV
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/905
+#EXTINF:-1,TN:ALMOSTKELLA
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/902
+#EXTINF:-1,TN:ALINSEN
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/901
+#EXTINF:-1,TN:ZAYTOUNA
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/900
+#EXTINF:-1,TN:TELVZATV
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/899
+#EXTINF:-1,TN:JANOUBIA
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/898
+#EXTINF:-1,TN:TOUNESNA
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/897
+#EXTINF:-1,•●★★--- ALGERIA ---★★●•
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/906
+#EXTINF:-1,Algerian:CANAL ALGERIE
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/907
+#EXTINF:-1,Algerian:ALGERIE3
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/908
+#EXTINF:-1,Algerian:DZAIR
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/909
+#EXTINF:-1,Algerian:ECHOUROUK
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/911
+#EXTINF:-1,Algerian:DJAZAIRIA
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/910
+#EXTINF:-1,Algerian:Echorouk BENNA
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/912
+#EXTINF:-1,Algerian:Dzair2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/913
+#EXTINF:-1,Algerian:ECHOUROUK NEWS HD*
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/914
+#EXTINF:-1,Algerian:SAMIRA TV
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/915
+#EXTINF:-1,AR:Baby-lon
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/916
+#EXTINF:-1,Algerian:ENTV
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/917
+#EXTINF:-1,Algerian:Bahia Tv
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/946
+#EXTINF:-1,Algerian:TV BERBERE HD*
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/945
+#EXTINF:-1,Algerian:BEUR TV
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/918
+#EXTINF:-1,Algerian:ALHADEF
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/919
+#EXTINF:-1,Algerian:Canal-6-Feed
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/944
+#EXTINF:-1,AL MAGHRIBIA
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/943
+#EXTINF:-1,Algerian:CHAMS TV
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/940
+#EXTINF:-1,Algerian:ENTV TERRESTRE DZ
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/941
+#EXTINF:-1,Algerian:ELHAYA-ALGERIE
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/938
+#EXTINF:-1,Music: George Wassouf
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/939
+#EXTINF:-1,Algerian: AWRAS TV
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/937
+#EXTINF:-1,Music: Sabah.Fakhri
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/936
+#EXTINF:-1,Algerian: Ennahar-Laki
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/934
+#EXTINF:-1,Algerian: ENNAHAR TV
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/935
+#EXTINF:-1,Algerian: Echorouk-benna
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/932
+#EXTINF:-1,Algerian: El-Heddaf.TV
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/933
+#EXTINF:-1,Algerian: BAHIA
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/931
+#EXTINF:-1,Algerian: Samira
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/927
+#EXTINF:-1,Algerian:ENNAHAR
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/924
+#EXTINF:-1,Algerian:Numidia--TV
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/922
+#EXTINF:-1,Algerian:ECHOUROUK News TV
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/923
+#EXTINF:-1,Algerian-ELBILAD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/926
+#EXTINF:-1,Algerian:Algeria-DZAIR 3
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/925
+#EXTINF:-1,Algerian: ALGERIE3
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/928
+#EXTINF:-1,Algerian: ALGERIE4
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/929
+#EXTINF:-1,Algerian: ALGERIE5
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/930
+#EXTINF:-1,•●★★--- SYRIA --★★●• 
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1999
+#EXTINF:-1,SY: SYRIA. ALOULA
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2000
+#EXTINF:-1,SY: SYRIA.DRAMA
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2001
+#EXTINF:-1,Syr-Sama-TV+
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2002
+#EXTINF:-1,SY: LANA Tv
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2003
+#EXTINF:-1,SY: Sama.alsham
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2013
+#EXTINF:-1,SY: SYRIA-TV2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2005
+#EXTINF:-1,SY: NOUREL SHAM
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2012
+#EXTINF:-1,SY: Halab-Today
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2011
+#EXTINF:-1,SY: Al.KhabarTV HD*
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2010
+#EXTINF:-1,SY: Drama-Al-Badawya
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2007
+#EXTINF:-1,SY:  LANA Tv HD*
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2009
+#EXTINF:-1,SY: ORIENT
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2004
+#EXTINF:-1,SY: SAMA TV SYRIA HD*
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2008
+#EXTINF:-1,SY: SYRIA.ALIKHBARIA
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2006
+#EXTINF:-1,AR: Tarbawia
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2057
+#EXTINF:-1,•●★★--- AD Sports ---★★●•
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/123
+#EXTINF:-1,AR: AD Sport 1
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/112
+#EXTINF:-1,AR: AD Sport 2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/113
+#EXTINF:-1,AR: AD Sport 3
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/114
+#EXTINF:-1,AR: AD Sport 4
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/115
+#EXTINF:-1,AR: KSA Sports 1
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2053
+#EXTINF:-1,AR: KSA Sports 2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2054
+#EXTINF:-1,AR: KSA SPORTS 3
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2055
+#EXTINF:-1,AR: ksa Sport 4
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2056
+#EXTINF:-1,AR: Alkass 1
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1461
+#EXTINF:-1,AR: Alkass 2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1462
+#EXTINF:-1,AR: Alkass 3
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1463
+#EXTINF:-1,AR: Alkass 4
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1464
+#EXTINF:-1,IR: Varzesh
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2113
+#EXTINF:-1,IR: Varzesh 3
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2417
+#EXTINF:-1,HU: GALAXY 4
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2158
+#EXTINF:-1,Arena Sport 2 (Serb)
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1466
+#EXTINF:-1,Arena Sport 3 (Serb
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1467
+#EXTINF:-1,Arena Sport 4 (Serb
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1468
+#EXTINF:-1,Arena Sport 5 (Serb)
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1469
+#EXTINF:-1,Arena Sport 1 (Serb)
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1465
+#EXTINF:-1,PT: Sport TV 
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2165
+#EXTINF:-1,PT: Sport TV 1 HD 
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2166
+#EXTINF:-1,PT: Sport TV 2 HD 
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2167
+#EXTINF:-1,PT: Sport TV 3 HD 
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2168
+#EXTINF:-1,PT: Sport TV 4 HD 
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2169
+#EXTINF:-1,PT:  Sport TV 5 HD 
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2170
+#EXTINF:-1,MATCH 1 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2837
+#EXTINF:-1,TRT Sport HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2839
+#EXTINF:-1,RAI 1 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2836
+#EXTINF:-1,BT SPORT 1 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2840
