@@ -13,3 +13,11 @@ httphost://$http-raw=https://wstream.to/embed/rxujvy5u40gwel$http-refferer=https
 httphost://$http-raw=https://wstream.to/embed/oh66wnqhpbdcy$http-refferer=https://v2.sportzonline.to/channels/pt/sporttv4.phphttphost://$http-raw=https://wstream.to/embed/oecm2no$http-refferer=https://v2.sportzonline.to/channels/pt/sporttv5.php
 #EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/static/logos/sporttv-5.svg",SPORT TV5
 httphost://$http-raw=https://wstream.to/embed/oecm2no$http-refferer=https://v2.sportzonline.to/channels/pt/sporttv5.php
+#EXTINF:-1,PT: ELEVEN SPORTS 1 PORTUGAL FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/831
+#EXTINF:-1,PT: ELEVEN SPORTS 1 PORTUGAL HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/832
+#EXTINF:-1,PT: ELEVEN SPORTS 2 PORTUGAL FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/833
+#EXTINF:-1,PT: ELEVEN SPORTS 2 PORTUGAL HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/834
