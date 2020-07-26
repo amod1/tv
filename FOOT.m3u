@@ -84,9 +84,7 @@ httphost://$http-raw=https://wstream.to/embed/hyhtubdiidbixd$http-refferer=https
 #EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/skysport_pl.png", Sky Sports Premier League
 httphost://$http-raw=https://telerium.tv/embed/46572.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
 #EXTINF:0 tvg-logo="png", Sky Sports Arena
-httphost://$http-raw=https://telerium.tv/embed/46570.html$http-refferer=http://hindimean.com/freestreams/skysportsarena.php
-#EXTINF:0 tvg-logo="https://daddylive.live/images/canalplus_pl_sport_hd.png", Canal+ Sport Poland
-httphost://$http-raw=https://wstream.to/embed/mysxo54w$http-refferer=https://daddylive.live/channels/stream-45.php
+httphost://$http-raw=https://wstream.to/embed/otbv54$http-refferer=http://hindimean.com/freestreams/skysportsarena.php
 #EXTINF:0 tvg-logo="https://daddylive.live/images/polsat_sport_hd.png", Polsat Sport Poland
 httphost://$http-raw=https://wstream.to/embed/l4c5imd157q05$http-refferer=https://daddylive.live/channels/stream-45.php
 #EXTINF:0 tvg-logo="https://daddylive.live/images/canalplus_pl_sport_hd.png", Canal+ Sport Poland
