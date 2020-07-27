@@ -43,9 +43,9 @@ httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/rmcsport_1.png", RMC Sport 1
 httphost://$http-raw=https://telerium.tv/embed/56900.html$http-refferer=https://zonadeportiva.info/tg.php?id=live8t
 #EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/rmcsport_2.png", RMC Sport 2
-httphost://$http-raw=https://telerium.tv/embed/56827.html$http-refferer=http://vipracing.info
+httphost://$http-raw=https://telerium.tv/embed/56827.html$http-refferer=http://totalsport.me/
 #EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/rmcsport_3.png", RMC Sport 3
-httphost://$http-raw=https://telerium.tv/embed/35238.html$http-refferer=https://channelstream.club/stream/rmc_sport-1.php
+httphost://$http-raw=https://telerium.tv/embed/35238.html$http-refferer=http://streamendirect.com/
 #EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/rmcsport_4.png", RMC Sport 4
 httphost://$http-raw=https://telerium.tv/embed/33949.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
 #EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/rmcsport_5.png", RMC Sport Live 5
