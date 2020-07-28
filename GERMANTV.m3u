@@ -1,261 +1,497 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color green]DEUTSCHLAND TV - TV FABOR APK[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,DE: 3 SAT FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1222
-#EXTINF:-1,DE: 13 STREET HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1223
-#EXTINF:-1,DE: 13th Street FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1224
-#EXTINF:-1,DE: ANIXE
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1226
-#EXTINF:-1,DE: ARD FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1227
-#EXTINF:-1,DE: ARD One HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1228
-#EXTINF:-1,DE: A&E HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1225
-#EXTINF:-1,DE: ARTE HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1229
-#EXTINF:-1,DE: Auto Motor Sport HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1232
-#EXTINF:-1,DE: AXN HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1233
-#EXTINF:-1,DE: B TIME SELECT 8 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1235
-#EXTINF:-1,DE: B TIME SELECT 10 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1236
-#EXTINF:-1,DE: BIBEL TV HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1237
-#EXTINF:-1,DE: Boomerang HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1238
-#EXTINF:-1,DE: Cartoon Network HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1239
-#EXTINF:-1,DE: Comedy Central HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1240
-#EXTINF:-1,DE: DAS ERSTE FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1241
-#EXTINF:-1,DE: DAZN 1 Bar FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1242
-#EXTINF:-1,DE: DAZN 1 FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1243
-#EXTINF:-1,DE: DAZN 2 Bar FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1244
-#EXTINF:-1,DE: DAZN 2 FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1245
-#EXTINF:-1,DE: Deluxe Music HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1246
-#EXTINF:-1,DE: DEUTSCHES MUSIK HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1247
-#EXTINF:-1,DE: Discovery CHANNEL HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1248
-#EXTINF:-1,DE: Disney Channel FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1249
-#EXTINF:-1,DE: Disney Cinemagic FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1250
-#EXTINF:-1,DE: Disney Junior HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1251
-#EXTINF:-1,DE: Disney XD HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1252
-#EXTINF:-1,DE: DMAX FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1253
-#EXTINF:-1,DE: E! FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1255
-#EXTINF:-1,DE: EAGLE CINEMA ABENTEUER HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1256
-#EXTINF:-1,DE: Elite Cinema 1 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1257
-#EXTINF:-1,DE: Elite Cinema 2 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1258
-#EXTINF:-1,DE: Elite Cinema 3 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1259
-#EXTINF:-1,DE: Elite Cinema 4 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1260
-#EXTINF:-1,DE: ERZ TV STOLLBERG
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1261
-#EXTINF:-1,DE: euronews HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1262
-#EXTINF:-1,DE: EUROSPORT 1 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1263
-#EXTINF:-1,DE: EUROSPORT 2 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1264
-#EXTINF:-1,DE: EUROSPORT 2 XTRA FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1265
-#EXTINF:-1,DE: FILSTALWELLE HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1266
-#EXTINF:-1,DE: FOLX TV
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1267
-#EXTINF:-1,DE: FOX FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1268
-#EXTINF:-1,DE: Heimatkanal HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1269
-#EXTINF:-1,DE: HISTORY CHANNEL
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1270
-#EXTINF:-1,DE: HR
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1271
-#EXTINF:-1,DE: Kabel
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1272
-#EXTINF:-1,DE: Kabel 1 Doku HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1273
-#EXTINF:-1,DE: Kabel Doku
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1275
-#EXTINF:-1,DE: Kabel 1 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1274
-#EXTINF:-1,DE: Kabel Eins Classica HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1276
-#EXTINF:-1,DE: Kabel Eins Doku HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1277
-#EXTINF:-1,DE: Kabel Eins FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1278
-#EXTINF:-1,DE: KIKA HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1279
-#EXTINF:-1,DE: MDR S Anhalt FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1281
-#EXTINF:-1,DE: MotorVision HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1282
-#EXTINF:-1,DE: MTV FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1283
-#EXTINF:-1,DE: MUNCHEN TV FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1284
-#EXTINF:-1,DE: N TV HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1285
-#EXTINF:-1,DE: N-TV HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1286
-#EXTINF:-1,DE: N24 Doku HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1287
-#EXTINF:-1,DE: MDR HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1280
-#EXTINF:-1,DE: N24 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1288
-#EXTINF:-1,DE: NAT GEO FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1289
-#EXTINF:-1,DE: NAT GEO WILD FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1290
-#EXTINF:-1,DE: NDR Fernsehen HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1291
-#EXTINF:-1,DE: NDR HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1292
-#EXTINF:-1,DE: Nickelodeon HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1293
-#EXTINF:-1,DE: NITRO HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1294
-#EXTINF:-1,DE: NRJ TV HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1295
-#EXTINF:-1,DE: ONE HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1298
-#EXTINF:-1,DE: Phoenix HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1299
-#EXTINF:-1,DE: Planet HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1300
-#EXTINF:-1,DE: POPCORN SELECT 2
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1302
-#EXTINF:-1,DE: POPCORN SELECT 3
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1303
-#EXTINF:-1,DE: POPCORN SELECT 4
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1304
-#EXTINF:-1,DE: POPCORN SELECT 5
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1305
-#EXTINF:-1,DE: Popcorn Select 6 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1306
-#EXTINF:-1,DE: POPCORN SELECT 7
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1307
-#EXTINF:-1,DE: POPCORN SELECT 8
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1308
-#EXTINF:-1,DE: POPCORN SELECT 9
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1309
-#EXTINF:-1,DE: PRO 7 MAXX HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1311
-#EXTINF:-1,DE: PRO7 FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1312
-#EXTINF:-1,DE: ProSieben Fun FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1314
-#EXTINF:-1,DE: ProSieben Maxx HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1315
-#EXTINF:-1,DE: RBB Berlin HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1316
-#EXTINF:-1,DE: Rnf
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1317
-#EXTINF:-1,DE: ROMANCE TV HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1318
-#EXTINF:-1,DE: RTL 1 FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1319
-#EXTINF:-1,DE: RTL 2 FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1320
-#EXTINF:-1,DE: RTL Crime FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1321
-#EXTINF:-1,DE: RTL HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1322
-#EXTINF:-1,DE: RTL II HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1323
-#EXTINF:-1,DE: RTL Living HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1324
-#EXTINF:-1,DE: RTL Nitro HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1325
-#EXTINF:-1,DE: RTL PASION
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1326
-#EXTINF:-1,DE: RTL Passion FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1327
-#EXTINF:-1,DE: RTL plus HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1328
-#EXTINF:-1,DE: RTL Super
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1329
-#EXTINF:-1,DE: SAT 1 FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1330
-#EXTINF:-1,DE: SAT 1 GOLD FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1331
-#EXTINF:-1,DE: Servus HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1332
-#EXTINF:-1,DE: SIXX FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1333
-#EXTINF:-1,DE: Sony HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1411
-#EXTINF:-1,DE: SPIEGEL GESCHICHTE HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1412
-#EXTINF:-1,DE: Spiegel TV Wissen HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1413
-#EXTINF:-1,DE: Sport 1 + HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1414
-#EXTINF:-1,DE: Sport 1 Plus HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1416
-#EXTINF:-1,DE: SRF 1 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1418
-#EXTINF:-1,DE: SUPER RTL FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1419
-#EXTINF:-1,DE: SPORT 1 FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1415
-#EXTINF:-1,DE: Sport Digital FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1417
-#EXTINF:-1,DE: SWR
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1420
-#EXTINF:-1,DE: SyFy FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1421
-#EXTINF:-1,DE: tagesschau 24 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1422
-#EXTINF:-1,DE: TELE 5 FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1423
-#EXTINF:-1,DE: TLC HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1442
-#EXTINF:-1,DE: TNT COMEDY FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1443
-#EXTINF:-1,DE: TNT FILM HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1444
-#EXTINF:-1,DE: TNT SERIE HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1445
-#EXTINF:-1,DE: TV A OSTBAYERN HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1446
-#EXTINF:-1,DE: UNIVERSAL CHANNEL HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1447
-#EXTINF:-1,DE: VOX FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1450
-#EXTINF:-1,DE: WDR HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1452
-#EXTINF:-1,DE: Welt
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1453
-#EXTINF:-1,DE: ZDF FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1455
-#EXTINF:-1,DE: ZDF info HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1456
-#EXTINF:-1,DE: ZDF NEO HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1457
-#EXTINF:-1,DE: ZEE ONE FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/1458
+#EXTINF:0,DE:ARD ALPHA HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/51657
+#EXTINF:0,DE:NDR HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6186
+#EXTINF:0,DE:WDR HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6174
+#EXTINF:0,DE:DAS ERSTE
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6161
+#EXTINF:0,DE:ZDF HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6182
+#EXTINF:0,DE:SAT 1 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6346
+#EXTINF:0,DE:KABEL 1 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6138
+#EXTINF:0,DE:RTL HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6176
+#EXTINF:0,DE:RTL 2 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6170
+#EXTINF:0,DE:PRO 7 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6172
+#EXTINF:0,DE:FOX HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6187
+#EXTINF:0,DE:VOX HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6173
+#EXTINF:0,DE:3 SAT HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6167
+#EXTINF:0,DE:TLC HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17939
+#EXTINF:0,DE:SIXX HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6178
+#EXTINF:0,DE:KIKA HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6155
+#EXTINF:0,DE:N-TV HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6377
+#EXTINF:0,DE:N24 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6188
+#EXTINF:0,DE:N24 Doku HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/27530
+#EXTINF:0,DE:PHOENIX
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6137
+#EXTINF:0,DE:ARTE
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6185
+#EXTINF:0,DE:SERVUS TV
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6144
+#EXTINF:0,DE:ANIMAL PLANET
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6166
+#EXTINF:0,DE:ORF 1 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6184
+#EXTINF:0,DE:ORF 2 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6183
+#EXTINF:0,DE:KABEL 1 DOKU
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6156
+#EXTINF:0,DE:ZDF INFO
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6169
+#EXTINF:0,DE:ZDF NEO
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6168
+#EXTINF:0,DE:RTL LIVING
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6148
+#EXTINF:0,DE:RTL CRIME HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6129
+#EXTINF:0,DE:RTL NITRO HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6147
+#EXTINF:0,DE:RTL PLUS
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6146
+#EXTINF:0,DE:RTL PASSION HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6124
+#EXTINF:0,DE:SAT 1 GOLD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6145
+#EXTINF:0,DE:SRF 1 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6142
+#EXTINF:0,DE:TELE 5 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6140
+#EXTINF:0,DE:Kabel Eins Classica HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/27527
+#EXTINF:0,DE:Prosieben Maxx HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/27528
+#EXTINF:0,DE:PRO 7 FUN HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6151
+#EXTINF:0,DE:Romance TV
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/27529
+#EXTINF:0,DE:DMAX HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6158
+#EXTINF:0,DE:HEIMAT KANAL
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6157
+#EXTINF:0,DE:DELUXE MUSIC TV
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6160
+#EXTINF:0,DE:SPIEGEL GESCHICHTE HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6143
+#EXTINF:0,DE:DISCOVERY CHANNEL HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6113
+#EXTINF:0,DE:NAT GEO WILD HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6114
+#EXTINF:0,DE:NAT GEOGRAPHIC HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6154
+#EXTINF:0,DE:HISTORY HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6115
+#EXTINF:0,DE:E! ENTERTAIMENT
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/15446
+#EXTINF:0,***** DEUTSCH UHD [4K] *****
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/37338
+#EXTINF:0,DE:SKY SPORT NEWS UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17973
+#EXTINF:0,DE:SKY BUNDESLIGA 1 UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17931
+#EXTINF:0,DE:SKY BUNDESLIGA 2 UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17932
+#EXTINF:0,DE:DAZN 1 UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17942
+#EXTINF:0,DE:DAZN 2 UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17943
+#EXTINF:0,DE:SPORT 1 UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17974
+#EXTINF:0,DE:SKY 1 UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17964
+#EXTINF:0,DE:Sport Digital UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/27520
+#EXTINF:0,DE:Kabel Eins UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/27524
+#EXTINF:0,DE:Prosieben Fun UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/27525
+#EXTINF:0,DE:RTL Passion UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/27526
+#EXTINF:0,DE:Spiegel Geschichte UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/27522
+#EXTINF:0,DE:Spiegel Wissen UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/27521
+#EXTINF:0,DE:Universal UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/27523
+#EXTINF:0,DE:FOX UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17950
+#EXTINF:0,DE:HISTORY UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17951
+#EXTINF:0,DE:MDR S-Anhalt UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17952
+#EXTINF:0,DE:MTV UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17953
+#EXTINF:0,DE:N-TV UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17954
+#EXTINF:0,DE:NAT GEO UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17955
+#EXTINF:0,DE:NAT GEO WILD UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17956
+#EXTINF:0,DE:PRO 7 UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17957
+#EXTINF:0,DE:RBB Berlin UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17958
+#EXTINF:0,DE:RTL 2 UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17959
+#EXTINF:0,DE:RTL CRIME UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17960
+#EXTINF:0,DE:RTL UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17961
+#EXTINF:0,DE:SAT 1 UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17962
+#EXTINF:0,DE:SIXX UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17963
+#EXTINF:0,DE:13TH STREET UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17944
+#EXTINF:0,DE:ARD DAS ERSTE UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17945
+#EXTINF:0,DE:DELUXE MUSIC UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17946
+#EXTINF:0,DE:DISCOVERY UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17947
+#EXTINF:0,DE:DISNEY CINEMAGIC UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17948
+#EXTINF:0,DE:E! ENTERTAIMENT UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17949
+#EXTINF:0,DE:SUPER RTL UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17975
+#EXTINF:0,DE:SYFY UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17976
+#EXTINF:0,DE:TNT COMEDY UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17977
+#EXTINF:0,DE:TNT SERIES UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17978
+#EXTINF:0,DE:UNIVERSAL CHANNEL UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17979
+#EXTINF:0,DE:VOX UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17980
+#EXTINF:0,DE:ZDF UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17981
+#EXTINF:0,DE:ZEE ONE UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17982
+#EXTINF:0,DE:SKY ACTION UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17965
+#EXTINF:0,DE:SKY ATLANTIC UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17967
+#EXTINF:0,DE:SKY CINEMA 24 UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17968
+#EXTINF:0,DE:SKY CINEMA 1 UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17969
+#EXTINF:0,DE:SKY CINEMA FAMILY UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17970
+#EXTINF:0,DE:SKY CINEMA HITS UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17971
+#EXTINF:0,DE:SKY CINEMA UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17972
+#EXTINF:0,***** DEUTSCHE KINO *****
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/37337
+#EXTINF:0,DE:SKY 1 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17930
+#EXTINF:0,DE:SKY CINEMA FAMILY HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17933
+#EXTINF:0,DE:SKY CINEMA BEST OF HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17934
+#EXTINF:0,DE:SKY CINEMA PREMIEREN +24 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6126
+#EXTINF:0,DE:SKY CINEMA PREMIEREN HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6128
+#EXTINF:0,DE:SKY CINEMA 1 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6127
+#EXTINF:0,DE:SKY ATLANTIC HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6393
+#EXTINF:0,DE:SKY ACTION HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6125
+#EXTINF:0,DE:SKY ATLANTIC HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6122
+#EXTINF:0,DE:SKY EMOTION HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6123
+#EXTINF:0,DE:SKY KRIMI HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17935
+#EXTINF:0,DE:SKY CINEMA THRILLER HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17936
+#EXTINF:0,DE:AXN HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/12255
+#EXTINF:0,DE:SKY SYFY HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/12267
+#EXTINF:0,DE:TNT FILM HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6130
+#EXTINF:0,DE:TNT SERIES HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6131
+#EXTINF:0,DE:UNIVERSAL CHANNEL HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6139
+#EXTINF:0,DE:WELT DER WUNDER HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17941
+#EXTINF:0,DE:COMEDY CENTRAL HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17915
+#EXTINF:0,DE:KINOWELT HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17922
+#EXTINF:0,DE:SONY AXN TV HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17937
+#EXTINF:0,DE:TNT COMEDY HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17940
+#EXTINF:0,DE:ZEE ONE HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/13086
+#EXTINF:0,DE:KABEL 1 CLASSIC HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/8035
+#EXTINF:0,DE:PRO 7 MAXX HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6368
+#EXTINF:0,DE:13TH STREET HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6135
+#EXTINF:0,DE:GERMANY SELECT 1 UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/51632
+#EXTINF:0,DE:GERMANY SELECT 2 UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/51633
+#EXTINF:0,DE:GERMANY SELECT 3 UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/51634
+#EXTINF:0,DE:GERMANY SELECT 4 UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/51635
+#EXTINF:0,DE:GERMANY SELECT 5 UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/51636
+#EXTINF:0,DE:GERMANY SELECT 6 UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/51637
+#EXTINF:0,DE:GERMANY SELECT 7 UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/51638
+#EXTINF:0,DE:GERMANY SELECT 8 UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/51639
+#EXTINF:0,DE:GERMANY SELECT 9 UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/51640
+#EXTINF:0,DE: GERMANY SELECT 10 UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/51641
+#EXTINF:0,DE:SKY Select 1 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/40728
+#EXTINF:0,DE:SKY Select 2 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/40729
+#EXTINF:0,DE:SKY Select 3 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/40730
+#EXTINF:0,DE:SKY Select 4 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/40731
+#EXTINF:0,DE:SKY Select 5 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/40732
+#EXTINF:0,DE:SKY Select 6 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/40733
+#EXTINF:0,DE:SKY Select 7 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/40734
+#EXTINF:0,DE:SKY Select 8 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/40735
+#EXTINF:0,DE:SKY Select 9 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/40736
+#EXTINF:0,DE:MAX KINO
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/38019
+#EXTINF:0,DE:MAX KINO 2
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/38020
+#EXTINF:0,DE:MAX KINO 3
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/38021
+#EXTINF:0,DE:MAX KINO COLLECTION
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/38022
+#EXTINF:0,DE:Max Premiere
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/38008
+#EXTINF:0,DE:Max Premiere 2
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/38009
+#EXTINF:0,DE:Max Premiere 3
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/38010
+#EXTINF:0,DE:MAX SELECT HD 1
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/38012
+#EXTINF:0,DE:MAX SELECT HD 2
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/38013
+#EXTINF:0,DE:MAX SELECT HD 3
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/38014
+#EXTINF:0,DE:MAX SELECT HD 4
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/38015
+#EXTINF:0,DE:MAX SELECT HD 5
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/38016
+#EXTINF:0,DE:MAX SELECT HD 6
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/38017
+#EXTINF:0,DE:MAX SELECT HD 7
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/38018
+#EXTINF:0,***** DEUTSCHE SPORT *****
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/37339
+#EXTINF:0,DE:SKY BUNDESLIGA 1 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/7408
+#EXTINF:0,DE:SKY BUNDESLIGA 1 SD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17912
+#EXTINF:0,DE:SKY BUNDESLIGA 2 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/7409
+#EXTINF:0,DE:SKY BUNDESLIGA 2 SD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17913
+#EXTINF:0,DE:SKY BUNDESLIGA 3 HD (MATCH TIME)
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/7412
+#EXTINF:0,DE:SKY BUNDESLIGA 4 HD (MATCH TIME)
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/7413
+#EXTINF:0,DE:SKY BUNDESLIGA 5 HD (MATCH TIME)
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/7414
+#EXTINF:0,DE:SKY BUNDESLIGA 6 HD (MATCH TIME)
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17909
+#EXTINF:0,DE:SKY BUNDESLIGA 7 HD (MATCH TIME)
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/7416
+#EXTINF:0,DE:SKY BUNDESLIGA 8 HD (MATCH TIME)
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/7417
+#EXTINF:0,DE:SKY BUNDESLIGA 9 HD (MATCH TIME)
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17910
+#EXTINF:0,DE:SKY BUNDESLIGA 10 HD (MATCH TIME)
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/7419
+#EXTINF:0,DE:SKY SPORT 1 UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6112
+#EXTINF:0,DE:SKY SPORT 2 UHD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6111
+#EXTINF:0,DE:SKY SPORT 1 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/36655
+#EXTINF:0,DE:SKY SPORT 2 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6109
+#EXTINF:0,DE:SKY SPORT 3 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/36656
+#EXTINF:0,DE:SKY SPORT 4 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/36657
+#EXTINF:0,DE:SKY SPORT 5 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/12248
+#EXTINF:0,DE:SKY SPORT 6 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/12249
+#EXTINF:0,DE:SKY SPORT 7 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/12250
+#EXTINF:0,DE:SKY SPORT 8 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/12251
+#EXTINF:0,DE:SKY SPORT 9 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/12252
+#EXTINF:0,DE:SKY SPORT 10 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17908
+#EXTINF:0,DE:EUROSPORT 1 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6263
+#EXTINF:0,DE:EUROSPORT 2 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17911
+#EXTINF:0,DE:SKY SPORT NEWS HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6256
+#EXTINF:0,DE:SKY SPORT AVUSTRIA HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17984
+#EXTINF:0,DE:DAZN 1 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/35510
+#EXTINF:0,DE:DAZN 2 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/35511
+#EXTINF:0,DE:EUROSPORT 2 XTRA HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/8009
+#EXTINF:0,DE:TELEKOM SPORT 1 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/46115
+#EXTINF:0,DE:TELEKOM SPORT 2 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/46116
+#EXTINF:0,DE:TELEKOM SPORT 3 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/46117
+#EXTINF:0,DE:TELEKOM SPORT 4 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/46118
+#EXTINF:0,DE:TELEKOM SPORT 5 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/46119
+#EXTINF:0,DE:TELEKOM SPORT 6 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/46120
+#EXTINF:0,DE:TELEKOM SPORT 7 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/46121
+#EXTINF:0,DE:TELEKOM SPORT 8 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/46122
+#EXTINF:0,DE:Telekom BBL Sport 1
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/46111
+#EXTINF:0,DE:Telekom BBL Sport 2 nur Spiel Tag
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/46113
+#EXTINF:0,DE:Telekom BBL Sport 2
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/46112
+#EXTINF:0,DE:Telekom BBL Sport 3
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/46114
+#EXTINF:0,DE:TELEKOM BUNDESLIGA 1 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/46099
+#EXTINF:0,DE:TELEKOM BUNDESLIGA 2 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/46100
+#EXTINF:0,DE:TELEKOM BUNDESLIGA 3 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/46101
+#EXTINF:0,DE:TELEKOM BUNDESLIGA 4 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/46102
+#EXTINF:0,DE:TELEKOM BUNDESLIGA 5 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/46103
+#EXTINF:0,DE:TELEKOM BUNDESLIGA 6 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/46104
+#EXTINF:0,DE:TELEKOM BUNDESLIGA 7 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/46105
+#EXTINF:0,DE:TELEKOM DEL SPORT 1 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/46123
+#EXTINF:0,DE:TELEKOM DEL SPORT 2 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/46124
+#EXTINF:0,DE:Telekom DEL Sport 3
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/46125
+#EXTINF:0,DE:Telekom DEL Sport 4
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/46126
+#EXTINF:0,DE:Telekom DEL Sport 5
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/46127
+#EXTINF:0,DE:Telekom DEL Sport 6
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/46128
+#EXTINF:0,DE:Telekom Fussball 1 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/46129
+#EXTINF:0,DE:Telekom Fussball 2 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/46130
+#EXTINF:0,DE:Telekom Fussball 3 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/46131
+#EXTINF:0,DE:Telekom Fussball 4 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/46106
+#EXTINF:0,DE:Telekom Fussball 5 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/46107
+#EXTINF:0,DE:Telekom Fussball 6 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/46108
+#EXTINF:0,DE:Telekom Fussball 7 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/46109
+#EXTINF:0,DE:Telekom Fussball 8 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/46110
+#EXTINF:0,DE:SPORT 1 HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6190
+#EXTINF:0,DE:SPORT 1+
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/18716
+#EXTINF:0,DE:SPORT DIGITAL HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/17938
+#EXTINF:0,DE:ORF SPORT
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/18437
+#EXTINF:0,***** DEUTSCHE KINDER *****
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/37340
+#EXTINF:0,DE:SUPER RTL
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6141
+#EXTINF:0,DE:TOGGO plus
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/27662
+#EXTINF:0,DE:BOOMERANG
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6164
+#EXTINF:0,DE:CARTOON NETWORK HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6163
+#EXTINF:0,DE:DISNEY CHANNEL HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6159
+#EXTINF:0,DE:SKY CINEMA SPECIAL HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6132
+#EXTINF:0,DE:DISNEY JUNIOR HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6133
+#EXTINF:0,DE:DISNEY XD HD
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/6134
+#EXTINF:0,DE:CAR CITY
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/38027
+#EXTINF:0,DE:SAM DER FEURWEHRMANN
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/38023
+#EXTINF:0,DE:CHICKY TV
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/39197
+#EXTINF:0,DE:PETER HASE
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/38024
+#EXTINF:0,DE:Bob der Baumeister
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/40345
+#EXTINF:0,DE:PEPPA PIG TV
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/34766
+#EXTINF:0,DE:Caillou
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/40346
+#EXTINF:0,DE:CONNI
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/40349
+#EXTINF:0,DE:LAURAS STERN
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/40344
+#EXTINF:0,DE:Mascha und der Bär
+http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/40347
