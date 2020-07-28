@@ -1,8 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]FRANCE TV - TV FABOR APK[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="jpg", ben
-httphost://$http-raw=https://telerium.tv/embed/25509.html$http-refferer=https://www.capodeportes.net/reproductor/tv2.php
+
 #EXTINF:-1 tvg-logo="jpg", RMC SPORT 1
 httphost://$http-raw=https://wstream.to/embed/n19o7$http-refferer=http://csport.xyz/t/4/4.php
 #EXTINF:-1 tvg-logo="jpg", RMC SPORT 2
