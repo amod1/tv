@@ -91,7 +91,7 @@ httphost://$http-raw=https://wstream.to/embed/l4c5imd157q05$http-refferer=https:
 httphost://$http-raw=https://wstream.to/embed/mysxo54w$http-refferer=https://daddylive.live/channels/stream-45.php
 #EXTINF:0 tvg-logo="https://daddylive.live/images/canalplus_pl_sport_hd.png", Canal+ Sport 2 Poland
 httphost://$http-raw=https://wstream.to/embed/iih3mo1e32g$http-refferer=https://daddylive.live/channels/stream-45.php
-#EXTINF:0 tvg-logo="https://daddylive.live/images/canalplus_pl_sport_hd.png", Eleven Sports 1 Poland
-httphost://$http-raw=https://wstream.to/embed/vjbputsip7r$http-refferer=https://daddylive.live/channels/stream-45.php
-#EXTINF:0 tvg-logo="https://daddylive.live/images/canalplus_pl_sport_hd.png", Eleven Sports 2 Poland
-httphost://$http-raw=https://wstream.to/embed/36oh5$http-refferer=https://daddylive.live/channels/stream-45.php
+#EXTINF:0 tvg-logo="https://daddylive.live/images/canalplus_pl_sport_hd.png", TSN 1
+httphost://$http-raw=https://wstream.to/embed/rdr52r$http-refferer=https://sportsworldnet.eu/update/ch8.html
+#EXTINF:0 tvg-logo="https://daddylive.live/images/canalplus_pl_sport_hd.png", TSN 2
+httphost://$http-raw=https://wstream.to/embed/7ol9159$http-refferer=https://sportsworldnet.eu/update/ch2.html
