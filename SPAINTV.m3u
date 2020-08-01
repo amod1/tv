@@ -4,117 +4,31 @@ httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0 tvg-logo="https://www.shareicon.net/data/256x256/2015/11/13/165039_flag_256x256.png",SPAIN: PREMIUM
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/owAAAB%2bLCAAAAAAABAAFwUkOgjAAAMAHGRK60JaDBxVZJECAEMCLYQetAtqwhcc7c3K2BnHj7oOvY5hoqJ8u%2bJBgQUA0Rh5EHQ%2bD86yztJ9JxS4H2GJh9y89TuTFdvRyF1H9jpqHaxVWehuScZczLFcIMImVSJEwpUjK8qqUlCKnGIIKZEzduZqGMPY22hJ%2f4qsABGoJ9QLD9ETHfvW0jhpEq6q11%2bMfddDiLaMAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
 
-#EXTINF:-1,•●★★--- Spain ---★★●•
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/479
-#EXTINF:-1,ES:  Movistar Accion HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/340
-#EXTINF:-1,ES: Viajar HD Dual II
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/341
-#EXTINF:-1,ES: Movistar  DCine HD Dual II
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/342
-#EXTINF:-1,ES: Movistar Cine N
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/343
-#EXTINF:-1,ES: Movistar GOLF HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/344
-#EXTINF:-1,ES: Movistar Series HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/345
-#EXTINF:-1,ES: MOVISTAR LIGA DE CAMPEONES HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2345
-#EXTINF:-1,ES: MOVISTAR Liga Campeones HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/2344
-#EXTINF:-1,ES: HOLLYWOOD HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/346
-#EXTINF:-1,ES: AXN HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/347
-#EXTINF:-1,ES: CALLE 13 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/348
-#EXTINF:-1,ES: #0 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/349
-#EXTINF:-1,ES: Movistar F1
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/350
-#EXTINF:-1,ES: Movistar Comedy HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/351
-#EXTINF:-1,ES: Movistar  Deportes 1 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/352
-#EXTINF:-1,ES: Movistar  Estrenos HD Dual II
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/353
-#EXTINF:-1,ES: Movistar Futbol HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/354
-#EXTINF:-1,ES: CANAL  LIGA  HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/355
-#EXTINF:-1,ES: Movistar  Series Xtra HD Dual II
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/356
-#EXTINF:-1,ES: Canal Coccina
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/357
-#EXTINF:-1,ES: A&E
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/358
-#EXTINF:-1,ES: ANTENNA 3 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/359
-#EXTINF:-1,ES: MEGA HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/360
-#EXTINF:-1,ES: C  GOLF
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/361
-#EXTINF:-1,ES: CAZAYPESCA
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/362
-#EXTINF:-1,ES: AMC HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/363
-#EXTINF:-1,ES: Cosmo HD Dual II
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/364
-#EXTINF:-1,ES: DIVINITY Dual II
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/365
-#EXTINF:-1,ES: Cuatro HD Dual II
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/366
-#EXTINF:-1,ES: DISNEY CHANNEL
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/367
-#EXTINF:-1,ES: ENERGY
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/368
-#EXTINF:-1,ES: FDF
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/369
-#EXTINF:-1,ES: FOX HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/370
-#EXTINF:-1,ES: La Liga TV HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/371
-#EXTINF:-1,ES: History
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/372
-#EXTINF:-1,ES: LA 1
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/373
-#EXTINF:-1,ES: LA 2
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/374
-#EXTINF:-1,ES: la sexta HD_local
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/375
-#EXTINF:-1,ES: Movistar Toros
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/376
-#EXTINF:-1,ES: NATIONAL GEO WILD HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/377
-#EXTINF:-1,ES: NATIONAL GEOGRAPHIC CHANNEL
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/378
-#EXTINF:-1,ES: NEOX
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/379
-#EXTINF:-1,ES: REAL MADRID TV HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/380
-#EXTINF:-1,ES: SYFY Dual II
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/381
-#EXTINF:-1,ES: TELECINCO HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/382
-#EXTINF:-1,ES: TOROS TV
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/383
-#EXTINF:-1,ES:  Fox Life Dual II
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/385
-#EXTINF:-1,ES: Movis Star Moto Gp
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/386
-#EXTINF:-1, LIGA TV (ES)
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/415
-#EXTINF:-1, LALIGA TV BAR (ES)
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/416
-#EXTINF:-1, LIGA 123 HD (ES)
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/417
-#EXTINF:-1, LIGA CAMPEONES HD (ES)
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/418
-#EXTINF:-1,US: ESPN TDN
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/751
-#EXTINF:-1,Latino: Fox Sports 1 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/828
-#EXTINF:-1,Latino: Fox Sports 2 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/829
-#EXTINF:-1,Latino: WIN SPORT HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/830
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", LA 1
+httphost://$http-raw=http://photocall.tv/kP8w/lv?ch=la1$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", LA 2
+httphost://$http-raw=http://photocall.tv/gW3s/lv?ch=la2$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", antena 3
+httphost://$http-raw=http://photocall.tv/gW3s/lv?ch=antena3$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", cuatro
+httphost://$http-raw=http://photocall.tv/gW3s/mt?ch=cuatro$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", telecinco
+httphost://$http-raw=http://photocall.tv/gW3s/mt?ch=telecinco$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", lasexta
+httphost://$http-raw=http://photocall.tv/gW3s/lv?ch=lasexta$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", 24h
+httphost://$http-raw=http://photocall.tv/gW3s/lv?ch=24h$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", tdp
+httphost://$http-raw=http://photocall.tv/gW3s/tve?ch=tdp$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", clan
+httphost://$http-raw=http://photocall.tv/gW3s/tve?ch=clan$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", neox
+httphost://$http-raw=http://photocall.tv/gW3s/lv?ch=neox$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", nova
+httphost://$http-raw=http://photocall.tv/gW3s/lv?ch=nova$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", mega
+httphost://$http-raw=http://photocall.tv/gW3s/lv?ch=mega$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", atreseries
+httphost://$http-raw=http://photocall.tv/gW3s/lv?ch=atreseries$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", 
+httphost://$http-raw=http$http-refferer=https://sportsworldnet.eu/
