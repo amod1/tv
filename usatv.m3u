@@ -1,171 +1,53 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color green]USA TV - TV FABOR APK[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://51.15.209.90:8800/data/img/files/27554_espn.jpg", ESPN Sports [color green]TV FABOR APK[/color]
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl5WldSaWIzZ3ZkWEpzUFdoMGRIQWxNMEVsTWtZbE1rWXdibVZzYVhabExtaHFhMjB1YVc1bWJ5VXpRVEV6TWpreUpUSkdZMlZ5WlhNbE1rWmxjM0J1YUdRbE1rWndiR0Y1YkdsemRDNXRNM1U0fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,•●★★--- USA---★★●•
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/844
-#EXTINF:-1,US: Bein Sport USA
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/739
-#EXTINF:-1,US: Bein Sports espanol
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/740
-#EXTINF:-1,US: CBS Sports Network
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/741
-#EXTINF:-1,US: ESPN
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/742
-#EXTINF:-1,US: ESPN 2
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/743
-#EXTINF:-1,US: ESPN College Extra 1
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/744
-#EXTINF:-1,US: ESPN College Extra 2
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/745
-#EXTINF:-1,US: ESPN College Extra 3
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/746
-#EXTINF:-1,US: ESPN College Extra 4
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/747
-#EXTINF:-1,US: ESPN College Extra 5
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/748
-#EXTINF:-1,US: ESPN College Extra 6
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/749
-#EXTINF:-1,US: ESPN NEWS
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/750
-#EXTINF:-1,US: ESPN U
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/752
-#EXTINF:-1,US: Eleven Sports US
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/753
-#EXTINF:-1,US: FOX SPORTS 1 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/754
-#EXTINF:-1,US: FOX SPORTS 2 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/755
-#EXTINF:-1,US: FOX Sports Southwest
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/756
-#EXTINF:-1,US: Fantasy Sports
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/757
-#EXTINF:-1,US: Fox College Sports Atlantic
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/758
-#EXTINF:-1,US: Fox College Sports Central
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/759
-#EXTINF:-1,US: Fox College Sports Pacific
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/760
-#EXTINF:-1,US: Fox Soccer Plus
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/761
-#EXTINF:-1,US: Fox Sports 1 SD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/762
-#EXTINF:-1,US: Fox Sports 2 SD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/763
-#EXTINF:-1,US: Fox Sports Arizona
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/764
-#EXTINF:-1,US: Fox Sports Detroit
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/765
-#EXTINF:-1,US: Fox Sports Florida
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/766
-#EXTINF:-1,US: Fox Sports Indiana
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/767
-#EXTINF:-1,US: Fox Sports Kansas City
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/768
-#EXTINF:-1,US: Fox Sports Midwest
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/769
-#EXTINF:-1,US: Fox Sports North Plus
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/770
-#EXTINF:-1,US: Fox Sports Ohio
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/771
-#EXTINF:-1,US: Fox Sports Ohio Plus
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/772
-#EXTINF:-1,US: Fox Sports Prime Ticket
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/773
-#EXTINF:-1,US: Fox Sports SUN
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/774
-#EXTINF:-1,US: Fox Sports San Diego
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/775
-#EXTINF:-1,US: Fox Sports South
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/776
-#EXTINF:-1,US: Fox Sports West
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/777
-#EXTINF:-1,US: Fox Sportstime Ohio
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/778
-#EXTINF:-1,US: GOLTV English
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/779
-#EXTINF:-1,US: GOLTV Espanol
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/780
-#EXTINF:-1,US: MLB NETWORK
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/781
-#EXTINF:-1,US: MSG HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/782
-#EXTINF:-1,US: MSNBC
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/783
-#EXTINF:-1,US: Mav TV
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/784
-#EXTINF:-1,US: NBA TV
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/785
-#EXTINF:-1,US: NBC East
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/786
-#EXTINF:-1,US: NBC GOLF
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/787
-#EXTINF:-1,US: NBC Sports Bay Area Plus
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/788
-#EXTINF:-1,US: NBC Sports Boston
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/789
-#EXTINF:-1,US: NBC Sports California
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/790
-#EXTINF:-1,US: NBC Sports California Plus
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/791
-#EXTINF:-1,US: NBC Sports Chicago Plus
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/792
-#EXTINF:-1,US: NBC Sports Nowrthwest
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/793
-#EXTINF:-1,US: NBC Sports Philadelphia
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/794
-#EXTINF:-1,US: NBC Sports Washington Plus
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/795
-#EXTINF:-1,US: NBCSN
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/796
-#EXTINF:-1,US: NESN
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/797
-#EXTINF:-1,US: NESN PLUS
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/798
-#EXTINF:-1,US: NFL Network
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/799
-#EXTINF:-1,US: Olympic Channel
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/800
-#EXTINF:-1,US: Outside TV
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/801
-#EXTINF:-1,US: PAC-12 Arizona
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/802
-#EXTINF:-1,US: PAC-12 Los Angeles
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/804
-#EXTINF:-1,US: PAC-12 Oregon
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/805
-#EXTINF:-1,US: PAC-12 Washington
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/806
-#EXTINF:-1,US: Pac-12 Mountain
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/807
-#EXTINF:-1,US: Pac-12 Network
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/808
-#EXTINF:-1,US: TYC Sports
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/809
-#EXTINF:-1,US: PAC-12 Bay Area
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/803
-#EXTINF:-1,US: wwe Network
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/954
-EXTINF:-1,CA: SPORTSNET 1 ʜᴅ
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/816
-#EXTINF:-1,CA: SPORTSNET 360 ʜᴅ
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/817
-#EXTINF:-1,CA: SPORTSNET EAST
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/818
-#EXTINF:-1,CA: SPORTSNET PACIFIC
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/819
-#EXTINF:-1,CA: SPORTSNET WEST
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/820
-#EXTINF:-1,CA: SPORTSNET WORLD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/821
-#EXTINF:-1,CA: TSN 1
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/823
-#EXTINF:-1,CA: TSN 2
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/824
-#EXTINF:-1,CA: TSN 3
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/825
-#EXTINF:-1,CA: TSN 4
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/826
-#EXTINF:-1,CA: TSN 5
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/827
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png",DISCOVERY LIFE
+httphost://$http-raw=http://yoursports.stream/ing/disclife$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", ABC
+httphost://$http-raw=http://yoursports.stream/ing/abc$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", abc news
+httphost://$http-raw=http://yoursports.stream/ing/abcnews$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", bet
+httphost://$http-raw=http://yoursports.stream/ing/bet$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", bloomberg Usa
+httphost://$http-raw=http://yoursports.stream/ing/bloomUsa$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", bravo
+httphost://$http-raw=http://yoursports.stream/ing/bravo$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", cbs
+httphost://$http-raw=http://yoursports.stream/ing/cbs$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", cbs news
+httphost://$http-raw=http://yoursports.stream/ing/cbsnews$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", cnn news
+httphost://$http-raw=http://yoursports.stream/ing/cnnnews$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", cmt
+httphost://$http-raw=http://yoursports.stream/ing/cmt$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", comedy central
+httphost://$http-raw=http://yoursports.stream/ing/comedycentral$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", discovery
+httphost://$http-raw=http://yoursports.stream/ing/discovery$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", disney
+httphost://$http-raw=http://yoursports.stream/ing/disney$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", fox
+httphost://$http-raw=http://yoursports.stream/ing/fox$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", foxnewsfoxnews
+httphost://$http-raw=http://yoursports.stream/ing/foxnews$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", fx
+httphost://$http-raw=http://yoursports.stream/ing/fx$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", fxm
+httphost://$http-raw=http://yoursports.stream/ing/fxm$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", fxx
+httphost://$http-raw=http://yoursports.stream/ing/fxx$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", hgtv
+httphost://$http-raw=http://yoursports.stream/ing/hgtv$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", id
+httphost://$http-raw=http://yoursports.stream/ing/id$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", natgeo
+httphost://$http-raw=http://yoursports.stream/ing/natgeo$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", naturevision USA IP
+httphost://$http-raw=http://yoursports.stream/ing/naturevision$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", paramount
+httphost://$http-raw=http://yoursports.stream/ing/paramount$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", pbskids
+httphost://$http-raw=http://yoursports.stream/ing/pbskids$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", poptvpoptv
+httphost://$http-raw=http://yoursports.stream/ing/poptv$http-refferer=https://sportsworldnet.eu/
