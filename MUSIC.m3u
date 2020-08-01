@@ -20,7 +20,5 @@ httphost://$http-raw=http://photocall.tv/kP8w/l1?ch=mtv_pop$http-refferer=https:
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/02/ee/06/02ee0647e84fe9a73a32a1307d607104.jpg",MTV PARTY
 httphost://$http-raw=http://photocall.tv/kP8w/l1?ch=mtv_party$http-refferer=https://sportsworldnet.eu/
 
-#EXTINF:0 tvg-logo="http://photocall.xyz/images/sexykpop.png",L
-httphost://$http-raw=http://yoursports.stream/ing/disclife$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/02/ee/06/02ee0647e84fe9a73a32a1307d607104.jpg",MUSIC CHOICE todays country
-httphost://$http-raw=http://stream.pcriot.com/ZsJ3/mc.php?ch=todayscountry$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://i.pinimg.com/280x280_RS/84/24/74/84247470b13542bdb99a16fc84ace0f2.jpg",MUSIC CHOICE todays country
+https://edge.music-choice-chaina.top.comcast.net/streamwebvca1/VideoChannels/ROTFL121/O0U9MTU5NjMxMDE3MjtBPTE7Sz0wO1A9MDExMTA7Uz0xMWRlNmNmYWE1NjJiMjlkNTVhYzBlZjZhNDdkODI3ZDg2ZDJiZjVk/chunklist.m3u8
