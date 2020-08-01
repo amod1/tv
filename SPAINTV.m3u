@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color green]SPAIN TV - TV FABOR APK[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/256x256/2015/11/13/165039_flag_256x256.png",SPAIN: PREMIUM
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/owAAAB%2bLCAAAAAAABAAFwUkOgjAAAMAHGRK60JaDBxVZJECAEMCLYQetAtqwhcc7c3K2BnHj7oOvY5hoqJ8u%2bJBgQUA0Rh5EHQ%2bD86yztJ9JxS4H2GJh9y89TuTFdvRyF1H9jpqHaxVWehuScZczLFcIMImVSJEwpUjK8qqUlCKnGIIKZEzduZqGMPY22hJ%2f4qsABGoJ9QLD9ETHfvW0jhpEq6q11%2bMfddDiLaMAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
 
 #EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", LA 1
 httphost://$http-raw=http://photocall.tv/kP8w/lv?ch=la1$http-refferer=https://sportsworldnet.eu/
@@ -30,5 +28,55 @@ httphost://$http-raw=http://photocall.tv/gW3s/lv?ch=nova$http-refferer=https://s
 httphost://$http-raw=http://photocall.tv/gW3s/lv?ch=mega$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", atreseries
 httphost://$http-raw=http://photocall.tv/gW3s/lv?ch=atreseries$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", fdf
+httphost://$http-raw=http://photocall.tv/gW3s/mt?ch=fdf$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", energy
+httphost://$http-raw=http://photocall.tv/gW3s/mt?ch=energy$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", bemad
+httphost://$http-raw=http://photocall.tv/gW3s/mt?ch=bemad$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", divinity
+httphost://$http-raw=http://photocall.tv/gW3s/mt?ch=divinity$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", boing
+httphost://$http-raw=http://photocall.tv/gW3s/mt?ch=boing$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", univision
+httphost://$http-raw=http://photocall.tv/gW3s/l1?ch=univision$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", futbol
+httphost://$http-raw=http://photocall.tv/gW3s/l1?ch=futbol$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", unimas
+httphost://$http-raw=http://photocall.tv/gW3s/l1?ch=unimas$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", estrella tv
+httphost://$http-raw=http://stream.pcriot.com/Z0Je/l3?ch=estrellatv$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", az 7
+httphost://$http-raw=http://photocall.tv/gW3s/l1?ch=az_7$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", foro tv
+httphost://$http-raw=http://photocall.tv/gW3s/l1?ch=forotv$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", turistik 
+httphost://$http-raw=http://photocall.tv/gW3s/l1?ch=turistiktv$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", mexicotravel
+httphost://$http-raw=http://photocall.tv/gW3s/l1?ch=mexicotravel$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", vibe tv
+httphost://$http-raw=http://photocall.tv/gW3s/l1?ch=vibetv$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", caracol
+httphost://$http-raw=https://telerium.tv/embed/63939.html$http-refferer=https://cdn.chatytvgratis.net/caracol00.php?width=1280&height=720
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", rcn
+httphost://$http-raw=http://photocall.tv/gW3s/l1?ch=rcn$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", senal
+httphost://$http-raw=http://photocall.tv/gW3s/l1?ch=senal$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", canal cnc
+httphost://$http-raw=http://photocall.tv/gW3s/l1?ch=canalcnc$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", canal tro
+httphost://$http-raw=http://photocall.tv/gW3s/cdn?ch=canaltro$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", tve brasil
+httphost://$http-raw=http://photocall.tv/gW3s/l1?ch=tve_b$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", rede brasil
+httphost://$http-raw=http://photocall.tv/gW3s/l1?ch=redebrasil$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", national-geographic-live
+httphost://$http-raw=https://ustvgo.tv/national-geographic-live$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", 
+httphost://$http-raw=http$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", 
+httphost://$http-raw=http$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", 
+httphost://$http-raw=http$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", 
 httphost://$http-raw=http$http-refferer=https://sportsworldnet.eu/
