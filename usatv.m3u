@@ -47,7 +47,7 @@ httphost://$http-raw=http://yoursports.stream/ing/natgeo$http-refferer=https://s
 httphost://$http-raw=http://yoursports.stream/ing/naturevision$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", paramount
 httphost://$http-raw=http://yoursports.stream/ing/paramount$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", pbskids
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", pbs kids
 httphost://$http-raw=http://yoursports.stream/ing/pbskids$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", poptvpoptv
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", pop tv
 httphost://$http-raw=http://yoursports.stream/ing/poptv$http-refferer=https://sportsworldnet.eu/
