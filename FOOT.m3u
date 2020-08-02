@@ -121,9 +121,28 @@ httphost://$http-raw=https://dailysport.pw/c1.php$http-refferer=https://sportswo
 httphost://$http-raw=https://dailysport.pw/c2.php$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 3 HD
 httphost://$http-raw=https://dailysport.pw/c3.php$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 3 33
-httphost://$http-raw=http://www.liveonlinetv.org/embed/skysportsnews.php$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 3 33
+
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", [HQ] Sky Sports News
 httphost://$http-raw=http://m.liveonlinetv.org/external.php?title=Sky%20Sports&stream=skysportsnews-hq$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", AMC
-httphost://$http-raw=http://123tvnow.com/watch/amc/$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", [HQ] Sky Sports Main Event
+httphost://$http-raw=http://m.liveonlinetv.org/external.php?title=Sky%20Sports&stream=skysports1-hq$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", [HQ] Sky Sports Premier League
+httphost://$http-raw=http://m.liveonlinetv.org/external.php?title=Sky%20Sports&stream=skysports5-hq$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", [HQ] Sky Sports Football
+httphost://$http-raw=http://m.liveonlinetv.org/external.php?title=Sky%20Sports&stream=skysportsfootball-hq$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", [HQ] Sky Sports Cricket
+httphost://$http-raw=http://m.liveonlinetv.org/external.php?title=Sky%20Sports&stream=skysports2-hq$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", [HQ] Sky Sports F1
+httphost://$http-raw=http://m.liveonlinetv.org/external.php?title=Sky%20Sports&stream=skysportsf1-hq$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", [HQ] Sky Sports Golf
+httphost://$http-raw=http://m.liveonlinetv.org/external.php?title=Sky%20Sports&stream=skysports4-hq$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", [HQ] Sky Sports Mix 
+httphost://$http-raw=http://m.liveonlinetv.org/external.php?title=Sky%20Sports&stream=skysportsmix-hq$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", [HQ] Sky Sports Action
+httphost://$http-raw=http://m.liveonlinetv.org/external.php?title=Sky%20Sports&stream=skysports3-hq$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", [HQ] Sky Sports Arena
+httphost://$http-raw=http://m.liveonlinetv.org/external.php?title=Sky%20Sports&stream=skysportsarena-hq$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", [HQ] Sky Sports Box Office
+httphost://$http-raw=http://m.liveonlinetv.org/external.php?title=Sky%20Sports&stream=skysportsboxoffice-hq$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", 
+httphost://$http-raw=http$http-refferer=https://sportsworldnet.eu/
