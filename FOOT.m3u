@@ -116,6 +116,36 @@ httphost://$http-raw=https://dailysport.pw/c1.php$http-refferer=https://sportswo
 httphost://$http-raw=https://dailysport.pw/c2.php$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 20 HD
 httphost://$http-raw=https://dailysport.pw/c3.php$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 21 IT
+httphost://$http-raw=https://streamcdn.to/e/061vnnyp$http-refferer=https://zonadeportiva.info/tg.php?id=air1
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 22 IT
+httphost://$http-raw=https://streamcdn.to/e/ch7mu4mtt9d$http-refferer=https://zonadeportiva.info/tg.php?id=air2
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 23 IT
+httphost://$http-raw=https://streamcdn.to/e/iyceu7g$http-refferer=https://zonadeportiva.info/tg.php?id=air3
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 24 IT
+httphost://$http-raw=https://streamcdn.to/e/ano5fay$http-refferer=https://zonadeportiva.info/tg.php?id=air4
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 25 IT
+httphost://$http-raw=https://streamcdn.to/e/oz4aj8gkaf$http-refferer=https://zonadeportiva.info/tg.php?id=air5
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 26 
+httphost://$http-raw=https://streamcdn.to/e/eryuz40rgq5$http-refferer=https://zonadeportiva.info/tg.php?id=air6
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 27 
+httphost://$http-raw=https://streamcdn.to/e/eerfsbi$http-refferer=https://zonadeportiva.info/tg.php?id=air7
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 28 
+httphost://$http-raw=https://streamcdn.to/e/3rlaev5teauz$http-refferer=https://zonadeportiva.info/tg.php?id=air8
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 29
+httphost://$http-raw=https://streamcdn.to/e/qv7m3$http-refferer=https://zonadeportiva.info/tg.php?id=air9
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 30 
+httphost://$http-raw=https://streamcdn.to/e/nqgfnaqf5efhttp-refferer=https://zonadeportiva.info/tg.php?id=air10
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 31 
+httphost://$http-raw=https://streamcdn.to/e/tpzccdl3gc78c$http-refferer=https://zonadeportiva.info/tg.php?id=air11
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 32 
+httphost://$http-raw=https://streamcdn.to/e/d0qjz$http-refferer=https://zonadeportiva.info/tg.php?id=air12
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 33 
+httphost://$http-raw=https://streamcdn.to/e/qwgt3u0rrgt5u$http-refferer=https://zonadeportiva.info/tg.php?id=air13
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 34 
+httphost://$http-raw=https://streamcdn.to/e/ydlgdcppep407d$http-refferer=https://zonadeportiva.info/tg.php?id=air14
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 35 
+httphost://$http-raw=https://xyzembed379.net/embed/5bknv$http-refferer=https://zonadeportiva.info/tg.php?id=air15
 
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", [HQ] Sky Sports News
 httphost://$http-raw=http://m.liveonlinetv.org/external.php?title=Sky%20Sports&stream=skysportsnews-hq$http-refferer=https://sportsworldnet.eu/
@@ -161,8 +191,6 @@ httphost://$http-raw=http://m.liveonlinetv.org/external.php?title=beIN%20Sports&
 httphost://$http-raw=http://m.liveonlinetv.org/external.php?title=beIN%20Sports&stream=bein5-hq$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", [HQ] beIN Sports 6 Arabic
 httphost://$http-raw=http://m.liveonlinetv.org/external.php?title=beIN%20Sports&stream=bein6-hq$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 21 IT
-httphost://$http-raw=https://streamcdn.to/e/ch7mu4mtt9d$http-refferer=https://zonadeportiva.info/tg.php?id=air2
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", 
 httphost://$http-raw=http$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", 
