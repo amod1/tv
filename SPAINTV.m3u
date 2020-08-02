@@ -71,8 +71,8 @@ httphost://$http-raw=http://photocall.tv/gW3s/l1?ch=tve_b$http-refferer=https://
 #EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", rede brasil
 httphost://$http-raw=http://photocall.tv/gW3s/l1?ch=redebrasil$http-refferer=https://sportsworldnet.eu/
 
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", MOVISTAR ESTRENOS HD
-httphost://$http-raw=https://streamcdn.to/e/o48bvtquehj$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", MOVISTAR ESTRENOS H
+httphost://$http-raw=https://streamcdn.to/e/o48bvtquehj$http-refferer=https://adictosalatele.com/
 #EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", 
 httphost://$http-raw=http$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", 
