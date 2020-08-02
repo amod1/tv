@@ -164,7 +164,7 @@ httphost://$http-raw=http://m.liveonlinetv.org/external.php?title=beIN%20Sports&
 httphost://$http-raw=http://m.liveonlinetv.org/external.php?title=beIN%20Sports&stream=bein4-hq$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", [HQ] beIN Sports 5 Arabic
 httphost://$http-raw=http://m.liveonlinetv.org/external.php?title=beIN%20Sports&stream=bein5-hq$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", [HQ] beIN Sports 6 Arabichttp://m.liveonlinetv.org/external.php?title=beIN%20Sports&stream=bein6-hq
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", [HQ] beIN Sports 6 Arabic
 httphost://$http-raw=http://m.liveonlinetv.org/external.php?title=beIN%20Sports&stream=bein6-hq$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", 
 httphost://$http-raw=http$http-refferer=https://sportsworldnet.eu/
