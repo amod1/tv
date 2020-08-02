@@ -80,19 +80,14 @@ httphost://$http-raw=https://wstream.to/embed/iih3mo1e32g$http-refferer=https://
 httphost://$http-raw=https://wstream.to/embed/p84l2vs90ps9d5$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 2
 httphost://$http-raw=https://wstream.to/embed/7ol9159$http-refferer=https://sportsworldnet.eu/update/ch2.html
-
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 3
 httphost://$http-raw=https://wstream.to/embed/3eje9csk$http-refferer=https://sportsworldnet.eu/
-
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 4
 httphost://$http-raw=https://wstream.to/embed/4fhcoq78nmoelnr$http-refferer=https://sportsworldnet.eu/
-
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 5
 httphost://$http-raw=https://wstream.to/embed/ax6dbdy4byjl$http-refferer=https://sportsworldnet.eu/
-
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 6
 httphost://$http-raw=https://wstream.to/embed/rs92ov6p0v$http-refferer=https://sportsworldnet.eu/
-
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 7
 httphost://$http-raw=https://wstream.to/embed/kkv6j5nalto$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 8
@@ -115,11 +110,11 @@ httphost://$http-raw=https://wstream.to/embed/88dqiwz1ghs7eo$http-refferer=https
 httphost://$http-raw=https://wstream.to/embed/jh04rtfdrv$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 17
 httphost://$http-raw=https://wstream.to/embed/rpmxk2r3yi7fl$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 1 HD
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 18 HD
 httphost://$http-raw=https://dailysport.pw/c1.php$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 2 HD
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 19 HD
 httphost://$http-raw=https://dailysport.pw/c2.php$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 3 HD
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 20 HD
 httphost://$http-raw=https://dailysport.pw/c3.php$http-refferer=https://sportsworldnet.eu/
 
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", [HQ] Sky Sports News
@@ -166,7 +161,7 @@ httphost://$http-raw=http://m.liveonlinetv.org/external.php?title=beIN%20Sports&
 httphost://$http-raw=http://m.liveonlinetv.org/external.php?title=beIN%20Sports&stream=bein5-hq$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", [HQ] beIN Sports 6 Arabic
 httphost://$http-raw=http://m.liveonlinetv.org/external.php?title=beIN%20Sports&stream=bein6-hq$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 18DD
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 21
 httphost://$http-raw=https://streamcdn.to/e/ch7mu4mtt9d$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", 
 httphost://$http-raw=http$http-refferer=https://sportsworldnet.eu/
