@@ -123,3 +123,5 @@ httphost://$http-raw=https://dailysport.pw/c2.php$http-refferer=https://sportswo
 httphost://$http-raw=https://dailysport.pw/c3.php$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 3 33
 httphost://$http-raw=http://www.liveonlinetv.org/embed/skysportsnews.php$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 3 33
+httphost://$http-raw=http://m.liveonlinetv.org/external.php?title=Sky%20Sports&stream=skysportsnews-hq$http-refferer=https://sportsworldnet.eu/
