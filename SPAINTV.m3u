@@ -110,8 +110,8 @@ httphost://$http-raw=https://wstream.to/embed/i9dga0p$http-refferer=https://adic
 
 
 
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", fffffff
-httphost://$http-raw=https://ustvgo.tv/rNLMQz8AwTSGTfZpbyqNAxc.php?stream=CW$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", f
+httphost://$http-raw=https://ustvgo.tv/the-cw-live-streaming-free$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", 
 httphost://$http-raw=http$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", 
