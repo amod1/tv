@@ -3,7 +3,14 @@
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 
 #EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/italy/flag-button-round-250.png", Rai 1
-httphost://$http-raw=https://easysite.one/z/Player/embed/Native/Rai1.php$http-refferer=https://sportsworldnet.eu/
-
+httphost://$http-raw=https://ok.ru/videoembed/1762156027620?nochat=1&autoplay=1$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/italy/flag-button-round-250.png", Rai 2
 httphost://$http-raw=https://ok.ru/videoembed/1734619176676?nochat=1&autoplay=1$http-refferer=https://easysite.one/z/Player/embed/Native/Rai2.php
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/italy/flag-button-round-250.png", Rai 3
+httphost://$http-raw=https://easysite.one/z/Player/embed/Native/Rai3.php$http-refferer=https://easysite.one/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/italy/flag-button-round-250.png", Rai 2
+httphost://$http-raw=https://ok.ru/videoembed/1734619176676?nochat=1&autoplay=1$http-refferer=https://easysite.one/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/italy/flag-button-round-250.png", Rai 2
+httphost://$http-raw=https://ok.ru/videoembed/1734619176676?nochat=1&autoplay=1$http-refferer=https://easysite.one/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/italy/flag-button-round-250.png", Rai 2
+httphost://$http-raw=https://ok.ru/videoembed/1734619176676?nochat=1&autoplay=1$http-refferer=https://easysite.one/
