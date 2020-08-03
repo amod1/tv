@@ -8,8 +8,8 @@ httphost://$http-raw=https://ok.ru/videoembed/1762156027620?nochat=1&autoplay=1$
 httphost://$http-raw=https://ok.ru/videoembed/1734619176676?nochat=1&autoplay=1$http-refferer=https://easysite.one/z/Player/embed/Native/Rai2.php
 #EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/italy/flag-button-round-250.png", Rai 3
 httphost://$http-raw=https://easysite.one/z/Player/embed/Native/Rai3.php$http-refferer=https://easysite.one/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/italy/flag-button-round-250.png", Rai 2
-httphost://$http-raw=https://ok.ru/videoembed/1734619176676?nochat=1&autoplay=1$http-refferer=https://easysite.one/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/italy/flag-button-round-250.png", Rai 4
+httphost://$http-raw=http://s1-tv.blogspot.com/2020/01/8.html$http-refferer=https://easysite.one/
 #EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/italy/flag-button-round-250.png", Rai 2
 httphost://$http-raw=https://ok.ru/videoembed/1734619176676?nochat=1&autoplay=1$http-refferer=https://easysite.one/
 #EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/italy/flag-button-round-250.png", Rai 2
