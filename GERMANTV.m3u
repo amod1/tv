@@ -2,4 +2,6 @@
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color green]DEUTSCHLAND TV - TV FABOR APK[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0 tvg-logo="https://www.iconeasy.com/icon/png/Flag/Flags/Germany.png", ARDG
-httphost://$http-raw=https://www.kalitepro.com/webplayer.php?url=https://www.2ix2.com/pro7/$http-refferer=https://sportsworldnet.eu/
+httphost://$http-raw=https://www.kalitepro.com/live/10695?autoplay=1&wmode=opaque$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://www.iconeasy.com/icon/png/Flag/Flags/Germany.png", ARDG
+httphost://$http-raw=https://www.kalitepro.com/live/10695?autoplay=1&wmode=opaque$http-refferer=https://www.kalitepro.com/
