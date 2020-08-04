@@ -2,8 +2,8 @@
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color green]DEUTSCHLAND TV - TV FABOR APK[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0 tvg-logo="https://www.iconeasy.com/icon/png/Flag/Flags/Germany.png", ARDG
-httphost://$http-raw=https://www.24detv.de/germany-n24-live$http-refferer=https://sportsworldnet.eu/
+httphost://$http-raw=https://schoener-fernsehen.com/ZDF/$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://www.iconeasy.com/icon/png/Flag/Flags/Germany.png", DDDDDDDDDDD
-httphost://$http-raw=https://www.sporizle1.pw/embed/sinematv-28-izle?web$http-refferer=https://sportsworldnet.eu/
+httphost://$http-raw=http://embed.live-stream.tv/stream/ard$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://www.iconeasy.com/icon/png/Flag/Flags/Germany.png", DDDDDDDDDDD
 httphost://$http-raw=https://h5p2p.peer-stream.com/s0/index-video.html?mpd=//r0-eu-am-h5dash0.supersmart.tv/chunks/zdf_hd.webm.mpd&sec=mU1mRpZKvqLKImNbrlf02w&expires=1596639278&adfree=true&pu=0&bestq=_hd$http-refferer=https://sportsworldnet.eu/
