@@ -2,8 +2,8 @@
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color green]DEUTSCHLAND TV - TV FABOR APK[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/620720630757900288/thWEtIXB.png",kaloopy
-httphost://$http-raw=https://www.kalitepro.com/webplayer.php?url=https://www.2ix2.com/pro7/$http-refferer=https://sportsworldnet.eu/
+httphost://$http-raw=https://www.2ix2.com/pro7/$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/620720630757900288/thWEtIXB.png",kaloopy
 httphost://$http-raw=http://photocall.tv/gW3s/l1?ch=hr$http-refferer=http://photocall.tv/
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/620720630757900288/thWEtIXB.png",kaloopy
-httphost://$http-raw=https://www.kalitepro.com/webplayer.php?url=https://www.2ix2.com/pro7/$http-refferer=https://www.kalitepro.com/1/pro77.php
+httphost://$http-raw=https://www.2ix2.com/pro7/$http-refferer=https://www.2ix2.com/
