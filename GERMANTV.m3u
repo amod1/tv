@@ -1,9 +1,23 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color green]DEUTSCHLAND TV - TV FABOR APK[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/620720630757900288/thWEtIXB.png",kaloopy
-httphost://$http-raw=https://www.2ix2.com/pro7/$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/620720630757900288/thWEtIXB.png",kaloopy
-httphost://$http-raw=http://photocall.tv/gW3s/l1?ch=hr$http-refferer=http://photocall.tv/
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/620720630757900288/thWEtIXB.png",kaloopy
-httphost://$http-raw=https://www.2ix2.com/pro7/$http-refferer=https://www.2ix2.com/
+#EXTINF:0 tvg-logo="https://www.iconeasy.com/icon/png/Flag/Flags/Germany.png", arte
+https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
+#EXTINF:0 tvg-logo="https://www.iconeasy.com/icon/png/Flag/Flags/Germany.png", hr
+https://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
+#EXTINF:0 tvg-logo="https://www.iconeasy.com/icon/png/Flag/Flags/Germany.png", NDR
+https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
+#EXTINF:0 tvg-logo="https://www.iconeasy.com/icon/png/Flag/Flags/Germany.png", 24
+https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+#EXTINF:0 tvg-logo="https://www.iconeasy.com/icon/png/Flag/Flags/Germany.png", one
+https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8
+#EXTINF:0 tvg-logo="https://www.iconeasy.com/icon/png/Flag/Flags/Germany.png", alpha
+https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
+#EXTINF:0 tvg-logo="https://www.iconeasy.com/icon/png/Flag/Flags/Germany.png", das erste
+http://mail.ebert.in/webapps/joshdick-miniProxy/miniProxy.php/https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:0 tvg-logo="https://www.iconeasy.com/icon/png/Flag/Flags/Germany.png", 
+
+#EXTINF:0 tvg-logo="https://www.iconeasy.com/icon/png/Flag/Flags/Germany.png", 
+
+#EXTINF:0 tvg-logo="https://www.iconeasy.com/icon/png/Flag/Flags/Germany.png", 
+
