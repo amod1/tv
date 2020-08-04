@@ -2,12 +2,12 @@
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color green]DEUTSCHLAND TV - TV FABOR APK[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0 tvg-logo="https://www.iconeasy.com/icon/png/Flag/Flags/Germany.png", ARDG
-httphost://$http-rawhttps://ustreamix.org/embed.php?id=zdf$http-refferer=https://sportsworldnet.eu/
+httphost://$http-raw=https://ustreamix.org/embed.php?id=zdf$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://www.iconeasy.com/icon/png/Flag/Flags/Germany.png", DDDDDDDDDDD
-httphost://$http-raw=https://filmon.com/tv/channel/export?channel_id=2759$http-refferer=https://sportsworldnet.eu/
+httphost://$http-raw=https://fhilmon.com/tv/channel/export?channel_id=2759$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://www.iconeasy.com/icon/png/Flag/Flags/Germany.png", DDDDDDDDDDD
-httphost://$https://h5p2p.peer-stream.com/s0/index-video.html?mpd=//r0-eu-am-h5dash0.supersmart.tv/chunks/ard_sd.webm.mpd&sec=N3p_v-XQkKV3UygryyXejA&expires=1596639983&adfree=true&pu=0&bestq=_sd
-#EXTINF:0 tvg-logo="https://www.iconeasy.com/icon/png/Flag/Flags/Germany.png", DDDDDDDDDDD
-httphost://$http-raw=http://embed.live-stream.tv/stream/zdf$http-refferer=http://embed.live-stream.tv/
+https://h5p2p.peer-stream.com/s0/index-video.html?mpd=//r0-eu-am-h5dash0.supersmart.tv/chunks/ard_sd.webm.mpd&sec=N3p_v-XQkKV3UygryyXejA&expires=1596639983&adfree=true&pu=0&bestq=_sd
+#EXTINF:0 tvg-logo="https://www.iconeasy.com/icon/png/Flag/Flags/Germany.png", i
+httphost://$http-raw=https://nydus.org/stream/embedplayer_hq.php?id=prosieben$http-refferer=https://nydus.org/stream/
 #EXTINF:0 tvg-logo="https://www.iconeasy.com/icon/png/Flag/Flags/Germany.png", DDDDDDDDDDD
 httphost://$http-raw=https://tv-livestream.online/ard-live/$http-refferer=https://sportsworldnet.eu/
