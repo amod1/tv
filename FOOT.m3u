@@ -116,6 +116,8 @@ httphost://$http-raw=https://dailysport.pw/c1.php$http-refferer=https://sportswo
 httphost://$http-raw=https://dailysport.pw/c2.php$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 20 HD
 httphost://$http-raw=https://dailysport.pw/c3.php$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 20 HD
+httphost://$http-raw=https://dailysport.pw/c4.php$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 21 IT
 httphost://$http-raw=https://streamcdn.to/e/061vnnyp$http-refferer=https://zonadeportiva.info/tg.php?id=air1
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 22 IT
@@ -147,51 +149,6 @@ httphost://$http-raw=https://streamcdn.to/e/ydlgdcppep407d$http-refferer=https:/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 35 
 httphost://$http-raw=https://xyzembed379.net/embed/5bknv$http-refferer=https://zonadeportiva.info/tg.php?id=air15
 
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", [HQ] Sky Sports News
-httphost://$http-raw=http://m.liveonlinetv.org/external.php?title=Sky%20Sports&stream=skysportsnews-hq$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", [HQ] Sky Sports Main Event
-httphost://$http-raw=http://m.liveonlinetv.org/external.php?title=Sky%20Sports&stream=skysports1-hq$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", [HQ] Sky Sports Premier League
-httphost://$http-raw=http://m.liveonlinetv.org/external.php?title=Sky%20Sports&stream=skysports5-hq$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", [HQ] Sky Sports Football
-httphost://$http-raw=http://m.liveonlinetv.org/external.php?title=Sky%20Sports&stream=skysportsfootball-hq$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", [HQ] Sky Sports Cricket
-httphost://$http-raw=http://m.liveonlinetv.org/external.php?title=Sky%20Sports&stream=skysports2-hq$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", [HQ] Sky Sports F1
-httphost://$http-raw=http://m.liveonlinetv.org/external.php?title=Sky%20Sports&stream=skysportsf1-hq$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", [HQ] Sky Sports Golf
-httphost://$http-raw=http://m.liveonlinetv.org/external.php?title=Sky%20Sports&stream=skysports4-hq$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", [HQ] Sky Sports Mix 
-httphost://$http-raw=http://m.liveonlinetv.org/external.php?title=Sky%20Sports&stream=skysportsmix-hq$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", [HQ] Sky Sports Action
-httphost://$http-raw=http://m.liveonlinetv.org/external.php?title=Sky%20Sports&stream=skysports3-hq$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", [HQ] Sky Sports Arena
-httphost://$http-raw=http://m.liveonlinetv.org/external.php?title=Sky%20Sports&stream=skysportsarena-hq$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", [HQ] BT Sport 1
-httphost://$http-raw=http://m.liveonlinetv.org/external.php?title=BT%20Sport&stream=btsport1-hq$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", [HQ] BT Sport 2
-httphost://$http-raw=http://m.liveonlinetv.org/external.php?title=BT%20Sport&stream=btsport2-hq$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", [HQ] BT Sport 3
-httphost://$http-raw=http://m.liveonlinetv.org/external.php?title=BT%20Sport&stream=btsport3-hq$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", [HQ] BT Sport ESPN
-httphost://$http-raw=http://m.liveonlinetv.org/external.php?title=BT%20Sport&stream=btsportespn-hq$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", [HQ] beIN Sports News
-httphost://$http-raw=http://m.liveonlinetv.org/external.php?title=beIN%20Sports&stream=beinsportsnews-hq$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", [HQ] beIN Sports USA
-httphost://$http-raw=http://m.liveonlinetv.org/external.php?title=beIN%20Sports&stream=beinusa-hq$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", [HQ] beIN Sports 1 Arabic
-httphost://$http-raw=http://m.liveonlinetv.org/external.php?title=beIN%20Sports&stream=bein1-hq$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", [HQ] beIN Sports 2 Arabic
-httphost://$http-raw=http://m.liveonlinetv.org/external.php?title=beIN%20Sports&stream=bein2-hq$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", [HQ] beIN Sports 3 Arabic
-httphost://$http-raw=http://m.liveonlinetv.org/external.php?title=beIN%20Sports&stream=bein3-hq$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", [HQ] beIN Sports 4 Arabic
-httphost://$http-raw=http://m.liveonlinetv.org/external.php?title=beIN%20Sports&stream=bein4-hq$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", [HQ] beIN Sports 5 Arabic
-httphost://$http-raw=http://m.liveonlinetv.org/external.php?title=beIN%20Sports&stream=bein5-hq$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", [HQ] beIN Sports 6 Arabic
-httphost://$http-raw=http://m.liveonlinetv.org/external.php?title=beIN%20Sports&stream=bein6-hq$http-refferer=https://sportsworldnet.eu/
-
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 1HD ARABIC
 httphost://$http-raw=https://wstream.to/embed/fvyqak707$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 2HD ARABIC
@@ -202,8 +159,8 @@ httphost://$http-raw=https://wstream.to/embed/s2miinarm4hu$http-refferer=https:/
 httphost://$http-raw=https://wstream.to/embed/ex85axdr$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 6HD ARABIC
 httphost://$http-raw=https://wstream.to/embed/nutn30hda$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", dd
-httphost://$http-raw=http://tv-bu.blogspot.com/p/blog-page_19.html$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 36 
+httphost://$http-raw=http://www.sportstream.pw/football2/index.html$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", 
 httphost://$http-raw=http$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", 
