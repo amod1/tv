@@ -51,3 +51,9 @@ httphost://$http-raw=http://yoursports.stream/ing/paramount$http-refferer=https:
 httphost://$http-raw=http://yoursports.stream/ing/pbskids$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", pop tv
 httphost://$http-raw=http://yoursports.stream/ing/poptv$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", 1 tv
+httphost://$http-raw=https://sports24.club/tv/embed?id=fox$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", 2 tv
+httphost://$http-raw=https://sports24.club/tv/embed?id=fox$http-refferer=https://www.stream2watch.ws/streams/125173/228299
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", 3 tv
+httphost://$http-raw=https://sports24.club/tv/embed?id=fox$http-refferer=https://sports24.club/
