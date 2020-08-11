@@ -161,8 +161,8 @@ httphost://$http-raw=https://wstream.to/embed/s2miinarm4hu$http-refferer=https:/
 httphost://$http-raw=https://wstream.to/embed/ex85axdr$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 6HD ARABIC
 httphost://$http-raw=https://wstream.to/embed/nutn30hda$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 37 
-httphost://$http-raw=http://www.sportstream.pw/football2/index.html$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", BeIN Sports Xtra
+https://bein-xtra-roku.amagi.tv/ingest/playlist.m3u8
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", 
 httphost://$http-raw=http$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", 
