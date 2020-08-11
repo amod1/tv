@@ -162,12 +162,12 @@ httphost://$http-raw=https://wstream.to/embed/ex85axdr$http-refferer=https://spo
 httphost://$http-raw=https://wstream.to/embed/nutn30hda$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", BeIN Sports Xtra
 https://bein-xtra-roku.amagi.tv/ingest/playlist.m3u8
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", 
-httphost://$http-raw=http$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", 
-httphost://$http-raw=http$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", 
-httphost://$http-raw=http$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", DAZN 1 Germany
+httphost://$http-raw=https://wstream.to/embed/c95e3b6ldr0a$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", DAZN 2 Germany
+httphost://$http-raw=https://wstream.to/embed/nh2vd072gvyj4c$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SKY SPORTS NEWS
+httphost://$http-raw=https://wstream.to/embed/c7uzfpzmhokzrya$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", 
 httphost://$http-raw=http$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", 
