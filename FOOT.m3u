@@ -148,8 +148,8 @@ httphost://$http-raw=https://streamcdn.to/e/qwgt3u0rrgt5u$http-refferer=https://
 httphost://$http-raw=https://streamcdn.to/e/ydlgdcppep407d$http-refferer=https://zonadeportiva.info/tg.php?id=air14
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 36 
 httphost://$http-raw=https://xyzembed379.net/embed/5bknv$http-refferer=https://zonadeportiva.info/tg.php?id=air15
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 37 
-httphost://$http-raw=https://sports24.club/tv/v?id=btsport1$http-refferer=https://sports24.club/tv/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 37 SS
+https://obc5-1-nl-prod.live.dyncdn.horizon.tv/dash/NL_000040_020022;vxttoken=cGF0aFVSST0lMkZkYXNoJTJGTkxfMDAwMDQwXzAyMDAyMiUyRiUyQSZleHBpcnk9MTU5NzE3NTU1OCZmbj1zaGEyNTYmcmV1c2U9LTEmYy1pcC11bmxvY2tlZD0xJnglM0FndWlkPTY2NWYzYTEzLWRjNDMtNDU5Zi1iOTMyLWUwYTE5YTI1ODhjMiZ4JTNBc3RyZWFtc2Vzc2lvbmlkPWY5ODUyYWZlLTM0MzQtNGE2Zi05Zjc3LWY0NjE1Mzk3ZWJmZCZjLWlkPTEzNTMxMjQ0LDNjYmFlOGU4MDRjYjgyNjUxZTc3MjZmYzA0MjBmMGFlNzM2NjM4ZWZjODYyNmYwYTJiMzcyNTgxNzYyN2Y3YmI=/manifest.mpd
 
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 1HD ARABIC
 httphost://$http-raw=https://wstream.to/embed/fvyqak707$http-refferer=https://sportsworldnet.eu/
