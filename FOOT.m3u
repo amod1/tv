@@ -149,7 +149,7 @@ httphost://$http-raw=https://streamcdn.to/e/ydlgdcppep407d$http-refferer=https:/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 36 
 httphost://$http-raw=https://xyzembed379.net/embed/5bknv$http-refferer=https://zonadeportiva.info/tg.php?id=air15
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 37 HD
-httphost://$http-raw=https://wstream.to/embed/66yz1ddk37b3$http-refferer=https://sportsworldnet.eu/
+httphost://$http-raw=https://wstream.to/embed/66yz1ddk37b3$http-refferer=http://livesport4u.pw/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 1HD ARABIC
 httphost://$http-raw=https://wstream.to/embed/fvyqak707$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 2HD ARABIC
@@ -163,11 +163,11 @@ httphost://$http-raw=https://wstream.to/embed/nutn30hda$http-refferer=https://sp
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", BeIN Sports Xtra
 https://bein-xtra-roku.amagi.tv/ingest/playlist.m3u8
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", DAZN 1 Germany
-httphost://$http-raw=https://wstream.to/embed/c95e3b6ldr0a$http-refferer=https://sportsworldnet.eu/
+httphost://$http-raw=https://wstream.to/embed/c95e3b6ldr0a$http-refferer=http://livesport4u.pw/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", DAZN 2 Germany
-httphost://$http-raw=https://wstream.to/embed/nh2vd072gvyj4c$http-refferer=https://sportsworldnet.eu/
+httphost://$http-raw=https://wstream.to/embed/nh2vd072gvyj4c$http-refferer=http://livesport4u.pw/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SKY SPORTS NEWS
-httphost://$http-raw=https://wstream.to/embed/c7uzfpzmhokzrya$http-refferer=https://sportsworldnet.eu/
+httphost://$http-raw=https://wstream.to/embed/c7uzfpzmhokzrya$http-refferer=http://livesport4u.pw/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", 
 httphost://$http-raw=http$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", 
