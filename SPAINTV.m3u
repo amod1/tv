@@ -4,73 +4,44 @@ httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 
 #EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", LA 1 HD
 httphost://$http-raw=https://streamcdn.to/e/h24146$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", LA 2
-httphost://$http-raw=http://photocall.tv/gW3s/lv?ch=la2$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", antena 3
-httphost://$http-raw=http://photocall.tv/gW3s/lv?ch=antena3$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", cuatro
-httphost://$http-raw=http://photocall.tv/gW3s/mt?ch=cuatro$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", telecinco
-httphost://$http-raw=http://photocall.tv/gW3s/mt?ch=telecinco$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", lasexta
-httphost://$http-raw=http://photocall.tv/gW3s/lv?ch=lasexta$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", 24h
-httphost://$http-raw=http://photocall.tv/gW3s/lv?ch=24h$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", tdp
-httphost://$http-raw=http://photocall.tv/gW3s/tve?ch=tdp$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", clan
-httphost://$http-raw=http://photocall.tv/gW3s/tve?ch=clan$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", neox
-httphost://$http-raw=http://photocall.tv/gW3s/lv?ch=neox$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", nova
-httphost://$http-raw=http://photocall.tv/gW3s/lv?ch=nova$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", mega
-httphost://$http-raw=http://photocall.tv/gW3s/lv?ch=mega$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", atreseries
-httphost://$http-raw=http://photocall.tv/gW3s/lv?ch=atreseries$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", fdf
-httphost://$http-raw=http://photocall.tv/gW3s/mt?ch=fdf$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", energy
-httphost://$http-raw=http://photocall.tv/gW3s/mt?ch=energy$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", bemad
-httphost://$http-raw=http://photocall.tv/gW3s/mt?ch=bemad$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", divinity
-httphost://$http-raw=http://photocall.tv/gW3s/mt?ch=divinity$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", boing
-httphost://$http-raw=http://photocall.tv/gW3s/mt?ch=boing$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", univision
-httphost://$http-raw=http://photocall.tv/gW3s/l1?ch=univision$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", futbol
-httphost://$http-raw=http://photocall.tv/gW3s/l1?ch=futbol$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", unimas
-httphost://$http-raw=http://photocall.tv/gW3s/l1?ch=unimas$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", estrella tv
-httphost://$http-raw=http://stream.pcriot.com/Z0Je/l3?ch=estrellatv$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", az 7
-httphost://$http-raw=http://photocall.tv/gW3s/l1?ch=az_7$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", foro tv
-httphost://$http-raw=http://photocall.tv/gW3s/l1?ch=forotv$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", turistik 
-httphost://$http-raw=http://photocall.tv/gW3s/l1?ch=turistiktv$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", mexicotravel
-httphost://$http-raw=http://photocall.tv/gW3s/l1?ch=mexicotravel$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", vibe tv
-httphost://$http-raw=http://photocall.tv/gW3s/l1?ch=vibetv$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", caracol
-httphost://$http-raw=https://telerium.tv/embed/63939.html$http-refferer=https://cdn.chatytvgratis.net/caracol00.php?width=1280&height=720
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", rcn
-httphost://$http-raw=http://photocall.tv/gW3s/l1?ch=rcn$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", senal
-httphost://$http-raw=http://photocall.tv/gW3s/l1?ch=senal$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", canal cnc
-httphost://$http-raw=http://photocall.tv/gW3s/l1?ch=canalcnc$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", canal tro
-httphost://$http-raw=http://photocall.tv/gW3s/cdn?ch=canaltro$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", tve brasil
-httphost://$http-raw=http://photocall.tv/gW3s/l1?ch=tve_b$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", rede brasil
-httphost://$http-raw=http://photocall.tv/gW3s/l1?ch=redebrasil$http-refferer=https://sportsworldnet.eu/
 
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", antena 3
+httphost://$http-raw=https://wstream.to/embed/le870ahdxekxml$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", cuatro
+httphost://$http-raw=https://wstream.to/embed/tgfvlykts$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", telecinco
+httphost://$http-raw=https://streamcdn.to/e/f9eko54txul3x$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", lasexta
+httphost://$http-raw=https://streamcdn.to/e/57wo4o3p18csy$http-refferer=https://adictosalatele.com/
+
+
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", mega
+httphost://$http-raw=https://streamcdn.to/e/8g3y1$http-refferer=https://adictosalatele.com/
+
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", fdf
+httphost://$http-raw=https://wstream.to/embed/p9imvvt$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", energy
+httphost://$http-raw=https://wstream.to/embed/t38wk$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", bemad
+httphost://$http-raw=https://wstream.to/embed/mic0sx5gt$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", divinity
+httphost://$http-raw=https://wstream.to/embed/yah9fzsj$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", PARAMOUNT
+httphost://$http-raw=https://streamcdn.to/e/of961ag7900$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", #0
+httphost://$http-raw=https://streamcdn.to/e/f3q9lhvcl9q$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", CANAL TOROS
+httphost://$http-raw=https://streamcdn.to/e/iav1yq9ud5$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", TNT
+httphost://$http-raw=https://streamcdn.to/e/b64jhw$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", AMC
+httphost://$http-raw=https://streamcdn.to/e/pgsql3pvf$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", AXN WHITE
+httphost://$http-raw=https://streamcdn.to/e/qr6rcapq257fc5$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", CALLE 13
+httphost://$http-raw=https://streamcdn.to/e/msr267eh$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", SYFY
+httphost://$http-raw=https://streamcdn.to/e/4620ulqbe8n64f8$http-refferer=https://adictosalatele.com/
 #EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", MOVISTAR ESTRENOS 
 httphost://$http-raw=https://streamcdn.to/e/o48bvtquehj$http-refferer=https://adictosalatele.com/
 #EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", movistar ACCION
@@ -101,18 +72,108 @@ httphost://$http-raw=https://wstream.to/embed/iut8v91$http-refferer=https://adic
 httphost://$http-raw=https://wstream.to/embed/4dgyuew9gzyxya$http-refferer=https://adictosalatele.com/
 #EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", FOX PREMIUM MOVIES
 httphost://$http-raw=https://wstream.to/embed/xc34atahnair3fj$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", FOX PREMIUM COMEDY
+httphost://$http-raw=https://wstream.to/embed/mx2eqx25s$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", FOX PREMIUM CLASSICS
+httphost://$http-raw=https://wstream.to/embed/ao01vlixbhnkzua$http-refferer=https://adictosalatele.com/
 #EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", HBO XTREME
 httphost://$http-raw=https://wstream.to/embed/9xv2qs$http-refferer=https://adictosalatele.com/
 #EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", HBO SIGNATURE latino
 httphost://$http-raw=https://wstream.to/embed/i23x1p8$http-refferer=https://adictosalatele.com/
 #EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", HBO LATINO
 httphost://$http-raw=https://wstream.to/embed/i9dga0p$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", HBO 2 latino
+httphost://$http-raw=https://wstream.to/embed/td3zfn7dqx$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", HBO PLUS
+httphost://$http-raw=https://wstream.to/embed/dessr6srnzki$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", HBO FAMILY
+httphost://$http-raw=https://wstream.to/embed/ojp1z6ukt31d2p$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", HBO MUNDI
+httphost://$http-raw=https://wstream.to/embed/yevxscoano0ng$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", HBO POP
+httphost://$http-raw=https://wstream.to/embed/9o4a8$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", GOLDEN 
+httphost://$http-raw=https://wstream.to/embed/26y9kk69e02$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", GOLDEN PLUS
+httphost://$http-raw=https://wstream.to/embed/iwpiozepr$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", GOLDEN EDGE
+httphost://$http-raw=https://wstream.to/embed/auabzgk8$http-refferer=https://adictosalatele.com/
 
-
-
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", f
-httphost://$http-raw=https://ustvgo.tv/the-cw-live-streaming-free$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", HOLLYWOOD
+httphost://$http-raw=https://streamcdn.to/e/92qxykf3vl5n$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", TCM 
+httphost://$http-raw=https://wstream.to/embed/0oort2nj8snsvx$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", XTRM
+httphost://$http-raw=https://streamcdn.to/e/xwzfnycpmwru$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", COMEDY CENTRAL
+httphost://$http-raw=https://streamcdn.to/e/ujx1zzjkz4td1$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", MTV ESPAÑA
+httphost://$http-raw=https://streamcdn.to/e/fag0qnhg8$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", TELEFE
+httphost://$http-raw=https://wstream.to/embed/0q8wpdd8gpc9i$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", EL TRECE
+httphost://$http-raw=https://wstream.to/embed/g5n63jk6wkw$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", AMERICA TV
+httphost://$http-raw=https://wstream.to/embed/0sjbrvxc$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", TV PUBLICA
+httphost://$http-raw=https://wstream.to/embed/j6d73hd3yz$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", AZTECA UNO
+httphost://$http-raw=https://wstream.to/embed/kvfmo5codeeps90$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", AZTECA SIETE
+httphost://$http-raw=https://wstream.to/embed/uy2bun1ra$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", AZTECA MAS
+httphost://$http-raw=https://wstream.to/embed/20ue0qpkvotn$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", AZTECA CINEMA
+httphost://$http-raw=https://wstream.to/embed/ukj89s$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", AZTECA MUNDO
+httphost://$http-raw=https://wstream.to/embed/la676bedqk0$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", AZTECA CORAZON
+httphost://$http-raw=https://wstream.to/embed/4z860obnj4$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", las ESTRELLAS
+httphost://$http-raw=https://wstream.to/embed/jz03xor09emsvw$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", TLNOVELAS
+httphost://$http-raw=https://wstream.to/embed/jq371gbzsnww$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", FOX LATINO
+httphost://$http-raw=https://wstream.to/embed/2vhquzq4q11rqrq$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", FOX LIFE latino
+httphost://$http-raw=https://wstream.to/embed/o40jqy6rw$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", CINEMAX
+httphost://$http-raw=https://wstream.to/embed/33ez7s$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", Cinecanal
+httphost://$http-raw=https://wstream.to/embed/qvkghmyyoej49n$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", TNT SERIES
+httphost://$http-raw=https://wstream.to/embed/5tgiw8kze1vb$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", FXM 
+httphost://$http-raw=https://wstream.to/embed/13biiju705q96ot$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", FX
+httphost://$http-raw=https://wstream.to/embed/zm0fk$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", SPACE
+httphost://$http-raw=https://wstream.to/embed/e6fwc84nht$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", SONY 
+httphost://$http-raw=https://wstream.to/embed/b0s4t$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", TBS
+httphost://$http-raw=https://wstream.to/embed/qeultz96q$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", STUDIO UNIVERSAL
+httphost://$http-raw=https://wstream.to/embed/7a6ujxz$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", UNIVERSAL CHANNEL
+httphost://$http-raw=https://wstream.to/embed/ofn9h$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", WARNER
+httphost://$http-raw=https://wstream.to/embed/neexj84b3$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", DE PELICULA
+httphost://$http-raw=https://wstream.to/embed/4elfkzo3pugm9$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", DISTRITO COMEDIA
+httphost://$http-raw=https://wstream.to/embed/3gs5nd5d$http-refferer=https://adictosalatele.com/
 #EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", 
-httphost://$http-raw=http$http-refferer=https://sportsworldnet.eu/
+httphost://$http-raw=http$http-refferer=https://adictosalatele.com/
 #EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", 
-httphost://$http-raw=http$http-refferer=https://sportsworldnet.eu/
+httphost://$http-raw=http$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", 
+httphost://$http-raw=http$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", 
+httphost://$http-raw=http$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", 
+httphost://$http-raw=http$http-refferer=https://adictosalatele.com/
+
+
+
+
