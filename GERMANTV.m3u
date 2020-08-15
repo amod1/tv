@@ -16,7 +16,7 @@ https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
 #EXTINF:0 tvg-logo="https://www.iconeasy.com/icon/png/Flag/Flags/Germany.png", das erste
 http://mail.ebert.in/webapps/joshdick-miniProxy/miniProxy.php/https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:0 tvg-logo="https://www.iconeasy.com/icon/png/Flag/Flags/Germany.png", ZDF HD
-httphost://$http-raw=http://s1-tv.blogspot.com/p/421.html$http-refferer=https://sportsworldnet.eu/
+httphost://$http-raw=https://www.kalitepro.com/live/10687$http-refferer=https://sportsworldnet.eu/
 
 #EXTINF:0 tvg-logo="https://www.iconeasy.com/icon/png/Flag/Flags/Germany.png", 
 
