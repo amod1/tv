@@ -15,8 +15,8 @@ https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8
 https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
 #EXTINF:0 tvg-logo="https://www.iconeasy.com/icon/png/Flag/Flags/Germany.png", das erste
 http://mail.ebert.in/webapps/joshdick-miniProxy/miniProxy.php/https://mcdn.daserste.de/daserste/de/master.m3u8
-#EXTINF:0 tvg-logo="https://www.iconeasy.com/icon/png/Flag/Flags/Germany.png", ZDF
-httphost://$http-raw=https://nydus.org/stream/embedplayer_hq.php?id=zdf$http-refferer=https://dietdinnerrecipes.com/stream/
+#EXTINF:0 tvg-logo="https://www.iconeasy.com/icon/png/Flag/Flags/Germany.png", ZDF HD
+httphost://$http-raw=http://s1-tv.blogspot.com/p/421.html$http-refferer=https://sportsworldnet.eu/
 
 #EXTINF:0 tvg-logo="https://www.iconeasy.com/icon/png/Flag/Flags/Germany.png", 
 
