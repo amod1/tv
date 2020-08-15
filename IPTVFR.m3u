@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]FRANCE TV - TV FABOR APK[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="jpg", IPTV 1
-https://www.dropbox.com/s/riqptykps84lqeu/France.m3u?dl=1
+#EXTINF:-1 tvg-logo="jpg", IPTV 1 F
+https://www.dropbox.com/s/riqptykps84lqeu/France.m3u
 #EXTINF:-1 tvg-logo="jpg", IPTV 2
-https://www.dropbox.com/s/jlihp4pj0ky4vwd/Canalsat.m3u?dl=1
+https://www.dropbox.com/s/jlihp4pj0ky4vwd/Canalsat.m3u
 #EXTINF:-1 tvg-logo="jpg", IPTV 3
-https://www.dropbox.com/s/sydb43pjj8mz9m6/Dropbox.m3u?dl=1
+https://www.dropbox.com/s/sydb43pjj8mz9m6/Dropbox.m3u
 #EXTINF:-1 tvg-logo="jpg", RMC SPORT 1
 httphost://$http-raw=https://wstream.to/embed/n19o7$http-refferer=http://csport.xyz/t/4/4.php
 #EXTINF:-1 tvg-logo="jpg", RMC SPORT 2
