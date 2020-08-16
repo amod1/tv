@@ -1,9 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color green]PORTUGAL TV - TV FABOR APK[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/c8/6f/6d/c86f6d8f3659d0b968d68f4f0abc8c9f.png",PORTUGAL: PREMIUM
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/uwAAAB%2bLCAAAAAAABAANytsOgiAAANAPci4FEXzwpeaWqA3NS%2fTSAF3mtOyCWuvj6zyfwDoiUY%2bCX47oXsFl9mzm6e2jF4TlM2ZcMu58onfxGiYKX3xxb1m%2bSbK8WpHiKm9lmW3Uzu0T0NAu996DQZ8g9f1v4R3APAp00kBBvdCviwm2BEZm3VjCdKSlTOLWwlQEwgYrgCSy%2f0kbZEg7EZZ2W09Gt4z2GUchz%2bJY7uO9dtRjPYE2oKn%2fA6jc9l27AAAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/static/logos/sporttv-1.svg", SPORT TV1
+EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/static/logos/sporttv-1.svg", SPORT TV1
 httphost://$http-raw=https://wstream.to/embed/cyqomyts14egn$http-refferer=https://v2.sportzonline.to/channels/pt/sporttv1.php
 #EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/static/logos/sporttv-2.svg",SPORT TV2
 httphost://$http-raw=https://wstream.to/embed/dftsbx86z8qhvbg$http-refferer=https://v2.sportzonline.to/channels/pt/sporttv2.php
@@ -13,11 +11,14 @@ httphost://$http-raw=https://wstream.to/embed/rxujvy5u40gwel$http-refferer=https
 httphost://$http-raw=https://wstream.to/embed/oh66wnqhpbdcy$http-refferer=https://v2.sportzonline.to/channels/pt/sporttv4.phphttphost://$http-raw=https://wstream.to/embed/oecm2no$http-refferer=https://v2.sportzonline.to/channels/pt/sporttv5.php
 #EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/static/logos/sporttv-5.svg",SPORT TV5
 httphost://$http-raw=https://wstream.to/embed/oecm2no$http-refferer=https://v2.sportzonline.to/channels/pt/sporttv5.php
-#EXTINF:-1,PT: ELEVEN SPORTS 1 PORTUGAL FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/831
-#EXTINF:-1,PT: ELEVEN SPORTS 1 PORTUGAL HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/832
-#EXTINF:-1,PT: ELEVEN SPORTS 2 PORTUGAL FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/833
-#EXTINF:-1,PT: ELEVEN SPORTS 2 PORTUGAL HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPosxidm/ay7ozu/834
+EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c8/6f/6d/c86f6d8f3659d0b968d68f4f0abc8c9f.png", RTP 1
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8?pxt_rtp
+EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c8/6f/6d/c86f6d8f3659d0b968d68f4f0abc8c9f.png",
+
+EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c8/6f/6d/c86f6d8f3659d0b968d68f4f0abc8c9f.png",
+
+EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c8/6f/6d/c86f6d8f3659d0b968d68f4f0abc8c9f.png",
+
+EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c8/6f/6d/c86f6d8f3659d0b968d68f4f0abc8c9f.png",
+
+EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c8/6f/6d/c86f6d8f3659d0b968d68f4f0abc8c9f.png",
