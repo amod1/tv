@@ -24,7 +24,7 @@ httphost://$http-raw=https://telerium.tv/embed/40064.html$http-refferer=https://
 #EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/bein_1.png", BEIN Sports 1 hd
 httphost://$http-raw=https://telerium.tv/embed/27331.html$http-refferer=https://channelstream.me/bein_1-1.php
 #EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/bein_2.png", BEIN Sports 2 
-httphost://$http-raw=https://telerium.tv/embed/34836.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+httphost://$http-raw=https://telerium.tv/embed/34836.html$http-refferer=https://channelstream.club/stream/bein_2.php
 #EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/bein_3.png", BEIN Sports 3 
 httphost://$http-raw=https://telerium.tv/embed/44641.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
 #EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/bein_4.png", beIN SPORT 4
