@@ -25,12 +25,12 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8?px
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8?pxt_rtp
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c8/6f/6d/c86f6d8f3659d0b968d68f4f0abc8c9f.png", rtp africa
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8?pxt_rtp
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c8/6f/6d/c86f6d8f3659d0b968d68f4f0abc8c9f.png", AMC
-https://onair.cds.nowonline.com.br/Content/dsc/Live/Channel(SPOAMCHD)/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c8/6f/6d/c86f6d8f3659d0b968d68f4f0abc8c9f.png", RR
-httphost://$http-raw=https://multicanais.com/canaisaovivo/now.php?canal=amc$http-refferer=https://sportsworldnet.eu/
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c8/6f/6d/c86f6d8f3659d0b968d68f4f0abc8c9f.png", HBO
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/hbosd/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c8/6f/6d/c86f6d8f3659d0b968d68f4f0abc8c9f.png", foxpremiumhd
+https://geralorigin.eu-central-1.edge.mycdn.live/live/foxpremiumhd/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c8/6f/6d/c86f6d8f3659d0b968d68f4f0abc8c9f.png", FF
-httphost://$http-raw=https://multicanais.com/canaisaovivo/now.php?canal=amc$http-refferer=https://multicanais.com/
+httphost://$http-raw=https://futemax.fm/assistir_no_geralcdn.php?canal=hbosd&pasta=mylive$http-refferer=https://sportsworldnet.eu/
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c8/6f/6d/c86f6d8f3659d0b968d68f4f0abc8c9f.png",
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c8/6f/6d/c86f6d8f3659d0b968d68f4f0abc8c9f.png",
