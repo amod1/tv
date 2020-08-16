@@ -57,8 +57,8 @@ httphost://$http-raw=https://telerium.tv/embed/40053.html$http-refferer=https://
 #EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/rmcsport_8.png", RMC Sport Live 8
 httphost://$http-raw=https://telerium.tv/embed/40064.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
 
-#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/bein_1.png", BEIN Sports 1 
-httphost://$http-raw=https://telerium.tv/embed/27331.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/bein_1.png", BEIN Sports 1 hd
+httphost://$http-raw=https://telerium.tv/embed/27331.html$http-refferer=https://channelstream.me/bein_1-1.php
 #EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/bein_2.png", BEIN Sports 2 
 httphost://$http-raw=https://telerium.tv/embed/34836.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
 #EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/bein_3.png", BEIN Sports 3 
