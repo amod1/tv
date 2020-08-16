@@ -29,8 +29,8 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8?pxt
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/hbosd/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c8/6f/6d/c86f6d8f3659d0b968d68f4f0abc8c9f.png", foxpremiumhd
 https://geralorigin.eu-central-1.edge.mycdn.live/live/foxpremiumhd/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c8/6f/6d/c86f6d8f3659d0b968d68f4f0abc8c9f.png", FF
-httphost://$http-raw=https://futemax.fm/assistir_no_geralcdn.php?canal=hbosd&pasta=mylive$http-refferer=https://sportsworldnet.eu/
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c8/6f/6d/c86f6d8f3659d0b968d68f4f0abc8c9f.png", SSSSSSSSSS
+httphost://$http-raw=https://geralorigin.eu-central-1.edge.mycdn.live/live/foxpremium2sd/video.m3u8$http-refferer=https://sportsworldnet.eu/
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c8/6f/6d/c86f6d8f3659d0b968d68f4f0abc8c9f.png",
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c8/6f/6d/c86f6d8f3659d0b968d68f4f0abc8c9f.png",
