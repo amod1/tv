@@ -1,12 +1,31 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]FRANCE TV - TV FABOR APK[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="https://channelstream.me/images/prog/tv.png", [color red]Chaîne Sportive[/color]
-httphost://$http-raw=https://telerium.tv/embed/55048.html$http-refferer=https://channelstream.club/stream/bein_1.php
-#EXTINF:-1 tvg-logo="https://channelstream.me/images/prog/tv.png", [color red]Chaîne Sportive[/color]
-httphost://$http-raw=https://telerium.tv/embed/55048.html$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="https://channelstream.me/images/prog/tv.png", [color red]Chaîne Sportive[/color]
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/owAAAB%2bLCAAAAAAABAAFwdsOQzAAANAPWoRSrT7sAYu6xNJITXgj1d2sUhtBfPzOyQhNAZL8c%2bH1XE2MNJtaO6K1%2bcyvb3PXvqwib9MB4Y9RlFA3sBhmqvaClmzvh2Nvp5VF%2fi0Mf5Eb0%2fFAqHUt7LgGdEBnQGkJw4OObUjRuaC1CW4FOFSd8j5J4nGEMybOYgcCsPQ%2bAISzSn2X140E3sn2OcrPf3lABEKjAAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73576_flag_256x256.png", TF1
+https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live.m3u8
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73576_flag_256x256.png", LCI
+https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live.m3u8
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73576_flag_256x256.png", TMC
+https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live.m3u8
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73576_flag_256x256.png", TFX
+https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live.m3u8
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73576_flag_256x256.png", TSF
+https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live.m3u
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73576_flag_256x256.png", 
+
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73576_flag_256x256.png", 
+
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73576_flag_256x256.png", 
+
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73576_flag_256x256.png", 
+
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73576_flag_256x256.png", 
+
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73576_flag_256x256.png", 
+
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73576_flag_256x256.png", M6
+httphost://$http-raw=https://www.tntendirect.com/M6-en-direct$http-refferer=https://sportsworldnet.eu/
+
 
 #EXTINF:-1 tvg-logo="https://channelstream.me/images/prog/tv.png", [color red]Chaîne Sportive[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
