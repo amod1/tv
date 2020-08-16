@@ -3,23 +3,31 @@
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0, FOOTBALL 1 [color green]TV FABOR APK[/color]
 httphost://$http-raw=https://wstream.to/embed/waqq3o4$http-refferer=https://sportzonline.to/channels/hd/hd1.php
-#EXTINF:0, FOOTBALL 2
-httphost://$http-raw=https://wstream.to/embed/r4x6s9zcdf74tv$http-refferer=https://sportzonline.to/channels/hd/hd2.php
-#EXTINF:0, FOOTBALL 3
-httphost://$http-raw=https://wstream.to/embed/yu3w26c9imgo814$http-refferer=https://sportzonline.to/channels/hd/hd5.php
-#EXTINF:0, BT SPORT 1
-httphost://$http-raw=https://wstream.to/embed/iqeu1cap364fj$http-refferer=http://hindimean.com/freestreams/btsport-1.php
-#EXTINF:0, BT SPORT 2
-httphost://$http-raw=https://wstream.to/embed/ylil5$http-refferer=http://hindimean.com/freestreams/btsport-2.php
-#EXTINF:0, BT SPORT 3
-httphost://$http-raw=https://wstream.to/embed/u7qnfi39$http-refferer=http://hindimean.com/freestreams/btsport-3.php
-#EXTINF:0, BT ESPN
-httphost://$http-raw=https://wstream.to/embed/r4x6s9zcdf74tv$http-refferer=https://sportzonline.co/channels/hd/hd2.php
-#EXTINF:0, SKY SPORT ARENA
-httphost://$http-raw=https://wstream.to/embed/dk5ba5h9$http-refferer=http://hindimean.com/freestreams/skysportsmainevent.php
-#EXTINF:0, SKY SPORT FOOTBALL
-httphost://$http-raw=https://wstream.to/embed/yl80w1dwg5tgs5$http-refferer=http://hindimean.com/freestreams/skysportsfootball.php
-#EXTINF:0, SKY SPORT MAIN EVENT
-httphost://$http-raw=https://wstream.to/embed/dk5ba5h9$http-refferer=http://hindimean.com/freestreams/skysportsmainevent.php
-#EXTINF:0, SKY SPORT ACTION
-httphost://$http-raw=http://www.freecast123.com/cricsp.php?player=desktop&live=skysact&vw=620&vh=490$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0 tvg-logo="https://findicons.com/files/icons/656/rounded_world_flags/256/united_kingdom.png", ITV 1
+http://photocall.tv/ftv.m3u8?ch=itv
+#EXTINF:0 tvg-logo="https://findicons.com/files/icons/656/rounded_world_flags/256/united_kingdom.png", ITV 2
+http://photocall.tv/ftv.m3u8?ch=itv2
+#EXTINF:0 tvg-logo="https://findicons.com/files/icons/656/rounded_world_flags/256/united_kingdom.png", ITV 3
+http://photocall.tv/ftv.m3u8?ch=itv3
+#EXTINF:0 tvg-logo="https://findicons.com/files/icons/656/rounded_world_flags/256/united_kingdom.png", ITV 4
+http://photocall.tv/ftv.m3u8?ch=itv4
+#EXTINF:0 tvg-logo="https://findicons.com/files/icons/656/rounded_world_flags/256/united_kingdom.png", ITVBE
+http://photocall.tv/ftv.m3u8?ch=itvbe
+#EXTINF:0 tvg-logo="https://findicons.com/files/icons/656/rounded_world_flags/256/united_kingdom.png", channel4
+http://photocall.tv/ftv.m3u8?ch=channel4
+#EXTINF:0 tvg-logo="https://findicons.com/files/icons/656/rounded_world_flags/256/united_kingdom.png", e4
+http://photocall.tv/ftv.m3u8?ch=e4
+#EXTINF:0 tvg-logo="https://findicons.com/files/icons/656/rounded_world_flags/256/united_kingdom.png", more4
+http://photocall.tv/ftv.m3u8?ch=more4
+#EXTINF:0 tvg-logo="https://findicons.com/files/icons/656/rounded_world_flags/256/united_kingdom.png", film4
+http://photocall.tv/ftv.m3u8?ch=film4
+#EXTINF:0 tvg-logo="https://findicons.com/files/icons/656/rounded_world_flags/256/united_kingdom.png", channel5
+http://photocall.tv/ftv.m3u8?ch=channel5
+#EXTINF:0 tvg-logo="https://findicons.com/files/icons/656/rounded_world_flags/256/united_kingdom.png", 5usa
+http://photocall.tv/ftv.m3u8?ch=5usa
+#EXTINF:0 tvg-logo="https://findicons.com/files/icons/656/rounded_world_flags/256/united_kingdom.png", 
+http://photocall.tv/ftv.m3u8?ch=tf1
+#EXTINF:0 tvg-logo="https://findicons.com/files/icons/656/rounded_world_flags/256/united_kingdom.png", 
+http://photocall.tv/ftv.m3u8?ch=
+#EXTINF:0 tvg-logo="https://findicons.com/files/icons/656/rounded_world_flags/256/united_kingdom.png", 
+http://photocall.tv/ftv.m3u8?ch=
