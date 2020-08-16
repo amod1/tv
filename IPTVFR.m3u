@@ -3,6 +3,10 @@
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/rmcsport_1.png", TSN
 httphost://$http-raw=https://telerium.net/embed/27356.html$http-refferer=https://csport.xyz/
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/rmcsport_1.png", TSN
+httphost://$http-raw=https://channelstream.club/stream/bein_1.php$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/rmcsport_1.png", C
+httphost://$http-raw=http://kostenloslivetv.blogspot.com/p/cfilm.html$http-refferer=https://sportsworldnet.eu/
 
 #EXTINF:-1 tvg-logo="https://channelstream.me/images/prog/tv.png", [color red]Chaîne Sportive[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
