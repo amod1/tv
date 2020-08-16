@@ -1,8 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", SERVER 1 [color green]UK TV - TV FABOR APK[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0, FOOTBALL 1 [color green]TV FABOR APK[/color]
-httphost://$http-raw=https://wstream.to/embed/waqq3o4$http-refferer=https://sportzonline.to/channels/hd/hd1.php
+
 #EXTINF:0 tvg-logo="https://findicons.com/files/icons/656/rounded_world_flags/256/united_kingdom.png", ITV 1
 http://photocall.tv/ftv.m3u8?ch=itv
 #EXTINF:0 tvg-logo="https://findicons.com/files/icons/656/rounded_world_flags/256/united_kingdom.png", ITV 2
