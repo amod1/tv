@@ -16,9 +16,22 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8?pxt_rt
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c8/6f/6d/c86f6d8f3659d0b968d68f4f0abc8c9f.png", RTP 2
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8?pxt_rtp
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c8/6f/6d/c86f6d8f3659d0b968d68f4f0abc8c9f.png", RTP 3
-https://streaming-live.rtp.pt/liverepeater/smil:rtp3HD.smil/playlist.m3u8?pxt_rtp
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c8/6f/6d/c86f6d8f3659d0b968d68f4f0abc8c9f.png", rtp internacional
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8?pxt_rtp
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c8/6f/6d/c86f6d8f3659d0b968d68f4f0abc8c9f.png", rtp madeira
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8?pxt_rtp
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c8/6f/6d/c86f6d8f3659d0b968d68f4f0abc8c9f.png", rtp acores
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8?pxt_rtp
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c8/6f/6d/c86f6d8f3659d0b968d68f4f0abc8c9f.png", rtp africa
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8?pxt_rtp
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c8/6f/6d/c86f6d8f3659d0b968d68f4f0abc8c9f.png", AMC
+https://onair.cds.nowonline.com.br/Content/dsc/Live/Channel(SPOAMCHD)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c8/6f/6d/c86f6d8f3659d0b968d68f4f0abc8c9f.png", RR
+httphost://$http-raw=https://multicanais.com/canaisaovivo/now.php?canal=amc$http-refferer=https://sportsworldnet.eu/
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c8/6f/6d/c86f6d8f3659d0b968d68f4f0abc8c9f.png", FF
+httphost://$http-raw=https://multicanais.com/canaisaovivo/now.php?canal=amc$http-refferer=https://multicanais.com/
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c8/6f/6d/c86f6d8f3659d0b968d68f4f0abc8c9f.png",
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c8/6f/6d/c86f6d8f3659d0b968d68f4f0abc8c9f.png",
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c8/6f/6d/c86f6d8f3659d0b968d68f4f0abc8c9f.png",
