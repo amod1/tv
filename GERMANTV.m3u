@@ -18,7 +18,7 @@ http://mail.ebert.in/webapps/joshdick-miniProxy/miniProxy.php/https://mcdn.daser
 #EXTINF:0 tvg-logo="https://www.iconeasy.com/icon/png/Flag/Flags/Germany.png", ZDF HD
 httphost://$http-raw=https://www.kalitepro.com/live/10687$http-refferer=https://www.kalitepro.com/yayin/?kanal=84&yayin=1&guvenlik=
 
-#EXTINF:0 tvg-logo="https://www.iconeasy.com/icon/png/Flag/Flags/Germany.png", ZDF
-https://c7.backbackrun.com/web/1/www.kalitepro.com/c3/1597540812/agrXhTEGXpbmCQ26a_xbsA/10687.m3u8
+#EXTINF:0 tvg-logo="https://www.iconeasy.com/icon/png/Flag/Flags/Germany.png", ffff
+httphost://$http-raw=http://tv-bu.blogspot.com/p/blog-page_64.html$http-refferer=https://sportzonline.to/
 #EXTINF:0 tvg-logo="https://www.iconeasy.com/icon/png/Flag/Flags/Germany.png", 
 
