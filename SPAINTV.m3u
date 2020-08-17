@@ -162,6 +162,32 @@ httphost://$http-raw=https://wstream.to/embed/neexj84b3$http-refferer=https://ad
 httphost://$http-raw=https://wstream.to/embed/4elfkzo3pugm9$http-refferer=https://adictosalatele.com/
 #EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", DISTRITO COMEDIA
 httphost://$http-raw=https://wstream.to/embed/3gs5nd5d$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", MOVISATAR Laliga TV
+httphost://$http-raw=https://streamcdn.to/e/qhvk62$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", Laliga Campeones
+httphost://$http-raw=https://streamcdn.to/e/ok2ih45bnv$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", movistar DEPORTES
+httphost://$http-raw=https://streamcdn.to/e/9eo10wv$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", Dazn
+httphost://$http-raw=https://streamcdn.to/e/ataqquvtk$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", Canal Vamos
+httphost://$http-raw=https://streamcdn.to/e/cylnlb6arona$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", Gol tv
+httphost://$http-raw=https://streamcdn.to/e/1rawtj$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", Fox Sports Premium
+httphost://$http-raw=https://wstream.to/embed/7tm88j$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", FOX SPORTS 1 AR
+httphost://$http-raw=https://wstream.to/embed/lprwn2yovd$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", FOX SPORTS 2 AR
+httphost://$http-raw=https://wstream.to/embed/2a6ha5vw$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", FOX SPORTS 3 AR
+httphost://$http-raw=https://wstream.to/embed/84hsa32a$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", FOX SPORTS 1 MX
+httphost://$http-raw=https://wstream.to/embed/dkf41ble0$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", FOX SPORTS 2 MX
+httphost://$http-raw=https://wstream.to/embed/lb3rrpq2rts$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", FOX SPORTS 3 MX
+httphost://$http-raw=https://wstream.to/embed/ggioz$http-refferer=https://adictosalatele.com/
 #EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", 
 httphost://$http-raw=http$http-refferer=https://adictosalatele.com/
 #EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", 
@@ -172,7 +198,14 @@ httphost://$http-raw=http$http-refferer=https://adictosalatele.com/
 httphost://$http-raw=http$http-refferer=https://adictosalatele.com/
 #EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", 
 httphost://$http-raw=http$http-refferer=https://adictosalatele.com/
-
-
-
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", 
+httphost://$http-raw=http$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", 
+httphost://$http-raw=http$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", 
+httphost://$http-raw=http$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", 
+httphost://$http-raw=http$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", 
+httphost://$http-raw=http$http-refferer=https://adictosalatele.com/
 
