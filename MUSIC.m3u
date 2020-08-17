@@ -3,22 +3,22 @@
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0 tvg-logo="https://www.vippng.com/png/detail/76-766425_logo-for-music-channel.png", MUSIC
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/pwAAAB%2bLCAAAAAAABAAFwcsOQ0AUANAPEhmUqS4sBlVi4aro0J2ZQSqeqWfj43uOXyeQMDIKL7uDA88je8CHrnxbULiNbF9SOk9I6pu9jtBhq6FbOgnpIW8xfFX7TQKad%2bTXDVDO3tUxtKmDaLOss91eLT2WweWx8JtgPDFTWVVwTa4MpZB1jLFsCo3LTMGmrlXcLMXtVEiZ%2bqsEgJDDLgSJSxZjYll%2fmLDBx6cAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0 tvg-logo="https://www.parsatv.com/index_files/channels/jasmintv.png",jasmin channel
-httphost://$http-raw=http://photocall.tv/kP8w/l1?ch=jasmintv$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/620720630757900288/thWEtIXB.png",kaloopy
-httphost://$http-raw=http://photocall.tv/kP8w/l1?ch=kaloopy$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://tvtolive.com/wp-content/uploads/Canal-Yeeah-TV.tvtolive.com_.jpg",yeeah
-httphost://$http-raw=http://photocall.tv/kP8w/l1?ch=yeeah$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="http://photocall.xyz/images/sexykpop.png",sexykpop
-httphost://$http-raw=http://photocall.tv/kP8w/l1?ch=sexykpop$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/02/ee/06/02ee0647e84fe9a73a32a1307d607104.jpg",MTV USA
+#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png",jasmin channel
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/.m3u8
+#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png",kaloopy
+https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/126.m3u8
+#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png",yeeah
+http://srv3.zcast.com.br/yeeaah/yeeaah/chunklist_w1186611669.m3u8
+#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png",sexykpop
+https://59f2354c05961.streamlock.net:1443/canaisforadoar/canaisforadoar/.m3u8
+#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png",MTV USA
 httphost://$http-raw=http://yoursports.stream/ing/mtv$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/02/ee/06/02ee0647e84fe9a73a32a1307d607104.jpg",MTV YO
-httphost://$http-raw=http://photocall.tv/kP8w/l1?ch=mtv_yo$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/02/ee/06/02ee0647e84fe9a73a32a1307d607104.jpg",MTV POP
-httphost://$http-raw=http://photocall.tv/kP8w/l1?ch=mtv_pop$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/02/ee/06/02ee0647e84fe9a73a32a1307d607104.jpg",MTV PARTY
-httphost://$http-raw=http://photocall.tv/kP8w/l1?ch=mtv_party$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png",MTV YO
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png",MTV POP
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png",MTV PARTY
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 
-#EXTINF:0 tvg-logo="https://i.pinimg.com/280x280_RS/84/24/74/84247470b13542bdb99a16fc84ace0f2.jpg",MUSIC CHOICE todays country
+#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png",MUSIC CHOICE todays country
 https://edge.music-choice-chaina.top.comcast.net/streamwebvca1/VideoChannels/ROTFL121/O0U9MTU5NjMxMDE3MjtBPTE7Sz0wO1A9MDExMTA7Uz0xMWRlNmNmYWE1NjJiMjlkNTVhYzBlZjZhNDdkODI3ZDg2ZDJiZjVk/chunklist.m3u8
