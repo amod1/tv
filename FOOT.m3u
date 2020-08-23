@@ -3,6 +3,11 @@
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Sportsworldnet TV LIVE 1
+httphost://$http-raw=https://allcast.xyz/mysport/$http-refferer=https://sportsworldnet.eu/
+
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Sportsworldnet TV LIVE 1
+httphost://$http-raw=https://sportsworldnet.eu/$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Sportsworldnet TV LIVE 1
 httphost://$http-raw=https://wstream.to/embed/p84l2vs90ps9d5$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Sportsworldnet TV LIVE 2
 httphost://$http-raw=https://wstream.to/embed/7ol9159$http-refferer=https://sportsworldnet.eu/update/ch2.html
