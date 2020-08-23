@@ -102,8 +102,7 @@ httphost://$http-raw=https://wstream.to/embed/f6xlwn$http-refferer=http://csport
 httphost://$http-raw=http://wstream.to/embed/vlvjlnl$http-refferer=http://csport.xyz/t/4/16.php
 #EXTINF:-1 tvg-logo="jpg", CANAL+ SPORT
 httphost://$http-raw=http://xyzembed379.net/embed/zboqfc4atym$http-refferer=https://csport.xyz/t/2/6.php
-#EXTINF:-1 tvg-logo="jpg", CANAL+
-httphost://$http-raw=https://xyzembed379.net/embed/3tf2x0$http-refferer=https://csport.xyz/t/2/5.php
+
 #EXTINF:-1 tvg-logo="jpg", EUROSPORT 1 
 httphost://$http-raw=http://wstream.to/embed/hiss13b4dht54d0$http-refferer=http://csport.xyz/t/2/7.php
 #EXTINF:-1 tvg-logo="jpg", EUROSPORT 2
@@ -188,7 +187,9 @@ httphost://$http-raw=https://streamcdn.to/e/ydlgdcppep407d$http-refferer=https:/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 36 
 httphost://$http-raw=https://xyzembed379.net/embed/5bknv$http-refferer=https://zonadeportiva.info/tg.php?id=air15
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 37 HD
-httphost://$http-raw=https://wstream.to/embed/66yz1ddk37b3$http-refferer=https://antenasport.info/ch4.html
+httphost://$http-raw=https://ustvgo.tv/lifetime-channel-live/$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", SPORTS TV LIVE 37 HD
+httphost://$http-raw=https://ustvgo.tv/lifetime-channel-live/$http-refferer=https://ustvgo.tv/lifetime-channel-live/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 1HD ARABIC
 httphost://$http-raw=https://wstream.to/embed/fvyqak707$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 2HD ARABIC
