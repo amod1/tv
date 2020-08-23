@@ -2,14 +2,6 @@
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", SPORTS TV [color green]LIVE - TV FABOR[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 
-
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Sportsworldnet TV LIVE 1
-httphost://$http-raw=http://www.cyfostreams.com/cyfo3.php$http-refferer=http://www.cyfostreams.com/cyfo3.php
-
-
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Sportsworldnet TV LIVE 1
-httphost://$http-raw=http://www.cyfostreams.com/cyfo3.php$http-refferer=https://sportsworldnet.eu/
-
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Sportsworldnet TV LIVE 1
 httphost://$http-raw=https://wstream.to/embed/p84l2vs90ps9d5$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Sportsworldnet TV LIVE 2
@@ -106,6 +98,9 @@ httphost://$http-raw=https://wstream.to/embed/c95e3b6ldr0a$http-refferer=http://
 httphost://$http-raw=https://wstream.to/embed/nh2vd072gvyj4c$http-refferer=http://livesport4u.pw/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Ziggo Sport Netherlands
 httphost://$http-raw=https://streamcdn.to/e/4loansan3gb$http-refferer=https://livesport4u.pw/vip/ziggoselect.php
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Sky Sport 1 Italy
+httphost://$http-raw=https://streamcdn.to/e/yxe88v$http-refferer=https://livesport4u.pw/vip/skysport1it.php
+
 
 #EXTINF:0 tvg-logo="https://channelstream.me/images/golf-ball.png", FOOTBALL 1 
 httphost://$http-raw=https://wstream.to/embed/waqq3o4$http-refferer=https://sportzonline.to/channels/hd/hd1.php
