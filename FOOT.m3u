@@ -5,6 +5,10 @@ httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Sportsworldnet TV LIVE 1
 httphost://$http-raw=http://cdn.odece.xyz/1.php$http-refferer=http://cdn.odece.xyz/1.php
 
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Sportsworldnet TV LIVE R
+httphost://$http-raw=http://player.jokehd.com/one.php?u=ch25hd1&vw=640&vh=360$http-refferer=https://www.jokerlivestream.net/
+
+
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Sportsworldnet TV LIVE 1
 httphost://$http-raw=https://wstream.to/embed/p84l2vs90ps9d5$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Sportsworldnet TV LIVE 2
