@@ -96,6 +96,10 @@ https://bein-xtra-roku.amagi.tv/ingest/playlist.m3u8
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", DAZN 1 Germany
 httphost://$http-raw=https://wstream.to/embed/c95e3b6ldr0a$http-refferer=http://livesport4u.pw/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", DAZN 2 Germany
+httphost://$http-raw=https://wstream.to/embed/nh2vd072gvyj4c$http-refferer=http://livesport4u.pw/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Ziggo Sport Netherlands
+httphost://$http-raw=https://streamcdn.to/e/4loansan3gb$http-refferer=https://livesport4u.pw/vip/ziggoselect.php
+
 #EXTINF:0 tvg-logo="https://channelstream.me/images/golf-ball.png", FOOTBALL 1 
 httphost://$http-raw=https://wstream.to/embed/waqq3o4$http-refferer=https://sportzonline.to/channels/hd/hd1.php
 #EXTINF:0 tvg-logo="https://channelstream.me/images/golf-ball.png", FOOTBALL 2
@@ -204,7 +208,6 @@ httphost://$http-raw=http://wstream.to/embed/hiss13b4dht54d0$http-refferer=http:
 httphost://$http-raw=http://wstream.to/embed/axlylf1chvzdb$http-refferer=http://csport.xyz/t/2/8.php
 
 
-httphost://$http-raw=https://wstream.to/embed/nh2vd072gvyj4c$http-refferer=http://livesport4u.pw/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png",
 httphost://$http-raw=https://telerium.net/embed/27334.html$http-refferer=http://livesport4u.pw/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png",
