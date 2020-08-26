@@ -3,10 +3,6 @@
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", MUSIC
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/pwAAAB%2bLCAAAAAAABAAFwcsOQ0AUANAPEhmUqS4sBlVi4aro0J2ZQSqeqWfj43uOXyeQMDIKL7uDA88je8CHrnxbULiNbF9SOk9I6pu9jtBhq6FbOgnpIW8xfFX7TQKad%2bTXDVDO3tUxtKmDaLOss91eLT2WweWx8JtgPDFTWVVwTa4MpZB1jLFsCo3LTMGmrlXcLMXtVEiZ%2bqsEgJDDLgSJSxZjYll%2fmLDBx6cAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png",Jasmin channel
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/.m3u8
-#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", KALOOPY
-https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/126.m3u8
 #EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png",yeeah
 http://srv3.zcast.com.br/yeeaah/yeeaah/chunklist_w1186611669.m3u8
 #EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", SEXYKPOP TV
