@@ -175,6 +175,21 @@ httphost://$http-raw=https://wstream.to/embed/l4c5imd157q05$http-refferer=https:
 httphost://$http-raw=https://wstream.to/embed/mysxo54w$http-refferer=https://daddylive.live/channels/stream-45.php
 #EXTINF:0 tvg-logo="https://daddylive.live/images/canalplus_pl_sport_hd.png", Canal+ Sport 2 Poland
 httphost://$http-raw=https://wstream.to/embed/iih3mo1e32g$http-refferer=https://daddylive.live/channels/stream-45.php
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Polsat Sport Extra Poland
+httphost://$http-raw=https://wstream.to/embed/48mweuli210$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Polsat Sport Extra Poland
+httphost://$http-raw=https://wstream.to/embed/6v6slvhb$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Eleven Sports 2 Poland
+httphost://$http-raw=https://wstream.to/embed/02c2og7jbck0t$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Canal+ Sport 2 Poland
+httphost://$http-raw=https://wstream.to/embed/iih3mo1e32g$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", nsport+ Poland
+httphost://$http-raw=https://wstream.to/embed/9h1ij50jy9zh$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", 
+httphost://$http-raw=http$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", 
+httphost://$http-raw=http$http-refferer=https://sportsworldnet.eu/
+
 #EXTINF:-1 tvg-logo="jpg", RMC SPORT 1
 httphost://$http-raw=https://wstream.to/embed/n19o7$http-refferer=http://csport.xyz/t/4/4.php
 #EXTINF:-1 tvg-logo="jpg", RMC SPORT 2
