@@ -167,7 +167,7 @@ httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/tf1.png", TF1
 httphost://$http-raw=https://telerium.tv/embed/35001.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
 #EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/france_2.png", France 2
-httphost://$http-raw=https://telerium.tv/embed/34655.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+httphost://$http-raw=https://telerium.tv/embed/34655.html$http-refferer=https://csport.xyz/cs.php?id=https://channelstream.club/stream/fr2.php
 #EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/france_3.png", France 3
 httphost://$http-raw=https://telerium.tv/embed/39689.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
 #EXTINF:0 tvg-logo="https://www.fcstream.cc/img/France%204.png?v=3", FRANCE 4
