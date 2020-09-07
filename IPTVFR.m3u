@@ -23,8 +23,6 @@ https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live.m3u
 
 #EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73576_flag_256x256.png", 
 
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73576_flag_256x256.png", M6
-httphost://$http-raw=https://www.tntendirect.com/M6-en-direct$http-refferer=https://sportsworldnet.eu/
 
 
 #EXTINF:-1 tvg-logo="https://channelstream.me/images/prog/tv.png", [color red]Chaîne Sportive[/color]
