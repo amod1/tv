@@ -28,7 +28,7 @@ https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live.m3u
 #EXTINF:-1 tvg-logo="https://channelstream.me/images/prog/tv.png", [color red]Chaîne Sportive[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/telefoot_stadium.png", Telefoot Stadium
-httphost://$http-raw=https://telerium.tv/embed/66265.html$http-refferer=http://www.coolkora.com/
+httphost://$http-raw=https://telerium.tv/embed/66265.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
 #EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/telefoot_stadium_1.png", Telefoot Stadium 1
 httphost://$http-raw=https://telerium.tv/embed/66287.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
 #EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/telefoot_stadium_2.png", Telefoot Stadium 2
