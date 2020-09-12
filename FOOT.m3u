@@ -2,9 +2,9 @@
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", SPORTS TV [color green]LIVE - TV FABOR[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Sportsworldnet TV LIVE 1
-httphost://$http-raw=http://stream-cr7.net/embed/1t.php$http-refferer=https://sportsworldnet.eu/
+httphost://$http-raw=https://myoplay.club/op-play-hd1-full-p/$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Sportsworldnet TV LIVE 1
-httphost://$http-raw=http://stream-cr7.net/embed/1t.php$http-refferer=http://stream-cr7.net/
+httphost://$http-raw=https://myoplay.club/op-play-hd1-full-p/$http-refferer=https://myoplay.club
 
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Sportsworldnet TV LIVE 1
 httphost://$http-raw=https://wstream.to/embed/p84l2vs90ps9d5$http-refferer=https://sportsworldnet.eu/
