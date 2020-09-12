@@ -2,11 +2,13 @@
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", SPORTS TV [color green]LIVE - TV FABOR[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Sportsworldnet TV LIVE 1
-httphost://$http-raw=http://sportsstreams.me/soccer/live.php$http-refferer=https://sportsworldnet.eu/
+httphost://$http-rawhttp://decimalnews.cc/to/hd1.php$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Sportsworldnet TV LIVE 1
+httphost://$http-rawhttp://www.tstk.xyz/hd/1.php$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Sportsworldnet TV LIVE 2
-httphost://$http-raw=http://sportsstreams.me/soccer/live.php$http-refferer=http://sportsstreams.me/
+httphost://$http-raw=http://www.tstk.xyz/hd/1.php$http-refferer=http://decimalnews.cc/to/hd1.php
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Sportsworldnet TV LIVE 3
-httphost://$http-raw=http://hdstreams.club/page/ch1.php$http-refferer=http://hdstreams.club
+httphost://$http-raw=http://decimalnews.cc/to/hd1.php$http-refferer=http://decimalnews.cc
 
 
 
