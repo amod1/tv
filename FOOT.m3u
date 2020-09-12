@@ -82,13 +82,13 @@ httphost://$http-raw=https://streamcdn.to/e/ydlgdcppep407d$http-refferer=https:/
 httphost://$http-raw=https://xyzembed379.net/embed/5bknv$http-refferer=https://zonadeportiva.info/tg.php?id=air15
 
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 1HD ARABIC
-httphost://$http-raw=https://wstream.to/embed/fvyqak707$http-refferer=https://sportsworldnet.eu/
+httphost://$http-raw=https://wstream.to/embed/q2nffr1$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 2HD ARABIC
-httphost://$http-raw=https://wstream.to/embed/bug6206nrx$http-refferer=https://sportsworldnet.eu/
+httphost://$http-raw=https://wstream.to/embed/ts1vhy$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 3HD ARABIC
-httphost://$http-raw=https://wstream.to/embed/s2miinarm4hu$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 4HD ARABIC
-httphost://$http-raw=https://wstream.to/embed/ex85axdr$http-refferer=https://sportsworldnet.eu/
+httphost://$http-raw=https://wstream.to/embed/2qh79f$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 5HD ARABIC
+httphost://$http-raw=https://wstream.to/embed/50898nwdeu0$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 6HD ARABIC
 httphost://$http-raw=https://wstream.to/embed/nutn30hda$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", BeIN Sports Xtra
@@ -145,7 +145,7 @@ httphost://$http-raw=https://telerium.tv/embed/53659.html$http-refferer=https://
 httphost://$http-raw=http://telerium.tv/embed/53636.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
 
 #EXTINF:0 tvg-logo="https://vertelevision.tv/logos/laligalogo.png", M LALIGA
-httphost://$http-raw=https://telerium.tv/embed/46718.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+httphost://$http-raw=https://telerium.tv/embed/46718.html$http-refferer=https://arembed.com/
 #EXTINF:0 tvg-logo="png", bt sport 1
 httphost://$http-raw=https://wstream.to/embed/iqeu1cap364fj$http-refferer=http://hindimean.com/freestreams/btsport-1.php
 #EXTINF:0 tvg-logo="png", bt sport 2
