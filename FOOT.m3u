@@ -5,6 +5,11 @@ httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 httphost://$http-raw=http://sportsstreams.me/soccer/live.php$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Sportsworldnet TV LIVE 2
 httphost://$http-raw=http://sportsstreams.me/soccer/live.php$http-refferer=http://sportsstreams.me/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Sportsworldnet TV LIVE 3
+httphost://$http-raw=http://hdstreams.club/page/ch1.php$http-refferer=http://hdstreams.club
+
+
+
 
 
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Sportsworldnet TV LIVE 1
