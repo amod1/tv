@@ -49,6 +49,16 @@ httphost://$http-raw=https://dailysport.pw/c4.php$http-refferer=https://sportswo
 httphost://$http-raw=https://dailysport.pw/c5.php$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Dailysport TV LIVE 6 HD
 httphost://$http-raw=https://dailysport.pw/c6.php$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Dailysport TV LIVE 7 HD
+httphost://$http-raw=https://dailysport.pw/c7.php$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Dailysport TV LIVE 8 HD
+httphost://$http-raw=https://dailysport.pw/c8.php$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Dailysport TV LIVE 9 HD
+httphost://$http-raw=https://dailysport.pw/c9.php$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Dailysport TV LIVE 10 HD
+httphost://$http-raw=https://dailysport.pw/c10.php$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Dailysport TV LIVE 11 HD
+httphost://$http-raw=https://dailysport.pw/c11.php$http-refferer=https://sportsworldnet.eu/
 
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Zonadeportiva TV LIVE 1 IT
 httphost://$http-raw=https://streamcdn.to/e/061vnnyp$http-refferer=https://zonadeportiva.info/tg.php?id=air1
