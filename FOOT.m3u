@@ -41,16 +41,6 @@ httphost://$http-raw=https://wstream.to/embed/xq9w687rkn$http-refferer=https://d
 httphost://$http-raw=https://wstream.to/embed/qqi3hyebi61$http-refferer=https://daddylive.xyz/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Daddylive TV LIVE 20 HD
 httphost://$http-raw=https://wstream.to/embed/wemwrqrpx3m$http-refferer=https://daddylive.xyz/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Soccerstreams TV LIVE 1 HD
-httphost://$http-raw=https://wstream.to/embed/0cz9o$http-refferer=http://soccerstreams.co/stream1.php
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Soccerstreams TV LIVE 2 HD
-httphost://$http-raw=https://wstream.to/embed/shpr86k6d157$http-refferer=http://soccerstreams.co/stream1.php
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Soccerstreams TV LIVE 3 HD
-httphost://$http-raw=https://wstream.to/embed/1i60r$http-refferer=http://soccerstreams.co/stream1.php
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Soccerstreams TV LIVE 4 HD
-httphost://$http-raw=https://wstream.to/embed/3uahnf4df93oe58$http-refferer=http://soccerstreams.co/stream1.php
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Soccerstreams TV LIVE 5 HD
-httphost://$http-raw=https://wstream.to/embed/hsfx3p2$http-refferer=http://soccerstreams.co/stream1.php
 
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Sportsworldnet TV LIVE 1
 httphost://$http-raw=https://wstream.to/embed/p84l2vs90ps9d5$http-refferer=https://sportsworldnet.eu/
