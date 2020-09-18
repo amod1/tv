@@ -42,6 +42,12 @@ httphost://$http-raw=https://wstream.to/embed/qqi3hyebi61$http-refferer=https://
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Daddylive TV LIVE 20 HD
 httphost://$http-raw=https://wstream.to/embed/wemwrqrpx3m$http-refferer=https://daddylive.xyz/
 
+
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", CANAL+SPORT 1
+httphost://$http-raw=https://wstream.to/embed/mysxo54w$http-refferer=https://daddylive.xyz/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", CANAL+SPORT 1
+httphost://$http-raw=https://wstream.to/embed/mysxo54w$http-refferer=http://darmowatv.ws/canalsport-1
+
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Sportsworldnet TV LIVE 1
 httphost://$http-raw=https://wstream.to/embed/p84l2vs90ps9d5$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Sportsworldnet TV LIVE 2
