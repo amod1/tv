@@ -17,24 +17,32 @@ httphost://$http-raw=https://wstream.to/embed/mysxo54w$http-refferer=https://dad
 httphost://$http-raw=https://wstream.to/embed/iih3mo1e32g$http-refferer=http://darmowatv.ws/
 #EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", TVP SPORT
 httphost://$http-raw=https://wstream.to/embed/3xfhzbzwbqmgu8$http-refferer=http://darmowatv.ws/
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", ELEVEN SPORTS 1
-httphost://$http-raw=http://darmowatv.ws/run?sid=F5357911&id=11633&q=tvhd$http-refferer=http://darmowatv.ws/
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", 
-httphost://$http-raw=https$http-refferer=http://darmowatv.ws/
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", 
-httphost://$http-raw=https$http-refferer=http://darmowatv.ws/
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", 
-httphost://$http-raw=https$http-refferer=http://darmowatv.ws/
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", 
-httphost://$http-raw=https$http-refferer=http://darmowatv.ws/
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", 
-httphost://$http-raw=https$http-refferer=http://darmowatv.ws/
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", 
-httphost://$http-raw=https$http-refferer=http://darmowatv.ws/
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", 
-httphost://$http-raw=https$http-refferer=http://darmowatv.ws/
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", 
-httphost://$http-raw=https$http-refferer=http://darmowatv.ws/
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", TVP 1
+httphost://$http-raw=https://wstream.to/embed/872saa7$http-refferer=http://darmowatv.ws/
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", TVP 2
+httphost://$http-raw=https://wstream.to/embed/0suwjz$http-refferer=http://darmowatv.ws/
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", TVN 7
+httphost://$http-raw=https://wstream.to/embed/yx17z6f9c$http-refferer=http://darmowatv.ws/
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", POLSAT
+httphost://$http-raw=http://wstream.to/embed/pqr7ed$http-refferer=http://darmowatv.ws/
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", TV PULS
+httphost://$http-raw=https://wstream.to/embed/g5ck5jo$http-refferer=http://darmowatv.ws/
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", DISCOVERY CHANNEL
+httphost://$http-raw=https://wstream.to/embed/dkhms6zzm3sq$http-refferer=http://darmowatv.ws/
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", ID
+httphost://$http-raw=https://wstream.to/embed/kok25a$http-refferer=http://darmowatv.ws/
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", PLANETE+
+httphost://$http-raw=https://wstream.to/embed/9ogyevzjtp$http-refferer=http://darmowatv.ws/
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", POLSAT DOKU
+httphost://$http-raw=https://darmowatv.ws/run?sid=0267FF41&id=13302&q=tvhd$http-refferer=http://darmowatv.ws/
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", TLC
+httphost://$http-raw=https://wstream.to/embed/runiygje$http-refferer=http://darmowatv.ws/
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", NAT GEO CHANNEL
+httphost://$http-raw=https://wstream.to/embed/zzom9r7tjos6l7$http-refferer=http://darmowatv.ws/
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", TVN TURBO
+httphost://$http-raw=https://wstream.to/embed/bu82sg$http-refferer=http://darmowatv.ws/
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", HGTV
+httphost://$http-raw=https://wstream.to/embed/xrd8ili12gzya2d$http-refferer=http://darmowatv.ws/
 #EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", 
 httphost://$http-raw=https$http-refferer=http://darmowatv.ws/
 #EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", 
