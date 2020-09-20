@@ -41,12 +41,35 @@ httphost://$http-raw=https://wstream.to/embed/xq9w687rkn$http-refferer=https://d
 httphost://$http-raw=https://wstream.to/embed/qqi3hyebi61$http-refferer=https://daddylive.xyz/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Daddylive TV LIVE 20 HD
 httphost://$http-raw=https://wstream.to/embed/wemwrqrpx3m$http-refferer=https://daddylive.xyz/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Daddylive TV LIVE 21 HD
+httphost://$http-raw=https://wstream.to/embed/dhdxm1s4a41z236$http-refferer=https://daddylive.xyz/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Daddylive TV LIVE 22 HD
+httphost://$http-raw=https://wstream.to/embed/5jjaebe$http-refferer=https://daddylive.xyz/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Daddylive TV LIVE 23 HD
+httphost://$http-raw=https://wstream.to/embed/vlornu4ldquw$http-refferer=https://daddylive.xyz/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Daddylive TV LIVE 24 HD
+httphost://$http-raw=https://wstream.to/embed/nkvj9q7w6$http-refferer=https://daddylive.xyz/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Daddylive TV LIVE 25 HD
+httphost://$http-raw=https://wstream.to/embed/u7wjdubq51y41dw$http-refferer=https://daddylive.xyz/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Daddylive TV LIVE 26 HD
+httphost://$http-raw=https://wstream.to/embed/9kcw1tq57an46d$http-refferer=https://daddylive.xyz/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Daddylive TV LIVE 27 HD
+httphost://$http-raw=https://wstream.to/embed/440l1gfzh7jo$http-refferer=https://daddylive.xyz/
 
 
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", CANAL+SPORT 1
-httphost://$http-raw=https://wstream.to/embed/mysxo54w$http-refferer=https://daddylive.xyz/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", CANAL+SPORT 1
-httphost://$http-raw=https://wstream.to/embed/mysxo54w$http-refferer=http://darmowatv.ws/canalsport-1
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Sportscart TV LIVE 1 HD
+httphost://$http-raw=https://wstream.to/embed/0cz9o$http-refferer=https://sportscart.xyz/ch/scplayer-1.php
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Sportscart TV LIVE 2 HD
+httphost://$http-raw=https://wstream.to/embed/shpr86k6d157$http-refferer=https://sportscart.xyz/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Sportscart TV LIVE 3 HD
+httphost://$http-raw=https://wstream.to/embed/1i60r$http-refferer=https://sportscart.xyz/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Sportscart TV LIVE 4 HD
+httphost://$http-raw=https://wstream.to/embed/3uahnf4df93oe58$http-refferer=https://sportscart.xyz/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Sportscart TV LIVE 5 HD
+httphost://$http-raw=https://wstream.to/embed/hsfx3p2$http-refferer=https://sportscart.xyz/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Sportscart TV LIVE  HD
+httphost://$http-raw=$http-refferer=https://sportscart.xyz/
+
 
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Sportsworldnet TV LIVE 1
 httphost://$http-raw=https://wstream.to/embed/p84l2vs90ps9d5$http-refferer=https://sportsworldnet.eu/
