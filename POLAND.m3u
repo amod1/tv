@@ -14,11 +14,20 @@ httphost://$http-raw=https://wstream.to/embed/v93pkxz3hqzc$http-refferer=http://
 #EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", CANAL+SPORT 1
 httphost://$http-raw=https://wstream.to/embed/mysxo54w$http-refferer=https://daddylive.xyz/
 #EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", CANAL+SPORT 2
-httphost://$http-raw=https://wstream.to/embed/iih3mo1e32g$http-refferer=https://daddylive.xyz/
+httphost://$http-raw=https://wstream.to/embed/iih3mo1e32g$http-refferer=https://daddylive.live/embed/stream-73.php
 #EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", TVP SPORT
-httphost://$http-raw=https://wstream.to/embed/3xfhzbzwbqmgu8$http-refferer=https://daddylive.xyz/
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", ELEVEN SPORTS 1
-httphost://$http-raw=http://darmowatv.ws/run?sid=F5357911&id=11633&q=tvhd$http-refferer=https://daddylive.xyz/
+httphost://$http-raw=https://wstream.to/embed/3xfhzbzwbqmgu8$http-refferer=https://daddylive.live/
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", Polsat Sport
+httphost://$http-raw=https://wstream.to/embed/l4c5imd157q05$http-refferer=https://daddylive.live/
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", Polsat Sport Extra
+httphost://$http-raw=https://wstream.to/embed/48mweuli210$http-refferer=https://daddylive.live/
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", Eleven Sports 1
+httphost://$http-raw=https://wstream.to/embed/6v6slvhb$http-refferer=https://daddylive.live/
+  #EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", Eleven Sports 2
+httphost://$http-raw=https://wstream.to/embed/02c2og7jbck0t$http-refferer=https://daddylive.live/
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", nsport+
+httphost://$http-raw=https://wstream.to/embed/9h1ij50jy9zh$http-refferer=https://daddylive.live/
+
 #EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", TVP 1
 httphost://$http-raw=https://wstream.to/embed/872saa7$http-refferer=http://darmowatv.ws/
 #EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", TVP 2
