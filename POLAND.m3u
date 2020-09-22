@@ -1,3 +1,6 @@
+
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", HBO
+http://internetowa.tv/?c=hlsPlay&channel=hbo&token=385ca7908903d6cf12b41445442c064ea7def66216e4bac3ba93e1175dbdbecc5eb8cfebccf88aa4fc3fa0254da733a6afeadd256d28b0bcc0b556c7cd700eb4
 #EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", CANAL+PREMIUM
 http://internetowa.tv/?c=hlsPlay&channel=canalplus&token=385ca7908903d6cf12b41445442c064ea7def66216e4bac3ba93e1175dbdbecc5eb8cfebccf88aa4fc3fa0254da733a6afeadd256d28b0bcc0b556c7cd700eb4
 #EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", CANAL+FAMILY
