@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", SPORTS TV [color green]LIVE - TV FABOR[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Dailysport TV LIVE 1 FHD
-httphost://$http-raw=https://dailysport.pw/c1.php$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/skysport_news.png", Sky Sports News UK
+httphost://$http-raw=https://telerium.tv/embed/46571.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Dailysport TV LIVE 2 FHD
 httphost://$http-raw=https://dailysport.pw/c2.php$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Dailysport TV LIVE 3 FHD
@@ -82,6 +82,33 @@ httphost://$http-raw=https://wstream.to/embed/9kcw1tq57an46d$http-refferer=https
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Daddylive TV LIVE 27 HD
 httphost://$http-raw=https://wstream.to/embed/440l1gfzh7jo$http-refferer=https://daddylive.xyz/
 
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Dailysport TV LIVE 1 FHD
+httphost://$http-raw=https://dailysport.pw/c1.php$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Dailysport TV LIVE 2 FHD
+httphost://$http-raw=https://dailysport.pw/c2.php$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Dailysport TV LIVE 3 FHD
+httphost://$http-raw=https://dailysport.pw/c3.php$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Dailysport TV LIVE 4 FHD
+httphost://$http-raw=https://dailysport.pw/c4.php$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Dailysport TV LIVE 5 FHD
+httphost://$http-raw=https://dailysport.pw/c5.php$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Dailysport TV LIVE 6 FHD
+httphost://$http-raw=https://dailysport.pw/c6.php$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Dailysport TV LIVE 7 FHD
+httphost://$http-raw=https://dailysport.pw/c7.php$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Dailysport TV LIVE 8 FHD
+httphost://$http-raw=https://dailysport.pw/c8.php$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Dailysport TV LIVE 9 FHD
+httphost://$http-raw=https://dailysport.pw/c9.php$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Dailysport TV LIVE 10 FHD
+httphost://$http-raw=https://dailysport.pw/c10.php$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Dailysport TV LIVE 11 FHD
+httphost://$http-raw=https://dailysport.pw/c11.php$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Dailysport TV LIVE 12 FHD
+httphost://$http-raw=https://dailysport.pw/c12.php$http-refferer=https://sportsworldnet.eu/
+
+
+
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Sportsworldnet TV LIVE 1
 httphost://$http-raw=https://wstream.to/embed/p84l2vs90ps9d5$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Sportsworldnet TV LIVE 2
@@ -158,8 +185,7 @@ httphost://$http-raw=https://wstream.to/embed/2qh79f$http-refferer=https://sport
 httphost://$http-raw=https://wstream.to/embed/50898nwdeu0$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 6HD ARABIC
 httphost://$http-raw=https://wstream.to/embed/nutn30hda$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", BeIN Sports Xtra
-https://bein-xtra-roku.amagi.tv/ingest/playlist.m3u8
+
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", DAZN 1 Germany
 httphost://$http-raw=https://wstream.to/embed/c95e3b6ldr0a$http-refferer=http://livesport4u.pw/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", DAZN 2 Germany
