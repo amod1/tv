@@ -1,8 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", SPORTS TV [color green]LIVE - TV FABOR[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/skysport_news.png", Sky Sports News UK
-httphost://$http-raw=https://telerium.tv/embed/46571.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+
+
+
+
+
+
 
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Daddylive TV LIVE 1 HD
 httphost://$http-raw=https://wstream.to/embed/s2xg5jkkmmc2n2$http-refferer=https://daddylive.xyz/lenovo/stream-1.php
