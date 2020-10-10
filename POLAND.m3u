@@ -6,11 +6,11 @@ http://internetowa.tv/?c=hlsPlay&channel=canalplus&token=385ca7908903d6cf12b4144
 #EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/canal-plus.png", CANAL+PREMIUM
 https://vigor.angelthump.com/hls/mikelol12.m3u8
 #EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", CANAL+FAMILY
-httphost://$http-raw=https://wstream.to/embed/iv0widu$http-refferer=https://daddylive.xyz/
+httphost://$http-raw=https://wstream.to/embed/iv0widu$http-refferer=http://darmowa-tv.ws/
 #EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", CANAL+SERIALE
-httphost://$http-raw=https://wstream.to/embed/4oxjpq$http-refferer=http://darmowatv.ws/
+httphost://$http-raw=https://wstream.to/embed/4oxjpq$http-refferer=http://darmowa-tv.ws/
 #EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", CANAL+FILM
-httphost://$http-raw=http://wstream.to/embed/48elsvcfd8d863$http-refferer=http://darmowatv.ws/
+httphost://$http-raw=https://wstream.to/embed/48elsvcfd8d863$http-refferer=http://darmowa-tv.ws/
 #EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", ALEKINO+
 httphost://$http-raw=https://wstream.to/embed/onpg3ydg0n439pl$http-refferer=http://darmowatv.ws/
 #EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", COMEDY CENTRAL
