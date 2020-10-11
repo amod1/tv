@@ -3,16 +3,9 @@
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/skysport_news.png", Sky Sport News UK
 httphost://$http-raw=https://telerium.tv/embed/46571.html$http-refferer=https://arembed.com/live.php
-#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/nba_tv.png", NBA TV
-httphost://$http-raw=https://telerium.net/embed/33437.html$http-refferer=https://live-golf.stream
-#EXTINF:0 tvg-logo="https://rolo.nocdnrlly.xyz/images/teams/Logo-NBC-Sports.png", NBC Sports Network live
-httphost://$http-raw=https://telerium.net/embed/33455.html$http-refferer=https://live-golf.stream
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Fox Sports News Australia
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:0 tvg-logo="https://rolo.nocdnrlly.xyz/images/teams/Logo-WWE-Network.png", WWE Network live
-httphost://$http-raw=https://telerium.net/embed/33433.html$http-refferer=https://live-golf.stream
-#EXTINF:0 tvg-logo="https://rolo.nocdnrlly.xyz/images/teams/Logo-NFL-Network.png", NFL Network live
-httphost://$http-raw=https://telerium.net/embed/33435.html$http-refferer=https://live-golf.stream
+
 
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Daddylive TV LIVE 1 HD
 httphost://$http-raw=https://wstream.to/embed/s2xg5jkkmmc2n2$http-refferer=https://daddylive.xyz/lenovo/stream-1.php
