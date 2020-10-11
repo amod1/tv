@@ -5,6 +5,12 @@ httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 httphost://$http-raw=https://telerium.tv/embed/46571.html$http-refferer=https://arembed.com/live.php
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Fox Sports News Australia
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/sportenfrance.png", Sport en France
+httphost://$http-raw=https://telerium.tv/embed/66514.html$http-refferer=https://arembed.com/live.php
+#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/infosport.png", Infosport +
+httphost://$http-raw=https://telerium.tv/embed/34843.html$http-refferer=https://arembed.com/live.php
+
+
 
 
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Daddylive TV LIVE 1 HD
