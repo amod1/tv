@@ -44,8 +44,7 @@ httphost://$http-raw=https://wstream.to/embed/02c2og7jbck0t$http-refferer=https:
 #EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/n-sport-plus.png", NSPORT
 httphost://$http-raw=https://wstream.to/embed/f8utibnb$http-refferer=http://darmowa-tv.ws/
 
-#EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/discovery-channel.png", DISCOVERY CHANNEL
-httphost://$http-raw=https://wstream.to/embed/dkhms6zzm3sq$http-refferer=http://darmowa-tv.ws/discovery-channel/
+
 #EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/tvn-24.png", TVN 24
 httphost://$http-raw=https://wstream.to/embed/koszepdvunb$http-refferer=http://darmowa-tv.ws
 #EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/polsat-news.png", POLSAT NEWS
@@ -68,17 +67,31 @@ https://darmowa-tv.ws/run/co.m3u8?sid=27C47133&id=13105&q=tvhd
 https://darmowa-tv.ws/run/co.m3u8?sid=A41F07DB&id=1503&q=tvhd
 #EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/polsat-sport-news.png", POLSAT SPORT NEWS
 https://darmowa-tv.ws/run/co.m3u8?sid=20DE3CF8&id=13227&q=tvhd
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", 
-httphost://$http-raw=https$http-refferer=http://darmowa-tv.ws
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", 
-httphost://$http-raw=https$http-refferer=http://darmowa-tv.ws
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", 
-httphost://$http-raw=https$http-refferer=http://darmowa-tv.ws
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", 
-httphost://$http-raw=https$http-refferer=http://darmowa-tv.ws
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", 
-httphost://$http-raw=https$http-refferer=http://darmowa-tv.ws
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", 
+#EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/discovery-channel.png", DISCOVERY CHANNEL
+httphost://$http-raw=https://wstream.to/embed/dkhms6zzm3sq$http-refferer=http://darmowa-tv.ws/discovery-channel/
+#EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/discovery-science.png", DISCOVERY SCIENCE
+httphost://$http-raw=https://wstream.to/embed/0ie3jpeo9xjd$http-refferer=http://darmowa-tv.ws
+#EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/id.png", ID
+httphost://$http-raw=https://wstream.to/embed/dqrcqkuberij$http-refferer=http://darmowa-tv.ws
+#EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/national-geographic-channel.png", NAT GEO CHANNEL
+httphost://$http-raw=https://wstream.to/embed/zzom9r7tjos6l7$http-refferer=http://darmowa-tv.ws
+#EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/natgeowild.png", NAT GEO WILD
+httphost://$http-raw=https://wstream.to/embed/5085x1lkyl1uzf$http-refferer=http://darmowa-tv.ws
+#EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/ci-polsat.png", CI POLSAT
+https://darmowa-tv.ws/run/co.m3u8?sid=F9A05338&id=11306&q=tv
+#EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/polsat-doku.png", POLSAT DOKU
+https://darmowa-tv.ws/run/co.m3u8?sid=0267FF41&id=13302&q=tvhd
+#EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/polsat-viasat-history.png", POLSAT VIASAT HISTORY
+https://darmowa-tv.ws/run/co.m3u8?sid=D91EDD46&id=4194&q=tvhd
+#EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/polsat-viasat-explore.png", POLSAT VIASAT EXPLORE
+https://darmowa-tv.ws/run/co.m3u8?sid=C708000D&id=4196&q=tvhd
+#EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/polsat-viasat-nature.png", POLSAT VIASAT NATURE
+https://darmowa-tv.ws/run/co.m3u8?sid=57304801&id=4195&q=tv
+#EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/tvn-turbo.png", TVN TURBO
+httphost://$http-raw=https://wstream.to/embed/bu82sg$http-refferer=http://darmowa-tv.ws
+#EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/tvn-style.png", TVN STYLE
+httphost://$http-raw=https://wstream.to/embed/jv0nf5ir7p2zkp$http-refferer=http://darmowa-tv.ws
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png",
 httphost://$http-raw=https$http-refferer=http://darmowa-tv.ws
 #EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", 
 httphost://$http-raw=https$http-refferer=http://darmowa-tv.ws
