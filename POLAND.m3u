@@ -2,14 +2,18 @@
 httphost://$http-raw=https://wstream.to/embed/872saa7$http-refferer=http://darmowa-tv.ws/
 #EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/tvp-2.png", TVP 2
 httphost://$http-raw=https://wstream.to/embed/0suwjz$http-refferer=http://darmowa-tv.ws/
+#EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/tvn-logo.png", TVN
+https://lon-haproxy.angelthump.com/hls/cinemaword/index.m3u8?stream=cinemaword
 #EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/tvn-7.png", TVN 7
 httphost://$http-raw=https://wstream.to/embed/yx17z6f9c$http-refferer=http://darmowa-tv.ws/
 #EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/polsat.png", POLSAT
 httphost://$http-raw=https://wstream.to/embed/pqr7ed$http-refferer=http://darmowa-tv.ws/
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", TEST
-https://darmowa-tv.ws/run?sid=D283C905&id=10258&q=tvhd
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", TEST
+#EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/polsat-2.png", POLSAT 2
 https://darmowa-tv.ws/run/co.m3u8?sid=D283C905&id=10258&q=tvhd
+#EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/polsat-play.png", POLSAT PLAY
+https://darmowa-tv.ws/run/co.m3u8?sid=504A45C5&id=11379&q=tvhd
+#EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/polsat-cafe.png", POLSAT CAFE
+https://darmowa-tv.ws/run/co.m3u8?sid=564F662D&id=11441&q=tvhd
 #EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/canal-plus-film.png", CANAL+FILM
 httphost://$http-raw=https://wstream.to/embed/v93pkxz3hqzc$http-refferer=http://darmowa-tv.ws/
 #EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/polsat-film.png", POLSAT FILM
@@ -42,12 +46,28 @@ httphost://$http-raw=https://wstream.to/embed/f8utibnb$http-refferer=http://darm
 
 #EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/discovery-channel.png", DISCOVERY CHANNEL
 httphost://$http-raw=https://wstream.to/embed/dkhms6zzm3sq$http-refferer=http://darmowa-tv.ws/discovery-channel/
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", 
-httphost://$http-raw=https$http-refferer=http://darmowa-tv.ws
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", 
-httphost://$http-raw=https$http-refferer=http://darmowa-tv.ws
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", 
-httphost://$http-raw=https$http-refferer=http://darmowa-tv.ws
+#EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/tvn-24.png", TVN 24
+httphost://$http-raw=https://wstream.to/embed/koszepdvunb$http-refferer=http://darmowa-tv.ws
+#EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/polsat-news.png", POLSAT NEWS
+https://darmowa-tv.ws/run/co.m3u8?sid=6A563CAF&id=1574&q=tvhd
+#EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/tvp-info.png", TVP INFO
+httphost://$http-raw=https://wstream.to/embed/5837837gggigzgi$http-refferer=http://darmowa-tv.ws
+#EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/superstacja.png", SUPERSTACJA
+https://darmowa-tv.ws/run/co.m3u8?sid=A8F24DC5&id=1577&q=tv
+#EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/eurosport.png", EUROSPORT 1
+http://cdn.assia1.tv/hls/42.m3u8?md5=vsNNoBEMiDWodDP1iYHRPQ&expires=1602419683
+#EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/eurosport-2.png", EUROSPORT 2
+httphost://$http-raw=https://wstream.to/embed/hhun48lpig$http-refferer=http://darmowa-tv.ws
+#EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/elevensport-1.png", ELEVEN SPORTS 1 HD
+https://darmowa-tv.ws/run/co.m3u8?sid=F5357911&id=11633&q=tvhd
+#EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/elevensport2.png", ELEVEN SPORTS 2 HD
+https://darmowa-tv.ws/run/co.m3u8?sid=31E93CE1&id=11644&q=tvhd
+#EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/elevensport-3.png", ELEVEN SPORTS 3 HD
+https://darmowa-tv.ws/run/co.m3u8?sid=27C47133&id=13105&q=tvhd
+#EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/polsat-sport-extra.png", POLSAT SPORT EXTRA
+https://darmowa-tv.ws/run/co.m3u8?sid=A41F07DB&id=1503&q=tvhd
+#EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/polsat-sport-news.png", POLSAT SPORT NEWS
+https://darmowa-tv.ws/run/co.m3u8?sid=20DE3CF8&id=13227&q=tvhd
 #EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", 
 httphost://$http-raw=https$http-refferer=http://darmowa-tv.ws
 #EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", 
