@@ -1,3 +1,21 @@
+#EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/tvp-1.png", TVP 1
+httphost://$http-raw=https://wstream.to/embed/872saa7$http-refferer=http://darmowa-tv.ws/
+#EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/tvp-2.png", TVP 2
+httphost://$http-raw=https://wstream.to/embed/0suwjz$http-refferer=http://darmowa-tv.ws/
+#EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/tvn-7.png", TVN 7
+httphost://$http-raw=https://wstream.to/embed/yx17z6f9c$http-refferer=http://darmowa-tv.ws/
+#EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/polsat.png", POLSAT
+httphost://$http-raw=https://wstream.to/embed/pqr7ed$http-refferer=http://darmowa-tv.ws/
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", TEST
+https://darmowa-tv.ws/run?sid=D283C905&id=10258&q=tvhd
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", TEST
+https://darmowa-tv.ws/run/co.m3u8?sid=D283C905&id=10258&q=tvhd
+#EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/canal-plus-film.png", CANAL+FILM
+httphost://$http-raw=https://wstream.to/embed/v93pkxz3hqzc$http-refferer=http://darmowa-tv.ws/
+#EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/polsat-film.png", POLSAT FILM
+httphost://$http-raw=https://wstream.to/embed/iv0widu$http-refferer=http://darmowa-tv.ws/
+#EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/fox.png", FOX
+httphost://$http-raw=https://wstream.to/embed/6ez4bmhwg7c1rg$http-refferer=http://darmowa-tv.ws/
 
 #EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", HBO
 http://internetowa.tv/?c=hlsPlay&channel=hbo&token=385ca7908903d6cf12b41445442c064ea7def66216e4bac3ba93e1175dbdbecc5eb8cfebccf88aa4fc3fa0254da733a6afeadd256d28b0bcc0b556c7cd700eb4
@@ -5,24 +23,12 @@ http://internetowa.tv/?c=hlsPlay&channel=hbo&token=385ca7908903d6cf12b41445442c0
 http://internetowa.tv/?c=hlsPlay&channel=canalplus&token=385ca7908903d6cf12b41445442c064ea7def66216e4bac3ba93e1175dbdbecc5eb8cfebccf88aa4fc3fa0254da733a6afeadd256d28b0bcc0b556c7cd700eb4
 #EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/canal-plus.png", CANAL+PREMIUM
 https://vigor.angelthump.com/hls/mikelol12.m3u8
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", CANAL+FAMILY
-httphost://$http-raw=https://wstream.to/embed/iv0widu$http-refferer=http://darmowa-tv.ws/
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", CANAL+SERIALE
-httphost://$http-raw=https://wstream.to/embed/4oxjpq$http-refferer=http://darmowa-tv.ws/
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", CANAL+FILM
-httphost://$http-raw=https://wstream.to/embed/48elsvcfd8d863$http-refferer=http://darmowa-tv.ws/
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", ALEKINO+
-httphost://$http-raw=https://wstream.to/embed/onpg3ydg0n439pl$http-refferer=http://darmowatv.ws/
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", COMEDY CENTRAL
-httphost://$http-raw=https://wstream.to/embed/ff1ak5yatg$http-refferer=http://darmowatv.ws/
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", POLSAT FILM
-httphost://$http-raw=https://wstream.to/embed/v93pkxz3hqzc$http-refferer=http://darmowatv.ws/
 #EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", CANAL+SPORT 1
 httphost://$http-raw=https://wstream.to/embed/mysxo54w$http-refferer=https://daddylive.xyz/
 #EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", CANAL+SPORT 2
 httphost://$http-raw=https://wstream.to/embed/iih3mo1e32g$http-refferer=https://daddylive.live/embed/stream-73.php
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", TVP SPORT
-httphost://$http-raw=https://wstream.to/embed/3xfhzbzwbqmgu8$http-refferer=https://daddylive.live/
+#EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/tvp-sport.png", TVP SPORT
+httphost://$http-raw=https://wstream.to/embed/3xfhzbzwbqmgu8$http-refferer=http://darmowa-tv.ws/tvp-sport/
 #EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", Polsat Sport
 httphost://$http-raw=https://wstream.to/embed/l4c5imd157q05$http-refferer=https://daddylive.live/
 #EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", Polsat Sport Extra
@@ -31,44 +37,28 @@ httphost://$http-raw=https://wstream.to/embed/48mweuli210$http-refferer=https://
 httphost://$http-raw=https://wstream.to/embed/6v6slvhb$http-refferer=https://daddylive.live/
   #EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", Eleven Sports 2
 httphost://$http-raw=https://wstream.to/embed/02c2og7jbck0t$http-refferer=https://daddylive.live/
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", nsport+
-httphost://$http-raw=https://wstream.to/embed/9h1ij50jy9zh$http-refferer=https://daddylive.live/
+#EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/n-sport-plus.png", NSPORT
+httphost://$http-raw=https://wstream.to/embed/f8utibnb$http-refferer=http://darmowa-tv.ws/
 
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", TVP 1
-httphost://$http-raw=https://wstream.to/embed/872saa7$http-refferer=http://darmowatv.ws/
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", TVP 2
-httphost://$http-raw=https://wstream.to/embed/0suwjz$http-refferer=http://darmowatv.ws/
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", TVN 7
-httphost://$http-raw=https://wstream.to/embed/yx17z6f9c$http-refferer=http://darmowatv.ws/
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", POLSAT
-httphost://$http-raw=http://wstream.to/embed/pqr7ed$http-refferer=http://darmowatv.ws/
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", TV PULS
-httphost://$http-raw=https://wstream.to/embed/g5ck5jo$http-refferer=http://darmowatv.ws/
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", DISCOVERY CHANNEL
-httphost://$http-raw=https://wstream.to/embed/dkhms6zzm3sq$http-refferer=http://darmowatv.ws/
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", ID
-httphost://$http-raw=https://wstream.to/embed/kok25a$http-refferer=http://darmowatv.ws/
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", PLANETE+
-httphost://$http-raw=https://wstream.to/embed/9ogyevzjtp$http-refferer=http://darmowatv.ws/
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", POLSAT DOKU
-httphost://$http-raw=https://darmowatv.ws/run?sid=0267FF41&id=13302&q=tvhd$http-refferer=http://darmowatv.ws/
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", TLC
-httphost://$http-raw=https://wstream.to/embed/runiygje$http-refferer=http://darmowatv.ws/
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", NAT GEO CHANNEL
-httphost://$http-raw=https://wstream.to/embed/zzom9r7tjos6l7$http-refferer=http://darmowatv.ws/
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", TVN TURBO
-httphost://$http-raw=https://wstream.to/embed/bu82sg$http-refferer=http://darmowatv.ws/
-#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", HGTV
-httphost://$http-raw=https://wstream.to/embed/xrd8ili12gzya2d$http-refferer=http://darmowatv.ws/
+#EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/discovery-channel.png", DISCOVERY CHANNEL
+httphost://$http-raw=https://wstream.to/embed/dkhms6zzm3sq$http-refferer=http://darmowa-tv.ws/discovery-channel/
 #EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", 
-httphost://$http-raw=https$http-refferer=http://darmowatv.ws/
+httphost://$http-raw=https$http-refferer=http://darmowa-tv.ws
 #EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", 
-httphost://$http-raw=https$http-refferer=http://darmowatv.ws/
+httphost://$http-raw=https$http-refferer=http://darmowa-tv.ws
 #EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", 
-httphost://$http-raw=https$http-refferer=http://darmowatv.ws/
+httphost://$http-raw=https$http-refferer=http://darmowa-tv.ws
 #EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", 
-httphost://$http-raw=https$http-refferer=http://darmowatv.ws/
+httphost://$http-raw=https$http-refferer=http://darmowa-tv.ws
 #EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", 
-httphost://$http-raw=https$http-refferer=http://darmowatv.ws/
+httphost://$http-raw=https$http-refferer=http://darmowa-tv.ws
 #EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", 
-httphost://$http-raw=https$http-refferer=http://darmowatv.ws/
+httphost://$http-raw=https$http-refferer=http://darmowa-tv.ws
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", 
+httphost://$http-raw=https$http-refferer=http://darmowa-tv.ws
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", 
+httphost://$http-raw=https$http-refferer=http://darmowa-tv.ws
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", 
+httphost://$http-raw=https$http-refferer=http://darmowa-tv.ws
+#EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", 
+httphost://$http-raw=https$http-refferer=http://darmowa-tv.ws
