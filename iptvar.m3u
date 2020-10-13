@@ -1,6 +1,23 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]TV FABOR[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0 tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/live-tv-3-1174012.png", Saudi Quran tv
+http://www.elahmad.com/tv/m3u8/tv3_anywhere.m3u8?id=saudi_quran
+#EXTINF:0 tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/live-tv-3-1174012.png", Saudi Sunnah TV
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/index.m3u8
+#EXTINF:0 tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/live-tv-3-1174012.png", Saudi 1
+https://cllive.itworkscdn.net/ksa1live/token=nva=1602625529~dirs=1~hash=0c83d61f3a77a3ad269ac/ksa1.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/live-tv-3-1174012.png", Saudi NEWS
+https://cllive.itworkscdn.net/ikhbariyalive/token=nva=1602625580~dirs=1~hash=0524420e181459c28635f/ikhbariya.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/live-tv-3-1174012.png", IQRAA TV
+https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8?v=1765999971
+#EXTINF:0 tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/live-tv-3-1174012.png", NOBLE TV
+https://5d39f1ab8ba65.streamlock.net:1935/arabic-test/arabic-test/playlist.m3u8?v=1765999971
+#EXTINF:0 tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/live-tv-3-1174012.png", makkah tv
+https://5ab29cc78f681.streamlock.net/makkahtv/livestream/playlist.m3u8?v=1765999971
+#EXTINF:0 tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/live-tv-3-1174012.png", SBC
+https://cllive.itworkscdn.net/sbclive/token=nva=1602625913~dirs=1~hash=00d397aaeaf719c6485ef/sbc.smil/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="2M Monde ARB" tvg-name="2M Monde ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eE1SdyA.png" group-title="",2M Monde
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
