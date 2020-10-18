@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color green]DEUTSCHLAND TV - TV FABOR APK[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", DAZN 1 Germany
+httphost://$http-raw=https://wstream.to/embed/c95e3b6ldr0a$http-refferer=http://livesport4u.pw/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", DAZN 2 Germany
+httphost://$http-raw=https://wstream.to/embed/nh2vd072gvyj4c$http-refferer=http://livesport4u.pw/
 #EXTINF:0 tvg-logo="https://www.iconeasy.com/icon/png/Flag/Flags/Germany.png", arte
 https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
 #EXTINF:0 tvg-logo="https://www.iconeasy.com/icon/png/Flag/Flags/Germany.png", hr
