@@ -85,8 +85,6 @@ httphost://$http-raw=https://telerium.tv/embed/66292.html$http-refferer=https://
 httphost://$http-raw=https://telerium.tv/embed/66293.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
 #EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/telefoot_stadium_8.png", Telefoot Stadium 8
 httphost://$http-raw=https://telerium.tv/embed/66294.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
-#EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/telefoot_stadium_8.png", Telefoot Stadium 9
-httphost://$http-raw=https://telerium.tv/embed/66295.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
 
 #EXTINF:0 tvg-logo="https://channelstream.me/images/prog/channel/golf.png", Golf +
 httphost://$http-raw=https://telerium.tv/embed/46394.html$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
