@@ -11,7 +11,7 @@ httphost://$http-raw=https://live.yalla-shoot.us/p/watch-bein-sports-1-hd.html$h
 
 
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS NEWS ARABIC
-httphost://$http-raw=https://www.youtube.com/embed/6TY-6GSca1A$http-refferer=https://www.youtube.com/
+https://www.youtube.com/embed/6TY-6GSca1A
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS ARABIC
 httphost://$http-raw=https://www.youtube.com/embed/9ibi22QeQEU$http-refferer=https://www.youtube.com/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 1HD ARABIC
