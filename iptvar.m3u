@@ -3,11 +3,11 @@
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 1HD ARABIC
-httphost://$http-raw=https://kora365.live/live1$http-refferer=https://sportsworldnet.eu/
+httphost://$http-raw=https://kora365.live/live1$http-refferer=https://kora365.live/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 1HD ARABIC
-httphost://$http-raw=https://new.yalla-shoot-7sry.com/p/sports-1.html$http-refferer=https://sportsworldnet.eu/
+httphost://$http-raw=https://new.yalla-shoot-7sry.com/p/sports-1.html$http-refferer=https://live.yalla-shoot.us/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 1HD ARABIC
-httphost://$http-raw=https://live.yalla-shoot.us/p/watch-bein-sports-1-hd.html$http-refferer=https://sportsworldnet.eu/
+httphost://$http-raw=https://live.yalla-shoot.us/p/watch-bein-sports-1-hd.html$http-refferer=https://live.yalla-shoot.us/
 
 
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS NEWS ARABIC
