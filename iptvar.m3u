@@ -2,16 +2,8 @@
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]TV FABOR[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 1HD ARABIC
-httphost://$http-raw=https://kora365.live/live1$http-refferer=https://kora365.live/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 1HD ARABIC
-httphost://$http-raw=https://new.yalla-shoot-7sry.com/p/sports-1.html$http-refferer=https://live.yalla-shoot.us/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 1HD ARABIC
-httphost://$http-raw=https://live.yalla-shoot.us/p/watch-bein-sports-1-hd.html$http-refferer=https://live.yalla-shoot.us/
-
-
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS NEWS ARABIC
-https://www.youtube.com/embed/6TY-6GSca1A
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/owAAAB%2bLCAAAAAAABAAFwc0OgiAAAOAHci4FTTl08C88pM7Kct0UIR3MzCiU%2bfB9X7gsE14FFcGvPtJZF6sAdkNx766NwCSu2MVqn4g7pcHzPvpa3fl92smgUPEyT5m%2fIV0w2%2b695JXeOOF6g4RCiBg1SceY6XTQNRuLABMi4jO7dSFCYAtBFebX0WnzqFRzcpfV3pi64SF1nYqPUnrMvEnuBuypwx%2fc51gvowAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS ARABIC
 httphost://$http-raw=https://www.youtube.com/embed/9ibi22QeQEU$http-refferer=https://www.youtube.com/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 1HD ARABIC
