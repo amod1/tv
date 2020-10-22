@@ -57,6 +57,12 @@ httphost://$http-raw=https://wstream.to/embed/u7wjdubq51y41dw$http-refferer=http
 httphost://$http-raw=https://wstream.to/embed/9kcw1tq57an46d$http-refferer=https://daddylive.xyz/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Daddylive TV LIVE 27 HD
 httphost://$http-raw=https://wstream.to/embed/440l1gfzh7jo$http-refferer=https://daddylive.xyz/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", freesport TV LIVE 1 FHD
+httphost://$http-raw=http://www.freesport.info/watch/1.php$http-refferer=https://sportsworldnet.eu
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", blacktiesports TV LIVE 1 FHD
+httphost://$http-raw=http://blacktiesports.net/live/soccer1.php$http-refferer=https://sportsworldnet.eu
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", dubsstreamz TV LIVE 1 FHD
+httphost://$http-raw=http://www.dubsstreamz.com/tcbs2.php$http-refferer=https://sportsworldnet.eu
 
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Dailysport TV LIVE 1 FHD
 httphost://$http-raw=https://dailysport.pw/c1.php$http-refferer=https://sportsworldnet.eu/
