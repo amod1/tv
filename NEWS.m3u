@@ -8,8 +8,8 @@ httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:0 tvg-logo="http://photocall.xyz/images/cbs.png", CBS NEWS
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:0 tvg-logo="http://photocall.xyz/images/cnn.png", cnn news
-httphost://$http-raw=http://yoursports.stream/ing/cnnnews$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="http://photocall.xyz/images/cnn.png", CNN NEWS
+http://cnnios-f.akamaihd.net/i/cnn/big/tv/2018/01/04/lead-rep-jamie-raskin-live-jake-tapper.cnn_1838421_ios_,440,650,840,1240,3000,.mp4.csmil/master.m3u8
 #EXTINF:0 tvg-logo="http://photocall.xyz/images/fox.png", FOX NEWS
 httphost://$http-raw=http://yoursports.stream/ing/foxnews$http-refferer=https://sportsworldnet.eu/
 
