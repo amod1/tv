@@ -8,18 +8,18 @@ httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:0 tvg-logo="http://photocall.xyz/images/abc.png", CBS NEWS
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", cnn news
+#EXTINF:0 tvg-logo="http://photocall.xyz/images/cnn.png", cnn news
 httphost://$http-raw=http://yoursports.stream/ing/cnnnews$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", foxnewsfoxnews
+#EXTINF:0 tvg-logo="http://photocall.xyz/images/fox.png", FOX NEWS
 httphost://$http-raw=http://yoursports.stream/ing/foxnews$http-refferer=https://sportsworldnet.eu/
 
 #EXTINF:0 tvg-logo="http://photocall.xyz/images/nbc.png", NBC NEWS
 https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
 #EXTINF:0 tvg-logo="http://photocall.xyz/images/bbc.png", BBC NEWS
 https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="http://photocall.xyz/images/rt.png", euronews ENG
+#EXTINF:0 tvg-logo="http://photocall.xyz/images/euronews.png", euronews ENG
 https://euronews-en-p11-cdn.hexaglobe.net/f6932112462e79c38791adc97df52ccb/5f985907/euronews/euronews-euronews-website-web-responsive-2/ewnsabren_eng.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="http://photocall.xyz/images/abc.png", RT NEWS ENG
+#EXTINF:0 tvg-logo="http://photocall.xyz/images/rt.png", RT NEWS ENG
 https://rt-news.secure.footprint.net/1103.m3u8 
 #EXTINF:0 tvg-logo="http://photocall.xyz/images/france24.png", F24 ENG
 https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
