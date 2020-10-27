@@ -6,7 +6,7 @@ httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 
 #EXTINF:0 tvg-logo="http://photocall.xyz/images/abc.png", abc NEWS
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:0 tvg-logo="http://photocall.xyz/images/abc.png", CBS NEWS
+#EXTINF:0 tvg-logo="http://photocall.xyz/images/cbs.png", CBS NEWS
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:0 tvg-logo="http://photocall.xyz/images/cnn.png", cnn news
 httphost://$http-raw=http://yoursports.stream/ing/cnnnews$http-refferer=https://sportsworldnet.eu/
