@@ -20,14 +20,6 @@ httphost://$http-raw=https://wstream.to/embed/kd4ocz4i6u$http-refferer=https://s
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 7HD S1
 httphost://$http-raw=https://wstream.to/embed/txew2vtw76kr$http-refferer=https://sportsworldnet.eu/
 
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 1HD S2
-httphost://$http-raw=https://kora-live.tv/iframe/embeds/bein2.php$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 2HD S2
-httphost://$http-raw=https://kora-live.tv/iframe/embeds/bein2.php$http-refferer=https://kora-live.tv/iframe/bein2/bein2.html
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 3HD S2
-httphost://$http-raw=https://kora-live.tv/iframe/embeds/bein2.php$http-refferer=https://kora-live.tv/
-
-
 #EXTINF:0 tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/live-tv-3-1174012.png", Saudi Quran tv
 http://www.elahmad.com/tv/m3u8/tv3_anywhere.m3u8?id=saudi_quran
 #EXTINF:0 tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/live-tv-3-1174012.png", Saudi Sunnah TV
