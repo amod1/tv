@@ -21,17 +21,12 @@ httphost://$http-raw=https://wstream.to/embed/kd4ocz4i6u$http-refferer=https://s
 httphost://$http-raw=https://wstream.to/embed/txew2vtw76kr$http-refferer=https://sportsworldnet.eu/
 
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 1HD S2
-httphost://$http-raw=https://wstream.to/embed/c255q$http-refferer=https://area51deportiva.com/
+httphost://$http-raw=https://kora-live.tv/iframe/embeds/bein2.php$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 2HD S2
-httphost://$http-raw=https://wstream.to/embed/kf5ubs$http-refferer=https://area51deportiva.com/
+httphost://$http-raw=https://kora-live.tv/iframe/embeds/bein2.php$http-refferer=https://kora-live.tv/iframe/bein2/bein2.html
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 3HD S2
-httphost://$http-raw=https://wstream.to/embed/q8vncjk2v$http-refferer=https://area51deportiva.com/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 4HD S2
-httphost://$http-raw=https://wstream.to/embed/8rf6eiily$http-refferer=https://area51deportiva.com/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 5HD S2
-httphost://$http-raw=https://wstream.to/embed/yfbgj$http-refferer=https://area51deportiva.com/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 6HD S2
-httphost://$http-raw=https://wstream.to/embed/rifx432l9$http-refferer=https://area51deportiva.com/
+httphost://$http-raw=https://kora-live.tv/iframe/embeds/bein2.php$http-refferer=https://kora-live.tv/
+
 
 #EXTINF:0 tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/live-tv-3-1174012.png", Saudi Quran tv
 http://www.elahmad.com/tv/m3u8/tv3_anywhere.m3u8?id=saudi_quran
