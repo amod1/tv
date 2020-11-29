@@ -2,11 +2,10 @@
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color green]SPAIN TV - TV FABOR APK[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", LA 1 ff
-httphost://$http-raw=http://www.hdchannel.xyz/musicahd/foxlife.php$http-refferer=http://www.hdchannel.xyz
-
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", LA 1 a
+httphost://$http-raw=https://adictosalatele.com/TV/latinos/maxlatino/$http-refferer=https://adictosalatele.com/
 #EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", antena 3
-httphost://$http-raw=https://adictosalatele.com/TV/espana/movistar-series/$http-refferer=https://adictosalatele.com/
+httphost://$http-raw=https://espare.tk/embed/generator.php?id=hbo_mundi_lat$http-refferer=https://adictosalatele.com/
 #EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", cuatro
 httphost://$http-raw=https://wstream.to/embed/tgfvlykts$http-refferer=https://adictosalatele.com/
 #EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", telecinco
