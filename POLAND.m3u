@@ -6,7 +6,7 @@ httphost://$http-raw=https://wstream.to/embed/1n0sodupdl5gc0e$http-refferer=http
 httphost://$http-raw=https://wstream.to/embed/48elsvcfd8d863$http-refferer=http://darmowa-tv.ws/
 #EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/canal-plus-family.png", CANAL+ Family
 httphost://$http-raw=https://wstream.to/embed/iv0widu$http-refferer=http://darmowa-tv.ws/
-#EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/canal-plus-seriale.png", CANAL+ Seriale
+#EXTINF:0 tvg-logo="https://darmowa-tv.ws/wp-content/uploads/2020/10/canal-plus-seriale.png", CANAL+ Seriale
 httphost://$http-raw=https://wstream.to/embed/b41kd8g$http-refferer=http://darmowa-tv.ws/
 
 
