@@ -5,10 +5,10 @@ httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 
 
 
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Dailysport TV LIVE 1 FHD 4K
-httphost://$http-raw=https://dailysport.work/c1.php$http-refferer=https://dailysport.work/c1.php
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Dailysport TV LIVE 2 FHD 1080
-httphost://$http-raw=https://dailysport.work/c1.php$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Dailysport TV LIVE 1 FHD 4
+httphost://$http-raw=https://dailysport.work/c10.php$http-refferer=https://dailysport.work/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Dailysport TV LIVE 2 FHD 1
+httphost://$http-raw=http://dailysport.work/c10.php$http-refferer=https://dailysport.work/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Dailysport TV LIVE 3 FHD
 httphost://$http-raw=https://dailysport.store/c3.php$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Dailysport TV LIVE 4 FHD
