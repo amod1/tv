@@ -5,10 +5,10 @@ httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 
 
 
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Dailysport TV LIVE 1 FHD 
-httphost://$http-raw=https://dailysport.store/c1.php$http-refferer=https://dailysport.store/c1.php
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Dailysport TV LIVE 2 FHD
-httphost://$http-raw=https://dailysport.store/c2.php$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Dailysport TV LIVE 1 FHD 4K
+httphost://$http-raw=https://dailysport.work/c1.php$http-refferer=https://dailysport.work/c1.php
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Dailysport TV LIVE 2 FHD 1080
+httphost://$http-raw=https://dailysport.work/c1.php$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Dailysport TV LIVE 3 FHD
 httphost://$http-raw=https://dailysport.store/c3.php$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Dailysport TV LIVE 4 FHD
@@ -92,24 +92,3 @@ httphost://$http-raw=https://wigistream.to/embed/xsezbh3muyxz$http-refferer=http
 #EXTINF:0 tvg-logo="https://channelstream.me/images/golf-ball.png", Sportzonline TV LIVE  8 GREEK & ENGLISH
 httphost://$http-raw=https://wigistream.to/embed/iicmwmn5badb9$http-refferer=https://sportzonline.to/channels/hd/hd8.php
 
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", 1
-httphost://$http-raw=https://vipcast.pw/hls.php?stream=bein11$http-refferer=https://livesport4u.pw/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png",11
-httphost://$http-raw=https://vipcast.pw/hls.php?stream=bein11$http-refferer=http://livesport4u.pw/
-
-
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png",
-httphost://$http-raw=https://telerium.net/embed/27334.html$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png",
-httphost://$http-raw=https://telerium.net/embed/27334.html$http-refferer=https://csport.xyz/t/1/4.php
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", 
-httphost://$http-raw=http$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", 
-httphost://$http-raw=http$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", 
-httphost://$http-raw=http$http-refferer=https://sportsworldnet.eu/
-
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Ziggo Sport Netherlands
-httphost://$http-raw=https://streamcdn.to/e/4loansan3gb$http-refferer=https://livesport4u.pw/vip/ziggoselect.php
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Sky Sport 1 Italy
-httphost://$http-raw=https://streamcdn.to/e/yxe88v$http-refferer=https://livesport4u.pw/vip/skysport1it.ph
