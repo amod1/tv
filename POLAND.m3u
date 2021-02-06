@@ -19,9 +19,9 @@ httphost://$http-raw=https://wigistream.to/embed/heck1s$http-refferer=http://dar
 http://internetowa.tv/?c=hlsPlay&channel=hbo&token=385ca7908903d6cf12b41445442c064ea7def66216e4bac3ba93e1175dbdbecc5eb8cfebccf88aa4fc3fa0254da733a6afeadd256d28b0bcc0b556c7cd700eb4
 
 #EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", CANAL+SPORT 1
-httphost://$http-raw=https://wstream.to/embed/mysxo54w$http-refferer=https://daddylive.xyz/
+httphost://$http-raw=https://wigistream.to/embed/2w9zbcef$http-refferer=http://darmowa-tv.ws/
 #EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", CANAL+SPORT 2
-httphost://$http-raw=https://wstream.to/embed/iih3mo1e32g$http-refferer=https://daddylive.live/embed/stream-73.php
+httphost://$http-raw=http://darmowa-tv.ws/player/cs.php$http-refferer=http://darmowa-tv.ws/
 #EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/tvp-sport.png", TVP SPORT
 httphost://$http-raw=https://wstream.to/embed/3xfhzbzwbqmgu8$http-refferer=http://darmowa-tv.ws/tvp-sport/
 #EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", Polsat Sport
