@@ -1,7 +1,7 @@
 #EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", CANAL+PREMIUM
 http://internetowa.tv/?c=hlsPlay&channel=canalplus&token=385ca7908903d6cf12b41445442c064ea7def66216e4bac3ba93e1175dbdbecc5eb8cfebccf88aa4fc3fa0254da733a6afeadd256d28b0bcc0b556c7cd700eb4
 #EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/canal-plus.png", CANAL+PREMIUM
-httphost://$http-raw=http://ok.ru/videoembed/2212797619781?nochat=1&autoplay=1$http-refferer=http://darmowa-tv.ws/
+http://ok.ru/videoembed/2212797619781?nochat=1&autoplay=1
 #EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/canal-plus-film.png", CANAL+ FILM
 httphost://$http-raw=https://wigistream.to/embed/hvefvscbhuc3$http-refferer=http://darmowa-tv.ws/
 #EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/canal-plus-family.png", CANAL+ Family
