@@ -1,19 +1,19 @@
 #EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", CANAL+PREMIUM
 http://internetowa.tv/?c=hlsPlay&channel=canalplus&token=385ca7908903d6cf12b41445442c064ea7def66216e4bac3ba93e1175dbdbecc5eb8cfebccf88aa4fc3fa0254da733a6afeadd256d28b0bcc0b556c7cd700eb4
 #EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/canal-plus.png", CANAL+PREMIUM
-httphost://$http-raw=https://wstream.to/embed/1n0sodupdl5gc0e$http-refferer=http://darmowa-tv.ws/
+httphost://$http-raw=http://ok.ru/videoembed/2212797619781?nochat=1&autoplay=1$http-refferer=http://darmowa-tv.ws/
 #EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/canal-plus-film.png", CANAL+ FILM
-httphost://$http-raw=https://wstream.to/embed/48elsvcfd8d863$http-refferer=http://darmowa-tv.ws/
+httphost://$http-raw=https://wigistream.to/embed/hvefvscbhuc3$http-refferer=http://darmowa-tv.ws/
 #EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/canal-plus-family.png", CANAL+ Family
-httphost://$http-raw=https://wstream.to/embed/iv0widu$http-refferer=http://darmowa-tv.ws/
+httphost://$http-raw=https://wigistream.to/embed/zuma6y$http-refferer=http://darmowa-tv.ws/
 #EXTINF:0 tvg-logo="https://darmowa-tv.ws/wp-content/uploads/2020/10/canal-plus-seriale.png", CANAL+ Seriale
-httphost://$http-raw=https://wstream.to/embed/b41kd8g$http-refferer=http://darmowa-tv.ws/
+httphost://$http-raw=https://wigistream.to/embed/353x7qy3y$http-refferer=http://darmowa-tv.ws/
 
 
 #EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/polsat-film.png", POLSAT FILM
-httphost://$http-raw=https://wstream.to/embed/iv0widu$http-refferer=http://darmowa-tv.ws/
+httphost://$http-raw=https://wigistream.to/embed/p3a25b3$http-refferer=http://darmowa-tv.ws/
 #EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/fox.png", FOX
-httphost://$http-raw=https://wstream.to/embed/6ez4bmhwg7c1rg$http-refferer=http://darmowa-tv.ws/
+httphost://$http-raw=https://wigistream.to/embed/heck1s$http-refferer=http://darmowa-tv.ws/
 
 #EXTINF:0 tvg-logo="https://www.shareicon.net/data/2015/07/23/73801_flag_256x256.png", HBO
 http://internetowa.tv/?c=hlsPlay&channel=hbo&token=385ca7908903d6cf12b41445442c064ea7def66216e4bac3ba93e1175dbdbecc5eb8cfebccf88aa4fc3fa0254da733a6afeadd256d28b0bcc0b556c7cd700eb4
@@ -36,12 +36,7 @@ httphost://$http-raw=https://wstream.to/embed/02c2og7jbck0t$http-refferer=https:
 httphost://$http-raw=https://wstream.to/embed/f8utibnb$http-refferer=http://darmowa-tv.ws/
 
 
-#EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/tvn-24.png", TVN 24
-httphost://$http-raw=https://wstream.to/embed/koszepdvunb$http-refferer=http://darmowa-tv.ws
-#EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/polsat-news.png", POLSAT NEWS
-https://darmowa-tv.ws/run/co.m3u8?sid=6A563CAF&id=1574&q=tvhd
-#EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/tvp-info.png", TVP INFO
-httphost://$http-raw=https://wstream.to/embed/5837837gggigzgi$http-refferer=http://darmowa-tv.ws
+
 #EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/superstacja.png", SUPERSTACJA
 https://darmowa-tv.ws/run/co.m3u8?sid=A8F24DC5&id=1577&q=tv
 #EXTINF:0 tvg-logo="http://darmowa-tv.ws/wp-content/uploads/2020/10/eurosport.png", EUROSPORT 1
