@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color green]PORTUGAL TV - TV FABOR APK[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c8/6f/6d/c86f6d8f3659d0b968d68f4f0abc8c9f.png",SPORT TV1
-httphost://$http-raw=https://wigistream.to/embed/qrm8lzldnqat$http-refferer=https://v2.sportzonline.to/channels/pt/sporttv1.php
+httphost://$http-raw=https://wigistream.to/embed/walxjawfo5x$http-refferer=https://v2.sportzonline.to/channels/pt/sporttv1.php
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c8/6f/6d/c86f6d8f3659d0b968d68f4f0abc8c9f.png",SPORT TV2
 httphost://$http-raw=https://wigistream.to/embed/60lewo5c36hzw$http-refferer=https://v2.sportzonline.to/channels/pt/sporttv2.php
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c8/6f/6d/c86f6d8f3659d0b968d68f4f0abc8c9f.png",SPORT TV3
