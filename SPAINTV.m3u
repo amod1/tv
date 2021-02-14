@@ -41,6 +41,26 @@ httphost://$http-raw=https://wigistream.to/embed/wvu3us$http-refferer=https://ad
 httphost://$http-raw=https://wigistream.to/embed/xdiyynrg3pax$http-refferer=https://adictosalatele.com/
 #EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", FOX
 httphost://$http-raw=https://wigistream.to/embed/v0u19cwy59$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", Movistar LA LIGA
+httphost://$http-raw=https://wigistream.to/embed/659emi1n06e$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", Liga de Campeones
+httphost://$http-raw=https://wigistream.to/embed/es7vp53q9k397$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", Canal Deportes
+httphost://$http-raw=https://wigistream.to/embed/u8sutdeb$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", DAZN 1
+httphost://$http-raw=https://wigilive.com/embed.php?id=live25$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", DAZN 2
+httphost://$http-raw=https://wigilive.com/embed.php?id=live26$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", Canal #Vamos
+httphost://$http-raw=https://wigistream.to/embed/d2x27uc0svfu$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", Bein Sports Ñ
+httphost://$http-raw=https://wigilive.com/embed.php?id=live20$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", 
+httphost://$http-raw=http$http-refferer=https://adictosalatele.com/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", 
+httphost://$http-raw=http$http-refferer=https://adictosalatele.com/
+
+
 
 #EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-3d-round-250.png", FOX LIFE latino
 httphost://$http-raw=https://wigistream.to/embed/aa03um3$http-refferer=https://adictosalatele.com/
