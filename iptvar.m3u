@@ -6,13 +6,13 @@ httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 
 
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 1HD 
-httphost://$http-raw=https://wigistream.to/embed/790cg5rpk$http-refferer=https://kora-live.tv/
+httphost://$http-raw=https://wigistream.to/embed/790cg5rpk$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 2HD 
-httphost://$http-raw=https://wigistream.to/embed/rrei4gk689$http-refferer=https://goal.kora-live.tv/
+httphost://$http-raw=https://wigistream.to/embed/rrei4gk689$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 3HD 
-httphost://$http-raw=https://wigistream.to/embed/xjsvi45sodg5$http-refferer=https://sportsworldnet.eu/
+httphost://$http-raw=https://wigistream.to/embed/xjsvi45sodg5$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 4HD 
-httphost://$http-raw=https://wigistream.to/embed/8pxyz9jv$http-refferer=https://sportsworldnet.eu/
+httphost://$http-raw=https://wigistream.to/embed/8pxyz9jv$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 5HD 
 httphost://$http-raw=https://wstream.to/embed/50898nwdeu0$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 6HD 
