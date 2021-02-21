@@ -22,32 +22,11 @@ httphost://$http-raw=https://wigistream.to/embed/2wfv1q4hq$http-refferer=https:/
 #EXTINF:0 tvg-logo="https://daddylive.live/images/sky_uk_sports_main_event.png", Sky Sports Main Event
 httphost://$http-raw=https://wigistream.to/embed/4g76m$http-refferer=https://daddylive.club/
 
+#EXTINF:0 tvg-logo="https://findicons.com/files/icons/656/rounded_world_flags/256/united_kingdom.png", Sky Sports Golf
+httphost://$http-raw=https://wigistream.to/embed/ia0jo$http-refferer=https://daddylive.club/
 
-#EXTINF:0 tvg-logo="https://findicons.com/files/icons/656/rounded_world_flags/256/united_kingdom.png", ITV 1
-http://photocall.tv/ftv.m3u8?ch=itv
-#EXTINF:0 tvg-logo="https://findicons.com/files/icons/656/rounded_world_flags/256/united_kingdom.png", ITV 2
-http://photocall.tv/ftv.m3u8?ch=itv2
-#EXTINF:0 tvg-logo="https://findicons.com/files/icons/656/rounded_world_flags/256/united_kingdom.png", ITV 3
-http://photocall.tv/ftv.m3u8?ch=itv3
-#EXTINF:0 tvg-logo="https://findicons.com/files/icons/656/rounded_world_flags/256/united_kingdom.png", ITV 4
-http://photocall.tv/ftv.m3u8?ch=itv4
-#EXTINF:0 tvg-logo="https://findicons.com/files/icons/656/rounded_world_flags/256/united_kingdom.png", ITVBE
-http://photocall.tv/ftv.m3u8?ch=itvbe
-#EXTINF:0 tvg-logo="https://findicons.com/files/icons/656/rounded_world_flags/256/united_kingdom.png", channel4
-http://photocall.tv/ftv.m3u8?ch=channel4
-#EXTINF:0 tvg-logo="https://findicons.com/files/icons/656/rounded_world_flags/256/united_kingdom.png", e4
-http://photocall.tv/ftv.m3u8?ch=e4
-#EXTINF:0 tvg-logo="https://findicons.com/files/icons/656/rounded_world_flags/256/united_kingdom.png", more4
-http://photocall.tv/ftv.m3u8?ch=more4
-#EXTINF:0 tvg-logo="https://findicons.com/files/icons/656/rounded_world_flags/256/united_kingdom.png", film4
-http://photocall.tv/ftv.m3u8?ch=film4
-#EXTINF:0 tvg-logo="https://findicons.com/files/icons/656/rounded_world_flags/256/united_kingdom.png", channel5
-http://photocall.tv/ftv.m3u8?ch=channel5
-#EXTINF:0 tvg-logo="https://findicons.com/files/icons/656/rounded_world_flags/256/united_kingdom.png", 5usa
-http://photocall.tv/ftv.m3u8?ch=5usa
-#EXTINF:0 tvg-logo="https://findicons.com/files/icons/656/rounded_world_flags/256/united_kingdom.png", BBC 1
-https://another1.easyview.eu/hls/bbc-london.m3u8
-#EXTINF:0 tvg-logo="https://findicons.com/files/icons/656/rounded_world_flags/256/united_kingdom.png", 
-http://photocall.tv/ftv.m3u8?ch=
-#EXTINF:0 tvg-logo="https://findicons.com/files/icons/656/rounded_world_flags/256/united_kingdom.png", 
-http://photocall.tv/ftv.m3u8?ch=
+#EXTINF:0 tvg-logo="https://findicons.com/files/icons/656/rounded_world_flags/256/united_kingdom.png", Sky Sports Cricket 
+httphost://$http-raw=https://wigistream.to/embed/sv7bkbzhi3$http-refferer=https://daddylive.club/
+
+#EXTINF:0 tvg-logo="https://findicons.com/files/icons/656/rounded_world_flags/256/united_kingdom.png", Sky Sports F1 HD UK
+httphost://$http-raw=https://wigistream.to/embed/7giu2$http-refferer=https://daddylive.club/
