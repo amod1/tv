@@ -1,20 +1,29 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]Choose a file IPTV[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
+
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", NBC Sports Network (NBCSN)
+httphost://$http-raw=https://wigistream.to/embed/revhhwuz59umft3$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", ESPN USA
+httphost://$http-raw=https://wigistream.to/embed/qe5out9z$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", ESPN 2 USA
+httphost://$http-raw=https://wigistream.to/embed/hv75koj2uiu$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", ABC HD
-httphost://$http-raw=https://wstream.to/embed/xizh2l$http-refferer=https://sportsworldnet.eu/
+httphost://$http-raw=https://wigistream.to/embed/s913qnlygtjwje$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", CBS HD
-httphost://$http-raw=https://wstream.to/embed/nkheg6dyg42$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", NBC USA
-httphost://$http-raw=https://wstream.to/embed/e9yuixl6lmaryr$http-refferer=https://sportsworldnet.eu/
+httphost://$http-raw=https://wigistream.to/embed/md3y99o15vrpcv$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", FOX USA
-httphost://$http-raw=https://wstream.to/embed/frzjnx3t9nhujdn$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", TEST1
-httphost://$http-raw=https://m.ustv247.tv/amc-live-stream/$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", 
-httphost://$http-raw=$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", 
-httphost://$http-raw=$http-refferer=https://sportsworldnet.eu/
+httphost://$http-raw=https://wigistream.to/embed/bw4tn$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", TNT
+httphost://$http-raw=https://wigistream.to/embed/j98bqmnd0$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", VH1
+httphost://$http-raw=https://wigistream.to/embed/69zgfpo4c$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", AMC
+httphost://$http-raw=https://wigistream.to/embed/jc3yl7cbtk$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", BET USA
+httphost://$http-raw=https://wigistream.to/embed/kkgj04uof$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", History Channel
+httphost://$http-raw=https://wigistream.to/embed/enk84bcf5g$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", 
 httphost://$http-raw=$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", 
@@ -26,53 +35,3 @@ httphost://$http-raw=$http-refferer=https://sportsworldnet.eu/
 #EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", 
 httphost://$http-raw=$http-refferer=https://sportsworldnet.eu/
 
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png",DISCOVERY LIFE
-httphost://$http-raw=http://yoursports.stream/ing/disclife$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", ABC
-httphost://$http-raw=http://yoursports.stream/ing/abc$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", abc news
-httphost://$http-raw=http://yoursports.stream/ing/abcnews$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", bet
-httphost://$http-raw=http://yoursports.stream/ing/bet$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", bloomberg Usa
-httphost://$http-raw=http://yoursports.stream/ing/bloomUsa$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", bravo
-httphost://$http-raw=http://yoursports.stream/ing/bravo$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", cbs
-httphost://$http-raw=http://yoursports.stream/ing/cbs$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", cbs news
-httphost://$http-raw=http://yoursports.stream/ing/cbsnews$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", cnn news
-httphost://$http-raw=http://yoursports.stream/ing/cnnnews$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", cmt
-httphost://$http-raw=http://yoursports.stream/ing/cmt$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", comedy central
-httphost://$http-raw=http://yoursports.stream/ing/comedycentral$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", discovery
-httphost://$http-raw=http://yoursports.stream/ing/discovery$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", disney
-httphost://$http-raw=http://yoursports.stream/ing/disney$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", fox
-httphost://$http-raw=http://yoursports.stream/ing/fox$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", foxnewsfoxnews
-httphost://$http-raw=http://yoursports.stream/ing/foxnews$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", fx
-httphost://$http-raw=http://yoursports.stream/ing/fx$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", fxm
-httphost://$http-raw=http://yoursports.stream/ing/fxm$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", fxx
-httphost://$http-raw=http://yoursports.stream/ing/fxx$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", hgtv
-httphost://$http-raw=http://yoursports.stream/ing/hgtv$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", id
-httphost://$http-raw=http://yoursports.stream/ing/id$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", natgeo
-httphost://$http-raw=http://yoursports.stream/ing/natgeo$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", naturevision USA IP
-httphost://$http-raw=http://yoursports.stream/ing/naturevision$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", paramount
-httphost://$http-raw=http://yoursports.stream/ing/paramount$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", pbs kids
-httphost://$http-raw=http://yoursports.stream/ing/pbskids$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png", pop tv
-httphost://$http-raw=http://yoursports.stream/ing/poptv$http-refferer=https://sportsworldnet.eu/
