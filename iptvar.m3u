@@ -18,6 +18,9 @@ https://deliriousholistic.net/embed/iqegq$OPT:http-user-agent=Mozilla/5.0 (Windo
 http://$OPT:http-raw=https://webudi.openhd.lol/ddy1/premium121/tracks-v1a1/mono.m3u8 [http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36] [referer=https://widevine.licenses4.me]
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 1HD ==
 http://$OPT:http-raw=http://webudi.openhd.lol/ddy1/premium121/tracks-v1a1/mono.m3u8 [http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36] [referer=https://widevine.licenses4.me]
+#EXTINF:-1 group-title="YOUR GROUP" tvg-logo="LOGO LINK",Channel name
+https://deliriousholistic.net/embed/iqegq|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 referer=https://www.aflam4youtv.com/
+
 
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 1HD 
 httphost://$http-raw=https://wigistream.to/embed/790cg5rpk$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
