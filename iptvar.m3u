@@ -12,6 +12,10 @@ https://webudi.openhd.lol/ddy1/premium121/tracks-v1a1/mono.m3u8$OPT:http-user-ag
 http://$OPT:http-raw=http://deliriousholistic.net/embed/iqegq http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 referer=https://www.aflam4youtv.com/
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 1HD 
 http://deliriousholistic.net/embed/iqegq$OPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 referer=https://www.aflam4youtv.com/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 1HD 
+https://deliriousholistic.net/embed/iqegq$OPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 referer=https://www.aflam4youtv.com/
+#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 1HD 
+http://deliriousholistic.net/embed/iqegq$OPT:referer=https://www.aflam4youtv.com/
 
 
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 1HD 
