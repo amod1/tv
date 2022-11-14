@@ -19,10 +19,9 @@ http://$OPT:http-raw=https://webudi.openhd.lol/ddy1/premium121/tracks-v1a1/mono.
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 1HD ==
 http://$OPT:http-raw=http://webudi.openhd.lol/ddy1/premium121/tracks-v1a1/mono.m3u8 [http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36] [refferer=https://widevine.licenses4.me]
 #EXTINF:-1 group-title="YOUR GROUP" tvg-logo="LOGO LINK",Channel name
-httphost://$http-raw=http://webudi.openhd.lol/ddy1/premium121/tracks-v1a1/mono.m3u8$http-refferer=https://widevine.licenses4.me
-#EXTINF:-1 group-title="YOUR GROUP" tvg-logo="LOGO LINK",Channel namet
+httphost://$http-raw=https://webudi.openhd.lol/ddy1/premium121/tracks-v1a1/mono.m3u8$http-refferer=https://widevine.licenses4.me
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="" group-title="News",Canada CBC
-httphost://$http-raw=http://webudi.openhd.lol/ddy1/premium121/tracks-v1a1/mono.m3u8$http-refferer=http://linkprotect.xmtvplayer.com
+httphost://$http-raw=https://webudi.openhd.lol/ddy1/premium121/tracks-v1a1/mono.m3u8$http-refferer=http://linkprotect.xmtvplayer.com
 
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 1HD 
 httphost://$http-raw=https://wigistream.to/embed/790cg5rpk$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
