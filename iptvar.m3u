@@ -7,11 +7,11 @@ httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 1HD 
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwEAAB%2bLCAAAAAAABAAFwclygjAAANAPYphCCEUOPaAplh2jgHBjB2VfE8aP73uq55hdNc3BIwsMTUit3fawkYPDt86KSgBx3GMFJD7nk0ShrtHmfd2ouZTahJZ%2bjM51pZZohekBhLS9ea7eRI3hUgCT60UuIAjrZ3pinpMv7w%2brVw3vtgS2ZgK80qzN89kO77s8iJbjgyqmCerf%2bFL7yFe%2bYbGloXqbnaH7%2fUaHKJuCcjW%2f3GGMxCNBRVfm%2fH0oW6Gtx62VdyfZyQMnJjf%2fGqGYbW6OJEzm0e%2bDWtdO3sSUSlypT8nrGrXmBryow8RokV%2b%2fxLl%2bO6%2fx3nI24jZFU5zLwrvTqozTDaUMDaY9LSBZ%2fwSGYr2pHuQIbRfrPfdB3ouwR9V0VUdxeuc%2bAEjwVPCQLUCWsBDGGRsnJ57lACxkToJFVkifGlhnvjOd6BmhVWfWiGCSlD8%2f%2fwqDcYCPAQAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="" group-title="News",Canada CBC1
-http://webudi.openhd.lol/ddy1/premium121/tracks-v1a1/mono.m3u8$OPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 referer=https://widevine.licenses4.me
+https://webudi.openhd.lol/ddy1/premium121/tracks-v1a1/mono.m3u8$OPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 referer=https://widevine.licenses4.me
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="" group-title="News",Canada CBC2
-http://$OPT:http-raw=http://webudi.openhd.lol/ddy1/premium121/tracks-v1a1/mono.m3u8 http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 referer=https://widevine.licenses4.me
+http://$OPT:http-raw=http://deliriousholistic.net/embed/iqegq http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 referer=https://www.aflam4youtv.com/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="" group-title="News",Canada CBC3
-https://$OPT:http-raw=http://webudi.openhd.lol/ddy1/premium121/tracks-v1a1/mono.m3u8 http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 referer=https://widevine.licenses4.me
+https://$OPT:http-raw=http://deliriousholistic.net/embed/iqegq http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 referer=https://www.aflam4youtv.com/
 
 
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 1HD 
