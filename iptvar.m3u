@@ -5,11 +5,7 @@ httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 
 
 #EXTINF:1,555
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=7680000
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://webudi.openhd.lol/lb/premium121/index.m3u8
+https://webudi.openhd.lol/lb/premium121/index.m3u8?http-referer=https://widevine.licenses4.me/
 
 
 #EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 1HD 
