@@ -4,32 +4,19 @@ httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 
 
 
-#EXTINF:1,552255
+#EXTINF:1,ASTRO CRICKET
 https://webudi.openhd.lol/ddy1/premium370/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
-#EXTINF:1,1
+#EXTINF:1,BEIN SPORTS
 https://dc69a149c646203c383e071655979af51a304f36.s3.eu-central-1.amazonaws.com/3599096ef4973cd9adb339a20fac75dfb70cdfca/live.m3u8?|Referer=https://4e59ab73d53ecc322129b89eb6a1cd5b3ed2b32e.online/&e=.m3u8
-#EXTINF:1,2
+#EXTINF:1,BT SPORT 1
 https://webudi.openhd.lol/ddy1/premium31/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,CANAL
+#EXTINF:1,CANAL+ FRANCE
 https://webudi.openhd.lol/ddy1/premium121/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
 
 
 
 
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 1HD 
-httphost://$http-raw=https://wigistream.to/embed/790cg5rpk$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 2HD 
-httphost://$http-raw=https://wigistream.to/embed/rrei4gk689$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 3HD 
-httphost://$http-raw=https://wigistream.to/embed/xjsvi45sodg5$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 4HD 
-httphost://$http-raw=https://wigistream.to/embed/8pxyz9jv$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 5HD 
-httphost://$http-raw=https://wstream.to/embed/50898nwdeu0$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 6HD 
-httphost://$http-raw=https://wigistream.to/embed/ymxae1v$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", beIN SPORTS 7HD S1
-httphost://$http-raw=https://wstream.to/embed/txew2vtw76kr$http-refferer=https://sportsworldnet.eu/
+
 
 #EXTINF:0 tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/live-tv-3-1174012.png", Saudi Quran tv
 http://www.elahmad.com/tv/m3u8/tv3_anywhere.m3u8?id=saudi_quran
