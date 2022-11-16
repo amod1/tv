@@ -8,6 +8,9 @@ httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 https://webudi.openhd.lol/ddy1/premium370/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
 #EXTINF:1,BEIN SPORTS
 https://dc69a149c646203c383e071655979af51a304f36.s3.eu-central-1.amazonaws.com/3599096ef4973cd9adb339a20fac75dfb70cdfca/live.m3u8?|Referer=https://4e59ab73d53ecc322129b89eb6a1cd5b3ed2b32e.online/&e=.m3u8
+#EXTINF:1,BEIN SPORTS MENA
+https://dc69a149c646203c383e071655979af51a304f36.s3.eu-central-1.amazonaws.com/3599096ef4973cd9adb339a20fac75dfb70cdfca/live.m3u8?|Referer=https://4e59ab73d53ecc322129b89eb6a1cd5b3ed2b32e.online/&e=.m3u8
+
 #EXTINF:1,BT SPORT 1
 https://webudi.openhd.lol/ddy1/premium31/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
 #EXTINF:1,CANAL+ FRANCE
@@ -20,10 +23,11 @@ https://webudi.openhd.lol/ddy1/premium123/tracks-v1a1/mono.m3u8?|Referer=https:/
 https://webudi.openhd.lol/ddy1/premium124/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
 #EXTINF:1,CANAL+ SPORTS FRANCE 
 https://webudi.openhd.lol/ddy1/premium125/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,CANAL+ SPORTS FRANCE 
+#EXTINF:1,ESPN 
 https://webudi.openhd.lol/ddy1/premium126/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
 
-
+#EXTINF:1,ESPN 
+https://webudi.openhd.lol/ddy1/premium364/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
 
 
 #EXTINF:0 tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/live-tv-3-1174012.png", Saudi Quran tv
