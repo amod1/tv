@@ -10,6 +10,8 @@ https://webudi.openhd.lol/ddy1/premium370/tracks-v1a1/mono.m3u8?|Referer=https:/
 https://dc69a149c646203c383e071655979af51a304f36.s3.eu-central-1.amazonaws.com/3599096ef4973cd9adb339a20fac75dfb70cdfca/live.m3u8?|Referer=https://4e59ab73d53ecc322129b89eb6a1cd5b3ed2b32e.online/&e=.m3u8
 #EXTINF:1,BEIN SPORTS
 https://c5c4c56e5a733add08a874c545109e3b.s3.eu-central-1.amazonaws.com/5f88dff416a34a71024877dde7a1cb4c/live.m3u8?|Referer=https://c5cbbd6ac9eaf03edfff307f5e9a03d9.live//&e=.m3u8
+#EXTINF:1,arab sports
+https://svs.itworkscdn.net/smc4sports2live/sports2.smil/sports2_chunks.m3u8?|Referer=https://c5cbbd6ac9eaf03edfff307f5e9a03d9.live//&e=.m3u8
 
 #EXTINF:1,arab sports
 https://svs.itworkscdn.net/smc4sports2live/sports2.smil/sports2_chunks.m3u8?|Referer=https://c5cbbd6ac9eaf03edfff307f5e9a03d9.live//&e=.m3u8
@@ -22,22 +24,14 @@ httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 https://live.tv247us.com/tv247/nba.m3u8?|Referer=https://tv247.us/&e=.m3u8
 #EXTINF:1,VH1 
 https://live.tv247us.com/tv247/vh1.m3u8?|Referer=https://tv247.us/&e=.m3u8
-#EXTINF:1,CNBC 
-https://live.tv247us.com/tv247/cnbc.m3u8?|Referer=https://tv247.us/&e=.m3u8
 #EXTINF:1,CBS SPORTS NETWORK
 https://live.tv247us.com/tv247/cbsnw.m3u8?|Referer=https://tv247.us/&e=.m3u8
 #EXTINF:1,NICKELODEON TV
 https://live.tv247us.com/tv247/nickelodeon.m3u8?|Referer=https://tv247.us/&e=.m3u8
-#EXTINF:1,A&E 
-https://live.tv247us.com/tv247/aeus.m3u8?|Referer=https://tv247.us/&e=.m3u8
-#EXTINF:1,TBS 
-https://live.tv247us.com/tv247/tbs.m3u8?|Referer=https://tv247.us/&e=.m3u8
 #EXTINF:1,HALLMARK MOVIES & MYSTERIES TV 
 https://live.tv247us.com/tv247/hallmarkmm.m3u8?|Referer=https://tv247.us/&e=.m3u8
 #EXTINF:1,HALLMARK 
 https://live.tv247us.com/tv247/hallmark.m3u8?|Referer=https://tv247.us/&e=.m3u8
-#EXTINF:1,NFL REDZONE 
-https://live.tv247us.com/tv247/redzone.m3u8?|Referer=https://tv247.us/&e=.m3u8
 #EXTINF:1,OXYGEN 
 https://live.tv247us.com/tv247/oxygen.m3u8?|Referer=https://tv247.us/&e=.m3u8
 #EXTINF:1,FXX
@@ -52,22 +46,52 @@ https://live.tv247us.com/tv247/espn1.m3u8?|Referer=https://tv247.us/&e=.m3u8
 https://live.tv247us.com/tv247/tnt.m3u8?|Referer=https://tv247.us/&e=.m3u8
 #EXTINF:1,FOX SPORTS 1
 https://live.tv247us.com/tv247/fs1.m3u8?|Referer=https://tv247.us/&e=.m3u8
+#EXTINF:1,FOX SPORTS 2
+https://live.tv247us.com/tv247/fs2.m3u8?|Referer=https://tv247.us/&e=.m3u8
 #EXTINF:1,DISCOVERY CHANNEL
 https://live.tv247us.com/tv247/discovery.m3u8?|Referer=https://tv247.us/&e=.m3u8
-#EXTINF:1,CNN
-https://live.tv247us.com/tv247/cnn.m3u8?|Referer=https://tv247.us/&e=.m3u8
-#EXTINF:1,CNN
-https://live.tv247us.com/tv247/cnn.m3u8?|Referer=https://tv247.us/&e=.m3u8
-#EXTINF:1,CNN
-https://live.tv247us.com/tv247/cnn.m3u8?|Referer=https://tv247.us/&e=.m3u8
-#EXTINF:1,CNN
-https://live.tv247us.com/tv247/cnn.m3u8?|Referer=https://tv247.us/&e=.m3u8
-#EXTINF:1,CNN
-https://live.tv247us.com/tv247/cnn.m3u8?|Referer=https://tv247.us/&e=.m3u8
-#EXTINF:1,AMC
-https://get.123tv.live/channel/434e72635139596171326942356a456f494f737263773d3d/29/amc.m3u8?|Referer=https://123tv.live/watch/amc/&e=.m3u8
-#EXTINF:1,AMC1
-https://get.123tv.live/channel/434e72635139596171326942356a456f494f737263773d3d/29/amc.m3u8?1&json=QU1DfHxodHRwczovLzEyM3R2LmxpdmUvd3AtY29udGVudC91cGxvYWRzLzIwMTgvMDgvYW1jLnBuZw==?|Referer=https://123tv.live/watch/amc/&e=.m3u8
+#EXTINF:1,ACC NETWORK
+https://live.tv247us.com/tv247/acc.m3u8?|Referer=https://tv247.us/&e=.m3u8
+#EXTINF:1,ESPN U
+https://cdn.espnfree.xyz/channel/espnu.m3u8?|Referer=https://tv247.us/&e=.m3u8
+#EXTINF:1,ESPNEWS
+https://cdn.espnfree.xyz/channel/espnews.m3u8?|Referer=https://tv247.us/&e=.m3u8
+#EXTINF:1,ESPN 2
+https://cdn.espnfree.xyz/channel/espn2.m3u8?|Referer=https://tv247.us/&e=.m3u8
+#EXTINF:1,ESPN US
+https://live.tv247us.com/tv247/espn1.m3u8?|Referer=https://tv247.us/&e=.m3u8
+#EXTINF:1,BRAVO
+https://cdn.espnfree.xyz/channel/bravo.m3u8?|Referer=https://tv247.us/&e=.m3u8
+#EXTINF:1,MSNBC US
+https://live.tv247us.com/tv247/msnbc.m3u8?|Referer=https://tv247.us/&e=.m3u8
+#EXTINF:1,NFL NETWORK
+https://live.tv247us.com/tv247/nfl.m3u8?|Referer=https://tv247.us/&e=.m3u8
+#EXTINF:1,ABC
+https://live.tv247us.com/tv247/abc.m3u8?|Referer=https://tv247.us/&e=.m3u8
+#EXTINF:1,CBS
+https://live.tv247us.com/tv247/cbs.m3u8?|Referer=https://tv247.us/&e=.m3u8
+#EXTINF:1,FOX NEWS
+https://live.tv247us.com/tv247/fn.m3u8?|Referer=https://tv247.us/&e=.m3u8
+#EXTINF:1,NATIONAL GEOGRAPHIC
+https://live.tv247us.com/tv247/nat.m3u8?|Referer=https://tv247.us/&e=.m3u8
+#EXTINF:1,ANIMAL PLANET
+https://live.tv247us.com/tv247/animalplanet.m3u8?|Referer=https://tv247.us/&e=.m3u8
+#EXTINF:1,SYFY
+https://live.tv247us.com/tv247/syfy.m3u8?|Referer=https://tv247.us/&e=.m3u8
+#EXTINF:1,USA NETWORK
+https://live.tv247us.com/tv247/usanw.m3u8?|Referer=https://tv247.us/&e=.m3u8
+#EXTINF:1,FOOD NETWORK
+https://live.tv247us.com/tv247/footnw.m3u8?|Referer=https://tv247.us/&e=.m3u8
+#EXTINF:1,HBO
+https://live.tv247us.com/tv247/hbo.m3u8?|Referer=https://tv247.us/&e=.m3u8
+#EXTINF:1,FOX
+https://live.tv247us.com/tv247/foxus.m3u8?|Referer=https://tv247.us/&e=.m3u8
+#EXTINF:1,NBC
+https://live.tv247us.com/tv247/nbc.m3u8?|Referer=https://tv247.us/&e=.m3u8
+#EXTINF:1,Das Erste
+https://mcdn.daserste.de/daserste/de/master.m3u8?|Referer=https://nydus.org/&e=.m3u8
+#EXTINF:1,ZDF
+https://s1.dietdinnerrecipes.com/stream/go2/Njg3NDc0NzA3MzI1MzM0MTI1MzI0NjI1MzI0Njc3Nzc3NzJlNmM2OTc2NjU3Mzc0NzI2NTYxNmQ2NDY1MmU2MzZmNmQyNTMyNDY3YTY0NjYyZDZjNjk3NjY1MjUzMjQ2~/~NzMyZTY4NjQ3NDc2Njk3YTZjNjU2MzYxNmU2YzY5MmU2MzZmNmQ=~/~/zdf.m3u81a.doc?|Referer=https://nydus.org/&e=.m3u8
 
 
 
