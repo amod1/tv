@@ -20,8 +20,8 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8?|Referer=
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:1,NBA TV
 https://live.tv247us.com/tv247/nba.m3u8?|Referer=https://tv247.us/&e=.m3u8
-#EXTINF:1,NICKTOONS 
-https://live.tv247us.com/tv247/nicktoons.m3u8?|Referer=https://tv247.us/&e=.m3u8
+#EXTINF:1,VH1 
+https://live.tv247us.com/tv247/vh1.m3u8?|Referer=https://tv247.us/&e=.m3u8
 #EXTINF:1,CNBC 
 https://live.tv247us.com/tv247/cnbc.m3u8?|Referer=https://tv247.us/&e=.m3u8
 #EXTINF:1,CBS SPORTS NETWORK
@@ -46,8 +46,35 @@ https://live.tv247us.com/tv247/fxx.m3u8?|Referer=https://tv247.us/&e=.m3u8
 https://live.tv247us.com/tv247/cn.m3u8?|Referer=https://tv247.us/&e=.m3u8
 #EXTINF:1,CNN
 https://live.tv247us.com/tv247/cnn.m3u8?|Referer=https://tv247.us/&e=.m3u8
+#EXTINF:1,ESPN US
+https://live.tv247us.com/tv247/espn1.m3u8?|Referer=https://tv247.us/&e=.m3u8
+#EXTINF:1,TNT
+https://live.tv247us.com/tv247/tnt.m3u8?|Referer=https://tv247.us/&e=.m3u8
+#EXTINF:1,FOX SPORTS 1
+https://live.tv247us.com/tv247/fs1.m3u8?|Referer=https://tv247.us/&e=.m3u8
+#EXTINF:1,DISCOVERY CHANNEL
+https://live.tv247us.com/tv247/discovery.m3u8?|Referer=https://tv247.us/&e=.m3u8
+#EXTINF:1,CNN
+https://live.tv247us.com/tv247/cnn.m3u8?|Referer=https://tv247.us/&e=.m3u8
+#EXTINF:1,CNN
+https://live.tv247us.com/tv247/cnn.m3u8?|Referer=https://tv247.us/&e=.m3u8
+#EXTINF:1,CNN
+https://live.tv247us.com/tv247/cnn.m3u8?|Referer=https://tv247.us/&e=.m3u8
+#EXTINF:1,CNN
+https://live.tv247us.com/tv247/cnn.m3u8?|Referer=https://tv247.us/&e=.m3u8
+#EXTINF:1,CNN
+https://live.tv247us.com/tv247/cnn.m3u8?|Referer=https://tv247.us/&e=.m3u8
+#EXTINF:1,AMC
+https://get.123tv.live/channel/434e72635139596171326942356a456f494f737263773d3d/29/amc.m3u8?|Referer=https://123tv.live/watch/amc/&e=.m3u8
+#EXTINF:1,AMC1
+https://get.123tv.live/channel/434e72635139596171326942356a456f494f737263773d3d/29/amc.m3u8?1&json=QU1DfHxodHRwczovLzEyM3R2LmxpdmUvd3AtY29udGVudC91cGxvYWRzLzIwMTgvMDgvYW1jLnBuZw==?|Referer=https://123tv.live/watch/amc/&e=.m3u8
 
 
+
+
+
+#EXTINF:1,AMC
+https://webudi.openhd.lol/ddy6/premium303/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=303&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]TV FHD[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:1,BT SPORT 1
