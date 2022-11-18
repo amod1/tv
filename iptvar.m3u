@@ -161,10 +161,9 @@ https://live.cdn-canlitv.com/kanal7cift.m3u8?anahtar=GxaXxayzRxGmDKZrBUkXZg&sure
 https://live2.cdn-canlitv.com/trt11111.m3u8?anahtar=fYvcNksjy7Aud4HZX5h_Zg&sure=1668822281&ip=105.67.4.39?|Referer=https://canlitv.center/&e=.m3u8
 #EXTINF:1,STAR TV
 https://dogus-live.daioncdn.net/startv/startv.m3u8?|Referer=https://canlitv.center/&e=.m3u8
-#EXTINF:1,A TV
-https://trkvz.daioncdn.net/atv/atv.m3u8?|Referer=https://www.atv.com.tr/&e=.m3u8
+
 #EXTINF:1,FOX TV
-https://stonecors.herokuapp.com/https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8?|Referer=https://canlitv.center/&e=.m3u8
+https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8?|Referer=https://canlitv.center/&e=.m3u8
 #EXTINF:1,BEYAZ TV
 https://live.cdn-canlitv.com/beyaztv.m3u8?anahtar=lFiBamjjIC07pZvy8sCl0w&sure=1668822218&ip=105.67.4.39?|Referer=https://canlitv.center/&e=.m3u8
 #EXTINF:1,TV 360
