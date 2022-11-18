@@ -94,10 +94,35 @@ https://mcdn.daserste.de/daserste/de/master.m3u8?|Referer=https://nydus.org/&e=.
 https://is-frontera.cdn.rcs.net.ar/mnp/hbo/output.mpd?|Referer=https://latele-envivo.com/&e=.m3u8
 
 
-
-
+#EXTINF:1,THE CH 44
+https://webudi.openhd.lol/ddy6/premium300/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=303&e=.m3u8
+#EXTINF:1,FREEFROM
+https://webudi.openhd.lol/ddy6/premium301/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=303&e=.m3u8
+#EXTINF:1,A and E
+https://webudi.openhd.lol/ddy6/premium302/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=303&e=.m3u8
 #EXTINF:1,AMC
 https://webudi.openhd.lol/ddy6/premium303/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=303&e=.m3u8
+#EXTINF:1,CANAL+ FR
+https://neurap2yfh6h.cdnexpress42.net:8443/hls/0bsnj0w5s.m3u8?s=RwP61-DXHWmJZ0v42-WuTw&e=1668818394?|Referer=https://voraciousglove.net/&e=.m3u8
+#EXTINF:1,AMC
+https://webudi.openhd.lol/ddy6/premium303/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=303&e=.m3u8
+#EXTINF:1,AMC
+https://webudi.openhd.lol/ddy6/premium303/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=303&e=.m3u8
+#EXTINF:1,AMC
+https://webudi.openhd.lol/ddy6/premium303/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=303&e=.m3u8
+#EXTINF:1,AMC
+https://webudi.openhd.lol/ddy6/premium303/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=303&e=.m3u8
+#EXTINF:1,AMC
+https://webudi.openhd.lol/ddy6/premium303/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=303&e=.m3u8
+#EXTINF:1,AMC
+https://webudi.openhd.lol/ddy6/premium303/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=303&e=.m3u8
+#EXTINF:1,AMC
+https://webudi.openhd.lol/ddy6/premium303/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=303&e=.m3u8
+#EXTINF:1,AMC
+https://webudi.openhd.lol/ddy6/premium303/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=303&e=.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]TV FHD[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:1,BT SPORT 1
