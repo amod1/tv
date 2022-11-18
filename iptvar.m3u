@@ -103,7 +103,12 @@ https://webudi.openhd.lol/ddy6/premium302/tracks-v1a1/mono.m3u8?|Referer=https:/
 #EXTINF:1,AMC
 https://webudi.openhd.lol/ddy6/premium303/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=303&e=.m3u8
 #EXTINF:1,CANAL+ FR
-https://neurap2yfh6h.cdnexpress42.net:8443/hls/0bsnj0w5s.m3u8?s=RwP61-DXHWmJZ0v42-WuTw&e=1668818394?|Referer=https://voraciousglove.net/&e=.m3u8
+https://ad20171.openhd.lol/cdn/myfeed5/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
+#EXTINF:1,CANAL+ FR
+https://ad20171.openhd.lol/cdn/myfeed1/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
+#EXTINF:1,CANAL+ FR
+https://ad20171.openhd.lol/cdn/myfeed5/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
+
 #EXTINF:1,AMC
 https://webudi.openhd.lol/ddy6/premium303/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=303&e=.m3u8
 #EXTINF:1,AMC
