@@ -90,10 +90,7 @@ https://live.tv247us.com/tv247/foxus.m3u8?|Referer=https://tv247.us/&e=.m3u8
 https://live.tv247us.com/tv247/nbc.m3u8?|Referer=https://tv247.us/&e=.m3u8
 #EXTINF:1,Das Erste
 https://mcdn.daserste.de/daserste/de/master.m3u8?|Referer=https://nydus.org/&e=.m3u8
-#EXTINF:1,skyspnews
-https://t2.switchcast2.com:999/hls/skyspnews.m3u8?md5=sa7QWukqZj10rgl3-4inRg&expires=1668794463?|Referer=https://gocast2.com/&e=.m3u8
-#EXTINF:1,ZDF
-https://s1.dietdinnerrecipes.com/stream/sprox2.php?start=1&c=zdf-live&id=zdf-live?|Referer=https://nydus.org/&e=.m3u8
+
 
 
 
