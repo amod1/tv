@@ -16,9 +16,40 @@ https://svs.itworkscdn.net/smc4sports2live/sports2.smil/sports2_chunks.m3u8?|Ref
 #EXTINF:1,arab sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8?|Referer=https://c5cbbd6ac9eaf03edfff307f5e9a03d9.live/&e=.m3u8
 
-#EXTINF:1,THE CW
-https://live.tv247us.com/tv247/cw.m3u8?|Referer=https://tv247.us/&e=.m3u8
+#EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]TV HD[/color]
+httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:1,NBA TV
+https://live.tv247us.com/tv247/nba.m3u8?|Referer=https://tv247.us/&e=.m3u8
+#EXTINF:1,NICKTOONS 
+https://live.tv247us.com/tv247/nicktoons.m3u8?|Referer=https://tv247.us/&e=.m3u8
+#EXTINF:1,CNBC 
+https://live.tv247us.com/tv247/cnbc.m3u8?|Referer=https://tv247.us/&e=.m3u8
+#EXTINF:1,CBS SPORTS NETWORK
+https://live.tv247us.com/tv247/cbsnw.m3u8?|Referer=https://tv247.us/&e=.m3u8
+#EXTINF:1,NICKELODEON TV
+https://live.tv247us.com/tv247/nickelodeon.m3u8?|Referer=https://tv247.us/&e=.m3u8
+#EXTINF:1,A&E 
+https://live.tv247us.com/tv247/aeus.m3u8?|Referer=https://tv247.us/&e=.m3u8
+#EXTINF:1,TBS 
+https://live.tv247us.com/tv247/tbs.m3u8?|Referer=https://tv247.us/&e=.m3u8
+#EXTINF:1,HALLMARK MOVIES & MYSTERIES TV 
+https://live.tv247us.com/tv247/hallmarkmm.m3u8?|Referer=https://tv247.us/&e=.m3u8
+#EXTINF:1,HALLMARK 
+https://live.tv247us.com/tv247/hallmark.m3u8?|Referer=https://tv247.us/&e=.m3u8
+#EXTINF:1,NFL REDZONE 
+https://live.tv247us.com/tv247/redzone.m3u8?|Referer=https://tv247.us/&e=.m3u8
+#EXTINF:1,OXYGEN 
+https://live.tv247us.com/tv247/oxygen.m3u8?|Referer=https://tv247.us/&e=.m3u8
+#EXTINF:1,FXX
+https://live.tv247us.com/tv247/fxx.m3u8?|Referer=https://tv247.us/&e=.m3u8
+#EXTINF:1,CARTOON NETWORK
+https://live.tv247us.com/tv247/cn.m3u8?|Referer=https://tv247.us/&e=.m3u8
+#EXTINF:1,CNN
+https://live.tv247us.com/tv247/cnn.m3u8?|Referer=https://tv247.us/&e=.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]TV FHD[/color]
+httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:1,BT SPORT 1
 https://webudi.openhd.lol/ddy1/premium31/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
 #EXTINF:1,BT SPORT 2
