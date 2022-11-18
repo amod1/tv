@@ -156,9 +156,9 @@ https://ciner-live.daioncdn.net/showtv/showtv.m3u8?|Referer=https://canlitv.cent
 #EXTINF:1,KANAL D
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8?|Referer=https://canlitv.center/&e=.m3u8
 #EXTINF:1,KANAL 7
-https://live.cdn-canlitv.com/kanal7cift.m3u8?|Referer=https://canlitv.center/&e=.m3u8
+https://live.cdn-canlitv.com/kanal7cift.m3u8?anahtar=GxaXxayzRxGmDKZrBUkXZg&sure=1668822303&ip=105.67.4.39?|Referer=https://canlitv.center/&e=.m3u8
 #EXTINF:1,TRT 1
-https://live2.cdn-canlitv.com/trt11111.m3u8?|Referer=https://canlitv.center/&e=.m3u8
+https://live2.cdn-canlitv.com/trt11111.m3u8?anahtar=fYvcNksjy7Aud4HZX5h_Zg&sure=1668822281&ip=105.67.4.39?|Referer=https://canlitv.center/&e=.m3u8
 #EXTINF:1,STAR TV
 https://dogus-live.daioncdn.net/startv/startv.m3u8?|Referer=https://canlitv.center/&e=.m3u8
 #EXTINF:1,A TV
@@ -166,13 +166,13 @@ https://trkvz.daioncdn.net/atv/atv.m3u8?|Referer=https://www.atv.com.tr/&e=.m3u8
 #EXTINF:1,FOX TV
 https://stonecors.herokuapp.com/https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8?|Referer=https://canlitv.center/&e=.m3u8
 #EXTINF:1,BEYAZ TV
-https://live.cdn-canlitv.com/beyaztv.m3u8?|Referer=https://canlitv.center/&e=.m3u8
+https://live.cdn-canlitv.com/beyaztv.m3u8?anahtar=lFiBamjjIC07pZvy8sCl0w&sure=1668822218&ip=105.67.4.39?|Referer=https://canlitv.center/&e=.m3u8
 #EXTINF:1,TV 360
-https://live.cdn-canlitv.com/tv360.m3u8?|Referer=https://canlitv.center/&e=.m3u8
-#EXTINF:1,A SPOR
-https://live.cdn-canlitv.com/aspor5.m3u8?|Referer=https://canlitv.center/&e=.m3u8
+https://live.cdn-canlitv.com/tv360.m3u8?anahtar=obTgyPPyMELLi2ofJrDcUw&sure=1668822188&ip=105.67.4.39?|Referer=https://canlitv.center/&e=.m3u8
+#EXTINF:1,A SPOR HD
+https://live.cdn-canlitv.com/aspor5.m3u8?anahtar=wsJi3TYZJcOwepV4aLDarQ&sure=1668822138&ip=105.67.4.39?|Referer=https://canlitv.center/&e=.m3u8
 #EXTINF:1,TRT SPOR
-https://live.cdn-canlitv.com/trtsporcift.m3u8?|Referer=https://canlitv.center/&e=.m3u8
+https://live.cdn-canlitv.com/trtsporcift.m3u8?anahtar=4jM0VRk9NbmPhBBeybSHJA&sure=1668822109&ip=105.67.4.39?|Referer=https://canlitv.center/&e=.m3u8
 
 
 
