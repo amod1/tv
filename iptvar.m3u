@@ -100,17 +100,57 @@ https://webudi.openhd.lol/ddy6/premium300/tracks-v1a1/mono.m3u8?|Referer=https:/
 https://webudi.openhd.lol/ddy6/premium301/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=303&e=.m3u8
 #EXTINF:1,A and E
 https://webudi.openhd.lol/ddy6/premium302/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=303&e=.m3u8
-#EXTINF:1,AMC
-https://webudi.openhd.lol/ddy6/premium303/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=303&e=.m3u8
-#EXTINF:1,CANAL+ FR
-https://ad20171.openhd.lol/cdn/myfeed5/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
-#EXTINF:1,CANAL+ FR
-https://ad20171.openhd.lol/cdn/myfeed1/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
-#EXTINF:1,CANAL+ FR
-https://ad20171.openhd.lol/cdn/myfeed5/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
+#EXTINF:1,DEIMA SPORT
+https://webudi.openhd.lol/ddy4/premium1/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
 
-#EXTINF:1,AMC
-https://webudi.openhd.lol/ddy6/premium303/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=303&e=.m3u8
+
+#EXTINF:1,BEIN SPORTS 1 FR
+https://ad20171.openhd.lol/cdn/myfeed1/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
+#EXTINF:1,BEIN SPORTS 2 FR
+https://ad20171.openhd.lol/cdn/myfeed2/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
+#EXTINF:1,BEIN SPORTS 3 FR
+https://ad20171.openhd.lol/cdn/myfeed3/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
+#EXTINF:1,RMC SPORTS 1 FR
+https://ad20171.openhd.lol/cdn/myfeed4/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
+#EXTINF:1,CANAL+ FR
+https://ad20171.openhd.lol/cdn/myfeed5/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
+#EXTINF:1,CANAL+SPORT FR
+https://ad20171.openhd.lol/cdn/myfeed6/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
+#EXTINF:1,EUROSPORT 1 FR
+https://ad20171.openhd.lol/cdn/myfeed7/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
+#EXTINF:1,EUROSPORT 2 FR
+https://ad20171.openhd.lol/cdn/myfeed8/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
+#EXTINF:1,RMC SPORTS 2 FR
+https://ad20171.openhd.lol/cdn/myfeed9/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
+#EXTINF:1,BEIN SPORTS MAX 4 FR
+https://ad20171.openhd.lol/cdn/myfeed10/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
+#EXTINF:1,BEIN SPORTS MAX 5 FR
+https://ad20171.openhd.lol/cdn/myfeed11/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
+#EXTINF:1,BEIN SPORTS MAX 6 FR
+https://ad20171.openhd.lol/cdn/myfeed12/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
+#EXTINF:1,BEIN SPORTS MAX 7 FR
+https://ad20171.openhd.lol/cdn/myfeed13/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
+#EXTINF:1,BEIN SPORTS MAX 8 FR
+https://ad20171.openhd.lol/cdn/myfeed14/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
+#EXTINF:1,BEIN SPORTS MAX 9 FR
+https://ad20171.openhd.lol/cdn/myfeed15/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
+#EXTINF:1,BEIN SPORTS MAX 10 FR
+https://ad20171.openhd.lol/cdn/myfeed16/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
+#EXTINF:1,CANAL+ FOOT FR
+https://ad20171.openhd.lol/cdn/myfeed17/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
+#EXTINF:1,EQUIPE FR
+https://ad20171.openhd.lol/cdn/myfeed18/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
+#EXTINF:1,AUTOMOTO FR
+https://ad20171.openhd.lol/cdn/myfeed19/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
+#EXTINF:1,CANAL+SPORT 360 FR
+https://ad20171.openhd.lol/cdn/myfeed37/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
+#EXTINF:1,TF1 FR
+https://ad20171.openhd.lol/cdn/myfeed29/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
+
+
+
+#EXTINF:1,SHOW TV
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8?|Referer=https://canlitv.center/&e=.m3u8
 #EXTINF:1,AMC
 https://webudi.openhd.lol/ddy6/premium303/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=303&e=.m3u8
 #EXTINF:1,AMC
