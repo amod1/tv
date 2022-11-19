@@ -3,8 +3,8 @@
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 
 
-#EXTINF:1,SPORTS LIVE 1
-https://webudi.openhd.lol/ddy4/premium1/tracks-v1a1/mono.m3u8?|Referer=https://eplayer.click/&e=.m3u8
+#EXTINF:1,SPORTS LIVE 1+
+https://reels2watch.com/hls/s4.m3u8?|Referer=https://techclips.net/clip/s4.html&e=.m3u8
 #EXTINF:1,SPORTS LIVE 2
 https://webudi.openhd.lol/ddy4/premium2/tracks-v1a1/mono.m3u8?|Referer=https://eplayer.click/&e=.m3u8
 #EXTINF:1,SPORTS LIVE 3
@@ -179,6 +179,30 @@ https://live.cdn-canlitv.com/aspor5.m3u8?anahtar=wsJi3TYZJcOwepV4aLDarQ&sure=166
 #EXTINF:1,TRT SPOR
 https://live.cdn-canlitv.com/trtsporcift.m3u8?anahtar=4jM0VRk9NbmPhBBeybSHJA&sure=1668822109&ip=105.67.4.39?|Referer=https://canlitv.center/&e=.m3u8
 
+#EXTINF:1,TVP1 POLAND
+https://webudi.openhd.lol/lb/premium560/index.m3u8?|Referer=https://global1.ru.com/&e=.m3u8
+#EXTINF:1,TVP2 POLAND
+https://webudi.openhd.lol/lb/premium561/index.m3u8?|Referer=https://global1.ru.com/&e=.m3u8
+#EXTINF:1,POLSAT POLAND
+https://webudi.openhd.lol/lb/premium562/index.m3u8?|Referer=https://global1.ru.com/&e=.m3u8
+#EXTINF:1,MOTOWIZJA POLAND
+https://webudi.openhd.lol/lb/premium563/index.m3u8?|Referer=https://global1.ru.com/&e=.m3u8
+#EXTINF:1,POLSAT FILM POLAND
+https://webudi.openhd.lol/lb/premium564/index.m3u8?|Referer=https://global1.ru.com/&e=.m3u8
+#EXTINF:1,TVN POLAND
+https://webudi.openhd.lol/lb/premium565/index.m3u8?|Referer=https://global1.ru.com/&e=.m3u8
+#EXTINF:1,CANAL+ POLAND
+https://webudi.openhd.lol/lb/premium566/index.m3u8?|Referer=https://global1.ru.com/&e=.m3u8
+#EXTINF:1,CANAL+FAMILY POLAND
+https://webudi.openhd.lol/lb/premium567/index.m3u8?|Referer=https://global1.ru.com/&e=.m3u8
+#EXTINF:1,FILMBOX POLAND
+https://webudi.openhd.lol/lb/premium568/index.m3u8?|Referer=https://global1.ru.com/&e=.m3u8
+#EXTINF:1,HBO POLAND
+https://webudi.openhd.lol/lb/premium569/index.m3u8?|Referer=https://global1.ru.com/&e=.m3u8
+#EXTINF:1,CANAL+SERIALE POLAND
+https://webudi.openhd.lol/lb/premium570/index.m3u8?|Referer=https://global1.ru.com/&e=.m3u8
+#EXTINF:1,SPORTDIGITAL
+https://webudi.openhd.lol/lb/premium571/index.m3u8?|Referer=https://global1.ru.com/&e=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]TV FHD[/color]
