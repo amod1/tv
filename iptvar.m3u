@@ -3,11 +3,16 @@
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 
 #EXTINF:1,FIFA WORLD CUP LIVE 1
-https://stream.ovostreams.com/live/abr_s-1/playlist.m3u8?|Referer=https://www.ovostreams.com/&e=.m3u8
+https://stream.ovochannel.com/live/abr_s-1/playlist.m3u8?|Referer=https://ovopremium.com/&e=.m3u8
 #EXTINF:1,FIFA WORLD CUP LIVE 2
 https://hdstreamss.club/live/ch1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyMiA3OjUyOjU3IFBNJmhhc2hfdmFsdWU9ZlZVSWZFcEJOS3N5YVhBc1hBVjN0QT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTA1LjY3LjQuMzkmc3RybV9sZW49NQ==?|Referer=https://hdlivegames.xyz/&e=.m3u8
 #EXTINF:1,FIFA WORLD CUP LIVE 3
 https://alexsports.shop:8443/live/ch1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjAvMjAyMiAxOjA0OjE3IFBNJmhhc2hfdmFsdWU9eXpMWnFBNzdZRkhZYmJOc0d3RER6UT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTA1LjY3LjQuMzkmc3RybV9sZW49NQ==?|Referer=https://alexsports.xyz/&e=.m3u8
+#EXTINF:1,FIFA WORLD CUP LIVE 4
+https://yd6q252y3dhhjy.data.mediastore.eu-central-1.amazonaws.com/livea/main.m3u8?|Referer=https://dubznetwork.com/meet/soccer2/fifa-world-cup-qatar-vs-ecuador-20nov/&e=.m3u8
+#EXTINF:1,FIFA WORLD CUP LIVE 5
+https://a72fdf977a1b705ebbc9d85415da359f5d6d5a7a.s3.eu-central-1.amazonaws.com/3ff11b5b32f40a99df13468b46ea14893afed6af/live.m3u8?|Referer=https://bfc3a5e84d17fc40a39e3103b9c73dd4a0ee062a.space/&e=.m3u8
+
 
 #EXTINF:1,SPORTS LIVE 1
 https://reels2watch.com/hls/s1.m3u8?|Referer=https://techclips.net/clip/s1.html&e=.m3u8
