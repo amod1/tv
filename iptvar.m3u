@@ -14,6 +14,10 @@ https://yd6q252y3dhhjy.data.mediastore.eu-central-1.amazonaws.com/livea/main.m3u
 https://a72fdf977a1b705ebbc9d85415da359f5d6d5a7a.s3.eu-central-1.amazonaws.com/3ff11b5b32f40a99df13468b46ea14893afed6af/live.m3u8?|Referer=https://bfc3a5e84d17fc40a39e3103b9c73dd4a0ee062a.space/&e=.m3u8
 #EXTINF:1,FIFA WORLD CUP LIVE 6
 https://yeszet1x1cdn22.streamingrdp.com/liveebp1/ebp1/playlist.m3u8?|Referer=https://web.yallalive.one/&e=.m3u8
+#EXTINF:1,FIFA WORLD CUP LIVE 7
+https://qwas11-usea.streaming.media.azure.net/3769246f-94f3-4571-a3a4-ff9ca51f282f/output-20221120-155503-manifest.ism/manifest(format=m3u8-cmaf).m3u8?|Referer=https://egbest.live&e=.m3u8
+#EXTINF:1,FIFA WORLD CUP LIVE 8
+http://45.139.162.91:8080/Zain2022/123456789/323984?token=acafUf.X.y.X.ybHUcdaffa.X.X.RU.ts.661e4fae5d2f78e710812da48361fd40e91123e68a16ace8413de9a8010ffa73?|Referer=https://web.yallalive.one/&e=.m3u8
 
 
 #EXTINF:1,SPORTS LIVE 1
