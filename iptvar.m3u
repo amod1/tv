@@ -2,6 +2,10 @@
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]TV FABOR[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 
+#EXTINF:1,FIFA WORLD CUP LIVE
+https://stream.ovostreams.com/live/abr_s-1/playlist.m3u8?|Referer=https://www.ovostreams.com/&e=.m3u8
+#EXTINF:1,FIFA WORLD CUP LIVE
+https://hdstreamss.club/live/ch1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyMiA3OjUyOjU3IFBNJmhhc2hfdmFsdWU9ZlZVSWZFcEJOS3N5YVhBc1hBVjN0QT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTA1LjY3LjQuMzkmc3RybV9sZW49NQ==?|Referer=https://hdlivegames.xyz/&e=.m3u8
 #EXTINF:1,SPORTS LIVE 1
 https://reels2watch.com/hls/s1.m3u8?|Referer=https://techclips.net/clip/s1.html&e=.m3u8
 #EXTINF:1,SPORTS LIVE 2
