@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]TV FABOR[/color]
+#EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]TV FABOR ANDRIOD (PC/PHONE/SMART TV/ BOX TV)[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 
 #EXTINF:1,FIFA WORLD CUP LIVE 1 ENGLISH
@@ -11,18 +11,27 @@ https://alexsports.shop:8443/live/ch1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTE
 #EXTINF:1,FIFA WORLD CUP LIVE 4 ENGLISH
 https://yd6q252y3dhhjy.data.mediastore.eu-central-1.amazonaws.com/livea/main.m3u8?|Referer=https://dubznetwork.com/meet/soccer2/fifa-world-cup-qatar-vs-ecuador-20nov/&e=.m3u8
 #EXTINF:1,FIFA WORLD CUP LIVE 5 ARABIC
-https://3773d990a7cd803ad76e2c9eab7d6db315d8cd48.s3.eu-central-1.amazonaws.com/1fef035ccbb9ca76d44f22aa4cd5905fceb45296/live.m3u8?|Referer=https://bfc3a5e84d17fc40a39e3103b9c73dd4a0ee062a.space/&e=.m3u8
+https://3773d990a7cd803ad76e2c9eab7d6db315d8cd48.s3.eu-central-1.amazonaws.com/2b3dd3b7e7b25850efe7baefc5bfc033f9ff8178/live.m3u8?|Referer=https://f087f7de36411d4756b6026b840b52f004a90389.shop/&e=.m3u8
 #EXTINF:1,FIFA WORLD CUP LIVE 6 ARABIC
 https://yeszet1x1cdn22.streamingrdp.com/liveebp1/ebp1/playlist.m3u8?|Referer=https://web.yallalive.one/&e=.m3u8
 #EXTINF:1,FIFA WORLD CUP LIVE 6 ENGLISH
 https://yeszet1x1cdn22.streamingrdp.com/liveebp2/ebp2/playlist.m3u8?|Referer=https://web.yallalive.one/&e=.m3u8
 #EXTINF:1,FIFA WORLD CUP LIVE 6 FRENCH
 https://yeszet1x1cdn22.streamingrdp.com/liveebp3/ebp3/playlist.m3u8?|Referer=https://web.yallalive.one/&e=.m3u8
-#EXTINF:1,FIFA WORLD CUP LIVE 7 FRENCH
+#EXTINF:1,FIFA WORLD CUP LIVE 7 ENGLISH
 https://sport.chakalista.tk/hls/bt1/index.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
 #EXTINF:1,FIFA WORLD CUP LIVE 8 ENGLISH
 http://cdn5.cyclingnews.live/hls/P1.m3u8?|Referer=http://motornews.live/novo/events/2022-oggi/Austria-p1/&e=.m3u8
-
+#EXTINF:1,FIFA WORLD CUP LIVE 9 FRENCH
+https://sport.chakalista.tk/hls/amazon/index.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
+#EXTINF:1,FIFA WORLD CUP LIVE 10 ENGLISH
+https://sport.chakalista.tk/hls/bt2/index.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
+#EXTINF:1,FIFA WORLD CUP LIVE 11 ARABIC
+https://live.elkoralivetv.tk/hls/bein1/index.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
+#EXTINF:1,FIFA WORLD CUP LIVE 12 ARABIC 720P
+https://livefootballs.xyz/hls/premierleague.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
+#EXTINF:1,FIFA WORLD CUP LIVE 13 ARABIC 480P
+https://hls.koraworldcup.tk/hls/bein1480/index.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
 
 
 
