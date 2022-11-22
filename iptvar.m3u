@@ -2,36 +2,36 @@
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]TV FABOR ANDRIOD (PC/PHONE/SMART TV/ BOX TV)[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 
-#EXTINF:1,FIFA WORLD CUP LIVE 1 ENGLISH
+#EXTINF:1 tvg-logo="https://www.kindpng.com/picc/m/185-1859678_fifa-world-cup-qatar-2022-logo-hd-png.png",FIFA WORLD CUP LIVE 1 ENGLISH
 https://stream.ovochannel.com/live/abr_s-1/playlist.m3u8?|Referer=https://ovopremium.com/&e=.m3u8
-#EXTINF:1,FIFA WORLD CUP LIVE 2 ENGLISH
+#EXTINF:1 tvg-logo="https://www.kindpng.com/picc/m/185-1859678_fifa-world-cup-qatar-2022-logo-hd-png.png",FIFA WORLD CUP LIVE 2 ENGLISH
 https://hdstreamss.club/live/ch1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyMiA3OjUyOjU3IFBNJmhhc2hfdmFsdWU9ZlZVSWZFcEJOS3N5YVhBc1hBVjN0QT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTA1LjY3LjQuMzkmc3RybV9sZW49NQ==?|Referer=https://hdlivegames.xyz/&e=.m3u8
-#EXTINF:1,FIFA WORLD CUP LIVE 3 ENGLISH
+#EXTINF:1 tvg-logo="https://www.kindpng.com/picc/m/185-1859678_fifa-world-cup-qatar-2022-logo-hd-png.png",FIFA WORLD CUP LIVE 3 ENGLISH
 https://alexsports.shop:8443/live/ch1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjAvMjAyMiAxOjA0OjE3IFBNJmhhc2hfdmFsdWU9eXpMWnFBNzdZRkhZYmJOc0d3RER6UT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTA1LjY3LjQuMzkmc3RybV9sZW49NQ==?|Referer=https://alexsports.xyz/&e=.m3u8
-#EXTINF:1,FIFA WORLD CUP LIVE 4 ENGLISH
-https://yd6q252y3dhhjy.data.mediastore.eu-central-1.amazonaws.com/livea/main.m3u8?|Referer=https://dubznetwork.com/meet/soccer2/fifa-world-cup-qatar-vs-ecuador-20nov/&e=.m3u8
-#EXTINF:1,FIFA WORLD CUP LIVE 5 ARABIC
-https://3773d990a7cd803ad76e2c9eab7d6db315d8cd48.s3.eu-central-1.amazonaws.com/2b3dd3b7e7b25850efe7baefc5bfc033f9ff8178/live.m3u8?|Referer=https://f087f7de36411d4756b6026b840b52f004a90389.shop/&e=.m3u8
-#EXTINF:1,FIFA WORLD CUP LIVE 6 ARABIC
-https://yeszet1x1cdn22.streamingrdp.com/liveebp1/ebp1/playlist.m3u8?|Referer=https://web.yallalive.one/&e=.m3u8
-#EXTINF:1,FIFA WORLD CUP LIVE 6 ENGLISH
-https://yeszet1x1cdn22.streamingrdp.com/liveebp2/ebp2/playlist.m3u8?|Referer=https://web.yallalive.one/&e=.m3u8
-#EXTINF:1,FIFA WORLD CUP LIVE 6 FRENCH
+#EXTINF:1 tvg-logo="https://www.kindpng.com/picc/m/185-1859678_fifa-world-cup-qatar-2022-logo-hd-png.png",FIFA WORLD CUP LIVE 4 ENGLISH
+https://52kw57zzdhpuos.data.mediastore.eu-central-1.amazonaws.com/livea/main.m3u8?|Referer=https://dubznetwork.com/meet/soccer2/fifa-world-cup-qatar-vs-ecuador-20nov/&e=.m3u8
+#EXTINF:1 tvg-logo="https://www.kindpng.com/picc/m/185-1859678_fifa-world-cup-qatar-2022-logo-hd-png.png",FIFA WORLD CUP LIVE 5 ENGLISH
+https://cdn.raino.xyz/hls/stream1-version1/rainostream.m3u8?|Referer=https://bdnewszh.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://www.kindpng.com/picc/m/185-1859678_fifa-world-cup-qatar-2022-logo-hd-png.png",FIFA WORLD CUP LIVE 6 FRENCH
 https://yeszet1x1cdn22.streamingrdp.com/liveebp3/ebp3/playlist.m3u8?|Referer=https://web.yallalive.one/&e=.m3u8
-#EXTINF:1,FIFA WORLD CUP LIVE 7 ENGLISH
+#EXTINF:1 tvg-logo="https://www.kindpng.com/picc/m/185-1859678_fifa-world-cup-qatar-2022-logo-hd-png.png",FIFA WORLD CUP LIVE 7 ENGLISH
 https://sport.chakalista.tk/hls/bt1/index.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
-#EXTINF:1,FIFA WORLD CUP LIVE 8 ENGLISH
-http://cdn5.cyclingnews.live/hls/P1.m3u8?|Referer=http://motornews.live/novo/events/2022-oggi/Austria-p1/&e=.m3u8
-#EXTINF:1,FIFA WORLD CUP LIVE 9 FRENCH
+#EXTINF:1 tvg-logo="https://www.kindpng.com/picc/m/185-1859678_fifa-world-cup-qatar-2022-logo-hd-png.png",FIFA WORLD CUP LIVE 8 ENGLISH
+https://cal.p2plink.xyz:2443/hls/Mexico_hd/index.m3u8?|Referer=https://pawastreams.live/&e=.m3u8
+#EXTINF:1 tvg-logo="https://www.kindpng.com/picc/m/185-1859678_fifa-world-cup-qatar-2022-logo-hd-png.png",FIFA WORLD CUP LIVE 9 FRENCH
 https://sport.chakalista.tk/hls/amazon/index.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
-#EXTINF:1,FIFA WORLD CUP LIVE 10 ENGLISH
+#EXTINF:1 tvg-logo="https://www.kindpng.com/picc/m/185-1859678_fifa-world-cup-qatar-2022-logo-hd-png.png",FIFA WORLD CUP LIVE 10 ENGLISH
 https://sport.chakalista.tk/hls/bt2/index.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
-#EXTINF:1,FIFA WORLD CUP LIVE 11 ARABIC
+#EXTINF:1 tvg-logo="https://www.kindpng.com/picc/m/185-1859678_fifa-world-cup-qatar-2022-logo-hd-png.png",FIFA WORLD CUP LIVE 11 ARABIC
 https://live.elkoralivetv.tk/hls/bein1/index.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
-#EXTINF:1,FIFA WORLD CUP LIVE 12 ARABIC 720P
+#EXTINF:1 tvg-logo="https://www.kindpng.com/picc/m/185-1859678_fifa-world-cup-qatar-2022-logo-hd-png.png",FIFA WORLD CUP LIVE 12 ARABIC 720P
 https://livefootballs.xyz/hls/premierleague.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
-#EXTINF:1,FIFA WORLD CUP LIVE 13 ARABIC 480P
+#EXTINF:1 tvg-logo="https://www.kindpng.com/picc/m/185-1859678_fifa-world-cup-qatar-2022-logo-hd-png.png",FIFA WORLD CUP LIVE 13 ARABIC 480P
 https://hls.koraworldcup.tk/hls/bein1480/index.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://www.kindpng.com/picc/m/185-1859678_fifa-world-cup-qatar-2022-logo-hd-png.png",FIFA WORLD CUP LIVE 14 ENGLISH
+https://edge1.zorrohd4.nl/live/ST3313a4be3aca00c.m3u8?|Referer=https://www.tutelehd.net/embed.php?&a=8778&s=0uuh2cff8n9o3au73bio496glk&ip=105.67.134.35&useragent=Mozilla%2F5.0+%28Windows+NT+6.1%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F107.0.0.0+Safari%2F537.36&referer=https%3A%2F%2Fmyoplay.club%2F&e=.m3u8
+#EXTINF:1 tvg-logo="https://www.kindpng.com/picc/m/185-1859678_fifa-world-cup-qatar-2022-logo-hd-png.png",FIFA WORLD CUP LIVE 15 ENGLISH
+https://d2m5n28htvbpd2.cloudfront.net/out/v1/02017866ae1b4a1b8dd5d9a5e0572262/index.m3u8?|Referer=https://givemenbastreams.com/&e=.m3u8
 
 
 
