@@ -24,7 +24,7 @@ https://live.elkoralivetv.tk/hls/bein1/index.m3u8?|Referer=https://soccer24hd.co
 https://livefootballs.xyz/hls/premierleague.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
 #EXTINF:1 tvg-logo="https://www.kindpng.com/picc/m/185-1859678_fifa-world-cup-qatar-2022-logo-hd-png.png",FIFA WORLD CUP LIVE 11 ARABIC 480P
 https://hls.koraworldcup.tk/hls/bein1480/index.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
-#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/185-1859678_fifa-world-cup-qatar-2022-logo-hd-png.png",FIFA WORLD CUP LIVE 12 SPANISH
+#EXTINF:0 tvg-logo="https://www.kindpng.com/picc/m/185-1859678_fifa-world-cup-qatar-2022-logo-hd-png.png", FIFA WORLD CUP LIVE 12 SPANISH
 https://sport.chakalista.tk/hls/be1/index.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
 
 
@@ -48,8 +48,8 @@ https://webudi.openhd.lol/ddy1/premium370/tracks-v1a1/mono.m3u8?|Referer=https:/
 #EXTINF:1,bein sports news arabic
 https://yeszet1x1cdn22.streamingrdp.com/liveebp2/ebp2/playlist.m3u8?|Referer=https://web.yallalive.one/&e=.m3u8
 
-#EXTINF:1,arab sports
-https://svs.itworkscdn.net/smc4sports2live/sports2.smil/sports2_chunks.m3u8?|Referer=https://c5cbbd6ac9eaf03edfff307f5e9a03d9.live//&e=.m3u8
+#EXTINF:0 tvg-logo="https://www.kindpng.com/picc/m/185-1859678_fifa-world-cup-qatar-2022-logo-hd-png.png", supersport premier league
+https://s9.123ecast.me:8402/hd/hls/OkBvMR8Vjyh4FpSkCxiLeA/1669157289/superpremierleague.m3u8?|Referer=https://123ecast.me/&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]TV HD[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
