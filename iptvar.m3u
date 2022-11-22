@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]TV FABOR ANDRIOD (PC/PHONE/SMART TV/ BOX TV)[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 
-#EXTINF:1 tvg-logo="https://www.kindpng.com/picc/m/185-1859678_fifa-world-cup-qatar-2022-logo-hd-png.png",FIFA WORLD CUP LIVE 1 ENGLISH
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/185-1859678_fifa-world-cup-qatar-2022-logo-hd-png.png",FIFA WORLD CUP LIVE 1 ENGLISH
 https://stream.ovochannel.com/live/abr_s-1/playlist.m3u8?|Referer=https://ovopremium.com/&e=.m3u8
 #EXTINF:1 tvg-logo="https://www.kindpng.com/picc/m/185-1859678_fifa-world-cup-qatar-2022-logo-hd-png.png",FIFA WORLD CUP LIVE 2 ENGLISH
 https://hdstreamss.club/live/ch1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyMiA3OjUyOjU3IFBNJmhhc2hfdmFsdWU9ZlZVSWZFcEJOS3N5YVhBc1hBVjN0QT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTA1LjY3LjQuMzkmc3RybV9sZW49NQ==?|Referer=https://hdlivegames.xyz/&e=.m3u8
