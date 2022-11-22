@@ -123,6 +123,17 @@ https://live.tv247us.com/tv247/foxus.m3u8?|Referer=https://tv247.us/&e=.m3u8
 https://live.tv247us.com/tv247/nbc.m3u8?|Referer=https://tv247.us/&e=.m3u8
 #EXTINF:1,Das Erste
 https://mcdn.daserste.de/daserste/de/master.m3u8?|Referer=https://nydus.org/&e=.m3u8
+#EXTINF:1,ORF 1
+https://s6.hopslan.com/orf111/tracks-v1a1/mono.m3u8?|Referer=https://www.2ix2.com/&e=.m3u8
+#EXTINF:1,SERVUS TV
+https://s6.hopslan.com/servus2/tracks-v1a1/mono.m3u8?|Referer=https://www.2ix2.com/&e=.m3u8
+#EXTINF:1,ZDF
+https://s6.hopslan.com/orf111/tracks-v1a1/mono.m3u8?|Referer=https://www.2ix2.com/&e=.m3u8
+#EXTINF:1,ZDF
+https://s.hdtvizlecanli.com/zdf.m3u8?|Referer=https://www.livestreamde.com/&e=.m3u8
+#EXTINF:1,RTL
+https://s.hdtvizlecanli.com/rtl.m3u8?|Referer=https://www.livestreamde.com/&e=.m3u8
+
 #EXTINF:1,hbo
 https://is-frontera.cdn.rcs.net.ar/mnp/hbo/output.mpd?|Referer=https://latele-envivo.com/&e=.m3u8
 
