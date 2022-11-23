@@ -3,17 +3,17 @@
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/185-1859678_fifa-world-cup-qatar-2022-logo-hd-png.png",FIFA WORLD CUP LIVE 1 ENGLISH
-https://stream.ovochannel.com/live/abr_s-1/playlist.m3u8?|Referer=https://ovopremium.com/&e=.m3u8
+https://ovocloud.site/live/abr_s-1/live/s-1/chunks.m3u8?|Referer=https://www.ovostreams.com/&e=.m3u8
 #EXTINF:1 tvg-logo="https://www.kindpng.com/picc/m/185-1859678_fifa-world-cup-qatar-2022-logo-hd-png.png",FIFA WORLD CUP LIVE 2 ENGLISH
-https://hdstreamss.club/live/ch1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyMiA3OjUyOjU3IFBNJmhhc2hfdmFsdWU9ZlZVSWZFcEJOS3N5YVhBc1hBVjN0QT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTA1LjY3LjQuMzkmc3RybV9sZW49NQ==?|Referer=https://hdlivegames.xyz/&e=.m3u8
+https://leveer.bongstreams.com/live/adaptive_bong-1/live/bong-1/chunks.m3u8?|Referer=https://bongstreams.com/hsmbd.php&e=.m3u8
 #EXTINF:1 tvg-logo="https://www.kindpng.com/picc/m/185-1859678_fifa-world-cup-qatar-2022-logo-hd-png.png",FIFA WORLD CUP LIVE 3 ENGLISH
-https://alexsports.shop:8443/live/ch1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjAvMjAyMiAxOjA0OjE3IFBNJmhhc2hfdmFsdWU9eXpMWnFBNzdZRkhZYmJOc0d3RER6UT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTA1LjY3LjQuMzkmc3RybV9sZW49NQ==?|Referer=https://alexsports.xyz/&e=.m3u8
+https://griomreavigremant654.s3.amazonaws.com/redzone2.m3u8?|Referer=https://givemenbastreams.com/&e=.m3u8
 #EXTINF:1 tvg-logo="https://www.kindpng.com/picc/m/185-1859678_fifa-world-cup-qatar-2022-logo-hd-png.png",FIFA WORLD CUP LIVE 4 ENGLISH
-https://52kw57zzdhpuos.data.mediastore.eu-central-1.amazonaws.com/livea/main.m3u8?|Referer=https://dubznetwork.com/meet/soccer2/fifa-world-cup-qatar-vs-ecuador-20nov/&e=.m3u8
+https://hgdsxzv.azureedge.net/live/FS1/chunks.m3u8?|Referer=https://weakstreams.com/&e=.m3u8
 #EXTINF:1 tvg-logo="https://www.kindpng.com/picc/m/185-1859678_fifa-world-cup-qatar-2022-logo-hd-png.png",FIFA WORLD CUP LIVE 5 ENGLISH
-https://sport.chakalista.tk/hls/bt1/index.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
+https://cdn4.reels2watch.com/hls/s1.m3u8?|Referer=https://gamerarcades.com/assets/ts1.html&e=.m3u8
 #EXTINF:1 tvg-logo="https://www.kindpng.com/picc/m/185-1859678_fifa-world-cup-qatar-2022-logo-hd-png.png",FIFA WORLD CUP LIVE 6 ENGLISH
-https://cal.p2plink.xyz:2443/hls/Mexico_hd/index.m3u8?|Referer=https://pawastreams.live/&e=.m3u8
+https://sport.chakalista.tk/hls/bt1/index.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
 #EXTINF:1 tvg-logo="https://www.kindpng.com/picc/m/185-1859678_fifa-world-cup-qatar-2022-logo-hd-png.png",FIFA WORLD CUP LIVE 7 FRENCH
 https://sport.chakalista.tk/hls/amazon/index.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
 #EXTINF:1 tvg-logo="https://www.kindpng.com/picc/m/185-1859678_fifa-world-cup-qatar-2022-logo-hd-png.png",FIFA WORLD CUP LIVE 8 ENGLISH
@@ -45,11 +45,6 @@ https://hdstreamss.club/live/ch1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkv
 
 #EXTINF:1,ASTRO CRICKET
 https://webudi.openhd.lol/ddy1/premium370/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
-#EXTINF:1,bein sports news arabic
-https://yeszet1x1cdn22.streamingrdp.com/liveebp2/ebp2/playlist.m3u8?|Referer=https://web.yallalive.one/&e=.m3u8
-
-#EXTINF:0 tvg-logo="https://www.kindpng.com/picc/m/185-1859678_fifa-world-cup-qatar-2022-logo-hd-png.png", supersport premier league
-https://s9.123ecast.me:8402/hd/hls/OkBvMR8Vjyh4FpSkCxiLeA/1669157289/superpremierleague.m3u8?|Referer=https://123ecast.me/&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]TV HD[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
@@ -121,8 +116,8 @@ https://live.tv247us.com/tv247/hbo.m3u8?|Referer=https://tv247.us/&e=.m3u8
 https://live.tv247us.com/tv247/foxus.m3u8?|Referer=https://tv247.us/&e=.m3u8
 #EXTINF:1,NBC
 https://live.tv247us.com/tv247/nbc.m3u8?|Referer=https://tv247.us/&e=.m3u8
-#EXTINF:1,Das Erste
-https://mcdn.daserste.de/daserste/de/master.m3u8?|Referer=https://nydus.org/&e=.m3u8
+#EXTINF:1,ARD Das Erste
+https://s.hdtvizlecanli.com/ard.m3u8?|Referer=https://www.livestreamde.com/&e=.m3u8
 #EXTINF:1,ORF 1
 https://s6.hopslan.com/orf111/tracks-v1a1/mono.m3u8?|Referer=https://www.2ix2.com/&e=.m3u8
 #EXTINF:1,SERVUS TV
