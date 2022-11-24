@@ -494,15 +494,7 @@ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist.m3u
 #EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323301.png", GULLI ARABIC
 https://ssc-1-ak.akamaized.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
 #EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323301.png", Al Aan TV
-https://www.dailymotion.com/embed/video/x74wje5
-#EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323301.png", alaan tv
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.alaan.tv/live
-
-#EXTINF:0 tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/live-tv-3-1174012.png", kuwait 1
-https://kwmedia.hibridmedia.com/kwmedia/kwtv1_dabr/playlist.m3u8?v=1765999971
-#EXTINF:0 tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/live-tv-3-1174012.png", kuwait 2
-https://kwmedia.hibridmedia.com/kwmedia/kwtv2_dabr/playlist.m3u8?v=1765999971
-
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/embed/video/x74wje5
 
 #EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/morocco/flag-round-250.png" ,2M Monde
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
