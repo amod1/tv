@@ -417,6 +417,24 @@ https://webudi.openhd.lol/ddy1/premium381/tracks-v1a1/mono.m3u8?|Referer=https:/
 
 
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1280px-Flag_of_Saudi_Arabia.svg.png", mbc 1
+https://shls-mbcdramaksa-ak.akamaized.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1280px-Flag_of_Saudi_Arabia.svg.png", mbc 5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1280px-Flag_of_Saudi_Arabia.svg.png", mbc 3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1280px-Flag_of_Saudi_Arabia.svg.png", mbc 4
+https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1280px-Flag_of_Saudi_Arabia.svg.png", mbc DRAMA
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1280px-Flag_of_Saudi_Arabia.svg.png", mbc DRAMA+
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1280px-Flag_of_Saudi_Arabia.svg.png", mbc MAX
+http://62.182.82.104/MBC_Max/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1280px-Flag_of_Saudi_Arabia.svg.png", mbc ACTION 
+http://62.182.82.104/MBC_Action/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1280px-Flag_of_Saudi_Arabia.svg.png", mbc IRAQ
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1280px-Flag_of_Saudi_Arabia.svg.png", Saudi Quran tv
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.aloula.sa/live/qurantvsa
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1280px-Flag_of_Saudi_Arabia.svg.png", Saudi Sunnah TV
@@ -429,13 +447,14 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.aloula.sa/live/sbc-
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.aloula.sa/live/alekhbariya
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1280px-Flag_of_Saudi_Arabia.svg.png", nida alislam
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.aloula.sa/live/nidaalislam
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1280px-Flag_of_Saudi_Arabia.svg.png", makkahtv
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://makkahtv.tv/
 
 
 
 #EXTINF:0 tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/live-tv-3-1174012.png", makkah tv
-https://5ab29cc78f681.streamlock.net/makkahtv/livestream/playlist.m3u8?v=1765999971
-#EXTINF:0 tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/live-tv-3-1174012.png", SBC
-https://cllive.itworkscdn.net/sbclive/token=nva=1602625913~dirs=1~hash=00d397aaeaf719c6485ef/sbc.smil/playlist.m3u8
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+
 #EXTINF:0 tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/live-tv-3-1174012.png", aljazeera HD
 https://www.elahmad.com/tv/m3u8/aljazeera.m3u8?id=arabic_hd
 #EXTINF:0 tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/live-tv-3-1174012.png", aljazeera
@@ -567,25 +586,6 @@ http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
 
 
-#EXTINF:0 tvg-logo="https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/256x256/plain/tv.png", mbc 1
-https://shls-mbcdramaksa-ak.akamaized.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
-#EXTINF:0 tvg-logo="https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/256x256/plain/tv.png", mbc 5
-https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
-#EXTINF:0 tvg-logo="https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/256x256/plain/tv.png", mbc 3
-https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
-#EXTINF:0 tvg-logo="https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/256x256/plain/tv.png", mbc 4
-https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
-#EXTINF:0 tvg-logo="https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/256x256/plain/tv.png", mbc DRAMA
-https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
-#EXTINF:0 tvg-logo="https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/256x256/plain/tv.png", mbc DRAMA+
-https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
-#EXTINF:0 tvg-logo="https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/256x256/plain/tv.png", mbc MAX
-http://62.182.82.104/MBC_Max/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:0 tvg-logo="https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/256x256/plain/tv.png", mbc ACTION 
-http://62.182.82.104/MBC_Action/tracks-v1a1/mono.m3u8?token=test
-
-#EXTINF:0 tvg-logo="https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/256x256/plain/tv.png", mbc IRAQ
-https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
 #EXTINF:0 tvg-logo="https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/256x256/plain/tv.png", 
 
 #EXTINF:0 tvg-logo="https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/256x256/plain/tv.png", 
