@@ -418,15 +418,19 @@ https://webudi.openhd.lol/ddy1/premium381/tracks-v1a1/mono.m3u8?|Referer=https:/
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1280px-Flag_of_Saudi_Arabia.svg.png", Saudi Quran tv
-https://cllive.itworkscdn.net/ksaquranlive/token=nva=1669305345~dirs=1~hash=033104f8c26a01c4fb17f/ksaquran.smil/playlist_dvr.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.aloula.sa/live/qurantvsa
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1280px-Flag_of_Saudi_Arabia.svg.png", Saudi Sunnah TV
-https://cllive.itworkscdn.net/ksasunnalive/token=nva=1669305431~dirs=1~hash=01b5a4360665d0d39de3b/ksasunna.smil/playlist_dvr.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.aloula.sa/live/sunnatvsa
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1280px-Flag_of_Saudi_Arabia.svg.png", Saudi 1
-https://cllive.itworkscdn.net/ksa1live/token=nva=1669305560~dirs=1~hash=079b353eab2480dac645d/ksa1.smil/playlist_dvr.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.aloula.sa/live/saudiatv
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1280px-Flag_of_Saudi_Arabia.svg.png", SBC
-https://cllive.itworkscdn.net/sbclive/token=nva=1669305678~dirs=1~hash=05ed385f5360c5fee1464/sbc.smil/playlist_dvr.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.aloula.sa/live/sbc-channel
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1280px-Flag_of_Saudi_Arabia.svg.png", alekhbariya
-https://cllive.itworkscdn.net/ksa1live/token=nva=1669305755~dirs=1~hash=0a31a4a95fe0007fb70de/ksa1.smil/playlist_dvr.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.aloula.sa/live/alekhbariya
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1280px-Flag_of_Saudi_Arabia.svg.png", nida alislam
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.aloula.sa/live/nidaalislam
+
+
 
 #EXTINF:0 tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/live-tv-3-1174012.png", makkah tv
 https://5ab29cc78f681.streamlock.net/makkahtv/livestream/playlist.m3u8?v=1765999971
