@@ -583,7 +583,7 @@ https://shls-mbcdramaksa-ak.akamaized.net/out/v1/84ab37e99d6e4b16b33c6600f94f6cc
 #EXTINF:0 tvg-logo="https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/256x256/plain/tv.png", mbc 5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
 #EXTINF:0 tvg-logo="https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/256x256/plain/tv.png", mbc 2 HD
-https://tv.taghtia.com/cdn-cgi/rum?|Referer=https://tv.taghtia.com/en/watch/mbc2&e=.m3u8
+https://iptv.ipslow.com/tv164_www.elahmad.com_mbc_2/tracks-v1a1/mono.m3u8?token=77f5859392c3a724886055d22dc7a5fb98fff87b-baa59d7b2be0ffde0fd927b2b1201713-1669306573-1669295773?|Referer=http://www.elahmad.com/&e=.m3u8
 #EXTINF:0 tvg-logo="https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/256x256/plain/tv.png", mbc 2
 https://www.elahmad.com/tv/radiant.php?id=mbc2_tv_1
 
@@ -602,7 +602,8 @@ http://62.182.82.104/MBC_Action/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:0 tvg-logo="https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/256x256/plain/tv.png", mbc IRAQ
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
-#EXTINF:0 tvg-logo="https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/256x256/plain/tv.png", 
+#EXTINF:0 tvg-logo="https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/256x256/plain/tv.png", DUHOK TV
+https://live.karwan.tv/duhok-tv-sport/tracks-v1a1/mono.m3u8?token=4fadf3d156bf42b52e5e09fe57afd02bd03541b4-eabaa9fb365d25c3dcea02f668e28a5c-1669306846-1669296046?|Referer=https://ku.karwan.tv/&e=.m3u8
 
 #EXTINF:0 tvg-logo="https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/256x256/plain/tv.png", 
 
