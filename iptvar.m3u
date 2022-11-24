@@ -448,57 +448,53 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.aloula.sa/live/alek
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1280px-Flag_of_Saudi_Arabia.svg.png", nida alislam
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.aloula.sa/live/nidaalislam
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1280px-Flag_of_Saudi_Arabia.svg.png", makkahtv
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://makkahtv.tv/
-
-
-
-#EXTINF:0 tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/live-tv-3-1174012.png", makkah tv
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/live-tv-3-1174012.png", aljazeera HD
-https://www.elahmad.com/tv/m3u8/aljazeera.m3u8?id=arabic_hd
-#EXTINF:0 tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/live-tv-3-1174012.png", aljazeera
+#EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197618.png", aljazeera
 http://www.elahmad.com/tv/m3u8/aljazeera.m3u8?id=arabic
-#EXTINF:0 tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/live-tv-3-1174012.png", aljazeera DOC
+#EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197618.png", aljazeera DOC
 http://www.elahmad.com/tv/m3u8/aljazeera.m3u8?id=documentary
-#EXTINF:0 tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/live-tv-3-1174012.png", aljazeera mubasher
+#EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197618.png", aljazeera mubasher
 http://www.elahmad.com/tv/m3u8/aljazeera.m3u8?id=mubasher
-#EXTINF:0 tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/live-tv-3-1174012.png", sky news arabia
+
+#EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323301.png", sky news arabia
 https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:0 tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/live-tv-3-1174012.png", sharjah tv
+#EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323301.png", sharjah tv
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8?v=1765999971
-#EXTINF:0 tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/live-tv-3-1174012.png", sharjah SPORT
+#EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323301.png", sharjah SPORT
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8?v=1765999971
-#EXTINF:0 tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/live-tv-3-1174012.png", dubai tv
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubai_tv
-#EXTINF:0 tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/live-tv-3-1174012.png", dubai one
+#EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323301.png", Dubai TV
+https://player.mangomolo.com/v1/live?id=NzE=&channelid=Ng==&countries=bnVsbA==&w=100%25&h=100%25&autoplay=false&filter=DENY&signature=b8b065745546f4e29094ac03fa77c268
+#EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323301.png", Dubai TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dubaitv.ae/content/dubaitv/ar-ae/live.html
+#EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323301.png", Dubai TV
+https://dmieigthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323301.png", dubai one
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
-#EXTINF:0 tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/live-tv-3-1174012.png", dubai sports 1
+#EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323301.png", dubai sports 1
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports
-#EXTINF:0 tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/live-tv-3-1174012.png", dubai sports 2
+#EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323301.png", dubai sports 2
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports2
-#EXTINF:0 tvg-logo="hjavascript:void(0)ttps://cdn.iconscout.com/icon/premium/png-512-thumb/live-tv-3-1174012.png", dubai sports 3
+#EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323301.png", dubai sports 3
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports3
-#EXTINF:0 tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/live-tv-3-1174012.png", abudhabi aloula
+#EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323301.png", abudhabi aloula
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
-#EXTINF:0 tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/live-tv-3-1174012.png", abudhabi alemarat
+#EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323301.png", abudhabi alemarat
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
-#EXTINF:0 tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/live-tv-3-1174012.png", abudhabi drama
+#EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323301.png", abudhabi drama
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
-#EXTINF:0 tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/live-tv-3-1174012.png", abudhabi sports1
+#EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323301.png", abudhabi sports1
 http://www.elahmad.com/tv/m3u8/tv3_anywhere.m3u8?id=abudhabi_sports1
-#EXTINF:0 tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/live-tv-3-1174012.png", abudhabi sports2
+#EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323301.png", abudhabi sports2
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
-#EXTINF:0 tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/live-tv-3-1174012.png", abudhabi sports3
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
-#EXTINF:0 tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/live-tv-3-1174012.png", abudhabi sports4
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
-#EXTINF:0 tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/live-tv-3-1174012.png", nat geo tv
+#EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323301.png", nat geo tv
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=natgeotv
-#EXTINF:0 tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/live-tv-3-1174012.png", aldafrah tv
+#EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323301.png", aldafrah tv
 https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/master.m3u8?hdnea=st=1602613436~exp=1602613836~acl=/i/dclive_1@783592*~hmac=bfc5ad606b3dab7bb689ba603ee5e3e6d5af61527960908c0f32149457c342d0
-#EXTINF:0 tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/live-tv-3-1174012.png", alaan tv
+#EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323301.png", alaan tv
 https://streamingcdn.alaan.tv/Publisher/alaantv_twitter/playlist.m3u8
+
 #EXTINF:0 tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/live-tv-3-1174012.png", kuwait 1
 https://kwmedia.hibridmedia.com/kwmedia/kwtv1_dabr/playlist.m3u8?v=1765999971
 #EXTINF:0 tvg-logo="https://cdn.iconscout.com/icon/premium/png-512-thumb/live-tv-3-1174012.png", kuwait 2
@@ -556,50 +552,3 @@ https://cdn02.hta.dz/abr_htatv/SamiraTV/playlist.m3u8?|Referer=https://www.htatv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1200px-Flag_of_Algeria.svg.png", [color red]Samira TV HD[/color]
 http://free.fullspeed.tv/iptv-query?streaming-ip=http://www.elahmad.com/tv/radiant.php?id=samira_tv
 
-#EXTINF:-1 tvg-id="Abu Dhabi Drama ARB" tvg-name="Abu Dhabi Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7Bx66K7.jpg" group-title="",Abu Dhabi Drama
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
-#EXTINF:-1 tvg-id="Abu Dhabi Sports ARB" tvg-name="Abu Dhabi Sports ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="Sport",Abu Dhabi Sports
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports1
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 2 ARB" tvg-name="Abu Dhabi Sports 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/9q8gFsq.png" group-title="Sport",Abu Dhabi Sports 2
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 3 ARB" tvg-name="Abu Dhabi Sports 3 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/U6XDpXY.png" group-title="Sport",Abu Dhabi Sports 3
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 4 ARB" tvg-name="Abu Dhabi Sports 4 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8VqomZ5.png" group-title="Sport",Abu Dhabi Sports 4
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
-#EXTINF:-1 tvg-id="Abu Dhabi TV ARB" tvg-name="Abu Dhabi TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oExmYqk.jpg" group-title="",Abu Dhabi TV
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
-#EXTINF:-1 tvg-id="Al Arabiya ARB" tvg-name="Al Arabiya ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Jcr3plu.jpg" group-title="",Al Arabiya
-http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
-#EXTINF:-1 tvg-id="Al Arabiya ARB" tvg-name="Al Arabiya ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="",Al Arabiya
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Al Arabiya Al Hadath ARB" tvg-name="Al Arabiya Al Hadath ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rLR5q2x.png" group-title="",Al Hadath
-https://av.alarabiya.net/alarabiapublish/alhadath.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="Dubai One ARB" tvg-name="Dubai One ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/WjJ8MHC.png" group-title="Movies",Dubai One
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
-XTINF:-1 tvg-id="Dubai Sports 1 ARB" tvg-name="Dubai Sports 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="Sport",Dubai Sports
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/QKXDeMQ.png" group-title="",Dubai TV
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
-#EXTINF:-1 tvg-id="Etisalat Dubai Zaman TV ARB" tvg-name="Etisalat Dubai Zaman TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/F5U9qpf.png" group-title="",Dubai Zaman
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
-#EXTINF:-1 tvg-id="Al Emarat TV ARB" tvg-name="Al Emarat TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5S2ci8p.png" group-title="",Emarat TV
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
-
-
-#EXTINF:0 tvg-logo="https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/256x256/plain/tv.png", 
-
-#EXTINF:0 tvg-logo="https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/256x256/plain/tv.png", 
-
-#EXTINF:0 tvg-logo="https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/256x256/plain/tv.png", 
-
-#EXTINF:0 tvg-logo="https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/256x256/plain/tv.png", 
-
-#EXTINF:0 tvg-logo="https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/256x256/plain/tv.png", 
-
-#EXTINF:0 tvg-logo="https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/256x256/plain/tv.png", 
-
-#EXTINF:0 tvg-logo="https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/256x256/plain/tv.png", 
-
-#EXTINF:0 tvg-logo="https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/256x256/plain/tv.png", 
-
-#EXTINF:0 tvg-logo="https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/256x256/plain/tv.png", 
