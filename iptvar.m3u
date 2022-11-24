@@ -2,8 +2,7 @@
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]TV FABOR ANDRIOD (PC/PHONE/SMART TV/ BOX TV)[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 
-#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/185-1859678_fifa-world-cup-qatar-2022-logo-hd-png.png",FIFA WORLD CUP LIVE 1 ENGLISH
-https://ovocloud.site/live/abr_s-1/playlist.m3u8?|Referer=https://ovopremium.com/&e=.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/185-1859678_fifa-world-cup-qatar-2022-logo-hd-png.png",FIFA WORLD CUP LIVE 1 ENGLISH
 https://ovocloud.site/live/abr_s-1/live/s-1/chunks.m3u8?|Referer=https://www.ovostreams.com/&e=.m3u8
 #EXTINF:1 tvg-logo="https://www.kindpng.com/picc/m/185-1859678_fifa-world-cup-qatar-2022-logo-hd-png.png",FIFA WORLD CUP LIVE 2 ENGLISH
@@ -11,7 +10,7 @@ https://leveer.bongstreams.com/live/adaptive_bong-1/live/bong-1/chunks.m3u8?|Ref
 #EXTINF:1 tvg-logo="https://www.kindpng.com/picc/m/185-1859678_fifa-world-cup-qatar-2022-logo-hd-png.png",FIFA WORLD CUP LIVE 3 ENGLISH
 https://griomreavigremant654.s3.amazonaws.com/redzone2.m3u8?|Referer=https://givemenbastreams.com/&e=.m3u8
 #EXTINF:1 tvg-logo="https://www.kindpng.com/picc/m/185-1859678_fifa-world-cup-qatar-2022-logo-hd-png.png",FIFA WORLD CUP LIVE 4 ENGLISH
-https://hgdsxzv.azureedge.net/live/FS1/chunks.m3u8?|Referer=https://weakstreams.com/&e=.m3u8
+https://ovocloud.site/live/abr_s-1/playlist.m3u8?|Referer=https://ovopremium.com/&e=.m3u8
 #EXTINF:1 tvg-logo="https://www.kindpng.com/picc/m/185-1859678_fifa-world-cup-qatar-2022-logo-hd-png.png",FIFA WORLD CUP LIVE 5 ENGLISH
 https://cdn4.reels2watch.com/hls/s1.m3u8?|Referer=https://gamerarcades.com/assets/ts1.html&e=.m3u8
 #EXTINF:1 tvg-logo="https://www.kindpng.com/picc/m/185-1859678_fifa-world-cup-qatar-2022-logo-hd-png.png",FIFA WORLD CUP LIVE 6 ENGLISH
@@ -496,7 +495,7 @@ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist.m3u
 #EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323301.png", GULLI ARABIC
 https://ssc-1-ak.akamaized.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
 #EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323301.png", Al Aan TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/embed/video/x74wje5
+https://stream-09.dc3.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xtGoSN6757akuLdA-G5Cotpkhr3oHJxDM9cwQgiTuieW)/dm/3/x74wje5/s/live-0.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/morocco/flag-round-250.png" ,2M Monde
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
