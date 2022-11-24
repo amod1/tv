@@ -207,9 +207,9 @@ https://live.cdn-canlitv.com/beyaztv.m3u8?anahtar=lFiBamjjIC07pZvy8sCl0w&sure=16
 #EXTINF:1,TV 360
 https://live.cdn-canlitv.com/tv360.m3u8?anahtar=obTgyPPyMELLi2ofJrDcUw&sure=1668822188&ip=105.67.4.39?|Referer=https://canlitv.center/&e=.m3u8
 #EXTINF:1,A SPOR HD
-https://live.cdn-canlitv.com/aspor5.m3u8?anahtar=wsJi3TYZJcOwepV4aLDarQ&sure=1668822138&ip=105.67.4.39?|Referer=https://canlitv.center/&e=.m3u8
+https://live.cdn-canlitv.com/aspor5.m3u8?anahtar=test&sure=1668822138&ip=105.67.4.39?|Referer=https://canlitv.center/&e=.m3u8
 #EXTINF:1,TRT SPOR
-https://live.cdn-canlitv.com/trtsporcift.m3u8?anahtar=4jM0VRk9NbmPhBBeybSHJA&sure=1668822109&ip=105.67.4.39?|Referer=https://canlitv.center/&e=.m3u8
+https://live.cdn-canlitv.com/trtsporcift.m3u8?anahtar=test?|Referer=https://canlitv.center/&e=.m3u8
 
 #EXTINF:1,TVP1 POLAND
 https://webudi.openhd.lol/lb/premium560/index.m3u8?|Referer=https://global1.ru.com/&e=.m3u8
@@ -451,12 +451,17 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.aloula.sa/live/nida
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1280px-Flag_of_Saudi_Arabia.svg.png", makkahtv
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 
+#EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197618.png", Qatar TV
+https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
 #EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197618.png", aljazeera
 http://www.elahmad.com/tv/m3u8/aljazeera.m3u8?id=arabic
 #EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197618.png", aljazeera DOC
 http://www.elahmad.com/tv/m3u8/aljazeera.m3u8?id=documentary
 #EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197618.png", aljazeera mubasher
 http://www.elahmad.com/tv/m3u8/aljazeera.m3u8?id=mubasher
+#EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197618.png", JEEM TV
+http://www.elahmad.com/tv/m3u8/aljazeera.m3u8?id=children
+
 
 #EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323301.png", Sky News Arabia
 https://stream.skynewsarabia.com/hls/sna.m3u8
