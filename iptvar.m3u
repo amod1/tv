@@ -495,7 +495,7 @@ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist.m3u
 #EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323301.png", GULLI ARABIC
 https://ssc-1-ak.akamaized.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
 #EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323301.png", Al Aan TV
-https://stream-09.dc3.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xtGoSN6757akuLdA-G5Cotpkhr3oHJxDM9cwQgiTuieW)/dm/3/x74wje5/s/live-0.m3u8
+https://stream-09.dc3.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xtGoSN6757akuLdA-G5Cotpkhr3oHJxDM9cwQgiTuieW)/dm/3/x74wje5/s/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/morocco/flag-round-250.png" ,2M Monde
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
