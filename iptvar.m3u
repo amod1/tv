@@ -235,6 +235,11 @@ https://webudi.openhd.lol/lb/premium570/index.m3u8?|Referer=https://global1.ru.c
 #EXTINF:1,SPORTDIGITAL
 https://webudi.openhd.lol/lb/premium571/index.m3u8?|Referer=https://global1.ru.com/&e=.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1200px-Flag_of_Algeria.svg.png", [color red]ENTV[/color]
+https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/playlist.m3u8??wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyMiAxMToxMToxMCBBTSZoYXNoX3ZhbHVlPVBOUldTU0YyQ3pFZVZEc3Q3cGlFR2c9PSZ2YWxpZG1pbnV0ZXM9MTA=?|Referer=https://www.htatv.com/&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1200px-Flag_of_Algeria.svg.png", [color red]ENTV[/color]
+https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/playlist.m3u8?|Referer=https://www.htatv.com/&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]TV FHD[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
