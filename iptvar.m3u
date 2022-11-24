@@ -514,20 +514,6 @@ http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1200px-Flag_of_Algeria.svg.png", [color red]ENTV[/color]
 https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/playlist.m3u8?|Referer=https://www.htatv.com/&e=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1200px-Flag_of_Algeria.svg.png", [color red]Canal Algérie[/color]
-https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/playlist.m3u8?|Referer=https://www.htatv.com/&e=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1200px-Flag_of_Algeria.svg.png", [color red]Algérie 3[/color]
-https://cdn02.hta.dz/abr_htatv/A3_HD/playlist.m3u8?|Referer=https://www.htatv.com/&e=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1200px-Flag_of_Algeria.svg.png", [color red]Algerie TV 4[/color]
-https://cdn02.hta.dz/abr_htatv/TV_4/playlist.m3u8?|Referer=https://www.htatv.com/&e=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1200px-Flag_of_Algeria.svg.png", [color red]Algerie TV 5[/color]
-https://cdn02.hta.dz/abr_htatv/TV_5/playlist.m3u8?|Referer=https://www.htatv.com/&e=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1200px-Flag_of_Algeria.svg.png", [color red]ALGERIE TV 6[/color]
-https://cdn02.hta.dz/abr_htatv/TV_6_HD/playlist.m3u8?|Referer=https://www.htatv.com/&e=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1200px-Flag_of_Algeria.svg.png", [color red]TV7 ELMAARIFA[/color]
-https://cdn02.hta.dz/abr_htatv/TV7_ELMAARIFA/playlist.m3u8?|Referer=https://www.htatv.com/&e=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1200px-Flag_of_Algeria.svg.png", [color red]TV8 EDHAKIRA[/color]
-https://cdn02.hta.dz/abr_htatv/TV8_EDHAKIRA/playlist.m3u8?|Referer=https://www.htatv.com/&e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1200px-Flag_of_Algeria.svg.png", [color red]EL BILAD[/color]
 https://cdn02.hta.dz/abr_htatv/EL_BILAD/playlist.m3u8?|Referer=https://www.htatv.com/&e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1200px-Flag_of_Algeria.svg.png", [color red]Bahia TV[/color]
@@ -548,7 +534,7 @@ https://cdn02.hta.dz/abr_htatv/El_Fhama_TV/playlist.m3u8?|Referer=https://www.ht
 https://cdn02.hta.dz/abr_htatv/EL_FADJR_TV_DZ/playlist.m3u8?|Referer=https://www.htatv.com/&e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1200px-Flag_of_Algeria.svg.png", [color red]Samira TV[/color]
 https://cdn02.hta.dz/abr_htatv/SamiraTV/playlist.m3u8?|Referer=https://www.htatv.com/&e=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1200px-Flag_of_Algeria.svg.png", [color red]Samira TV[/color]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1200px-Flag_of_Algeria.svg.png", [color red]Samira TV HD[/color]
 http://free.fullspeed.tv/iptv-query?streaming-ip=http://www.elahmad.com/tv/radiant.php?id=samira_tv
 
 #EXTINF:-1 tvg-id="Abu Dhabi Drama ARB" tvg-name="Abu Dhabi Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7Bx66K7.jpg" group-title="",Abu Dhabi Drama
