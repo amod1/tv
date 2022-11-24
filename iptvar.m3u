@@ -582,10 +582,10 @@ https://cdn.hta.dz/live/Echorouk_TV_HD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
 #EXTINF:0 tvg-logo="https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/256x256/plain/tv.png", mbc 5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:0 tvg-logo="https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/256x256/plain/tv.png", mbc 2 HD
+https://tv.taghtia.com/cdn-cgi/rum?|Referer=https://tv.taghtia.com/en/watch/mbc2&e=.m3u8
 #EXTINF:0 tvg-logo="https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/256x256/plain/tv.png", mbc 2
-http://62.182.82.104/MBC_2/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:0 tvg-logo="https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/256x256/plain/tv.png", mbc 2
-https://channelsarabia.xyz/streams/39_.m3u8
+https://www.elahmad.com/tv/radiant.php?id=mbc2_tv_1
 
 #EXTINF:0 tvg-logo="https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/256x256/plain/tv.png", mbc 3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
