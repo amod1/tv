@@ -375,6 +375,18 @@ https://webudi.openhd.lol/ddy1/premium377/tracks-v1a1/mono.m3u8?|Referer=https:/
 #EXTINF:1,FX
 https://webudi.openhd.lol/ddy1/premium381/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
 #########################################################################################################################################################
+#EXTINF:1 tvg-logo="https://www.pngmart.com/files/15/Circle-British-Union-Grunge-Flag-PNG-Clipart.png",BBC 1
+https://t8.switchcast2.com:999/hls/w10.m3u8?md5=Vr-xdCry4_lomOuUTG4QiQ&expires=1669422062?|Referer=https://gocast2.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://www.pngmart.com/files/15/Circle-British-Union-Grunge-Flag-PNG-Clipart.png",BBC 1 HD UK IP
+https://cdnuk001.broadcastcdn.net/KUK-BBC1/index.m3u8
+#EXTINF:1 tvg-logo="https://www.pngmart.com/files/15/Circle-British-Union-Grunge-Flag-PNG-Clipart.png",BBC 1
+https://uksono1-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:1 tvg-logo="https://www.pngmart.com/files/15/Circle-British-Union-Grunge-Flag-PNG-Clipart.png",BBC 1
+https://edge-1288-ch-gv.filmon.com/live/14.low.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3b3f45061b26fd1787fa834482dbcc9cbce3f5364b46d36c68ec7bb7f5c813ddc683d04c1c41534adf1ac27622652bf4c7a3b29913242ca966d500e772205aa35f9a0496121f68896a8170912ec641ea3d1d6e99c6a3c8f6b3d6a1a1a105595cea17fd0044cc6cf54eecba3be928e9d9b29bfb05e734e0f51?|Referer=https://www.filmon.com/&e=.m3u8
+
+
+
+#########################################################################################################################################################
 #EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",BEIN SPORTS 1 FR
 https://ad20171.openhd.lol/cdn/myfeed1/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
 #EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",BEIN SPORTS 2 FR
