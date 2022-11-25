@@ -375,66 +375,65 @@ https://webudi.openhd.lol/ddy1/premium377/tracks-v1a1/mono.m3u8?|Referer=https:/
 #EXTINF:1,FX
 https://webudi.openhd.lol/ddy1/premium381/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
 #########################################################################################################################################################
-#EXTINF:1,BEIN SPORTS 1 FR
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",BEIN SPORTS 1 FR
 https://ad20171.openhd.lol/cdn/myfeed1/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
-#EXTINF:1,BEIN SPORTS 2 FR
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",BEIN SPORTS 2 FR
 https://ad20171.openhd.lol/cdn/myfeed2/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
-#EXTINF:1,BEIN SPORTS 3 FR
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",BEIN SPORTS 3 FR
 https://ad20171.openhd.lol/cdn/myfeed3/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
-#EXTINF:1,RMC SPORTS 1 FR
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",RMC SPORTS 1 FR
 https://ad20171.openhd.lol/cdn/myfeed4/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
-#EXTINF:1,CANAL+ FR
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",CANAL+ FR
 https://ad20171.openhd.lol/cdn/myfeed5/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
-#EXTINF:1,CANAL+SPORT FR
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",CANAL+SPORT FR
 https://ad20171.openhd.lol/cdn/myfeed6/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
-#EXTINF:1,EUROSPORT 1 FR
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",EUROSPORT 1 FR
 https://ad20171.openhd.lol/cdn/myfeed7/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
-#EXTINF:1,EUROSPORT 2 FR
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",EUROSPORT 2 FR
 https://ad20171.openhd.lol/cdn/myfeed8/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
-#EXTINF:1,RMC SPORTS 2 FR
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",RMC SPORTS 2 FR
 https://ad20171.openhd.lol/cdn/myfeed9/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
-#EXTINF:1,BEIN SPORTS MAX 4 FR
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",BEIN SPORTS MAX 4 FR
 https://ad20171.openhd.lol/cdn/myfeed10/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
-#EXTINF:1,BEIN SPORTS MAX 5 FR
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",BEIN SPORTS MAX 5 FR
 https://ad20171.openhd.lol/cdn/myfeed11/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
-#EXTINF:1,BEIN SPORTS MAX 6 FR
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",BEIN SPORTS MAX 6 FR
 https://ad20171.openhd.lol/cdn/myfeed12/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
-#EXTINF:1,BEIN SPORTS MAX 7 FR
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",BEIN SPORTS MAX 7 FR
 https://ad20171.openhd.lol/cdn/myfeed13/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
-#EXTINF:1,BEIN SPORTS MAX 8 FR
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",BEIN SPORTS MAX 8 FR
 https://ad20171.openhd.lol/cdn/myfeed14/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
-#EXTINF:1,BEIN SPORTS MAX 9 FR
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",BEIN SPORTS MAX 9 FR
 https://ad20171.openhd.lol/cdn/myfeed15/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
-#EXTINF:1,BEIN SPORTS MAX 10 FR
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",BEIN SPORTS MAX 10 FR
 https://ad20171.openhd.lol/cdn/myfeed16/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
-#EXTINF:1,CANAL+ FOOT FR
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",CANAL+ FOOT FR
 https://ad20171.openhd.lol/cdn/myfeed17/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
-#EXTINF:1,EQUIPE FR
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",EQUIPE FR
 https://ad20171.openhd.lol/cdn/myfeed18/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
-#EXTINF:1,AUTOMOTO FR
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",AUTOMOTO FR
 https://ad20171.openhd.lol/cdn/myfeed19/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
-#EXTINF:1,Multisport 1
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",Multisport 1
 https://ad20171.openhd.lol/cdn/myfeed31/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
-#EXTINF:1,Multisport 1
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",Multisport 2
 https://ad20171.openhd.lol/cdn/myfeed32/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
-#EXTINF:1,Multisport 1
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",Multisport 3
 https://ad20171.openhd.lol/cdn/myfeed33/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
-#EXTINF:1,Multisport 1
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",Multisport 4
 https://ad20171.openhd.lol/cdn/myfeed34/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
-#EXTINF:1,Multisport 1
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",Multisport 5
 https://ad20171.openhd.lol/cdn/myfeed35/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
-#EXTINF:1,Multisport 1
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",Multisport 6
 https://ad20171.openhd.lol/cdn/myfeed36/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
-#EXTINF:1,CANAL+SPORT 360 FR
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",CANAL+SPORT 360 FR
 https://ad20171.openhd.lol/cdn/myfeed37/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
-#EXTINF:1,TF1 FR
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",TF1 FR
 https://ad20171.openhd.lol/cdn/myfeed38/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
-#EXTINF:1,TFX FR
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",TFX FR
 https://s12.tntendirect.com/nt1/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAyMiA5OjUxOjQ0IFBNJmhhc2hfdmFsdWU9ckVZMWZWY29tOXcrYzBVaUIwa0Fhdz09JnZhbGlkbWludXRlcz0zMA==?|Referer=https://www.tntendirect.com/&e=.m3u8
-#EXTINF:1,TFX FR
-https://s12.tntendirect.com/nt1/live/playlist.m3u8?|Referer=https://www.tntendirect.com/&e=.m3u8
-#EXTINF:1,TFX FR
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.tntendirect.com/TFX-en-direct
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",TFX FR
+https://sv7.data-stream.top/17b3505e6f11128ad2fafaaff18c12d48cd8afe069f6554feda78a0b9cc3f120/hls/tfx.m3u8?|Referer=https://www.stream4free.live/&e=.m3u8
+
 
 #########################################################################################################################################################
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://cdn.countryflags.com/thumbs/morocco/flag-round-250.png" group-title="",Al Aoula
