@@ -377,8 +377,8 @@ https://webudi.openhd.lol/ddy1/premium381/tracks-v1a1/mono.m3u8?|Referer=https:/
 #########################################################################################################################################################
 #EXTINF:1 tvg-logo="https://www.pngmart.com/files/15/Circle-British-Union-Grunge-Flag-PNG-Clipart.png",BBC 1
 https://t8.switchcast2.com:999/hls/w10.m3u8?md5=Vr-xdCry4_lomOuUTG4QiQ&expires=1669422062?|Referer=https://gocast2.com/&e=.m3u8
-#EXTINF:1 tvg-logo="https://www.pngmart.com/files/15/Circle-British-Union-Grunge-Flag-PNG-Clipart.png",BBC 1 HD UK IP
-https://t6.switchcast2.com:999/hls/hdchnl1.m3u8?md5=OvmTmsyYx0BUNJyF48JzqQ&expires=1669423787?|Referer=https://gocast2.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://www.pngmart.com/files/15/Circle-British-Union-Grunge-Flag-PNG-Clipart.png",BBC 1 HD
+https://t6.switchcast2.com:999/hls/hdchnl1.m3u8?|Referer=https://gocast2.com/&e=.m3u8
 
 #########################################################################################################################################################
 #EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",BEIN SPORTS 1 FR
