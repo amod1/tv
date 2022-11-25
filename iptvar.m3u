@@ -433,6 +433,8 @@ https://ad20171.openhd.lol/cdn/myfeed38/index.m3u8?|Referer=https://leetcdn.cc/&
 https://s12.tntendirect.com/nt1/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAyMiA5OjUxOjQ0IFBNJmhhc2hfdmFsdWU9ckVZMWZWY29tOXcrYzBVaUIwa0Fhdz09JnZhbGlkbWludXRlcz0zMA==?|Referer=https://www.tntendirect.com/&e=.m3u8
 #EXTINF:1,TFX FR
 https://s12.tntendirect.com/nt1/live/playlist.m3u8?|Referer=https://www.tntendirect.com/&e=.m3u8
+#EXTINF:1,TFX FR
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.tntendirect.com/TFX-en-direct
 
 #########################################################################################################################################################
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://cdn.countryflags.com/thumbs/morocco/flag-round-250.png" group-title="",Al Aoula
