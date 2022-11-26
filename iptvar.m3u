@@ -6,9 +6,9 @@ httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/185-1859678_fifa-world-cup-qatar-2022-logo-hd-png.png",FIFA WORLD CUP LIVE 1 ENGLISH
 https://ovocloud.site/live/abr_s-1/live/s-1/chunks.m3u8?|Referer=https://www.ovostreams.com/&e=.m3u8
 #EXTINF:1 tvg-logo="https://www.kindpng.com/picc/m/185-1859678_fifa-world-cup-qatar-2022-logo-hd-png.png",FIFA WORLD CUP LIVE 2 ENGLISH
-https://leveer.bongstreams.com/live/adaptive_bong-1/live/bong-1/chunks.m3u8?|Referer=https://bongstreams.com/hsmbd.php&e=.m3u8
+https://leven.bongstreams.com/live/adaptive_bong-1/playlist.m3u8?|Referer=https://bongstreams.com/rntv.php&e=.m3u8
 #EXTINF:1 tvg-logo="https://www.kindpng.com/picc/m/185-1859678_fifa-world-cup-qatar-2022-logo-hd-png.png",FIFA WORLD CUP LIVE 3 ENGLISH
-https://griomreavigremant654.s3.amazonaws.com/redzone2.m3u8?|Referer=https://givemenbastreams.com/&e=.m3u8
+https://cdn-3.sportfacts.net/live/abr-stream-1/playlist.m3u8?|Referer=https://www.sportfacts.net/&e=.m3u8
 #EXTINF:1 tvg-logo="https://www.kindpng.com/picc/m/185-1859678_fifa-world-cup-qatar-2022-logo-hd-png.png",FIFA WORLD CUP LIVE 4 ENGLISH
 https://ovocloud.site/live/abr_s-1/playlist.m3u8?|Referer=https://ovopremium.com/&e=.m3u8
 #EXTINF:1 tvg-logo="https://www.kindpng.com/picc/m/185-1859678_fifa-world-cup-qatar-2022-logo-hd-png.png",FIFA WORLD CUP LIVE 5 ENGLISH
@@ -375,12 +375,7 @@ https://webudi.openhd.lol/ddy1/premium377/tracks-v1a1/mono.m3u8?|Referer=https:/
 #EXTINF:1,FX
 https://webudi.openhd.lol/ddy1/premium381/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
 #########################################################################################################################################################
-#EXTINF:1 tvg-logo="https://www.pngmart.com/files/15/Circle-British-Union-Grunge-Flag-PNG-Clipart.png",BBC 1
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.filmon.com/tv/channel/export?channel_id=14
-#EXTINF:1 tvg-logo="https://www.pngmart.com/files/15/Circle-British-Union-Grunge-Flag-PNG-Clipart.png",BBC 1 HD
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://gocast2.com/fsembed.php?player=desktop&live=w10
-#EXTINF:1,FX
-https://t7.switchcast2.com:999/hls/hdchnl1.m3u8?md5=_2W51bzEPBpo9LXAGoXpZQ&expires=1669468578?|Referer=https://gocast2.com/&e=.m3u8
+
 
 
 #########################################################################################################################################################
