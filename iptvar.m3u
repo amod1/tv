@@ -379,6 +379,8 @@ https://webudi.openhd.lol/ddy1/premium381/tracks-v1a1/mono.m3u8?|Referer=https:/
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.filmon.com/tv/channel/export?channel_id=14
 #EXTINF:1 tvg-logo="https://www.pngmart.com/files/15/Circle-British-Union-Grunge-Flag-PNG-Clipart.png",BBC 1 HD
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://gocast2.com/fsembed.php?player=desktop&live=w10
+#EXTINF:1,FX
+https://t7.switchcast2.com:999/hls/hdchnl1.m3u8?md5=_2W51bzEPBpo9LXAGoXpZQ&expires=1669468578?|Referer=https://gocast2.com/&e=.m3u8
 
 
 #########################################################################################################################################################
