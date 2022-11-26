@@ -376,9 +376,10 @@ https://webudi.openhd.lol/ddy1/premium377/tracks-v1a1/mono.m3u8?|Referer=https:/
 https://webudi.openhd.lol/ddy1/premium381/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
 #########################################################################################################################################################
 #EXTINF:1 tvg-logo="https://www.pngmart.com/files/15/Circle-British-Union-Grunge-Flag-PNG-Clipart.png",BBC 1
-https://t8.switchcast2.com:999/hls/w10.m3u8?md5=Vr-xdCry4_lomOuUTG4QiQ&expires=1669422062?|Referer=https://gocast2.com/&e=.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.filmon.com/tv/channel/export?channel_id=14
 #EXTINF:1 tvg-logo="https://www.pngmart.com/files/15/Circle-British-Union-Grunge-Flag-PNG-Clipart.png",BBC 1 HD
-https://t6.switchcast2.com:999/hls/hdchnl1.m3u8?|Referer=https://gocast2.com/&e=.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://gocast2.com/fsembed.php?player=desktop&live=w10
+
 
 #########################################################################################################################################################
 #EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",BEIN SPORTS 1 FR
@@ -436,7 +437,7 @@ https://ad20171.openhd.lol/cdn/myfeed37/index.m3u8?|Referer=https://leetcdn.cc/&
 #EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",TF1 FR
 https://ad20171.openhd.lol/cdn/myfeed38/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
 #EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",TFX FR
-https://s12.tntendirect.com/nt1/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAyMiA5OjUxOjQ0IFBNJmhhc2hfdmFsdWU9ckVZMWZWY29tOXcrYzBVaUIwa0Fhdz09JnZhbGlkbWludXRlcz0zMA==?|Referer=https://www.tntendirect.com/&e=.m3u8
+https://s12.tntendirect.com/nt1/live/playlist.m3u8?|Referer=https://www.tntendirect.com/&e=.m3u8
 #EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",TFX FR
 https://sv7.data-stream.top/17b3505e6f11128ad2fafaaff18c12d48cd8afe069f6554feda78a0b9cc3f120/hls/tfx.m3u8?|Referer=https://www.stream4free.live/&e=.m3u8
 
