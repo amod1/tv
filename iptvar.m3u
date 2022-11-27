@@ -52,16 +52,7 @@ https://webudi.openhd.lol/ddy1/premium370/tracks-v1a1/mono.m3u8?|Referer=https:/
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]TV HD[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 
-#EXTINF:1,ARD Das Erste
-https://s.hdtvizlecanli.com/ard.m3u8?|Referer=https://www.livestreamde.com/&e=.m3u8
-#EXTINF:1,ORF 1
-https://s6.hopslan.com/orf111/tracks-v1a1/mono.m3u8?|Referer=https://www.2ix2.com/&e=.m3u8
-#EXTINF:1,SERVUS TV
-https://s6.hopslan.com/servus2/tracks-v1a1/mono.m3u8?|Referer=https://www.2ix2.com/&e=.m3u8
-#EXTINF:1,ZDF
-https://s.hdtvizlecanli.com/zdf.m3u8?|Referer=https://www.livestreamde.com/&e=.m3u8
-#EXTINF:1,RTL
-https://s.hdtvizlecanli.com/rtl.m3u8?|Referer=https://www.livestreamde.com/&e=.m3u8
+
 
 #EXTINF:1,hbo
 https://is-frontera.cdn.rcs.net.ar/mnp/hbo/output.mpd?|Referer=https://latele-envivo.com/&e=.m3u8
@@ -127,188 +118,80 @@ https://webudi.openhd.lol/lb/premium568/index.m3u8?|Referer=https://global1.ru.c
 https://webudi.openhd.lol/lb/premium569/index.m3u8?|Referer=https://global1.ru.com/&e=.m3u8
 #EXTINF:1,CANAL+SERIALE POLAND
 https://webudi.openhd.lol/lb/premium570/index.m3u8?|Referer=https://global1.ru.com/&e=.m3u8
-#EXTINF:1,SPORTDIGITAL
+
+#########################################################################################################################################################
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/1200px-Flag_of_Austria.svg.png",ORF 1
+https://s6.hopslan.com/orf111/tracks-v1a1/mono.m3u8?|Referer=https://www.2ix2.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/1200px-Flag_of_Austria.svg.png",ORF 2
+https://stream.hdtvizlecanli.com/orf2.m3u8?|Referer=https://www.livestreamde.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/1200px-Flag_of_Austria.svg.png",LÄNDLE TV
+https://s4.hopslan.com/landle/index.m3u8?token=fd214e907099de39e0c6df42d441ab5b45a529eb-4d11ade620c679f63a7e4acd6dd6f1d5-1669426889-1669416089?|Referer=https://www.2ix2.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/1200px-Flag_of_Austria.svg.png",ATV
+https://stream.hdtvizlecanli.com/atv.m3u8?|Referer=https://www.livestreamde.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/1200px-Flag_of_Austria.svg.png",RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8?|Referer=https://www.livestreamde.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/1200px-Flag_of_Austria.svg.png",SERVUS TV
+https://s6.hopslan.com/servus2/tracks-v1a1/mono.m3u8?|Referer=https://www.2ix2.com/&e=.m3u8
+
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",ARD Das Erste
+https://s.hdtvizlecanli.com/ard.m3u8?|Referer=https://www.livestreamde.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",ZDF
+https://s.hdtvizlecanli.com/zdf.m3u8?|Referer=https://www.livestreamde.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",RTL
+https://s.hdtvizlecanli.com/rtl.m3u8?|Referer=https://www.livestreamde.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",RTL 2
+https://s.hdtvizlecanli.com/rtl2d.m3u8?|Referer=https://www.livestreamde.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",N-TV
+https://s.hdtvizlecanli.com/ntvgera.m3u8?|Referer=https://www.livestreamde.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",VOX
+https://s.hdtvizlecanli.com/voxc.m3u8?|Referer=https://www.livestreamde.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",SAT 1
+https://s.hdtvizlecanli.com/sat1.m3u8?|Referer=https://www.livestreamde.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",PRO 7
+https://s.hdtvizlecanli.com/pro7a.m3u8?|Referer=https://www.livestreamde.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",KABEL 1
+https://s.hdtvizlecanli.com/kabel1a.m3u8?|Referer=https://www.livestreamde.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",ZDF NEO
+https://s.hdtvizlecanli.com/zdfneoger.m3u8?|Referer=https://www.livestreamde.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",RTL NITRO
+https://s.hdtvizlecanli.com/rtlnitroger.m3u8?|Referer=https://www.livestreamde.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",TELE 5
+https://s.hdtvizlecanli.com/tele5ger2.m3u8?|Referer=https://www.livestreamde.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",ProSieben Maxx
+https://s.hdtvizlecanli.com/prosiebenmaxx.m3u8?|Referer=https://www.livestreamde.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",Super RTL
+https://s.hdtvizlecanli.com/superrtl2.m3u8?|Referer=https://www.livestreamde.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",SIXX
+https://s.hdtvizlecanli.com/sixxger.m3u8?|Referer=https://www.livestreamde.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",DMAX
+https://s.hdtvizlecanli.com/dmaxger.m3u8?|Referer=https://www.livestreamde.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",Kabel 1 Doku
+https://s.hdtvizlecanli.com/kabel1doku.m3u8?|Referer=https://www.livestreamde.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",Disney Channel
+https://s.hdtvizlecanli.com/disneyger2.m3u8?|Referer=https://www.livestreamde.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",Comedy Central
+https://s.hdtvizlecanli.com/comedyc1.m3u8?|Referer=https://www.livestreamde.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",Welt der Wunder
+https://s.hdtvizlecanli.com/welt.m3u8?|Referer=https://www.livestreamde.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",Deutsche Welle
+https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/stream02/streamPlaylist.m3u8?|Referer=https://www.livestreamde.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",BR
+https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8?|Referer=https://www.livestreamde.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",HR
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/master-subs.m3u8?|Referer=https://www.livestreamde.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",NDR
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/master.m3u8?|Referer=https://www.livestreamde.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",WDR
+https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master_subs.m3u8?|Referer=https://www.livestreamde.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",ARD ALPHA
+https://mcdn.br.de/br/fs/ard_alpha/hls/int/master.m3u8?|Referer=https://www.livestreamde.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",Sat.1 Gold
+https://stream.hdtvizlecanli.com/sgold.m3u8?|Referer=https://www.livestreamde.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",TLC
+https://s.hdtvizlecanli.com/tlc.m3u8?|Referer=https://www.livestreamde.com/&e=.m3u8
+
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",SPORTDIGITAL
 https://webudi.openhd.lol/lb/premium571/index.m3u8?|Referer=https://global1.ru.com/&e=.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]TV FHD[/color]
-httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:1,BT SPORT 1
-https://webudi.openhd.lol/ddy1/premium31/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,BT SPORT 2
-https://webudi.openhd.lol/ddy1/premium32/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,BT SPORT 3
-https://webudi.openhd.lol/ddy1/premium33/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,BT SPORT 4
-https://webudi.openhd.lol/ddy1/premium34/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,SKY SPORTS FOOTBALL
-https://webudi.openhd.lol/lb/premium35/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,SKY SPORTS ARENA
-https://webudi.openhd.lol/lb/premium36/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,SKY SPORTS ACTION
-https://webudi.openhd.lol/lb/premium37/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,SKY SPORTS MAIN EVENT
-https://webudi.openhd.lol/ddy1/premium3/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,FOX SPORT 1 USA
-https://webudi.openhd.lol/ddy1/premium39/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,TENNIS
-https://webudi.openhd.lol/lb/premium40/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,EUROSPORT 1
-https://webudi.openhd.lol/lb/premium41/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,EUROSPORT 2
-https://webudi.openhd.lol/lb/premium42/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,ASTRO SUPERSPORTS 5
-https://webudi.openhd.lol/ddy1/premium43/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,ESPN USA
-https://webudi.openhd.lol/lb/premium44/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,ESPN 2 USA
-https://webudi.openhd.lol/lb/premium45/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,BEIN SPORTS 3 ENGLISH
-https://webudi.openhd.lol/lb/premium46/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,SPORT TV 1 PORTUGAL
-https://webudi.openhd.lol/lb/premium49/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,POLSAT SPORT EXTRA
-https://webudi.openhd.lol/lb/premium50/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,FOX NEWS USA
-https://webudi.openhd.lol/ddy1/premium51/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,CBS USA
-https://webudi.openhd.lol/ddy1/premium52/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,NBC USA
-https://webudi.openhd.lol/ddy1/premium53/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,FOX USA
-https://webudi.openhd.lol/ddy1/premium54/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-
-#EXTINF:1,SKY SPORTS F1
-https://webudi.openhd.lol/lb/premium60/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-
-#EXTINF:1,SKY SPORTS CRICKET
-https://webudi.openhd.lol/lb/premium65/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,TUDN USA
-https://webudi.openhd.lol/lb/premium66/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-
-#EXTINF:1,CANAL+SPORT 1 POLAND
-https://webudi.openhd.lol/lb/premium48/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-
-#EXTINF:1,SKY SPORTS GOLF
-https://webudi.openhd.lol/lb/premium70/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,ELEVEN SPORT 1 POLAND
-https://webudi.openhd.lol/lb/premium71/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,ELEVEN SPORT 2 POLAND
-https://webudi.openhd.lol/lb/premium72/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,CANAL+SPORT 2 POLAND XXXX
-https://webudi.openhd.lol/lb/premium73/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,SPORT TV 2 PORTUGAL
-https://webudi.openhd.lol/ddy1/premium74/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,CANAL+SPORTS POLAND
-https://webudi.openhd.lol/lb/premium75/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,SPORTV 1 BRASIL
-https://webudi.openhd.lol/lb/premium78/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,SPORTV 2 BRASIL
-https://webudi.openhd.lol/ddy1/premium79/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,SPORTV 3 BRASIL
-https://webudi.openhd.lol/ddy1/premium80/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-
-#EXTINF:1,SPORT KLUB 1 SERBIA
-https://webudi.openhd.lol/lb/premium101/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,SPORT KLUB 2 SERBIA
-https://webudi.openhd.lol/lb/premium102/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,SPORT KLUB 3 SERBIA
-https://webudi.openhd.lol/lb/premium103/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,SPORT KLUB 4 SERBIA
-https://webudi.openhd.lol/lb/premium104/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-
-#EXTINF:1,TSN 1 CANADA
-https://webudi.openhd.lol/lb/premium111/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,TSN 2 CANADA
-https://webudi.openhd.lol/lb/premium112/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,TSN 3 CANADA
-https://webudi.openhd.lol/lb/premium113/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,TSN 4 CANADA
-https://webudi.openhd.lol/lb/premium114/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,TSN 5 CANADA
-https://webudi.openhd.lol/lb/premium115/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-
-
-#EXTINF:1,BEIN SPORT 1 FRANCE
-https://webudi.openhd.lol/ddy1/premium116/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,BEIN SPORT 2 FRANCE
-https://webudi.openhd.lol/ddy1/premium117/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,BEIN SPORT 3 FRANCE
-https://webudi.openhd.lol/ddy1/premium118/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,RMC SPORT 1 FRANCE
-https://webudi.openhd.lol/ddy1/premium119/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,RMC SPORT 2 FRANCE
-https://webudi.openhd.lol/ddy1/premium120/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,CANAL+ FRANCE
-https://webudi.openhd.lol/ddy1/premium121/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,CANAL+ SPORTS FRANCE 
-https://webudi.openhd.lol/ddy1/premium122/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,ASTRO SUPERSPORTS 1
-https://webudi.openhd.lol/ddy1/premium123/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,ASTRO SUPERSPORTS 2
-https://webudi.openhd.lol/ddy1/premium124/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,ASTRO SUPERSPORTS 3
-https://webudi.openhd.lol/ddy1/premium125/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,ESPN 
-https://webudi.openhd.lol/ddy1/premium126/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,TELEMUNDO USA
-https://webudi.openhd.lol/ddy1/premium131/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,UNIVISION USA
-https://webudi.openhd.lol/ddy1/premium132/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,UNIMAS
-https://webudi.openhd.lol/ddy1/premium133/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-
-#EXTINF:1,MATCH 1 RUSSIA
-https://webudi.openhd.lol/ddy1/premium136/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,MATCH 2 RUSSIA
-https://webudi.openhd.lol/ddy1/premium137/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,MATCH 3 RUSSIA
-https://webudi.openhd.lol/ddy1/premium138/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-
-#EXTINF:1,SPORTS 1 ISREAL
-https://webudi.openhd.lol/lb/premium140/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,SPORTS 2 ISREAL
-https://webudi.openhd.lol/lb/premium141/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,SPORTS 3 ISREAL
-https://webudi.openhd.lol/lb/premium142/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,SPORTS 4 ISREAL
-https://webudi.openhd.lol/lb/premium143/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,SPORTS 5 ISREAL
-https://webudi.openhd.lol/lb/premium144/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,SPORTS 5 PLUS ISREAL
-https://webudi.openhd.lol/lb/premium145/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,SPORTS 5 LIVE ISREAL
-https://webudi.openhd.lol/lb/premium146/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,SPORTS 5 STAR ISREAL
-https://webudi.openhd.lol/lb/premium147/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,SPORTS 5 GOLD ISREAL
-https://webudi.openhd.lol/lb/premium148/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-
-#EXTINF:1,RTE ONE 
-https://webudi.openhd.lol/ddy1/premium364/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,RTE TWO 
-https://webudi.openhd.lol/ddy1/premium365/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,VH+ 1
-https://webudi.openhd.lol/ddy1/premium367/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,ASTRO CRICKET
-https://webudi.openhd.lol/ddy1/premium370/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,MTV
-https://webudi.openhd.lol/ddy1/premium371/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,BEIN SPORTS ESPANYOL
-https://webudi.openhd.lol/ddy1/premium372/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,HGTV
-https://webudi.openhd.lol/ddy1/premium373/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,ASTRO CRICKET
-https://webudi.openhd.lol/ddy1/premium374/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,ESPN DEPORTES
-https://webudi.openhd.lol/ddy1/premium375/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,WWE
-https://webudi.openhd.lol/ddy1/premium376/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,MU TV
-https://webudi.openhd.lol/ddy1/premium377/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,FX
-https://webudi.openhd.lol/ddy1/premium381/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
 #########################################################################################################################################################
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png",NBA TV
 https://live.tv247us.com/tv247/nba.m3u8?|Referer=https://tv247.us/&e=.m3u8
