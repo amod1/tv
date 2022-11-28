@@ -6,7 +6,7 @@ httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 1 ENGLISH
 https://ovocloud.site/live/abr_s-1/live/s-1/chunks.m3u8?|Referer=https://www.ovostreams.com/&e=.m3u8
 #EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 2 ENGLISH
-https://lenter.bongstreams.com/live/adaptive_bong-1/live/bong-1/chunks.m3u8?|Referer=https://bongstreams.com/rntv.php&e=.m3u8
+https://lenter.bongstreams.com/live/adaptive_bong-1/playlist.m3u8?|Referer=https://bongstreams.com/rntv.php&e=.m3u8
 #EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 3 ENGLISH
 https://murthyneeraj231.s3.amazonaws.com/worldcup.m3u8?|Referer=https://givemenbastreams.com/&e=.m3u8
 #EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 4 ENGLISH
