@@ -6,7 +6,7 @@ httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 1 ENGLISH
 https://ovocloud.site/live/abr_s-1/live/s-1/chunks.m3u8?|Referer=https://www.ovostreams.com/&e=.m3u8
 #EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 2 ENGLISH
-https://leven.bongstreams.com/live/adaptive_bong-1/playlist.m3u8?|Referer=https://bongstreams.com/rntv.php&e=.m3u8
+https://lenter.bongstreams.com/live/adaptive_bong-1/live/bong-1/chunks.m3u8?|Referer=https://bongstreams.com/rntv.php&e=.m3u8
 #EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 3 ENGLISH
 https://murthyneeraj231.s3.amazonaws.com/worldcup.m3u8?|Referer=https://givemenbastreams.com/&e=.m3u8
 #EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 4 ENGLISH
@@ -27,7 +27,8 @@ https://livefootballs.xyz/hls/premierleague.m3u8?|Referer=https://soccer24hd.com
 https://hls.koraworldcup.tk/hls/bein1480/index.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
 #EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg", FIFA WORLD CUP LIVE 12 SPANISH
 https://sport.chakalista.tk/hls/be1/index.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
-
+#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg", FIFA WORLD CUP LIVE 12 SPANISH
+https://vimeo.com/event/2656146/embed
 
 
 #########################################################################################################################################################
@@ -51,70 +52,27 @@ https://hdstreamss.club/live/ch1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkv
 #EXTINF:1,ASTRO CRICKET
 https://webudi.openhd.lol/ddy1/premium370/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]TV HD[/color]
-httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 
-
-#EXTINF:1,THE CH 44
-https://webudi.openhd.lol/ddy6/premium300/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=303&e=.m3u8
-#EXTINF:1,FREEFROM
-https://webudi.openhd.lol/ddy6/premium301/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=303&e=.m3u8
-#EXTINF:1,A and E
-https://webudi.openhd.lol/ddy6/premium302/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=303&e=.m3u8
-#EXTINF:1,DEIMA SPORT
-https://webudi.openhd.lol/ddy4/premium1/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
-
-
-
-
-
-
-#EXTINF:1,TV8 TURKISH
+#########################################################################################################################################################
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/800px-Flag_of_Turkey.svg.png",TV8 TURKISH
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8?|Referer=https://canlitv.center/&e=.m3u8
-#EXTINF:1,SHOW TV
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/800px-Flag_of_Turkey.svg.png",SHOW TV
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8?|Referer=https://canlitv.center/&e=.m3u8
-#EXTINF:1,KANAL D
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/800px-Flag_of_Turkey.svg.png",KANAL D
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8?|Referer=https://canlitv.center/&e=.m3u8
-#EXTINF:1,KANAL 7
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/800px-Flag_of_Turkey.svg.png",KANAL 7
 https://live.cdn-canlitv.com/kanal7cift.m3u8?anahtar=GxaXxayzRxGmDKZrBUkXZg&sure=1668822303&ip=105.67.4.39?|Referer=https://canlitv.center/&e=.m3u8
-#EXTINF:1,TRT 1
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/800px-Flag_of_Turkey.svg.png",TRT 1
 https://live2.cdn-canlitv.com/trt11111.m3u8?anahtar=fYvcNksjy7Aud4HZX5h_Zg&sure=1668822281&ip=105.67.4.39?|Referer=https://canlitv.center/&e=.m3u8
-#EXTINF:1,STAR TV
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/800px-Flag_of_Turkey.svg.png",STAR TV
 https://tv.ensonhaber.com/tv/tr/startv/index.m3u8?hash=c5e8b2763dda6bf9b29cfc5ebd1472df?|Referer=https://canlitv.com/&e=.m3u8
-
-#EXTINF:1,FOX TV
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/800px-Flag_of_Turkey.svg.png",FOX TV
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8?|Referer=https://canlitv.center/&e=.m3u8
-#EXTINF:1,BEYAZ TV
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/800px-Flag_of_Turkey.svg.png",BEYAZ TV
 https://live.cdn-canlitv.com/beyaztv.m3u8?anahtar=lFiBamjjIC07pZvy8sCl0w&sure=1668822218&ip=105.67.4.39?|Referer=https://canlitv.center/&e=.m3u8
-#EXTINF:1,TV 360
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/800px-Flag_of_Turkey.svg.png",TV 360
 https://live.cdn-canlitv.com/tv360.m3u8?anahtar=obTgyPPyMELLi2ofJrDcUw&sure=1668822188&ip=105.67.4.39?|Referer=https://canlitv.center/&e=.m3u8
-#EXTINF:1,A SPOR HD
-https://live.cdn-canlitv.com/aspor5.m3u8?anahtar=test&sure=1668822138&ip=105.67.4.39?|Referer=https://canlitv.center/&e=.m3u8
-#EXTINF:1,TRT SPOR
-https://live.cdn-canlitv.com/trtsporcift.m3u8?anahtar=test?|Referer=https://canlitv.center/&e=.m3u8
 
-#EXTINF:1,TVP1 POLAND
-https://webudi.openhd.lol/lb/premium560/index.m3u8?|Referer=https://global1.ru.com/&e=.m3u8
-#EXTINF:1,TVP2 POLAND
-https://webudi.openhd.lol/lb/premium561/index.m3u8?|Referer=https://global1.ru.com/&e=.m3u8
-#EXTINF:1,POLSAT POLAND
-https://webudi.openhd.lol/lb/premium562/index.m3u8?|Referer=https://global1.ru.com/&e=.m3u8
-#EXTINF:1,MOTOWIZJA POLAND
-https://webudi.openhd.lol/lb/premium563/index.m3u8?|Referer=https://global1.ru.com/&e=.m3u8
-#EXTINF:1,POLSAT FILM POLAND
-https://webudi.openhd.lol/lb/premium564/index.m3u8?|Referer=https://global1.ru.com/&e=.m3u8
-#EXTINF:1,TVN POLAND
-https://webudi.openhd.lol/lb/premium565/index.m3u8?|Referer=https://global1.ru.com/&e=.m3u8
-#EXTINF:1,CANAL+ POLAND
-https://webudi.openhd.lol/lb/premium566/index.m3u8?|Referer=https://global1.ru.com/&e=.m3u8
-#EXTINF:1,CANAL+FAMILY POLAND
-https://webudi.openhd.lol/lb/premium567/index.m3u8?|Referer=https://global1.ru.com/&e=.m3u8
-#EXTINF:1,FILMBOX POLAND
-https://webudi.openhd.lol/lb/premium568/index.m3u8?|Referer=https://global1.ru.com/&e=.m3u8
-#EXTINF:1,HBO POLAND
-https://webudi.openhd.lol/lb/premium569/index.m3u8?|Referer=https://global1.ru.com/&e=.m3u8
-#EXTINF:1,CANAL+SERIALE POLAND
-https://webudi.openhd.lol/lb/premium570/index.m3u8?|Referer=https://global1.ru.com/&e=.m3u8
 
 #########################################################################################################################################################
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/1200px-Flag_of_Austria.svg.png",ORF 1
@@ -489,8 +447,47 @@ http://www.elahmad.com/tv/m3u8/aljazeera.m3u8?id=documentary
 http://www.elahmad.com/tv/m3u8/aljazeera.m3u8?id=mubasher
 
 #########################################################################################################################################################
+#EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]TV HD ALL WORLD[/color]
+httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 
-#EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]TV FHD[/color]
+
+#EXTINF:1,THE CH 44
+https://webudi.openhd.lol/ddy6/premium300/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=303&e=.m3u8
+#EXTINF:1,FREEFROM
+https://webudi.openhd.lol/ddy6/premium301/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=303&e=.m3u8
+#EXTINF:1,A and E
+https://webudi.openhd.lol/ddy6/premium302/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=303&e=.m3u8
+#EXTINF:1,DEIMA SPORT
+https://webudi.openhd.lol/ddy4/premium1/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
+
+
+
+
+
+
+#EXTINF:1,TVP1 POLAND
+https://webudi.openhd.lol/lb/premium560/index.m3u8?|Referer=https://global1.ru.com/&e=.m3u8
+#EXTINF:1,TVP2 POLAND
+https://webudi.openhd.lol/lb/premium561/index.m3u8?|Referer=https://global1.ru.com/&e=.m3u8
+#EXTINF:1,POLSAT POLAND
+https://webudi.openhd.lol/lb/premium562/index.m3u8?|Referer=https://global1.ru.com/&e=.m3u8
+#EXTINF:1,MOTOWIZJA POLAND
+https://webudi.openhd.lol/lb/premium563/index.m3u8?|Referer=https://global1.ru.com/&e=.m3u8
+#EXTINF:1,POLSAT FILM POLAND
+https://webudi.openhd.lol/lb/premium564/index.m3u8?|Referer=https://global1.ru.com/&e=.m3u8
+#EXTINF:1,TVN POLAND
+https://webudi.openhd.lol/lb/premium565/index.m3u8?|Referer=https://global1.ru.com/&e=.m3u8
+#EXTINF:1,CANAL+ POLAND
+https://webudi.openhd.lol/lb/premium566/index.m3u8?|Referer=https://global1.ru.com/&e=.m3u8
+#EXTINF:1,CANAL+FAMILY POLAND
+https://webudi.openhd.lol/lb/premium567/index.m3u8?|Referer=https://global1.ru.com/&e=.m3u8
+#EXTINF:1,FILMBOX POLAND
+https://webudi.openhd.lol/lb/premium568/index.m3u8?|Referer=https://global1.ru.com/&e=.m3u8
+#EXTINF:1,HBO POLAND
+https://webudi.openhd.lol/lb/premium569/index.m3u8?|Referer=https://global1.ru.com/&e=.m3u8
+#EXTINF:1,CANAL+SERIALE POLAND
+https://webudi.openhd.lol/lb/premium570/index.m3u8?|Referer=https://global1.ru.com/&e=.m3u8
+#EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]TV FHD ALL WORLD[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:1,BT SPORT 1
 https://webudi.openhd.lol/ddy1/premium31/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
