@@ -2,15 +2,16 @@
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]TV FABOR ANDRIOD (PC/PHONE/SMART TV/ BOX TV)[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 
-
 #EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 1 ENGLISH
-https://ovocloud.site/live/abr_s-1/live/s-1/chunks.m3u8?|Referer=https://www.ovostreams.com/&e=.m3u8
-#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 2 ENGLISH
-https://lenter.bongstreams.com/live/adaptive_bong-1/playlist.m3u8?|Referer=https://bongstreams.com/rntv.php&e=.m3u8
-#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 3 ENGLISH
-https://murthyneeraj231.s3.amazonaws.com/worldcup.m3u8?|Referer=https://givemenbastreams.com/&e=.m3u8
-#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 4 ENGLISH
 https://ovocloud.site/live/abr_s-1/playlist.m3u8?|Referer=https://ovopremium.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 2 ENGLISH
+https://ovocloud.site/live/abr_s-2/playlist.m3u8?|Referer=https://ovopremium.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 3 ENGLISH
+https://ovocloud.site/live/abr_s-1/live/s-1/chunks.m3u8?|Referer=https://www.ovostreams.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 3 ENGLISH
+https://ovocloud.site/live/abr_s-1/live/s-2/chunks.m3u8?|Referer=https://www.ovostreams.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 4 ENGLISH
+https://murthyneeraj231.s3.amazonaws.com/worldcup.m3u8?|Referer=https://givemenbastreams.com/&e=.m3u8
 #EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 5 ENGLISH
 https://cdn4.reels2watch.com/hls/s1.m3u8?|Referer=https://gamerarcades.com/assets/ts1.html&e=.m3u8
 #EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 6 ENGLISH
@@ -273,40 +274,6 @@ https://ad20171.openhd.lol/cdn/myfeed36/index.m3u8?|Referer=https://leetcdn.cc/&
 https://ad20171.openhd.lol/cdn/myfeed37/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
 #EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",TF1 FR
 https://ad20171.openhd.lol/cdn/myfeed38/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
-#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",TF1
-https://sv7.data-stream.top/d7dcbbf99177a4fa6e3c7b1852689240fc0009a0fdb85139c521117c6e7b0c41/hls/tf2-HD.m3u8?|Referer=https://www.stream4free.live/&e=.m3u8
-#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",FRANCE 2
-https://sv1.data-stream.top/d7dcbbf99177a4fa6e3c7b1852689240fc0009a0fdb85139c521117c6e7b0c41/hls/francetv2.m3u8?|Referer=https://www.stream4free.live/&e=.m3u8
-#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",FRANCE 3
-https://sv1.data-stream.top/d7dcbbf99177a4fa6e3c7b1852689240fc0009a0fdb85139c521117c6e7b0c41/hls/france3.m3u8?|Referer=https://www.stream4free.live/&e=.m3u8
-#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",FRANCE 5
-https://sv1.data-stream.top/d7dcbbf99177a4fa6e3c7b1852689240fc0009a0fdb85139c521117c6e7b0c41/hls/france5.m3u8?|Referer=https://www.stream4free.live/&e=.m3u8
-#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",M6
-https://sv7.data-stream.top/d7dcbbf99177a4fa6e3c7b1852689240fc0009a0fdb85139c521117c6e7b0c41/hls/m6france1.m3u8?|Referer=https://www.stream4free.live/&e=.m3u8
-#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",ARTE
-https://sv1.data-stream.top/d7dcbbf99177a4fa6e3c7b1852689240fc0009a0fdb85139c521117c6e7b0c41/hls/artefrance.m3u8?|Referer=https://www.stream4free.live/&e=.m3u8
-#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",C8
-https://sv1.data-stream.top/d7dcbbf99177a4fa6e3c7b1852689240fc0009a0fdb85139c521117c6e7b0c41/hls/d8france1.m3u8?|Referer=https://www.stream4free.live/&e=.m3u8
-#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",W9
-https://sv1.data-stream.top/d7dcbbf99177a4fa6e3c7b1852689240fc0009a0fdb85139c521117c6e7b0c41/hls/w9france.m3u8?|Referer=https://www.stream4free.live/&e=.m3u8
-#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",TMC
-https://sv2.data-stream.top/d7dcbbf99177a4fa6e3c7b1852689240fc0009a0fdb85139c521117c6e7b0c41/hls/tmc.m3u8?|Referer=https://www.stream4free.live/&e=.m3u8
-#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",TFX
-https://sv7.data-stream.top/17b3505e6f11128ad2fafaaff18c12d48cd8afe069f6554feda78a0b9cc3f120/hls/tfx.m3u8?|Referer=https://www.stream4free.live/&e=.m3u8
-#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",NRJ 12
-https://sv2.data-stream.top/d7dcbbf99177a4fa6e3c7b1852689240fc0009a0fdb85139c521117c6e7b0c41/hls/nrj12fr.m3u8?|Referer=https://www.stream4free.live/&e=.m3u8
-#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",FRANCE 4
-https://sv1.data-stream.top/d7dcbbf99177a4fa6e3c7b1852689240fc0009a0fdb85139c521117c6e7b0c41/hls/france4.m3u8?|Referer=https://www.stream4free.live/&e=.m3u8
-#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",CSTAR
-https://sv2.data-stream.top/d7dcbbf99177a4fa6e3c7b1852689240fc0009a0fdb85139c521117c6e7b0c41/hls/cstars-france.m3u8?|Referer=https://www.stream4free.live/&e=.m3u8
-#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",TF1 SERIES FILMS
-https://sv1.data-stream.top/d7dcbbf99177a4fa6e3c7b1852689240fc0009a0fdb85139c521117c6e7b0c41/hls/hd1.m3u8?|Referer=https://www.stream4free.live/&e=.m3u8
-#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",RMC STORY
-https://sv1.data-stream.top/d7dcbbf99177a4fa6e3c7b1852689240fc0009a0fdb85139c521117c6e7b0c41/hls/numero23.m3u8?|Referer=https://www.stream4free.live/&e=.m3u8
-#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",RMC DECOUVERTE
-https://sv2.data-stream.top/d7dcbbf99177a4fa6e3c7b1852689240fc0009a0fdb85139c521117c6e7b0c41/hls/rmc.m3u8?|Referer=https://www.stream4free.live/&e=.m3u8
-#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",TV5 MONDE
-https://sv2.data-stream.top/d7dcbbf99177a4fa6e3c7b1852689240fc0009a0fdb85139c521117c6e7b0c41/hls/tv5.m3u8?|Referer=https://www.stream4free.live/&e=.m3u8
 
 
 
@@ -443,6 +410,8 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vid
 #EXTINF:-1 tvg-id="AlAanTV.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Al_Aan_TV_new_Logo.png/512px-Al_Aan_TV_new_Logo.png" group-title="Undefined",Al Aan TV (720p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x74wje5
 #EXTINF:-1 tvg-id="3eeshAlAanTV.ae" tvg-logo="https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png" group-title="General",3eesh Al Aan TV (720p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x8924av
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1280px-Flag_of_Saudi_Arabia.svg.png", Saudi Quran tv
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x8924av
 #########################################################################################################################################################
 #EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197618.png", Qatar TV
