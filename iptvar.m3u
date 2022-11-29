@@ -32,24 +32,28 @@ https://sport.chakalista.tk/hls/be1/index.m3u8?|Referer=https://soccer24hd.com/&
 
 #########################################################################################################################################################
 
-#EXTINF:1,SPORTS LIVE 1
+#EXTINF:1 tvg-logo="https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",SPORTS LIVE 1
 https://reels2watch.com/hls/s1.m3u8?|Referer=https://techclips.net/clip/s1.html&e=.m3u8
-#EXTINF:1,SPORTS LIVE 2
+#EXTINF:1 tvg-logo="https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",SPORTS LIVE 2
 https://reels2watch.com/hls/s2.m3u8?|Referer=https://techclips.net/clip/s2.html&e=.m3u8
-#EXTINF:1,SPORTS LIVE 3
+#EXTINF:1 tvg-logo="https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",SPORTS LIVE 3
 https://reels2watch.com/hls/s3.m3u8?|Referer=https://techclips.net/clip/s3.html&e=.m3u8
-#EXTINF:1,SPORTS LIVE 4
+#EXTINF:1 tvg-logo="https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",SPORTS LIVE 4
 https://reels2watch.com/hls/s4.m3u8?|Referer=https://techclips.net/clip/s4.html&e=.m3u8
-#EXTINF:1,SPORTS LIVE 5
+#EXTINF:1 tvg-logo="https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",SPORTS LIVE 5
 https://webudi.openhd.lol/ddy4/premium2/tracks-v1a1/mono.m3u8?|Referer=https://eplayer.click/&e=.m3u8
-#EXTINF:1,SPORTS LIVE 6
+#EXTINF:1 tvg-logo="https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",SPORTS LIVE 6
 https://webudi.openhd.lol/ddy4/premium3/tracks-v1a1/mono.m3u8?|Referer=https://eplayer.click/&e=.m3u8
-#EXTINF:1,SPORTS LIVE 7 BBC
+#EXTINF:1 tvg-logo="https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",SPORTS LIVE 7
 https://hdstreamss.club/live/ch1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyMiA3OjUyOjU3IFBNJmhhc2hfdmFsdWU9ZlZVSWZFcEJOS3N5YVhBc1hBVjN0QT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTA1LjY3LjQuMzkmc3RybV9sZW49NQ==?|Referer=https://hdlivegames.xyz/&e=.m3u8
-#EXTINF:1,SPORTS LIVE 7 BBC
-https://hdstreamss.club/live/ch1/index.m3u8?|Referer=https://hdlivegames.xyz/&e=.m3u8
-#EXTINF:1,SPORTS LIVE 8 BBC
+#EXTINF:1 tvg-logo="https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",SPORTS LIVE 8
 https://d3isq7art7glzs.cloudfront.net/out/v1/102a5eb9ba7e42149856f2bf7722d1a0/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjkvMjAyMiA5OjU1OjM1IFBNJmhhc2hfdmFsdWU9Yjg5TEU5eW5BMjlTZ0QreVFVV1Zqdz09JnZhbGlkbWludXRlcz03MjAmaWQ9MTA1LjY3LjIuMTE0JnN0cm1fbGVuPTU=?|Referer=https://hdlivegames.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnba.png",NBA LIVE CH1 
+https://hdstreamss.club:30443/live/ch3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjkvMjAyMiAxMDowMzoyOSBQTSZoYXNoX3ZhbHVlPWJmd3pxYnBLV3J1YjFUY0VjYkR1VlE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTEwNS42Ny4yLjExNCZzdHJtX2xlbj01?|Referer=https://hdlivegames.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnba.png",NBA LIVE CH2 
+https://hdstreamss.club:30443/live/ch4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjkvMjAyMiAxMDowNjo0NyBQTSZoYXNoX3ZhbHVlPWVtSWNFb2tNbGx0Mk5IWG5ldDRKc0E9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTEwNS42Ny4yLjExNCZzdHJtX2xlbj01?|Referer=https://hdlivegames.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnba.png",NBA LIVE CH3 
+https://hdstreamss.club:30443/live/ch5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjkvMjAyMiAxMDowNzo0MCBQTSZoYXNoX3ZhbHVlPVFFb2MvWDlzeDVSYzdyYTR0eWVTbmc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTEwNS42Ny4yLjExNCZzdHJtX2xlbj01?|Referer=https://hdlivegames.xyz/&e=.m3u8
 
 #########################################################################################################################################################
 
