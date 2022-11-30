@@ -432,6 +432,8 @@ http://www.elahmad.com/tv/m3u8/aljazeera.m3u8?id=documentary
 http://www.elahmad.com/tv/m3u8/aljazeera.m3u8?id=mubasher
 #EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197618.png", BEIN SPORTS NEWS HD
 httphost://$http-raw=https://www.youtube.com/user/beINSPORTS/live$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-id="1Plus1.ua" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Undefined",1+1 (1080p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/beINSPORTS/live
 
 #########################################################################################################################################################
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]TV HD ALL WORLD[/color]
