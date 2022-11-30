@@ -430,8 +430,8 @@ http://www.elahmad.com/tv/m3u8/aljazeera.m3u8?id=arabic
 http://www.elahmad.com/tv/m3u8/aljazeera.m3u8?id=documentary
 #EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197618.png", aljazeera mubasher
 http://www.elahmad.com/tv/m3u8/aljazeera.m3u8?id=mubasher
-#EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197618.png", BEIN SPORTS NEWS
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/4wAAAB%2bLCAAAAAAABAAFwdtyQ0AAANAPyhgby6489KEMJbUaBhUvnb0xushGhqbGx%2becKf7KlqQBSzT4CpZ66p7%2fSPMwzwNJwXcA7w4ZmLaSuJofkLnjVaGuEaj01j7EDdmD%2b1Z7ibrM15%2bUwIztrYOtVvKjIQRzDRtwbpyAZAY9CosDi9OTa%2b3rSJnqPiLuE1sf2LOCNZQ4%2fc2Fd0agJ01WrBkB8I%2fVlTN7JvKLz6A9s1XZY0fkZh6m3sWVNmmVlO%2b34iHVTYMuFy2P2KWJxxCnaNiKJQVvLwOtSNzjAAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197618.png", BEIN SPORTS NEWS HD
+httphost://$http-raw=https://www.youtube.com/user/beINSPORTS/live$http-refferer=http://linkprotect.xmtvplayer.com
 
 #########################################################################################################################################################
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]TV HD ALL WORLD[/color]
