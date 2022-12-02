@@ -440,46 +440,9 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 #########################################################################################################################################################
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]TV HD ALL WORLD[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
-
-
-#EXTINF:1,THE CH 44
-https://webudi.openhd.lol/ddy6/premium300/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=303&e=.m3u8
-#EXTINF:1,FREEFROM
-https://webudi.openhd.lol/ddy6/premium301/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=303&e=.m3u8
-#EXTINF:1,A and E
-https://webudi.openhd.lol/ddy6/premium302/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=303&e=.m3u8
 #EXTINF:1,DEIMA SPORT
 https://webudi.openhd.lol/ddy4/premium1/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
 
-
-
-
-
-
-#EXTINF:1,TVP1 POLAND
-https://webudi.openhd.lol/lb/premium560/index.m3u8?|Referer=https://global1.ru.com/&e=.m3u8
-#EXTINF:1,TVP2 POLAND
-https://webudi.openhd.lol/lb/premium561/index.m3u8?|Referer=https://global1.ru.com/&e=.m3u8
-#EXTINF:1,POLSAT POLAND
-https://webudi.openhd.lol/lb/premium562/index.m3u8?|Referer=https://global1.ru.com/&e=.m3u8
-#EXTINF:1,MOTOWIZJA POLAND
-https://webudi.openhd.lol/lb/premium563/index.m3u8?|Referer=https://global1.ru.com/&e=.m3u8
-#EXTINF:1,POLSAT FILM POLAND
-https://webudi.openhd.lol/lb/premium564/index.m3u8?|Referer=https://global1.ru.com/&e=.m3u8
-#EXTINF:1,TVN POLAND
-https://webudi.openhd.lol/lb/premium565/index.m3u8?|Referer=https://global1.ru.com/&e=.m3u8
-#EXTINF:1,CANAL+ POLAND
-https://webudi.openhd.lol/lb/premium566/index.m3u8?|Referer=https://global1.ru.com/&e=.m3u8
-#EXTINF:1,CANAL+FAMILY POLAND
-https://webudi.openhd.lol/lb/premium567/index.m3u8?|Referer=https://global1.ru.com/&e=.m3u8
-#EXTINF:1,FILMBOX POLAND
-https://webudi.openhd.lol/lb/premium568/index.m3u8?|Referer=https://global1.ru.com/&e=.m3u8
-#EXTINF:1,HBO POLAND
-https://webudi.openhd.lol/lb/premium569/index.m3u8?|Referer=https://global1.ru.com/&e=.m3u8
-#EXTINF:1,CANAL+SERIALE POLAND
-https://webudi.openhd.lol/lb/premium570/index.m3u8?|Referer=https://global1.ru.com/&e=.m3u8
-#EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]TV FHD ALL WORLD[/color]
-httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:1,BT SPORT 1
 https://webudi.openhd.lol/ddy1/premium31/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
 #EXTINF:1,BT SPORT 2
@@ -488,35 +451,34 @@ https://webudi.openhd.lol/ddy1/premium32/tracks-v1a1/mono.m3u8?|Referer=https://
 https://webudi.openhd.lol/ddy1/premium33/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
 #EXTINF:1,BT SPORT 4
 https://webudi.openhd.lol/ddy1/premium34/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,SKY SPORTS FOOTBALL
-https://webudi.openhd.lol/lb/premium35/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,SKY SPORTS ARENA
-https://webudi.openhd.lol/lb/premium36/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,SKY SPORTS ACTION
-https://webudi.openhd.lol/lb/premium37/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,SKY SPORTS MAIN EVENT
-https://webudi.openhd.lol/ddy1/premium3/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1,Sky Sports Football UK
+https://webudi.openhd.lol/ddy1/premium35/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1,Sky Sports Arena UK
+https://webudi.openhd.lol/ddy1/premium36/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1,Sky Sports Action UK
+https://webudi.openhd.lol/ddy1/premium37/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1,Sky Sports Main Event
+https://webudi.openhd.lol/ddy1/premium38/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1,Sky sports Premier League
+https://webudi.openhd.lol/ddy1/premium130/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
 #EXTINF:1,FOX SPORT 1 USA
 https://webudi.openhd.lol/ddy1/premium39/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
 #EXTINF:1,TENNIS
-https://webudi.openhd.lol/lb/premium40/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,EUROSPORT 1
-https://webudi.openhd.lol/lb/premium41/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,EUROSPORT 2
-https://webudi.openhd.lol/lb/premium42/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+https://webudi.openhd.lol/ddy1/premium40/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1,Euro Sport 1 UK
+https://webudi.openhd.lol/ddy1/premium41/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1,Euro Sport 1 UK
+https://webudi.openhd.lol/ddy1/premium42/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+
+
+
+
 #EXTINF:1,ASTRO SUPERSPORTS 5
 https://webudi.openhd.lol/ddy1/premium43/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,ESPN USA
-https://webudi.openhd.lol/lb/premium44/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,ESPN 2 USA
-https://webudi.openhd.lol/lb/premium45/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,BEIN SPORTS 3 ENGLISH
-https://webudi.openhd.lol/lb/premium46/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,SPORT TV 1 PORTUGAL
-https://webudi.openhd.lol/lb/premium49/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,POLSAT SPORT EXTRA
-https://webudi.openhd.lol/lb/premium50/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,FOX NEWS USA
+#EXTINF:1,SKY SPORTS MAIN EVENT
+https://webudi.openhd.lol/ddy1/premium3/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+
+#EXTINF:1,ABC USA
 https://webudi.openhd.lol/ddy1/premium51/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
 #EXTINF:1,CBS USA
 https://webudi.openhd.lol/ddy1/premium52/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
@@ -524,57 +486,16 @@ https://webudi.openhd.lol/ddy1/premium52/tracks-v1a1/mono.m3u8?|Referer=https://
 https://webudi.openhd.lol/ddy1/premium53/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
 #EXTINF:1,FOX USA
 https://webudi.openhd.lol/ddy1/premium54/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1,BT SPORT BOX OFICCE
+https://webdi.openhd.lol/ddy2/premium55/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=55&e=.m3u8
 
-#EXTINF:1,SKY SPORTS F1
-https://webudi.openhd.lol/lb/premium60/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
 
-#EXTINF:1,SKY SPORTS CRICKET
-https://webudi.openhd.lol/lb/premium65/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,TUDN USA
-https://webudi.openhd.lol/lb/premium66/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-
-#EXTINF:1,CANAL+SPORT 1 POLAND
-https://webudi.openhd.lol/lb/premium48/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-
-#EXTINF:1,SKY SPORTS GOLF
-https://webudi.openhd.lol/lb/premium70/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,ELEVEN SPORT 1 POLAND
-https://webudi.openhd.lol/lb/premium71/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,ELEVEN SPORT 2 POLAND
-https://webudi.openhd.lol/lb/premium72/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,CANAL+SPORT 2 POLAND XXXX
-https://webudi.openhd.lol/lb/premium73/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
 #EXTINF:1,SPORT TV 2 PORTUGAL
 https://webudi.openhd.lol/ddy1/premium74/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,CANAL+SPORTS POLAND
-https://webudi.openhd.lol/lb/premium75/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,SPORTV 1 BRASIL
-https://webudi.openhd.lol/lb/premium78/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
 #EXTINF:1,SPORTV 2 BRASIL
 https://webudi.openhd.lol/ddy1/premium79/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
 #EXTINF:1,SPORTV 3 BRASIL
 https://webudi.openhd.lol/ddy1/premium80/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-
-#EXTINF:1,SPORT KLUB 1 SERBIA
-https://webudi.openhd.lol/lb/premium101/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,SPORT KLUB 2 SERBIA
-https://webudi.openhd.lol/lb/premium102/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,SPORT KLUB 3 SERBIA
-https://webudi.openhd.lol/lb/premium103/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,SPORT KLUB 4 SERBIA
-https://webudi.openhd.lol/lb/premium104/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-
-#EXTINF:1,TSN 1 CANADA
-https://webudi.openhd.lol/lb/premium111/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,TSN 2 CANADA
-https://webudi.openhd.lol/lb/premium112/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,TSN 3 CANADA
-https://webudi.openhd.lol/lb/premium113/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,TSN 4 CANADA
-https://webudi.openhd.lol/lb/premium114/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,TSN 5 CANADA
-https://webudi.openhd.lol/lb/premium115/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-
 
 #EXTINF:1,BEIN SPORT 1 FRANCE
 https://webudi.openhd.lol/ddy1/premium116/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
@@ -611,25 +532,12 @@ https://webudi.openhd.lol/ddy1/premium136/tracks-v1a1/mono.m3u8?|Referer=https:/
 https://webudi.openhd.lol/ddy1/premium137/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
 #EXTINF:1,MATCH 3 RUSSIA
 https://webudi.openhd.lol/ddy1/premium138/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-
-#EXTINF:1,SPORTS 1 ISREAL
-https://webudi.openhd.lol/lb/premium140/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,SPORTS 2 ISREAL
-https://webudi.openhd.lol/lb/premium141/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,SPORTS 3 ISREAL
-https://webudi.openhd.lol/lb/premium142/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,SPORTS 4 ISREAL
-https://webudi.openhd.lol/lb/premium143/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,SPORTS 5 ISREAL
-https://webudi.openhd.lol/lb/premium144/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,SPORTS 5 PLUS ISREAL
-https://webudi.openhd.lol/lb/premium145/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,SPORTS 5 LIVE ISREAL
-https://webudi.openhd.lol/lb/premium146/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,SPORTS 5 STAR ISREAL
-https://webudi.openhd.lol/lb/premium147/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,SPORTS 5 GOLD ISREAL
-https://webudi.openhd.lol/lb/premium148/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1,THE CH 44
+https://webudi.openhd.lol/ddy6/premium300/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=303&e=.m3u8
+#EXTINF:1,FREEFROM
+https://webudi.openhd.lol/ddy6/premium301/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=303&e=.m3u8
+#EXTINF:1,A and E
+https://webudi.openhd.lol/ddy6/premium302/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=303&e=.m3u8
 
 #EXTINF:1,RTE ONE 
 https://webudi.openhd.lol/ddy1/premium364/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
@@ -655,5 +563,128 @@ https://webudi.openhd.lol/ddy1/premium376/tracks-v1a1/mono.m3u8?|Referer=https:/
 https://webudi.openhd.lol/ddy1/premium377/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
 #EXTINF:1,FX
 https://webudi.openhd.lol/ddy1/premium381/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+
+
+
+
+#EXTINF:1,TVP1 POLAND
+https://webdi.openhd.lol/ddy6/premium560/tracks-t2/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
+#EXTINF:1,TVP2 POLAND
+https://webdi.openhd.lol/ddy6/premium561/tracks-v1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
+#EXTINF:1,POLSAT POLAND
+https://webdi.openhd.lol/ddy6/premium562/tracks-v1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
+#EXTINF:1,MOTOWIZJA POLAND
+https://webdi.openhd.lol/ddy6/premium563/tracks-v1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
+#EXTINF:1,POLSAT FILM POLAND
+https://webdi.openhd.lol/ddy6/premium564/tracks-v1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
+#EXTINF:1,TVN POLAND
+https://webdi.openhd.lol/ddy6/premium565/tracks-v1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
+#EXTINF:1,CANAL+ POLAND
+https://webdi.openhd.lol/ddy6/premium566/tracks-v1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
+#EXTINF:1,CANAL+FAMILY POLAND
+https://webdi.openhd.lol/ddy6/premium567/tracks-v1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
+#EXTINF:1,FILMBOX POLAND
+https://webdi.openhd.lol/ddy6/premium568/tracks-v1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
+#EXTINF:1,HBO POLAND
+https://webdi.openhd.lol/ddy6/premium569/tracks-v1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
+#EXTINF:1,CANAL+SERIALE POLAND
+https://webdi.openhd.lol/ddy6/premium570/tracks-v1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
+
+#################################################################################################################################################################
+#EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]TV FHD ALL WORLD[/color]
+httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:1,SKY SPORTS FOOTBALL
+https://webudi.openhd.lol/lb/premium35/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1,SKY SPORTS ARENA
+https://webudi.openhd.lol/lb/premium36/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1,SKY SPORTS ACTION
+https://webudi.openhd.lol/lb/premium37/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+
+https://webudi.openhd.lol/lb/premium40/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1,EUROSPORT 1
+https://webudi.openhd.lol/lb/premium41/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1,EUROSPORT 2
+https://webudi.openhd.lol/lb/premium42/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+
+#EXTINF:1,ESPN USA
+https://webudi.openhd.lol/lb/premium44/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1,ESPN 2 USA
+https://webudi.openhd.lol/lb/premium45/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1,BEIN SPORTS 3 ENGLISH
+https://webudi.openhd.lol/lb/premium46/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1,SPORT TV 1 PORTUGAL
+https://webudi.openhd.lol/lb/premium49/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1,POLSAT SPORT EXTRA
+https://webudi.openhd.lol/lb/premium50/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+
+
+#EXTINF:1,SKY SPORTS F1
+https://webudi.openhd.lol/lb/premium60/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+
+#EXTINF:1,SKY SPORTS CRICKET
+https://webudi.openhd.lol/lb/premium65/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1,TUDN USA
+https://webudi.openhd.lol/lb/premium66/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+
+#EXTINF:1,CANAL+SPORT 1 POLAND
+https://webudi.openhd.lol/lb/premium48/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+
+#EXTINF:1,SKY SPORTS GOLF
+https://webudi.openhd.lol/lb/premium70/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1,ELEVEN SPORT 1 POLAND
+https://webudi.openhd.lol/lb/premium71/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1,ELEVEN SPORT 2 POLAND
+https://webudi.openhd.lol/lb/premium72/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1,CANAL+SPORT 2 POLAND XXXX
+https://webudi.openhd.lol/lb/premium73/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1,CANAL+SPORTS POLAND
+https://webudi.openhd.lol/lb/premium75/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1,SPORTV 1 BRASIL
+https://webudi.openhd.lol/lb/premium78/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+
+
+#EXTINF:1,SPORT KLUB 1 SERBIA
+https://webudi.openhd.lol/lb/premium101/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1,SPORT KLUB 2 SERBIA
+https://webudi.openhd.lol/lb/premium102/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1,SPORT KLUB 3 SERBIA
+https://webudi.openhd.lol/lb/premium103/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1,SPORT KLUB 4 SERBIA
+https://webudi.openhd.lol/lb/premium104/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+
+#EXTINF:1,TSN 1 CANADA
+https://webudi.openhd.lol/lb/premium111/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1,TSN 2 CANADA
+https://webudi.openhd.lol/lb/premium112/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1,TSN 3 CANADA
+https://webudi.openhd.lol/lb/premium113/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1,TSN 4 CANADA
+https://webudi.openhd.lol/lb/premium114/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1,TSN 5 CANADA
+https://webudi.openhd.lol/lb/premium115/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+
+
+
+
+#EXTINF:1,SPORTS 1 ISREAL
+https://webudi.openhd.lol/lb/premium140/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1,SPORTS 2 ISREAL
+https://webudi.openhd.lol/lb/premium141/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1,SPORTS 3 ISREAL
+https://webudi.openhd.lol/lb/premium142/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1,SPORTS 4 ISREAL
+https://webudi.openhd.lol/lb/premium143/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1,SPORTS 5 ISREAL
+https://webudi.openhd.lol/lb/premium144/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1,SPORTS 5 PLUS ISREAL
+https://webudi.openhd.lol/lb/premium145/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1,SPORTS 5 LIVE ISREAL
+https://webudi.openhd.lol/lb/premium146/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1,SPORTS 5 STAR ISREAL
+https://webudi.openhd.lol/lb/premium147/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1,SPORTS 5 GOLD ISREAL
+https://webudi.openhd.lol/lb/premium148/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+
+
 #########################################################################################################################################################
 
