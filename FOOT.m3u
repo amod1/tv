@@ -1,49 +1,119 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", SPORTS TV [color green]LIVE - TV FABOR[/color]
+#EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]TV FABOR ANDRIOD (PC/PHONE/SMART TV/ BOX TV)[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 
+#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 1 ENGLISH
+https://ovocloud.site/live/abr_s-1/playlist.m3u8?|Referer=https://ovopremium.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 2 ENGLISH
+https://ovocloud.site/live/abr_s-2/playlist.m3u8?|Referer=https://ovopremium.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 3 ENGLISH
+https://ovocloud.site/live/abr_s-1/live/s-1/playlist.m3u8?|Referer=https://www.ovostreams.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 3+1 ENGLISH
+https://ovocloud.site/live/abr_s-2/live/s-2/playlist.m3u8?|Referer=https://www.ovostreams.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 4 ENGLISH
+https://murthyneeraj231.s3.amazonaws.com/worldcup.m3u8?|Referer=https://givemenbastreams.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 5 ENGLISH
+https://cdn4.reels2watch.com/hls/s1.m3u8?|Referer=https://gamerarcades.com/assets/ts1.html&e=.m3u8
+#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 6 ENGLISH
+https://sport.chakalista.tk/hls/bt1/index.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 6+1 ENGLISH
+https://sport.chakalista.tk/hls/bt2/index.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 7 FRENCH
+https://sport.chakalista.tk/hls/amazon/index.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 7+1 FRENCH
+https://sport.chakalista.tk/hls/skynet2/index.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 8 ENGLISH
+https://sport.chakalista.tk/hls/bt2/index.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 8+1 ENGLISH
+https://sport.chakalista.tk/hls/skynet3/index.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 9 ARABIC
+https://live.elkoralivetv.tk/hls/bein1/index.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 9+1 ARABIC
+https://sport.chakalista.tk/hls/bein2ar/index.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 10 ARABIC 720P
+https://livefootballs.xyz/hls/premierleague.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 11 ARABIC 480P
+https://hls.koraworldcup.tk/hls/bein1480/index.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg", FIFA WORLD CUP LIVE 12 SPANISH
+https://sport.chakalista.tk/hls/be1/index.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg", FIFA WORLD CUP LIVE 12+1 SPANISH
+https://sport.chakalista.tk/hls/skynet1/index.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
 
 
+#########################################################################################################################################################
+
+#EXTINF:1 tvg-logo="https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",SPORTS LIVE 1
+https://reels2watch.com/hls/s1.m3u8?|Referer=https://techclips.net/clip/s1.html&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",SPORTS LIVE 2
+https://reels2watch.com/hls/s2.m3u8?|Referer=https://techclips.net/clip/s2.html&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",SPORTS LIVE 3
+https://reels2watch.com/hls/s3.m3u8?|Referer=https://techclips.net/clip/s3.html&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",SPORTS LIVE 4
+https://reels2watch.com/hls/s4.m3u8?|Referer=https://techclips.net/clip/s4.html&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",SPORTS LIVE 5
+https://reels2watch.com/hls/s5.m3u8?|Referer=https://techclips.net/clip/s4.html&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",SPORTS LIVE 6
+https://reels2watch.com/hls/s6.m3u8?|Referer=https://techclips.net/clip/s4.html&e=.m3u8
+
+#########################################################################################################################################################
+#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/pI2ifSWdrTKgNEFwxOiTk7MjGtJqebb5jXSGZ0tjF1gsw_xH6ZqxxI61-fPonDSvXyY",SPORTS LIVE 1
+https://hdstreamss.club:30443/live/ch1/playlist.m3u8?|Referer=https://hdlivegames.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/pI2ifSWdrTKgNEFwxOiTk7MjGtJqebb5jXSGZ0tjF1gsw_xH6ZqxxI61-fPonDSvXyY",SPORTS LIVE 2
+https://hdstreamss.club:30443/live/ch2/playlist.m3u8?|Referer=https://hdlivegames.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/pI2ifSWdrTKgNEFwxOiTk7MjGtJqebb5jXSGZ0tjF1gsw_xH6ZqxxI61-fPonDSvXyY",SPORTS LIVE 3 
+https://hdstreamss.club:30443/live/ch3/playlist.m3u8?|Referer=https://hdlivegames.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/pI2ifSWdrTKgNEFwxOiTk7MjGtJqebb5jXSGZ0tjF1gsw_xH6ZqxxI61-fPonDSvXyY",SPORTS LIVE 4 
+https://hdstreamss.club:30443/live/ch4/playlist.m3u8?|Referer=https://hdlivegames.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/pI2ifSWdrTKgNEFwxOiTk7MjGtJqebb5jXSGZ0tjF1gsw_xH6ZqxxI61-fPonDSvXyY",SPORTS LIVE 5 
+https://hdstreamss.club:30443/live/ch5/playlist.m3u8?|Referer=https://hdlivegames.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/pI2ifSWdrTKgNEFwxOiTk7MjGtJqebb5jXSGZ0tjF1gsw_xH6ZqxxI61-fPonDSvXyY",SPORTS LIVE 6 
+https://hdstreamss.club:30443/live/ch6/playlist.m3u8?|Referer=https://hdlivegames.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/pI2ifSWdrTKgNEFwxOiTk7MjGtJqebb5jXSGZ0tjF1gsw_xH6ZqxxI61-fPonDSvXyY",SPORTS LIVE 7
+https://hdstreamss.club:30443/live/ch7/playlist.m3u8?|Referer=https://hdlivegames.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/pI2ifSWdrTKgNEFwxOiTk7MjGtJqebb5jXSGZ0tjF1gsw_xH6ZqxxI61-fPonDSvXyY",SPORTS LIVE 8 
+https://hdstreamss.club:30443/live/ch8/playlist.m3u8?|Referer=https://hdlivegames.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/pI2ifSWdrTKgNEFwxOiTk7MjGtJqebb5jXSGZ0tjF1gsw_xH6ZqxxI61-fPonDSvXyY",SPORTS LIVE 9 
+https://hdstreamss.club:30443/live/ch9/playlist.m3u8?|Referer=https://hdlivegames.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/pI2ifSWdrTKgNEFwxOiTk7MjGtJqebb5jXSGZ0tjF1gsw_xH6ZqxxI61-fPonDSvXyY",SPORTS LIVE 10 
+https://hdstreamss.club:30443/live/ch10/playlist.m3u8?|Referer=https://hdlivegames.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/pI2ifSWdrTKgNEFwxOiTk7MjGtJqebb5jXSGZ0tjF1gsw_xH6ZqxxI61-fPonDSvXyY",SPORTS LIVE 11 
+https://hdstreamss.club:30443/live/ch11/playlist.m3u8?|Referer=https://hdlivegames.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/pI2ifSWdrTKgNEFwxOiTk7MjGtJqebb5jXSGZ0tjF1gsw_xH6ZqxxI61-fPonDSvXyY",SPORTS LIVE 12 
+https://hdstreamss.club:30443/live/ch12/playlist.m3u8?|Referer=https://hdlivegames.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/pI2ifSWdrTKgNEFwxOiTk7MjGtJqebb5jXSGZ0tjF1gsw_xH6ZqxxI61-fPonDSvXyY",SPORTS LIVE 13 
+https://hdstreamss.club:30443/live/ch13/playlist.m3u8?|Referer=https://hdlivegames.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/pI2ifSWdrTKgNEFwxOiTk7MjGtJqebb5jXSGZ0tjF1gsw_xH6ZqxxI61-fPonDSvXyY",SPORTS LIVE 14 
+https://hdstreamss.club:30443/live/ch14/playlist.m3u8?|Referer=https://hdlivegames.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/pI2ifSWdrTKgNEFwxOiTk7MjGtJqebb5jXSGZ0tjF1gsw_xH6ZqxxI61-fPonDSvXyY",SPORTS LIVE 15 
+https://hdstreamss.club:30443/live/ch15/playlist.m3u8?|Referer=https://hdlivegames.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/pI2ifSWdrTKgNEFwxOiTk7MjGtJqebb5jXSGZ0tjF1gsw_xH6ZqxxI61-fPonDSvXyY",SPORTS LIVE 16 
+https://hdstreamss.club:30443/live/ch16/playlist.m3u8?|Referer=https://hdlivegames.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/pI2ifSWdrTKgNEFwxOiTk7MjGtJqebb5jXSGZ0tjF1gsw_xH6ZqxxI61-fPonDSvXyY",SPORTS LIVE 17 
+https://hdstreamss.club:30443/live/ch17/playlist.m3u8?|Referer=https://hdlivegames.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/pI2ifSWdrTKgNEFwxOiTk7MjGtJqebb5jXSGZ0tjF1gsw_xH6ZqxxI61-fPonDSvXyY",SPORTS LIVE 18 
+https://hdstreamss.club:30443/live/ch18/playlist.m3u8?|Referer=https://hdlivegames.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/pI2ifSWdrTKgNEFwxOiTk7MjGtJqebb5jXSGZ0tjF1gsw_xH6ZqxxI61-fPonDSvXyY",SPORTS LIVE 19 
+https://hdstreamss.club:30443/live/ch19/playlist.m3u8?|Referer=https://hdlivegames.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/pI2ifSWdrTKgNEFwxOiTk7MjGtJqebb5jXSGZ0tjF1gsw_xH6ZqxxI61-fPonDSvXyY",SPORTS LIVE 20 
+https://hdstreamss.club:30443/live/ch20/playlist.m3u8?|Referer=https://hdlivegames.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/pI2ifSWdrTKgNEFwxOiTk7MjGtJqebb5jXSGZ0tjF1gsw_xH6ZqxxI61-fPonDSvXyY",SPORTS LIVE 21
+https://hdstreamss.club:30443/live/ch21/playlist.m3u8?|Referer=https://hdlivegames.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/pI2ifSWdrTKgNEFwxOiTk7MjGtJqebb5jXSGZ0tjF1gsw_xH6ZqxxI61-fPonDSvXyY",SPORTS LIVE 22
+https://hdstreamss.club:30443/live/ch22/playlist.m3u8?|Referer=https://hdlivegames.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/pI2ifSWdrTKgNEFwxOiTk7MjGtJqebb5jXSGZ0tjF1gsw_xH6ZqxxI61-fPonDSvXyY",SPORTS LIVE 23
+https://hdstreamss.club:30443/live/ch23/playlist.m3u8?|Referer=https://hdlivegames.xyz/&e=.m3u8
 
 
+#########################################################################################################################################################
+#EXTINF:1,6
+https://h5.sportstreams.link/m3u86?|Referer=https://h5.sportstreams.link/&e=.m3u8
+#EXTINF:1,30
+https://h5.sportstreams.link/m3u830?|Referer=https://h5.sportstreams.link/basketball/charlotte-hornets-vs-washington-wizards?player=30&e=.m3u8
 
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Sportsworldnet TV LIVE 1
-httphost://$http-raw=https://wigistream.to/embed/is3w1o5jii3$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Sportsworldnet TV LIVE 2
-httphost://$http-raw=https://wigistream.to/embed/vobhvkv$http-refferer=https://sportsworldnet.eu/update/ch2.html
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Sportsworldnet TV LIVE 3
-httphost://$http-raw=https://wigistream.to/embed/m8eq7sk$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Sportsworldnet TV LIVE 4
-httphost://$http-raw=https://wigistream.to/embed/x6512i1jgjrdf81$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Sportsworldnet TV LIVE 5
-httphost://$http-raw=https://wigistream.to/embed/omwkqmxi42$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Sportsworldnet TV LIVE 6
-httphost://$http-raw=https://wigistream.to/embed/f2v9zs4q$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Sportsworldnet TV LIVE 7
-httphost://$http-raw=https://wigistream.to/embed/jgzusu2$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Sportsworldnet TV LIVE 8
-httphost://$http-raw=https://wigistream.to/embed/i2nto69ng3$http-refferer=https://sportsworldnet.eu/update/ch8.html
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Sportsworldnet TV LIVE 9
-httphost://$http-raw=https://wigistream.to/embed/7pcg9scoc802m$http-refferer=https://sportsworldnet.eu/
-#EXTINF:0 tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png", Sportsworldnet TV LIVE 10
-httphost://$http-raw=https://wigistream.to/embed/zkoz4226tls$http-refferer=https://sportsworldnet.eu/
+#EXTINF:1,ASTRO CRICKET
+https://webudi.openhd.lol/ddy1/premium370/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
 
 
+#########################################################################################################################################################
 
-#EXTINF:0 tvg-logo="https://channelstream.me/images/golf-ball.png", Sportzonline TV LIVE 1 ENGLISH
-httphost://$http-raw=https://wigistream.to/embed/c2kxuno$http-refferer=https://v3.sportzonline.to/channels/hd/hd1.php
-#EXTINF:0 tvg-logo="https://channelstream.me/images/golf-ball.png", Sportzonline TV LIVE  2 ENGLISH
-httphost://$http-raw=https://wigistream.to/embed/oaa446jqf0418$http-refferer=https://v3.sportzonline.to/channels/hd/hd2.php
-#EXTINF:0 tvg-logo="https://channelstream.me/images/golf-ball.png", Sportzonline TV LIVE  3 GERMAN & BRAZILIAN
-httphost://$http-raw=https://wigistream.to/embed/71dv0gylb$http-refferer=https://sportzonline.to/channels/hd/hd3.php
-#EXTINF:0 tvg-logo="https://channelstream.me/images/golf-ball.png", Sportzonline TV LIVE  4 FRENCH
-httphost://$http-raw=https://wigistream.to/embed/bjj9sfgzt9$http-refferer=https://sportzonline.to/channels/hd/hd4.php
-#EXTINF:0 tvg-logo="https://channelstream.me/images/golf-ball.png", Sportzonline TV LIVE  5 ENGLISH
-httphost://$http-raw=https://wigistream.to/embed/rmfhl85k$http-refferer=https://sportzonline.to/channels/hd/hd5.php
-#EXTINF:0 tvg-logo="https://channelstream.me/images/golf-ball.png", Sportzonline TV LIVE  6 SPANISH
-httphost://$http-raw=https://wigistream.to/embed/eviy3tp9sa8v04t$http-refferer=https://sportzonline.to/channels/hd/hd6.php
-#EXTINF:0 tvg-logo="https://channelstream.me/images/golf-ball.png", Sportzonline TV LIVE  7 ITALIAN
-httphost://$http-raw=https://wigistream.to/embed/xsezbh3muyxz$http-refferer=https://sportzonline.to/channels/hd/hd7.php
-#EXTINF:0 tvg-logo="https://channelstream.me/images/golf-ball.png", Sportzonline TV LIVE  8 GREEK & ENGLISH
-httphost://$http-raw=https://wigistream.to/embed/iicmwmn5badb9$http-refferer=https://sportzonline.to/channels/hd/hd8.php
 
