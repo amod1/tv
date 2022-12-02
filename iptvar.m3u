@@ -51,18 +51,20 @@ https://reels2watch.com/hls/s3.m3u8?|Referer=https://techclips.net/clip/s3.html&
 #EXTINF:1 tvg-logo="https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",SPORTS LIVE 4
 https://reels2watch.com/hls/s4.m3u8?|Referer=https://techclips.net/clip/s4.html&e=.m3u8
 #EXTINF:1 tvg-logo="https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",SPORTS LIVE 5
-https://webudi.openhd.lol/ddy4/premium2/tracks-v1a1/mono.m3u8?|Referer=https://eplayer.click/&e=.m3u8
+https://reels2watch.com/hls/s5.m3u8?|Referer=https://techclips.net/clip/s4.html&e=.m3u8
 #EXTINF:1 tvg-logo="https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",SPORTS LIVE 6
-https://webudi.openhd.lol/ddy4/premium3/tracks-v1a1/mono.m3u8?|Referer=https://eplayer.click/&e=.m3u8
-#EXTINF:1 tvg-logo="https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",SPORTS LIVE 7
+https://reels2watch.com/hls/s6.m3u8?|Referer=https://techclips.net/clip/s4.html&e=.m3u8
+
+#########################################################################################################################################################
+#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/pI2ifSWdrTKgNEFwxOiTk7MjGtJqebb5jXSGZ0tjF1gsw_xH6ZqxxI61-fPonDSvXyY",SPORTS LIVE 1
 https://hdstreamss.club/live/ch1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyMiA3OjUyOjU3IFBNJmhhc2hfdmFsdWU9ZlZVSWZFcEJOS3N5YVhBc1hBVjN0QT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTA1LjY3LjQuMzkmc3RybV9sZW49NQ==?|Referer=https://hdlivegames.xyz/&e=.m3u8
-#EXTINF:1 tvg-logo="https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",SPORTS LIVE 8
+#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/pI2ifSWdrTKgNEFwxOiTk7MjGtJqebb5jXSGZ0tjF1gsw_xH6ZqxxI61-fPonDSvXyY",SPORTS LIVE 2
 https://d3isq7art7glzs.cloudfront.net/out/v1/102a5eb9ba7e42149856f2bf7722d1a0/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjkvMjAyMiA5OjU1OjM1IFBNJmhhc2hfdmFsdWU9Yjg5TEU5eW5BMjlTZ0QreVFVV1Zqdz09JnZhbGlkbWludXRlcz03MjAmaWQ9MTA1LjY3LjIuMTE0JnN0cm1fbGVuPTU=?|Referer=https://hdlivegames.xyz/&e=.m3u8
-#EXTINF:1 tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnba.png",NBA LIVE CH1 
+#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/pI2ifSWdrTKgNEFwxOiTk7MjGtJqebb5jXSGZ0tjF1gsw_xH6ZqxxI61-fPonDSvXyY",SPORTS LIVE 3 
 https://hdstreamss.club:30443/live/ch3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjkvMjAyMiAxMDowMzoyOSBQTSZoYXNoX3ZhbHVlPWJmd3pxYnBLV3J1YjFUY0VjYkR1VlE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTEwNS42Ny4yLjExNCZzdHJtX2xlbj01?|Referer=https://hdlivegames.xyz/&e=.m3u8
-#EXTINF:1 tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnba.png",NBA LIVE CH2 
+#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/pI2ifSWdrTKgNEFwxOiTk7MjGtJqebb5jXSGZ0tjF1gsw_xH6ZqxxI61-fPonDSvXyY",SPORTS LIVE 4 
 https://hdstreamss.club:30443/live/ch4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjkvMjAyMiAxMDowNjo0NyBQTSZoYXNoX3ZhbHVlPWVtSWNFb2tNbGx0Mk5IWG5ldDRKc0E9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTEwNS42Ny4yLjExNCZzdHJtX2xlbj01?|Referer=https://hdlivegames.xyz/&e=.m3u8
-#EXTINF:1 tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnba.png",NBA LIVE CH3 
+#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/pI2ifSWdrTKgNEFwxOiTk7MjGtJqebb5jXSGZ0tjF1gsw_xH6ZqxxI61-fPonDSvXyY",SPORTS LIVE 5 
 https://hdstreamss.club:30443/live/ch5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjkvMjAyMiAxMDowNzo0MCBQTSZoYXNoX3ZhbHVlPVFFb2MvWDlzeDVSYzdyYTR0eWVTbmc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTEwNS42Ny4yLjExNCZzdHJtX2xlbj01?|Referer=https://hdlivegames.xyz/&e=.m3u8
 
 #########################################################################################################################################################
@@ -440,6 +442,8 @@ https://www.youtube.com/embed/5VtrmK81NG4/.m3u8
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:1,DEIMA SPORT
 https://webudi.openhd.lol/ddy4/premium1/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
+#EXTINF:1,SKY SPORTS MAIN EVENT
+https://webudi.openhd.lol/ddy1/premium3/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
 
 #EXTINF:1,BT SPORT 1
 https://webudi.openhd.lol/ddy1/premium31/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
@@ -454,7 +458,7 @@ https://webudi.openhd.lol/ddy1/premium35/tracks-v1a1/mono.m3u8?|Referer=https://
 #EXTINF:1,Sky Sports Arena UK
 https://webudi.openhd.lol/ddy1/premium36/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
 #EXTINF:1,Sky Sports Action UK
-https://webudi.openhd.lol/ddy1/premium37/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
+https://webdi.openhd.lol/ddy4/premium37/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
 #EXTINF:1,Sky Sports Main Event
 https://webudi.openhd.lol/ddy1/premium38/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
 #EXTINF:1,Sky sports Premier League
@@ -467,14 +471,20 @@ https://webudi.openhd.lol/ddy1/premium40/tracks-v1a1/mono.m3u8?|Referer=https://
 https://webudi.openhd.lol/ddy1/premium41/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
 #EXTINF:1,Euro Sport 1 UK
 https://webudi.openhd.lol/ddy1/premium42/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
-
-
-
-
 #EXTINF:1,ASTRO SUPERSPORTS 5
 https://webudi.openhd.lol/ddy1/premium43/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,SKY SPORTS MAIN EVENT
-https://webudi.openhd.lol/ddy1/premium3/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1,ESPN
+https://webdi.openhd.lol/ddy5/premium44/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
+#EXTINF:1,ESPN 2
+https://webdi.openhd.lol/ddy5/premium45/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
+#EXTINF:1,beIN SPORTS 1 English
+https://webdi.openhd.lol/ddy1/premium61/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
+#EXTINF:1,beIN SPORTS 2 English
+https://webdi.openhd.lol/ddy1/premium62/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
+#EXTINF:1,beIN SPORTS 3 English
+https://webdi.openhd.lol/ddy1/premium63/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
+
+
 
 #EXTINF:1,ABC USA
 https://webudi.openhd.lol/ddy1/premium51/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
@@ -564,7 +574,14 @@ https://webudi.openhd.lol/ddy1/premium381/tracks-v1a1/mono.m3u8?|Referer=https:/
 
 
 
-
+#EXTINF:1,Polsat Sport Poland
+https://webdi.openhd.lol/ddy2/premium47/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
+#EXTINF:1,Canal+ Sport Poland
+https://webdi.openhd.lol/ddyx2/premium48/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
+#EXTINF:1,Canal+ Sport 2 Poland
+https://webdi.openhd.lol/ddyx2/premium73/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
+#EXTINF:1,Polsat Sport Extra Poland
+https://webdi.openhd.lol/ddy4/premium50/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
 #EXTINF:1,TVP1 POLAND
 https://webdi.openhd.lol/ddy6/premium560/tracks-t2/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
 #EXTINF:1,TVP2 POLAND
