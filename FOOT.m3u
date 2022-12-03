@@ -105,13 +105,32 @@ https://hdstreamss.club:30443/live/ch23/playlist.m3u8?|Referer=https://hdlivegam
 
 
 #########################################################################################################################################################
+#EXTINF:1,1
+https://h5.sportstreams.link/m3u81?|Referer=https://h5.sportstreams.link/&e=.m3u8
+#EXTINF:1,2
+https://h5.sportstreams.link/m3u82?|Referer=https://h5.sportstreams.link/&e=.m3u8
+#EXTINF:1,3
+https://h5.sportstreams.link/m3u83?|Referer=https://h5.sportstreams.link/&e=.m3u8
+#EXTINF:1,4
+https://h5.sportstreams.link/m3u84?|Referer=https://h5.sportstreams.link/&e=.m3u8
+#EXTINF:1,5
+https://h5.sportstreams.link/m3u85?|Referer=https://h5.sportstreams.link/&e=.m3u8
 #EXTINF:1,6
 https://h5.sportstreams.link/m3u86?|Referer=https://h5.sportstreams.link/&e=.m3u8
 #EXTINF:1,30
 https://h5.sportstreams.link/m3u830?|Referer=https://h5.sportstreams.link/basketball/charlotte-hornets-vs-washington-wizards?player=30&e=.m3u8
+#EXTINF:1,31
+https://h5.sportstreams.link/m3u831?|Referer=https://h5.sportstreams.link/basketball/charlotte-hornets-vs-washington-wizards?player=30&e=.m3u8
 
-#EXTINF:1,ASTRO CRICKET
-https://webudi.openhd.lol/ddy1/premium370/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
+#EXTINF:1,NBA TV
+https://k41hedlund.s3.amazonaws.com/timberwolves.m3u8?|Referer=https://givemenbastreams.com/&e=.m3u8
+#EXTINF:1,SOCCER TV
+https://k41hedlund.s3.amazonaws.com/tsncopy.m3u8?|Referer=https://givemenbastreams.com/&e=.m3u8
+#EXTINF:1,F1 TV
+https://gahuiysuiwi.s3.amazonaws.com/manu.m3u8?|Referer=https://givemenbastreams.com/&e=.m3u8
+#EXTINF:1,NBA TV
+https://k41hedlund.s3.amazonaws.com/celtics.m3u8?|Referer=https://givemenbastreams.com/&e=.m3u8
+
 
 
 #########################################################################################################################################################
