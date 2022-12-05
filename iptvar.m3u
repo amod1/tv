@@ -2,6 +2,12 @@
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]TV FABOR ANDRIOD (PC/PHONE/SMART TV/ BOX TV)[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/800px-Flag_of_Turkey.svg.png",TV8 TURKISH
+https://dtvott-cbc.akamaized.net/dash_live_1148/manifest.mpd?|Referer=https://embed.telelatinohd.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/800px-Flag_of_Turkey.svg.png",TV8 TURKISH
+https://live.telelatinohd.com:8080/MTA1LjY3LjEzMi44Mg==/85_.m3u8?token=ooILruSeRQtBsGHHZ599_w&expires=1670271012?|Referer=https://live.telelatinohd.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/800px-Flag_of_Turkey.svg.png",TV8 TURKISH
+https://live.telelatinohd.com:8080/MTA1LjY3LjEzMi44Mg==/85_.m3u8?|Referer=https://live.telelatinohd.com/&e=.m3u8
 
 #########################################################################################################################################################
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/800px-Flag_of_Turkey.svg.png",TV8 TURKISH
