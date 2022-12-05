@@ -3,11 +3,11 @@
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/800px-Flag_of_Turkey.svg.png",1
-https://live.telelatinohd.com/miclub.php?id=41_?|Referer=https://www.micineclub.com/e=.m3u8
+https://live.telelatinohd.com/miclub.php?id=41_?|Referer=https://www.micineclub.com/&e=.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/800px-Flag_of_Turkey.svg.png",TV8 TURKISH
-https://edge-vod01-sl.cvattv.com.ar/live/c6eds/SyFy/SA_Live_dash_enc_2A/SyFy.mpd?token=ooILruSeRQtBsGHHZ599_w&expires=1670271012?|Referer=https://6353228574769.logi1laut4r0.solutions/&e=.m3u8
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/800px-Flag_of_Turkey.svg.png",TV8 TURKISH
-https://embed.telelatinohd.com/code414d.php?id=1227?|Referer=https://www.micineclub.com/&e=.m3u8
+https://edge-vod01-sl.cvattv.com.ar/live/c6eds/SyFy/SA_Live_dash_enc_2A/SyFy.mpd?|Referer=https://6353228574769.logi1laut4r0.solutions/&e=.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/800px-Flag_of_Turkey.svg.png",3
+https://is-tucuman.cdn.rcs.net.ar/mnp/syfy/output.mpd?|Referer=https://6353228574769.logi1laut4r0.solutions/&e=.m3u8
 
 #########################################################################################################################################################
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/800px-Flag_of_Turkey.svg.png",TV8 TURKISH
