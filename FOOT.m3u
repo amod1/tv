@@ -6,39 +6,28 @@ httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 https://ovocloud.site/live/abr_s-1/playlist.m3u8?|Referer=https://ovopremium.com/&e=.m3u8
 #EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 2 ENGLISH
 https://ovocloud.site/live/abr_s-2/playlist.m3u8?|Referer=https://ovopremium.com/&e=.m3u8
-#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 3 ENGLISH
-https://ovocloud.site/live/abr_s-1/live/s-1/playlist.m3u8?|Referer=https://www.ovostreams.com/&e=.m3u8
-#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 3+1 ENGLISH
-https://ovocloud.site/live/abr_s-2/live/s-2/playlist.m3u8?|Referer=https://www.ovostreams.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg", FIFA WORLD CUP LIVE 3 SPANISH
+https://sport.chakalista.tk/hls/be1/index.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
 #EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 4 ENGLISH
-https://murthyneeraj231.s3.amazonaws.com/worldcup.m3u8?|Referer=https://givemenbastreams.com/&e=.m3u8
+https://k41hedlund.s3.amazonaws.com/tsncopy.m3u8?|Referer=https://givemenbastreams.com/&e=.m3u8
 #EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 5 ENGLISH
 https://cdn4.reels2watch.com/hls/s1.m3u8?|Referer=https://gamerarcades.com/assets/ts1.html&e=.m3u8
 #EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 6 ENGLISH
-https://sport.chakalista.tk/hls/bt1/index.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
-#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 6+1 ENGLISH
-https://sport.chakalista.tk/hls/bt2/index.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
+https://sport.chakalista.tk/hls/bta1/index.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
 #EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 7 FRENCH
-https://sport.chakalista.tk/hls/amazon/index.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
-#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 7+1 FRENCH
-https://sport.chakalista.tk/hls/skynet2/index.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
+https://sport.chakalista.tk/hls/amazone/index.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
 #EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 8 ENGLISH
-https://sport.chakalista.tk/hls/bt2/index.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
-#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 8+1 ENGLISH
-https://sport.chakalista.tk/hls/skynet3/index.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
+https://sport.chakalista.tk/hls/bta2/index.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
 #EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 9 ARABIC
 https://live.elkoralivetv.tk/hls/bein1/index.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
-#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 9+1 ARABIC
-https://sport.chakalista.tk/hls/bein2ar/index.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
 #EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 10 ARABIC 720P
-https://livefootballs.xyz/hls/premierleague.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
+https://livefootballs.xyz/hls/ff9.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
 #EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 11 ARABIC 480P
 https://hls.koraworldcup.tk/hls/bein1480/index.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
-#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg", FIFA WORLD CUP LIVE 12 SPANISH
-https://sport.chakalista.tk/hls/be1/index.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
-#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg", FIFA WORLD CUP LIVE 12+1 SPANISH
-https://sport.chakalista.tk/hls/skynet1/index.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
-
+#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 12 ARABIC 360P
+https://live.elkoralivetv.tk/hls/bein1360/index.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 13 ENGLISH
+https://x5jw7d43wyl2rl.data.mediastore.eu-central-1.amazonaws.com/livea/main.m3u8?|Referer=https://dubznetwork.com&e=.m3u8
 
 #########################################################################################################################################################
 
@@ -54,6 +43,14 @@ https://reels2watch.com/hls/s4.m3u8?|Referer=https://techclips.net/clip/s4.html&
 https://reels2watch.com/hls/s5.m3u8?|Referer=https://techclips.net/clip/s4.html&e=.m3u8
 #EXTINF:1 tvg-logo="https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",SPORTS LIVE 6
 https://reels2watch.com/hls/s6.m3u8?|Referer=https://techclips.net/clip/s4.html&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",SPORTS LIVE 7
+https://reels2watch.com/hls/s7.m3u8?|Referer=https://techclips.net/clip/s4.html&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",SPORTS LIVE 8
+https://reels2watch.com/hls/s8.m3u8?|Referer=https://techclips.net/clip/s4.html&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",SPORTS LIVE 9
+https://reels2watch.com/hls/s9.m3u8?|Referer=https://techclips.net/clip/s4.html&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",SPORTS LIVE 10
+https://reels2watch.com/hls/s10.m3u8?|Referer=https://techclips.net/clip/s4.html&e=.m3u8
 
 #########################################################################################################################################################
 #EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/pI2ifSWdrTKgNEFwxOiTk7MjGtJqebb5jXSGZ0tjF1gsw_xH6ZqxxI61-fPonDSvXyY",SPORTS LIVE 1
