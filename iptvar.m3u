@@ -2,6 +2,25 @@
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]TV FABOR ANDRIOD (PC/PHONE/SMART TV/ BOX TV)[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 
+
+########################################################################################################################################################
+#EXTINF:1 tvg-logo="https://logopond.com/logos/94837108d7422c0350c3b304c1504289.png",WILD LIFE
+https://d1vp12yk4i8ou5.cloudfront.net/playlistwebvtt.m3u8?|Referer=http://showfhaonline2033.yoo7.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",CGTN 
+https://livedoc.cgtn.com/1000d/prog_index.m3u8?|Referer=http://showfhaonline2033.yoo7.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://ia903100.us.archive.org/9/items/RtDocumentary/rt%20documentary.png",RT
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8?|Referer=http://showfhaonline2033.yoo7.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://athelogroup.com/wp-content/uploads/2021/06/OutsideTValt-copy.png",Outside
+https://outsidetvplus-stirr.amagi.tv/playlist.m3u8?|Referer=http://showfhaonline2033.yoo7.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://i0.wp.com/axiommedia.co/wp-content/uploads/2020/12/inwild-use.png",INWILD
+https://inwild-samsung-uk.amagi.tv/playlist.m3u8?|Referer=http://showfhaonline2033.yoo7.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png",HISTORY
+https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8?|Referer=http://showfhaonline2033.yoo7.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://149772863.v2.pressablecdn.com/wp-content/uploads/2017/02/logo-no-background2.jpg.png",WILD EARTH
+https://wildearth-roku.amagi.tv/master.m3u8?|Referer=http://showfhaonline2033.yoo7.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://www.mygreenpod.com/wp-content/uploads/2019/04/Love-Nature-Logo.jpg",LOVE NATURE
+http://bamus-eng-roku.amagi.tv/playlist.m3u8?|Referer=http://showfhaonline2033.yoo7.com/&e=.m3u8
+
 ########################################################################################################################################################
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/800px-Flag_of_Turkey.svg.png",TV8 TURKISH
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8?|Referer=https://canlitv.center/&e=.m3u8
@@ -222,8 +241,8 @@ https://ad20171.openhd.lol/cdn/myfeed36/index.m3u8?|Referer=https://leetcdn.cc/&
 https://ad20171.openhd.lol/cdn/myfeed37/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
 #EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",TF1 FR
 https://ad20171.openhd.lol/cdn/myfeed38/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
-
-
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",TF1
+https://s13.tntendirect.com/tf1/live/playlist.m3u8?|Referer=https://www.tntendirect.com/&e=.m3u8
 
 #########################################################################################################################################################
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://cdn.countryflags.com/thumbs/morocco/flag-round-250.png" group-title="",Al Aoula
@@ -269,6 +288,8 @@ http://62.182.82.104/MBC_Max/tracks-v1a1/mono.m3u8?token=test
 http://62.182.82.104/MBC_Action/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1280px-Flag_of_Saudi_Arabia.svg.png", mbc IRAQ
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1280px-Flag_of_Saudi_Arabia.svg.png", mbc Persia
+https://shls-mbcdramaksa-ak.akamaized.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1280px-Flag_of_Saudi_Arabia.svg.png", Saudi Quran tv
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.aloula.sa/live/qurantvsa
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1280px-Flag_of_Saudi_Arabia.svg.png", Saudi Sunnah TV
@@ -318,6 +339,8 @@ https://cdxaws-ak.akamaized.net/v1/channel/Top-Chef/index_hls/3.m3u8
 #########################################################################################################################################################
 #EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323301.png", Sky News Arabia
 https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323301.png", Sharjah RADIO QURAN
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UCn8lMRYDANs_1yAL3iuw7_g/live
 #EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323301.png", Sharjah tv
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8?v=1765999971
 #EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323301.png", Sharjah SPORT
