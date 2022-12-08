@@ -179,7 +179,10 @@ https://gahuiysuiwi.s3.amazonaws.com/manu.m3u8?|Referer=https://givemenbastreams
 #EXTINF:1,NBA TV
 https://k41hedlund.s3.amazonaws.com/celtics.m3u8?|Referer=https://givemenbastreams.com/&e=.m3u8
 
-
+#EXTINF:1,SSN
+https://go6.gocast2.com:999/hls/skyspnews.m3u8?md5=JSvEV_guY4Sh5qaNw0iLWw&expires=1670525548?|Referer=https://gocast2.com/&e=.m3u8
+#EXTINF:1,SSN
+https://go6.gocast2.com:999/hls/skyspnews.m3u8?md5=JSvEV_guY4Sh5qaNw0iLWw&expires=1670525548
 
 #########################################################################################################################################################
 #EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1838/1838619.png",SPORTS LIVE 39 SD
