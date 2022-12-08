@@ -180,7 +180,7 @@ https://gahuiysuiwi.s3.amazonaws.com/manu.m3u8?|Referer=https://givemenbastreams
 https://k41hedlund.s3.amazonaws.com/celtics.m3u8?|Referer=https://givemenbastreams.com/&e=.m3u8
 
 #EXTINF:1,SSN
-https://gocast2.com/crichdws.php?player=desktop&live=skyspnews?|Referer=https://gocast2.com/&e=.m3u8
+https://t7.switchcast2.com:999/hls/skyspnews.m3u8?md5=5iKruB5QqdkTGdN6uVJG-A&expires=1670526613?|Referer=https://gocast2.com/&e=.m3u8
 
 #EXTINF:1,SSN
 https://t8.switchcast2.com:999/hls/skyspnews.m3u8?md5=9whEzSV76CFoNNCxep5krw==?|Referer=https://gocast2.com/&e=.m3u8
