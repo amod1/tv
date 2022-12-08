@@ -179,17 +179,4 @@ https://gahuiysuiwi.s3.amazonaws.com/manu.m3u8?|Referer=https://givemenbastreams
 #EXTINF:1,NBA TV
 https://k41hedlund.s3.amazonaws.com/celtics.m3u8?|Referer=https://givemenbastreams.com/&e=.m3u8
 
-#EXTINF:1,SSN
-https://t7.switchcast2.com:999/hls/skyspnews.m3u8?md5=5iKruB5QqdkTGdN6uVJG-A&expires=1670526613?|Referer=https://gocast2.com/&e=.m3u8
-
-#EXTINF:1,SSN
-https://t8.switchcast2.com:999/hls/skyspnews.m3u8?md5=9whEzSV76CFoNNCxep5krw==?|Referer=https://gocast2.com/&e=.m3u8
 #########################################################################################################################################################
-#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1838/1838619.png",SPORTS LIVE 39 SD
-https://mvcdn.soft4game.com/o51/stream117/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOC8yMDIyIDQ6MDA6MDAgUE0maGFzaF92YWx1ZT1jM3pjellVR2s2VnBqWVEzNGFSdm9RPT0mdmFsaWRtaW51dGVzPTEyMCZpZD01?|Referer=https://365livesport.com/&e=.m3u8
-#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1838/1838619.png",SPORTS LIVE 39 SD
-https://mvcdn.soft4game.com/o51/stream108/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOC8yMDIyIDQ6MDA6MDAgUE0maGFzaF92YWx1ZT1jM3pjellVR2s2VnBqWVEzNGFSdm9RPT0mdmFsaWRtaW51dGVzPTEyMCZpZD01?|Referer=https://365livesport.com/&e=.m3u8
-#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1838/1838619.png",SPORTS LIVE 39 SD
-https://mvcdn.soft4game.com/o51/stream107/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOC8yMDIyIDQ6MDA6MDAgUE0maGFzaF92YWx1ZT1jM3pjellVR2s2VnBqWVEzNGFSdm9RPT0mdmFsaWRtaW51dGVzPTEyMCZpZD01?|Referer=https://365livesport.com/&e=.m3u8
-
-
