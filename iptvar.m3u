@@ -413,26 +413,6 @@ https://www.youtube.com/embed/5VtrmK81NG4/.m3u8
 #########################################################################################################################################################
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]TV HD ALL WORLD[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:1,SPORT
-https://webudi.openhd.lol/ddy4/premium1/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
-#EXTINF:1,SPORT
-https://webudi.openhd.lol/ddy4/premium2/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
-#EXTINF:1,SPORT
-https://webudi.openhd.lol/ddy4/premium3/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,SPORT
-https://webudi.openhd.lol/ddy4/premium4/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,SPORT
-https://webudi.openhd.lol/ddy4/premium5/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,SPORT
-https://webudi.openhd.lol/ddy4/premium6/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,SPORT
-https://webudi.openhd.lol/ddy4/premium7/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,SPORT
-https://webudi.openhd.lol/ddy4/premium8/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,SPORT
-https://webudi.openhd.lol/ddy4/premium9/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,SPORT
-https://webudi.openhd.lol/ddy4/premium10/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
 
 #EXTINF:1,BT SPORT 1
 https://webudi.openhd.lol/ddy1/premium31/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
@@ -594,9 +574,6 @@ https://webdi.openhd.lol/ddy6/premium569/tracks-v1/mono.m3u8?|Referer=https://st
 #EXTINF:1,CANAL+SERIALE POLAND
 https://webdi.openhd.lol/ddy6/premium570/tracks-v1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
 
-#################################################################################################################################################################
-#EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]TV FHD ALL WORLD[/color]
-httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:1,SKY SPORTS FOOTBALL
 https://webudi.openhd.lol/lb/premium35/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
 #EXTINF:1,SKY SPORTS ARENA
