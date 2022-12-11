@@ -359,9 +359,6 @@ https://cdxaws-ak.akamaized.net/v1/channel/Top-Chef/index_hls/3.m3u8
 #########################################################################################################################################################
 #EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323301.png", Sky News Arabia
 https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323301.png", Sharjah RADIO QURAN
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1670558953/ei/iWCSY7CrFY6tvcAPiKyPwAk/ip/185.22.154.19/id/nJmibuE3QwM.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgGV8fPIQFl-ABI4Az2tzAPz7_czIcG93UsRniWdnglMcCIB7DnIGFf1n75f9GILjjvFyY1SGFocYoiK-uk8cPwbWB/file/index.m3u8
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UCn8lMRYDANs_1yAL3iuw7_g/live
 #EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323301.png", Sharjah tv
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8?v=1765999971
 #EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323301.png", Sharjah SPORT
@@ -407,8 +404,6 @@ http://www.elahmad.com/tv/m3u8/aljazeera.m3u8?id=arabic
 http://www.elahmad.com/tv/m3u8/aljazeera.m3u8?id=documentary
 #EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197618.png", aljazeera mubasher
 http://www.elahmad.com/tv/m3u8/aljazeera.m3u8?id=mubasher
-#EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197618.png", BEIN SPORTS NEWS HD
-https://www.youtube.com/embed/5VtrmK81NG4/.m3u8
 
 #########################################################################################################################################################
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]TV HD ALL WORLD[/color]
@@ -452,7 +447,76 @@ https://webdi.openhd.lol/ddy1/premium61/tracks-v1a1/mono.m3u8?|Referer=https://s
 https://webdi.openhd.lol/ddy1/premium62/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
 #EXTINF:1,beIN SPORTS 3 English
 https://webdi.openhd.lol/ddy1/premium63/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
-
+#EXTINF:1,Sport TV1 Portugal
+https://webdi.openhd.lol/ddy5/premium49/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
+#EXTINF:1,Sport TV2 Portugal
+https://webdi.openhd.lol/ddy1/premium74/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
+#EXTINF:1,Supersport Football
+https://webdi.openhd.lol/ddy1/premium56/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
+#EXTINF:1,Sky Sports F1 UK
+https://webdi.openhd.lol/ddy5/premium44/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
+#EXTINF:1,beIN SPORTS 1 Turkey
+https://webdi.openhd.lol/ddy1/premium62/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
+#EXTINF:1,beIN SPORTS 2 Turkey
+https://webdi.openhd.lol/ddy1/premium63/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
+#EXTINF:1,beIN SPORTS 3 Turkey
+https://webdi.openhd.lol/ddy1/premium64/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
+#EXTINF:1,beIN SPORTS 4 Turkey
+https://webdi.openhd.lol/ddy1/premium67/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
+#EXTINF:1,Super Sport Cricket
+https://webdi.openhd.lol/ddy1/premium368/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
+#EXTINF:1,Fox Cricket
+https://webdi.openhd.lol/ddyx2/premium369/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
+#EXTINF:1,Sky Sports Cricket
+https://webdi.openhd.lol/ddy1/premium65/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
+#EXTINF:1,Astro Cricket
+https://webdi.openhd.lol/ddy1/premium370/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
+#EXTINF:1,Willow Cricket
+https://webdi.openhd.lol/ddy1/premium346/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
+#EXTINF:1,Eleven Sports 1 Poland
+https://webdi.openhd.lol/ddy4/premium71/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
+#EXTINF:1,Eleven Sports 2 Poland
+https://webdi.openhd.lol/ddy4/premium72/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
+#EXTINF:1,Canal+ Sport 5 Poland
+https://webdi.openhd.lol/ddy5/premium75/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
+#EXTINF:1,SporTV Brasil
+https://webdi.openhd.lol/ddy2/premium78/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
+#EXTINF:1,SporTV2 Brasil
+https://webudi.openhd.lol/cdn/premium79/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1,SporTV3 Brasil
+https://webudi.openhd.lol/ddy1/premium80/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1,ESPN BR
+https://webdi.openhd.lol/ddy1/premium81/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
+#EXTINF:1,ESPN2 BR
+https://webdi.openhd.lol/ddy1/premium82/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
+#EXTINF:1,ESPN3 BR
+https://webdi.openhd.lol/ddy1/premium83/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
+#EXTINF:1,Movistar La Liga
+https://webdi.openhd.lol/ddy1/premium84/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
+#EXTINF:1,ESPN4 BR
+https://webdi.openhd.lol/ddy2/premium85/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
+#EXTINF:1,Viaplay Xtra
+https://webdi.openhd.lol/ddy1/premium86/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
+#EXTINF:1,Premier 1 Brasil
+https://webdi.openhd.lol/ddy1/premium88/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
+#EXTINF:1,Combate Brasil
+https://webdi.openhd.lol/ddy1/premium89/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
+#EXTINF:1,Sport Klub 1 Serbia
+https://webdi.openhd.lol/ddy5/premium101/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
+#EXTINF:1,Sport Klub 2 Serbia
+https://webdi.openhd.lol/ddy1/premium102/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
+#EXTINF:1,Sport Klub 3 Serbia
+https://webdi.openhd.lol/ddy1/premium103/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
+#EXTINF:1,Sport Klub 4 Serbia
+https://webdi.openhd.lol/ddy1/premium104/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
+#EXTINF:1,Astro SuperSport 1
+https://webdi.openhd.lol/ddy1/premium123/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
+#EXTINF:1,Astro SuperSport 2
+https://webudi.openhd.lol/ddy1/premium124/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1,Astro SuperSport 3
+https://webudi.openhd.lol/ddy1/premium125/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1,Astro SuperSport 4
+https://webudi.openhd.lol/ddy1/premium126/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
 
 
 #EXTINF:1,ABC USA
@@ -469,10 +533,7 @@ https://webdi.openhd.lol/ddy2/premium55/tracks-v1a1/mono.m3u8?|Referer=https://s
 
 #EXTINF:1,SPORT TV 2 PORTUGAL
 https://webudi.openhd.lol/ddy1/premium74/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,SPORTV 2 BRASIL
-https://webudi.openhd.lol/ddy1/premium79/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,SPORTV 3 BRASIL
-https://webudi.openhd.lol/ddy1/premium80/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+
 
 #EXTINF:1,BEIN SPORT 1 FRANCE
 https://webudi.openhd.lol/ddy1/premium116/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
@@ -488,12 +549,7 @@ https://webudi.openhd.lol/ddy1/premium120/tracks-v1a1/mono.m3u8?|Referer=https:/
 https://webudi.openhd.lol/ddy1/premium121/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
 #EXTINF:1,CANAL+ SPORTS FRANCE 
 https://webudi.openhd.lol/ddy1/premium122/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,ASTRO SUPERSPORTS 1
-https://webudi.openhd.lol/ddy1/premium123/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,ASTRO SUPERSPORTS 2
-https://webudi.openhd.lol/ddy1/premium124/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,ASTRO SUPERSPORTS 3
-https://webudi.openhd.lol/ddy1/premium125/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+
 #EXTINF:1,ESPN 
 https://webudi.openhd.lol/ddy1/premium126/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
 #EXTINF:1,TELEMUNDO USA
