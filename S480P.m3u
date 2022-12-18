@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]FRANCE TV - TV FABOR APK[/color]
+httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1838/1838619.png",SPORTS LIVE 1 SD
+https://h5.sportstreams.link/m3u81?|Referer=https://h5.sportstreams.link/basketball/charlotte-hornets-vs-washington-wizards&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1838/1838619.png",SPORTS LIVE 2 SD
+http://h5.sportstreams.link/m3u82?|Referer=http://h5.sportstreams.link/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1838/1838619.png",SPORTS LIVE 3 SD
+http://h5.sportstreams.link/m3u83?|Referer=http://h5.sportstreams.link/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1838/1838619.png",SPORTS LIVE 4 SD
+http://h5.sportstreams.link/m3u84?|Referer=http://h5.sportstreams.link/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1838/1838619.png",SPORTS LIVE 5 SD
+http://h5.sportstreams.link/m3u85?|Referer=http://h5.sportstreams.link/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1838/1838619.png",SPORTS LIVE 6 SD
+http://h5.sportstreams.link/m3u86?|Referer=http://h5.sportstreams.link/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1838/1838619.png",SPORTS LIVE 7 SD
+http://h5.sportstreams.link/m3u87?|Referer=http://h5.sportstreams.link/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1838/1838619.png",SPORTS LIVE 8 SD
+http://h5.sportstreams.link/m3u88?|Referer=http://h5.sportstreams.link/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1838/1838619.png",SPORTS LIVE 9 SD
+http://h5.sportstreams.link/m3u89?|Referer=http://h5.sportstreams.link/football/japan-vs-croatia?player=9&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1838/1838619.png",SPORTS LIVE 10 SD
+http://h5.sportstreams.link/m3u810?|Referer=http://h5.sportstreams.link/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1838/1838619.png",SPORTS LIVE 11 SD
+http://h5.sportstreams.link/m3u811?|Referer=http://h5.sportstreams.link/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1838/1838619.png",SPORTS LIVE 12 SD
+http://h5.sportstreams.link/m3u812?|Referer=http://h5.sportstreams.link/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1838/1838619.png",SPORTS LIVE 13 SD
+http://h5.sportstreams.link/m3u813?|Referer=http://h5.sportstreams.link/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1838/1838619.png",SPORTS LIVE 14 SD
+http://h5.sportstreams.link/m3u814?|Referer=http://h5.sportstreams.link/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1838/1838619.png",SPORTS LIVE 15 SD
+http://h5.sportstreams.link/m3u815?|Referer=http://h5.sportstreams.link/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1838/1838619.png",SPORTS LIVE 16 SD
+http://h5.sportstreams.link/m3u816?|Referer=http://h5.sportstreams.link/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1838/1838619.png",SPORTS LIVE 17 SD
+http://h5.sportstreams.link/m3u817?|Referer=http://h5.sportstreams.link/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1838/1838619.png",SPORTS LIVE 18 SD
+http://h5.sportstreams.link/m3u818?|Referer=http://h5.sportstreams.link/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1838/1838619.png",SPORTS LIVE 19 SD
+http://h5.sportstreams.link/m3u819?|Referer=http://h5.sportstreams.link/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1838/1838619.png",SPORTS LIVE 20 SD
+http://h5.sportstreams.link/m3u820?|Referer=http://h5.sportstreams.link/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1838/1838619.png",SPORTS LIVE 21 SD
+http://h5.sportstreams.link/m3u821?|Referer=http://h5.sportstreams.link/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1838/1838619.png",SPORTS LIVE 22 SD
+http://h5.sportstreams.link/m3u822?|Referer=http://h5.sportstreams.link/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1838/1838619.png",SPORTS LIVE 23 SD
+http://h5.sportstreams.link/m3u823?|Referer=http://h5.sportstreams.link/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1838/1838619.png",SPORTS LIVE 24 SD
+http://h5.sportstreams.link/m3u824?|Referer=http://h5.sportstreams.link/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1838/1838619.png",SPORTS LIVE 25 SD
+http://h5.sportstreams.link/m3u825?|Referer=http://h5.sportstreams.link/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1838/1838619.png",SPORTS LIVE 26 SD
+http://h5.sportstreams.link/m3u826?|Referer=http://h5.sportstreams.link/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1838/1838619.png",SPORTS LIVE 27 SD
+http://h5.sportstreams.link/m3u827?|Referer=http://h5.sportstreams.link/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1838/1838619.png",SPORTS LIVE 28 SD
+http://h5.sportstreams.link/m3u828?|Referer=http://h5.sportstreams.link/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1838/1838619.png",SPORTS LIVE 29 SD
+http://h5.sportstreams.link/m3u829?|Referer=http://h5.sportstreams.link/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1838/1838619.png",SPORTS LIVE 30 SD
+http://h5.sportstreams.link/m3u830?|Referer=http://h5.sportstreams.link/basketball/charlotte-hornets-vs-washington-wizards?player=30&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1838/1838619.png",SPORTS LIVE 31 SD
+http://h5.sportstreams.link/m3u831?|Referer=http://h5.sportstreams.link/basketball/charlotte-hornets-vs-washington-wizards?player=31&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1838/1838619.png",SPORTS LIVE 39 SD
+http://h5.sportstreams.link/m3u839?|Referer=http://h5.sportstreams.link/&e=.m3u8
