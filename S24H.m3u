@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]Choose a file IPTV[/color]
+httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 1
+https://webudi.openhd.lol/ddy4/premium1/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
+#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 2
+https://webudi.openhd.lol/ddy4/premium2/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
+#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 3
+https://webudi.openhd.lol/ddy4/premium3/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 4
+https://webudi.openhd.lol/ddy4/premium4/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 5
+https://webudi.openhd.lol/ddy4/premium5/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 6
+https://webudi.openhd.lol/ddy4/premium6/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 7
+https://webudi.openhd.lol/ddy4/premium7/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 8
+https://webudi.openhd.lol/ddy4/premium8/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 9
+https://webudi.openhd.lol/ddy4/premium9/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 10
+https://webudi.openhd.lol/ddy4/premium10/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 11
+https://webudi.openhd.lol/ddy4/premium11/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 12
+https://webudi.openhd.lol/ddy4/premium12/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 13
+https://webudi.openhd.lol/ddy4/premium13/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 14
+https://webudi.openhd.lol/ddy4/premium14/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 15
+https://webudi.openhd.lol/ddy4/premium15/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 16
+https://webudi.openhd.lol/ddy4/premium16/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 17
+https://webudi.openhd.lol/ddy4/premium17/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 18
+https://webudi.openhd.lol/ddy4/premium18/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 19
+https://webudi.openhd.lol/ddy4/premium19/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 20
+https://webudi.openhd.lol/ddy4/premium20/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 21
+https://webudi.openhd.lol/ddy4/premium21/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 22
+https://webudi.openhd.lol/ddy4/premium22/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 23
+https://webudi.openhd.lol/ddy4/premium23/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 24
+https://webudi.openhd.lol/ddy4/premium24/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 25
+https://webudi.openhd.lol/ddy4/premium25/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 26
+https://webudi.openhd.lol/ddy4/premium26/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 27
+https://webudi.openhd.lol/ddy4/premium27/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 28
+https://webudi.openhd.lol/ddy4/premium28/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 29
+https://webudi.openhd.lol/ddy4/premium29/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 30
+https://webudi.openhd.lol/ddy4/premium30/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+
+
