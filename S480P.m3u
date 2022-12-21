@@ -1,6 +1,10 @@
+
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]FRANCE TV - TV FABOR APK[/color]
+#EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]TV FABOR ANDRIOD (PC/PHONE/SMART TV/ BOX TV)[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
+
+
+########################################################################################################################################################
 #EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1838/1838619.png",SPORTS LIVE 1 SD
 https://h5.sportstreams.link/m3u81?|Referer=https://h5.sportstreams.link/basketball/charlotte-hornets-vs-washington-wizards&e=.m3u8
 #EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1838/1838619.png",SPORTS LIVE 2 SD
