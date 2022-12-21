@@ -1,26 +1,30 @@
+
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]Choose a file IPTV[/color]
+#EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]TV FABOR ANDRIOD (PC/PHONE/SMART TV/ BOX TV)[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
+
+
+########################################################################################################################################################
 #EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 1
-https://webudi.openhd.lol/ddy4/premium1/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
+https://webdi.openhd.lol/ddy4/premium1/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
 #EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 2
-https://webudi.openhd.lol/ddy4/premium2/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
+https://webdi.openhd.lol/ddy4/premium2/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
 #EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 3
-https://webudi.openhd.lol/ddy4/premium3/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+https://webdi.openhd.lol/ddy4/premium3/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
 #EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 4
-https://webudi.openhd.lol/ddy4/premium4/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+https://webdi.openhd.lol/ddy4/premium4/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
 #EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 5
-https://webudi.openhd.lol/ddy4/premium5/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+https://webdi.openhd.lol/ddy4/premium5/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
 #EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 6
-https://webudi.openhd.lol/ddy4/premium6/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+https://webdi.openhd.lol/ddy4/premium6/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
 #EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 7
-https://webudi.openhd.lol/ddy4/premium7/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+https://webdi.openhd.lol/ddy4/premium7/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
 #EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 8
-https://webudi.openhd.lol/ddy4/premium8/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+https://webdi.openhd.lol/ddy4/premium8/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
 #EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 9
-https://webudi.openhd.lol/ddy4/premium9/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+https://webdi.openhd.lol/ddy4/premium9/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
 #EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 10
-https://webudi.openhd.lol/ddy4/premium10/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+https://webdi.openhd.lol/ddy4/premium10/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
 #EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 11
 https://webudi.openhd.lol/ddy4/premium11/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
 #EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 12
