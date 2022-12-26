@@ -2,57 +2,33 @@
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]TV FABOR ANDRIOD (PC/PHONE/SMART TV/ BOX TV)[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 
-#EXTINF:1 tvg-logo="https://soccerstreams100.io/img/soccer.png",Soccer Streams 1 ENGLISH
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH
 https://ovocloud.site/live/abr_s-1/playlist.m3u8?|Referer=https://ovopremium.com/&e=.m3u8
-#EXTINF:1 tvg-logo="https://soccerstreams100.io/img/soccer.png",Soccer Streams 2 ENGLISH
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 2 ENGLISH
 https://ovocloud.site/live/abr_s-2/playlist.m3u8?|Referer=https://ovopremium.com/&e=.m3u8
-#EXTINF:1 tvg-logo="https://soccerstreams100.io/img/soccer.png",Soccer Streams 3 ENGLISH
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 3 ENGLISH
 https://ovocloud.site/live/abr_s-3/playlist.m3u8?|Referer=https://ovopremium.com/&e=.m3u8
-#EXTINF:1 tvg-logo="https://soccerstreams100.io/img/soccer.png",Soccer Streams 4 ENGLISH
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 4 ENGLISH
 https://ovocloud.site/live/abr_s-4/playlist.m3u8?|Referer=https://ovopremium.com/&e=.m3u8
-#EXTINF:1 tvg-logo="https://soccerstreams100.io/img/soccer.png",Soccer Streams 5 ENGLISH
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 5 ENGLISH
 https://ovocloud.site/live/abr_s-5/playlist.m3u8?|Referer=https://ovopremium.com/&e=.m3u8
-#EXTINF:1 tvg-logo="https://soccerstreams100.io/img/soccer.png",Soccer Streams 6 ENGLISH
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 6 ENGLISH
 https://ovocloud.site/live/abr_s-6/playlist.m3u8?|Referer=https://ovopremium.com/&e=.m3u8
 
-#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg", FIFA WORLD CUP LIVE 3 SPANISH
-https://sport.chakalista.tk/hls/be1/index.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
-#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 4 ENGLISH
-https://k41hedlund.s3.amazonaws.com/tsncopy.m3u8?|Referer=https://givemenbastreams.com/&e=.m3u8
-#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 5 ENGLISH
-https://cdn4.reels2watch.com/hls/s1.m3u8?|Referer=https://gamerarcades.com/assets/ts1.html&e=.m3u8
-#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 6 ENGLISH
-https://sport.chakalista.tk/hls/bta1/index.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
-#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 7 FRENCH
-https://sport.chakalista.tk/hls/amazone/index.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
-#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 8 ENGLISH
-https://sport.chakalista.tk/hls/bta2/index.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
-#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 9 ARABIC
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH
+http://cdn5.cyclingnews.live/hls/P1.m3u8?|Referer=http://motornews.live&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 2 ENGLISH
+http://cdn5.cyclingnews.live/hls/P2.m3u8?|Referer=http://motornews.live&e=.m3u8
+
+
+#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",LIVE 9 ARABIC
 https://a4.scorarab.com/watch/7jBT34CzNVpMNbP9HoKdlQ/1672071680/1672071934/1/p1_1.m3u8?|Referer=https://live-kora.tv/&e=.m3u8
-#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 10 ARABIC 720P
-https://livefootballs.xyz/hls/ff9.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
-#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 11 ARABIC 480P
-https://hls.koraworldcup.tk/hls/bein1480/index.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
-#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 12 ARABIC 360P
-https://live.elkoralivetv.tk/hls/bein1360/index.m3u8?|Referer=https://soccer24hd.com/&e=.m3u8
-#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",FIFA WORLD CUP LIVE 13 ENGLISH Full HD
-https://x5jw7d43wyl2rl.data.mediastore.eu-central-1.amazonaws.com/livea/main.m3u8?|Referer=https://dubznetwork.com&e=.m3u8
+
+#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",LIVE 9 ARABIC
+https://webdi.openhd.lol/cdn/xvk1/tracks-v1a1/mono.m3u8?|Referer=https://olacast.live/&e=.m3u8
+
+
 
 #########################################################################################################################################################
 
 
-#EXTINF:1,NBA TV
-https://k41hedlund.s3.amazonaws.com/timberwolves.m3u8?|Referer=https://givemenbastreams.com/&e=.m3u8
-#EXTINF:1,SOCCER TV
-https://k41hedlund.s3.amazonaws.com/tsncopy.m3u8?|Referer=https://givemenbastreams.com/&e=.m3u8
-#EXTINF:1,F1 TV
-https://gahuiysuiwi.s3.amazonaws.com/manu.m3u8?|Referer=https://givemenbastreams.com/&e=.m3u8
-#EXTINF:1,NBA TV
-https://k41hedlund.s3.amazonaws.com/celtics.m3u8?|Referer=https://givemenbastreams.com/&e=.m3u8
-
-#########################################################################################################################################################
-
-#EXTINF:1,NBA TV
-https://webudi.openhd.lol/lb/premium156/index.m3u8?|Referer=https://eplayer.click/&e=.m3u8
-#EXTINF:1,NBA TV
-https://webudi.openhd.lol/lb/premium156/index.m3u8?auth=MTA1LjY3LjEuMTI=?|Referer=https://eplayer.click/&e=.m3u8
