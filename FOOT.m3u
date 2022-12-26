@@ -24,14 +24,31 @@ http://cdn5.cyclingnews.live/hls/P2.m3u8?|Referer=http://motornews.live/novo/eve
 #EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",LIVE 9 ARABIC
 https://a4.scorarab.com/watch/7jBT34CzNVpMNbP9HoKdlQ/1672071680/1672071934/1/p1_1.m3u8?|Referer=https://live-kora.tv/&e=.m3u8
 
-#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",LIVE 9 ARABIC
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH
+https://alexsports.shop:30444/live/ch1/chunks.m3u8?|Referer=https://alexsports.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH
+https://alexsports.shop:30444/live/ch2/chunks.m3u8?|Referer=https://alexsports.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH
+https://alexsports.shop:30444/live/ch3/chunks.m3u8?|Referer=https://alexsports.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH
+https://alexsports.shop:30444/live/ch4/chunks.m3u8?|Referer=https://alexsports.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH
+https://alexsports.shop:30444/live/ch5/chunks.m3u8?|Referer=https://alexsports.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH
+https://alexsports.shop:30444/live/ch6/chunks.m3u8?|Referer=https://alexsports.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH
 https://alexsports.shop:30444/live/ch7/chunks.m3u8?|Referer=https://alexsports.xyz/&e=.m3u8
-#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",LIVE 9 ARABIC
-https://alexsports.shop:30444/live/ch7/chunks.m3u8?nimblesessionid=244935&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAyMiAzOjU0OjE5IFBNJmhhc2hfdmFsdWU9MVdhaWN4dGV0SDdndVhzY2s3YlBaZz09JnZhbGlkbWludXRlcz03MjAmaWQ9MTA1LjY3LjEuMTImc3RybV9sZW49NQ==?|Referer=https://alexsports.xyz/&e=.m3u8
-#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",LIVE 9 ARABIC
-https://lshstream.xyz/hls/gase16/index.m3u8?|Referer=https://streamsport.icu/&e=.m3u8
-#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",LIVE 9 ARABIC
+
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH
 http://anews.t4news.live/hls/A1.m3u8?|Referer=http://tennews.live/daily/news/crystal26a1/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH
+http://anews.t4news.live/hls/A2.m3u8?|Referer=http://tennews.live/daily/news/crystal26a1/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH
+http://anews.t4news.live/hls/A3.m3u8?|Referer=http://tennews.live/daily/news/crystal26a1/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH
+http://anews.t4news.live/hls/A4.m3u8?|Referer=http://tennews.live/daily/news/crystal26a1/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH
+http://anews.t4news.live/hls/A5.m3u8?|Referer=http://tennews.live/daily/news/crystal26a1/&e=.m3u8
 
 
 
