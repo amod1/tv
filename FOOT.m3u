@@ -16,16 +16,24 @@ https://ovocloud.site/live/abr_s-5/playlist.m3u8?|Referer=https://ovopremium.com
 https://ovocloud.site/live/abr_s-6/playlist.m3u8?|Referer=https://ovopremium.com/&e=.m3u8
 
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH
-http://cdn5.cyclingnews.live/hls/P1.m3u8?|Referer=http://motornews.live&e=.m3u8
+http://cdn5.cyclingnews.live/hls/P1.m3u8?|Referer=http://motornews.live/novo/events/26-Crystal-p1/&e=.m3u8
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 2 ENGLISH
-http://cdn5.cyclingnews.live/hls/P2.m3u8?|Referer=http://motornews.live&e=.m3u8
+http://cdn5.cyclingnews.live/hls/P2.m3u8?|Referer=http://motornews.live/novo/events/26-Crystal-p1/&e=.m3u8
 
 
 #EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",LIVE 9 ARABIC
 https://a4.scorarab.com/watch/7jBT34CzNVpMNbP9HoKdlQ/1672071680/1672071934/1/p1_1.m3u8?|Referer=https://live-kora.tv/&e=.m3u8
 
 #EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",LIVE 9 ARABIC
-https://webdi.openhd.lol/cdn/xvk1/tracks-v1a1/mono.m3u8?|Referer=https://olacast.live/&e=.m3u8
+https://alexsports.shop:30444/live/ch7/chunks.m3u8?|Referer=https://alexsports.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",LIVE 9 ARABIC
+https://alexsports.shop:30444/live/ch7/chunks.m3u8?nimblesessionid=244935&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAyMiAzOjU0OjE5IFBNJmhhc2hfdmFsdWU9MVdhaWN4dGV0SDdndVhzY2s3YlBaZz09JnZhbGlkbWludXRlcz03MjAmaWQ9MTA1LjY3LjEuMTImc3RybV9sZW49NQ==?|Referer=https://alexsports.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",LIVE 9 ARABIC
+https://lshstream.xyz/hls/gase16/index.m3u8?|Referer=https://streamsport.icu/&e=.m3u8
+#EXTINF:1 tvg-logo="https://fr.hespress.com/wp-content/uploads/2020/07/qatar.jpg",LIVE 9 ARABIC
+http://anews.t4news.live/hls/A1.m3u8?|Referer=http://tennews.live/daily/news/crystal26a1/&e=.m3u8
+
+
 
 
 
