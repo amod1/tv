@@ -4,9 +4,9 @@
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 
 #EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE XTRA 1
-https://webdi.openhd.lol/cdn/xvk1/tracks-v1a1/mono.m3u?|Referer=https://olacast.live/&e=.m3u8
-#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE XTRA 1
-https://webdi.openhd.lol/cdn/xvk2/tracks-v1a1/mono.m3u?|Referer=https://olacast.live/&e=.m3u8
+https://webdi.openhd.lol/cdn/xvk1/tracks-v1a1/mono.m3u?|Referer=https://streamservicehd.click/premiumtv/daddyhd.php?id=1&e=.m3u8
+#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE XTRA 2
+https://webdi.openhd.lol/cdn/xvk2/tracks-v1a1/mono.m3u?|Referer=https://streamservicehd.click/premiumtv/daddyhd.php?id=1&e=.m3u8
 #EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE XTRA 1
 https://webdi.openhd.lol/cdn/xvk3/tracks-v1a1/mono.m3u?|Referer=https://olacast.live/&e=.m3u8
 #EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE XTRA 1
