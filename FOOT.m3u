@@ -16,6 +16,9 @@ https://ovocloud.site/live/abr_s-5/playlist.m3u8?|Referer=https://ovopremium.com
 https://ovocloud.site/live/abr_s-6/playlist.m3u8?|Referer=https://ovopremium.com/&e=.m3u8
 
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH
+http://cdn2.cyclingnews.live/abr/abr-stream1/playlist.m3u8?|Referer=http://motornews.live/novo/bite/Manchester-s1/&e=.m3u8
+
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH
 http://cdn5.cyclingnews.live/hls/P1.m3u8?|Referer=http://motornews.live/novo/events/26-Crystal-p1/&e=.m3u8
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 2 ENGLISH
 http://cdn5.cyclingnews.live/hls/P2.m3u8?|Referer=http://motornews.live/novo/events/26-Crystal-p1/&e=.m3u8
@@ -65,3 +68,8 @@ https://s1.streamflowz.xyz/hls/sky7nz.m3u8?|Referer=https://sequencecard.xyz/&e=
 https://s1.streamflowz.xyz/hls/sky8nz.m3u8?|Referer=https://sequencecard.xyz/&e=.m3u8
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",sky10nz ENGLISH
 https://s1.streamflowz.xyz/hls/sky10nz.m3u8?|Referer=https://sequencecard.xyz/&e=.m3u8
+
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",CH 14 ENGLISH
+https://live1.techstribes.com/techstribes/live/14.m3u8?|Referer=https://groundedtechs.com/gtechs1-d-31/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",CH 15 ENGLISH
+https://live1.techstribes.com/techstribes/live/15.m3u8?|Referer=https://groundedtechs.com/gtechs1-d-31/&e=.m3u8
