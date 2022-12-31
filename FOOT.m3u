@@ -41,20 +41,27 @@ http://anews.t4news.live/hls/A4.m3u8?|Referer=http://tennews.live/daily/news/cry
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 5 ENGLISH
 http://anews.t4news.live/hls/A5.m3u8?|Referer=http://tennews.live/daily/news/crystal26a1/&e=.m3u8
 
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH
-https://wpttwas2s.azureedge.net/live/sppl/chunks.m3u8?|Referer=https://weakstream.org/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH
-https://wpttwas2s.azureedge.net/live/spp2/chunks.m3u8?|Referer=https://weakstream.org/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH
-https://wpttwas2s.azureedge.net/live/spp3/chunks.m3u8?|Referer=https://weakstream.org/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH
-https://wpttwas2s.azureedge.net/live/spp4/chunks.m3u8?|Referer=https://weakstream.org/&e=.m3u8
 
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH
-https://edge1.zorrohd4.nl/live/STe9fd8119cdd12c8.m3u8?|Referer=https://www.tutelehd.com/embed.php?&a=9797&s=hin3dccuhicfj9r8ifgq61hheo&ip=105.67.131.58&useragent=Mozilla%2F5.0+%28Windows+NT+6.1%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F108.0.0.0+Safari%2F537.36&referer=https%3A%2F%2Fmyoplay.club%2F&e=.m3u8
 
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",ssprem 1 ENGLISH
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",ssprem ENGLISH
 https://s1.streamflowz.xyz/hls/ssprem.m3u8?|Referer=https://sequencecard.xyz/&e=.m3u8
-
-
-
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",sky1nz ENGLISH
+https://s1.streamflowz.xyz/hls/sky1nz.m3u8?|Referer=https://sequencecard.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",sky2nz ENGLISH
+https://s1.streamflowz.xyz/hls/sky2nz.m3u8?|Referer=https://sequencecard.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",sky3nz ENGLISH
+https://s1.streamflowz.xyz/hls/sky3nz.m3u8?|Referer=https://sequencecard.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",sky9nz ENGLISH
+https://s1.streamflowz.xyz/hls/sky9nz.m3u8?|Referer=https://sequencecard.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",sky4nz ENGLISH
+https://s1.streamflowz.xyz/hls/sky4nz.m3u8?|Referer=https://sequencecard.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",sky5nz ENGLISH
+https://s1.streamflowz.xyz/hls/sky5nz.m3u8?|Referer=https://sequencecard.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",sky6nz ENGLISH
+https://s1.streamflowz.xyz/hls/sky6nz.m3u8?|Referer=https://sequencecard.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",sky7nz ENGLISH
+https://s1.streamflowz.xyz/hls/sky7nz.m3u8?|Referer=https://sequencecard.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",sky8nz ENGLISH
+https://s1.streamflowz.xyz/hls/sky8nz.m3u8?|Referer=https://sequencecard.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",sky10nz ENGLISH
+https://s1.streamflowz.xyz/hls/sky10nz.m3u8?|Referer=https://sequencecard.xyz/&e=.m3u8
