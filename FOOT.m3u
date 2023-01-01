@@ -88,10 +88,10 @@ https://s1.streamflowz.xyz/hls/sky1nz.m3u8?|Referer=https://sequencecard.xyz/&e=
 https://s1.streamflowz.xyz/hls/sky2nz.m3u8?|Referer=https://sequencecard.xyz/&e=.m3u8
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",sky3nz ENGLISH
 https://s1.streamflowz.xyz/hls/sky3nz.m3u8?|Referer=https://sequencecard.xyz/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",sky9nz ENGLISH
-https://s1.streamflowz.xyz/hls/sky9nz.m3u8?|Referer=https://sequencecard.xyz/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",sky4nz ENGLISH
-https://s1.streamflowz.xyz/hls/sky4nz.m3u8?|Referer=https://sequencecard.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",BT 1 ENGLISH
+https://s1.streamflowz.xyz/hls/bt1.m3u8?|Referer=https://sequencecard.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",BT 2 ENGLISH
+https://s1.streamflowz.xyz/hls/bt2.m3u8?|Referer=https://sequencecard.xyz/&e=.m3u8
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",sky5nz ENGLISH
 https://s1.streamflowz.xyz/hls/sky5nz.m3u8?|Referer=https://sequencecard.xyz/&e=.m3u8
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",sky6nz ENGLISH
@@ -105,3 +105,6 @@ https://s1.streamflowz.xyz/hls/sky10nz.m3u8?|Referer=https://sequencecard.xyz/&e
 
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",CH 15 ENGLISH
 https://live1.techstribes.com/techstribes/live/15.m3u8?|Referer=https://groundedtechs.com/gtechs1-d-31/&e=.m3u8
+
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",C+
+https://1999.wtvvideoserverxyz.xyz/channel/2019/amlst:live/chunklist_w2138160031_b2627584.m3u8?|Referer=https://weeb.tv/&e=.m3u8
