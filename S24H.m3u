@@ -3,7 +3,8 @@
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]TV FABOR ANDRIOD (PC/PHONE/SMART TV/ BOX TV)[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 
-
+#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 1
+https://photocall.tv/jb5h/l1?ch=la1?|Referer=https://photocall.tv/&e=.m3u8
 ########################################################################################################################################################
 #EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 1
 https://webudi.openhd.lol/lb/premium1/index.m3u8?|Referer=https://streamservicehd.click/premiumtv/daddyhd.php?id=1&e=.m3u8
