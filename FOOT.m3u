@@ -21,11 +21,26 @@ https://leir.bongstreams.com/live/adaptive_bong-1/playlist.m3u8?|Referer=https:/
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 2 ENGLISH
 https://leir.bongstreams.com/live/adaptive_bong-2/playlist.m3u8?|Referer=https://bongstreams.com/game1.php&e=.m3u8
 
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",BT 1 ENGLISH
 https://stream2.supertipz.com/hls/bt1.m3u8?|Referer=https://bestreamsports.org/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 2 ENGLISH
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",BT 2 ENGLISH
 https://stream2.supertipz.com/hls/bt2.m3u8?|Referer=https://bestreamsports.org/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",BT 3 ENGLISH
+https://stream2.supertipz.com/hls/bt3.m3u8?|Referer=https://bestreamsports.org/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",BT 4 ENGLISH
+https://stream2.supertipz.com/hls/bt4.m3u8?|Referer=https://bestreamsports.org/&e=.m3u8
 
+
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH
+https://thegentleclass.xyz/hls/class1.m3u8?|Referer=https://thegentleclass.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 2 ENGLISH
+https://thegentleclass.xyz/hls/class2.m3u8?|Referer=https://thegentleclass.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 3 ENGLISH
+https://thegentleclass.xyz/hls/class3.m3u8?|Referer=https://thegentleclass.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 4 ENGLISH
+https://thegentleclass.xyz/hls/class4.m3u8?|Referer=https://thegentleclass.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 5 ENGLISH
+https://thegentleclass.xyz/hls/class5.m3u8?|Referer=https://thegentleclass.com/&e=.m3u8
 
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH
 http://cdn5.cyclingnews.live/hls/P1.m3u8?|Referer=http://motornews.live/novo/events/26-Crystal-p1/&e=.m3u8
