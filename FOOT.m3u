@@ -56,14 +56,14 @@ http://cdn5.cyclingnews.live/hls/P4.m3u8?|Referer=http://motornews.live/novo/eve
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 5 ENGLISH
 http://cdn5.cyclingnews.live/hls/P5.m3u8?|Referer=http://motornews.live/novo/events/26-Crystal-p1/&e=.m3u8
 
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",BEIN SPORTS FR FHD
+https://t1.switchcast2.com:999/hls/do22.m3u8?|Referer=https://vikistream.com/&e=.m3u8
 
 
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",BEIN SPORTS ENGLISH
-https://a5.scorarab.com/watch/-0NfG43W_YFg9Qn-rKCADQ/1672593664/1672593918/1/b1eng_2.m3u8?|Referer=https://koora.golato.tv/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",BEIN SPORTS ARABIC
-https://a1.scorarab.com/watch/hFDJl967hN2th94e-WEblA/1672593747/1672594001/1/p1_2.m3u8?|Referer=https://koora.golato.tv/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",BEIN SPORTS ARABIC
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",BEIN SPORTS ARABIC FHD
 https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.5bckeK6az68X.m3u8?|Referer=https://tv.egy4.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",BEIN SPORTS ARABIC FHD
+https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.U3i3tSAmBo6F.m3u8?|Referer=https://tv.egy4.com/&e=.m3u8
 
 
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",ssprem ENGLISH
