@@ -286,8 +286,6 @@ https://ad20171.openhd.lol/cdn/myfeed38/index.m3u8?|Referer=https://leetcdn.cc/&
 
 #EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",TF1
 https://s13.tntendirect.com/tf1/live/playlist.m3u8?|Referer=https://www.tntendirect.com/&e=.m3u8
-#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",FRANCE 0
-https://s13.tntendirect.com/france0/live/playlist.m3u8?|Referer=https://www.tntendirect.com/&e=.m3u8
 #EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",FRANCE 2
 https://s13.tntendirect.com/france2/live/playlist.m3u8?|Referer=https://www.tntendirect.com/&e=.m3u8
 #EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",FRANCE 3
@@ -301,18 +299,30 @@ https://s13.tntendirect.com/m6/live/playlist.m3u8?|Referer=https://www.tntendire
 #EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",ARTE
 https://s13.tntendirect.com/arte/live/playlist.m3u8?|Referer=https://www.tntendirect.com/&e=.m3u8
 #EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",C8
-https://s13.tntendirect.com/c8/live/playlist.m3u8?|Referer=https://www.tntendirect.com/&e=.m3u8
+https://s13.tntendirect.com/d8/live/playlist.m3u8?|Referer=https://www.tntendirect.com/&e=.m3u8
 #EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",W9
 https://s13.tntendirect.com/w9/live/playlist.m3u8?|Referer=https://www.tntendirect.com/&e=.m3u8
 #EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",TMC
 https://s13.tntendirect.com/tmc/live/playlist.m3u8?|Referer=https://www.tntendirect.com/&e=.m3u8
 #EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",TFX
-https://s13.tntendirect.com/tfx/live/playlist.m3u8?|Referer=https://www.tntendirect.com/&e=.m3u8
+https://s13.tntendirect.com/nt1/live/playlist.m3u8?|Referer=https://www.tntendirect.com/&e=.m3u8
 #EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",NRJ12
 https://s13.tntendirect.com/nrj12/live/playlist.m3u8?|Referer=https://www.tntendirect.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",CSTAR
+https://s13.tntendirect.com/d17/live/playlist.m3u8?|Referer=https://www.tntendirect.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",TF1 Séries Films
+https://s13.tntendirect.com/hd1/live/playlist.m3u8?|Referer=https://www.tntendirect.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png", L'Équipe 21
+https://s13.tntendirect.com/lequipe21/live/playlist.m3u8?|Referer=https://www.tntendirect.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png", 6ter 
+https://s13.tntendirect.com/6ter/live/playlist.m3u8?|Referer=https://www.tntendirect.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png", Chérie 25 
+https://s13.tntendirect.com/cherie25/live/playlist.m3u8?|Referer=https://www.tntendirect.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png", BFM TV 
+https://s13.tntendirect.com/bmftv/live/playlist.m3u8?|Referer=https://www.tntendirect.com/&e=.m3u8
 
-
-
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png", NATIONAL GEOGRAPHIC 
+https://sv2.data-stream.top/2460edf9f3cc830a00f50999548415b9139aff9b4c4f06baa9b1a64f0c192a5f/hls/natgeo.m3u8?|Referer=https://www.stream4free.live/&e=.m3u8
 #########################################################################################################################################################
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://cdn.countryflags.com/thumbs/morocco/flag-round-250.png" group-title="",Al Aoula
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
