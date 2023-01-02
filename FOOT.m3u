@@ -56,7 +56,7 @@ https://thegentleclass.xyz/hls/class4.m3u8?|Referer=https://thegentleclass.com/&
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 5 ENGLISH
 https://thegentleclass.xyz/hls/class5.m3u8?|Referer=https://thegentleclass.com/&e=.m3u8
 
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH cyclingnews
 http://cdn5.cyclingnews.live/hls/P1.m3u8?|Referer=http://motornews.live/novo/events/26-Crystal-p1/&e=.m3u8
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 2 ENGLISH
 http://cdn5.cyclingnews.live/hls/P2.m3u8?|Referer=http://motornews.live/novo/events/26-Crystal-p1/&e=.m3u8
@@ -66,6 +66,8 @@ http://cdn5.cyclingnews.live/hls/P3.m3u8?|Referer=http://motornews.live/novo/eve
 http://cdn5.cyclingnews.live/hls/P4.m3u8?|Referer=http://motornews.live/novo/events/26-Crystal-p1/&e=.m3u8
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 5 ENGLISH
 http://cdn5.cyclingnews.live/hls/P5.m3u8?|Referer=http://motornews.live/novo/events/26-Crystal-p1/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH cyclingnews
+http://cdn1.cyclingnews.live/abr/abr-stream3/playlist.m3u8?|Referer=http://motornews.live/novo/events/02-nba/Lakers/&e=.m3u8
 
 
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",BEIN SPORTS ARABIC FHD
@@ -73,7 +75,8 @@ https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.19
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",BEIN SPORTS ARABIC FHD
 https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.U3i3tSAmBo6F.m3u8?|Referer=https://tv.egy4.com/&e=.m3u8
 
-
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",espn ENGLISH
+https://s1.streamflowz.xyz/hls/espn.m3u8?|Referer=https://sequencecard.xyz/&e=.m3u8
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",ssprem ENGLISH
 https://s1.streamflowz.xyz/hls/ssprem.m3u8?|Referer=https://sequencecard.xyz/&e=.m3u8
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",sky1nz ENGLISH
