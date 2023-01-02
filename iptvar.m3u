@@ -134,6 +134,8 @@ https://stream.hdtvizlecanli.com/sgold.m3u8?|Referer=https://www.livestreamde.co
 https://s.hdtvizlecanli.com/tlc.m3u8?|Referer=https://www.livestreamde.com/&e=.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",3SAT
 https://s4.hopslan.com/3satt/tracks-v1a1/mono.m3u8?|Referer=https://www.2ix2.com&e=.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",ARTE
+https://s4.hopslan.com/arte/tracks-v1a1/mono.m3u8?|Referer=https://www.2ix2.com&e=.m3u8
 
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",SPORTDIGITAL
 https://webudi.openhd.lol/lb/premium571/index.m3u8?|Referer=https://global1.ru.com/&e=.m3u8
