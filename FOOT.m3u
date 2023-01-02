@@ -23,13 +23,7 @@ https://r4iqq7mxads2ui.data.mediastore.eu-central-1.amazonaws.com/livea/main.m3u
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH
 https://wwkaskyap.azureedge.net/live/usa/playlist.m3u8?|Referer=https://weakstream.org/&e=.m3u8
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH
-https://s1.sonysports.site/hls/s1/index.m3u8?|Referer=https://metaporky.site&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 2 ENGLISH
-https://s1.sonysports.site/hls/s2/index.m3u8?|Referer=https://metaporky.site&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH
 https://api.footballroma.com/playlist/ch1/index.m3u8?|Referer=https://ww11.livesportstream.club/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 2 ENGLISH
-https://api.footballroma.com/playlist/ch2/index.m3u8?|Referer=https://ww11.livesportstream.club/&e=.m3u8
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH
 https://cal.p2plink.xyz:2443/hls/ssme_hd/index.m3u8?|Referer=https://www.pawastreams.top/&e=.m3u8
 
@@ -45,6 +39,10 @@ https://stream2.supertipz.com/hls/bt2.m3u8?|Referer=https://bestreamsports.org/&
 https://stream2.supertipz.com/hls/bt3.m3u8?|Referer=https://bestreamsports.org/&e=.m3u8
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",BT 4 ENGLISH
 https://stream2.supertipz.com/hls/bt4.m3u8?|Referer=https://bestreamsports.org/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",msg ENGLISH
+https://stream2.supertipz.com/hls/msg.m3u8?|Referer=https://bestreamsports.org/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",nbcs ENGLISH
+https://stream2.supertipz.com/hls/nbcschi.m3u8?|Referer=https://bestreamsports.org/&e=.m3u8
 
 
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH
