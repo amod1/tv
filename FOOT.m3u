@@ -67,6 +67,10 @@ http://cdn5.cyclingnews.live/hls/P4.m3u8?|Referer=http://motornews.live/novo/eve
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 5 ENGLISH
 http://cdn5.cyclingnews.live/hls/P5.m3u8?|Referer=http://motornews.live/novo/events/26-Crystal-p1/&e=.m3u8
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH cyclingnews
+http://cdn1.cyclingnews.live/abr/abr-stream1/playlist.m3u8?|Referer=http://motornews.live/novo/events/02-nba/Lakers/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 2 ENGLISH cyclingnews
+http://cdn1.cyclingnews.live/abr/abr-stream2/playlist.m3u8?|Referer=http://motornews.live/novo/events/02-nba/Lakers/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 3 ENGLISH cyclingnews
 http://cdn1.cyclingnews.live/abr/abr-stream3/playlist.m3u8?|Referer=http://motornews.live/novo/events/02-nba/Lakers/&e=.m3u8
 
 
