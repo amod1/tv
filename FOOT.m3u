@@ -44,6 +44,16 @@ https://stream2.supertipz.com/hls/msg.m3u8?|Referer=https://bestreamsports.org/&
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",nbcs ENGLISH
 https://stream2.supertipz.com/hls/nbcschi.m3u8?|Referer=https://bestreamsports.org/&e=.m3u8
 
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH
+http://snews.t4news.live/hls/S1.m3u8?|Referer=http://tennews.live/daily/news/nba02/Lakers/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH
+http://snews.t4news.live/hls/S2.m3u8?|Referer=http://tennews.live/daily/news/nba02/Lakers/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH
+http://snews.t4news.live/hls/S3.m3u8?|Referer=http://tennews.live/daily/news/nba02/Lakers/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH
+http://snews.t4news.live/hls/S4.m3u8?|Referer=http://tennews.live/daily/news/nba02/Lakers/&e=.m3u8
+
+
 
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH
 https://thegentleclass.xyz/hls/class1.m3u8?|Referer=https://thegentleclass.com/&e=.m3u8
@@ -66,12 +76,6 @@ http://cdn5.cyclingnews.live/hls/P3.m3u8?|Referer=http://motornews.live/novo/eve
 http://cdn5.cyclingnews.live/hls/P4.m3u8?|Referer=http://motornews.live/novo/events/26-Crystal-p1/&e=.m3u8
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 5 ENGLISH
 http://cdn5.cyclingnews.live/hls/P5.m3u8?|Referer=http://motornews.live/novo/events/26-Crystal-p1/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH cyclingnews
-http://cdn1.cyclingnews.live/abr/abr-stream1/playlist.m3u8?|Referer=http://motornews.live/novo/events/02-nba/Lakers/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 2 ENGLISH cyclingnews
-http://cdn1.cyclingnews.live/abr/abr-stream2/playlist.m3u8?|Referer=http://motornews.live/novo/events/02-nba/Lakers/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 3 ENGLISH cyclingnews
-http://cdn1.cyclingnews.live/abr/abr-stream3/playlist.m3u8?|Referer=http://motornews.live/novo/events/02-nba/Lakers/&e=.m3u8
 
 
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",BEIN SPORTS ARABIC FHD
