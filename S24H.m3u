@@ -659,8 +659,10 @@ https://webudi.openhd.lol/lb/premium75/index.m3u8?|Referer=https://widevine.lice
 https://webudi.openhd.lol/lb/premium78/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
 
 #EXTINF:1,SPORTV 1 
-https://t3.switchcast2.com:999/hls/do22.m3u8?md5=3mw_zoBP8HA_l8cp6T3YYg&expires=1672779483?|Referer=https://vikistream.com/&e=.m3u8
+https://live4-ott.izzigo.tv/out/u/dash/AZTECA-7-HD/default.mpd?|Referer=https://megatelevisionhd.com&e=.m3u8
 
+#EXTINF:1,SPORTV 1 
+https://live4-ott.izzigo.tv/out/u/dash/AZTECA-7-HD/default.mpd
 
 
 
