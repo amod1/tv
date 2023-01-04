@@ -16,9 +16,17 @@ https://ovocloud.site/live/abr_s-5/playlist.m3u8?|Referer=https://ovopremium.com
 https://ovocloud.site/live/abr_s-6/playlist.m3u8?|Referer=https://ovopremium.com/&e=.m3u8
 
 
-
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH FHD
 https://r4iqq7mxads2ui.data.mediastore.eu-central-1.amazonaws.com/livea/main.m3u8?|Referer=https://dubznetwork.com/meet/soccer2/nottingham-forest-vs-chelsea-1jan/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 2 ENGLISH FHD
+https://76kcqffbiukq6i.data.mediastore.eu-central-1.amazonaws.com/livea/main.m3u8?|Referer=https://dubznetwork.com/meet/soccer2/nottingham-forest-vs-chelsea-1jan/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 2 ENGLISH FHD
+https://76kcqffbiukq6i.data.mediastore.eu-central-1.amazonaws.com/livea/main.m3u8?|Referer=https://dubznetwork.com/meet/soccer2/nottingham-forest-vs-chelsea-1jan/&e=.m3u8
+
+
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH FHD
+http://cdn1.cyclingnews.live/abr/abr-stream4/playlist.m3u8?|Referer=http://motornews.live/novo/events/barcelona-s4/&e=.m3u8
+
 
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH FHD
 https://api.footballroma.com/playlist/ch1/index.m3u8?|Referer=https://ww11.livesportstream.club/&e=.m3u8
@@ -26,9 +34,9 @@ https://api.footballroma.com/playlist/ch1/index.m3u8?|Referer=https://ww11.lives
 https://api.footballroma.com/playlist/ch2/index.m3u8?|Referer=https://ww11.livesportstream.club/&e=.m3u8
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 3 ENGLISH FHD
 https://api.footballroma.com/playlist/ch3/index.m3u8?|Referer=https://ww11.livesportstream.club/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 3 ENGLISH FHD
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 4 ENGLISH FHD
 https://api.footballroma.com/playlist/ch4/index.m3u8?|Referer=https://ww11.livesportstream.club/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 3 ENGLISH FHD
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 5 ENGLISH FHD
 https://api.footballroma.com/playlist/ch5/index.m3u8?|Referer=https://ww11.livesportstream.club/&e=.m3u8
 
 
