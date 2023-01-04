@@ -127,7 +127,7 @@ https://alexsports.shop:30444/live/ch14/chunks.m3u8?|Referer=https://alexsports.
 https://alexsports.shop:30444/live/ch15/chunks.m3u8?|Referer=https://alexsports.xyz/&e=.m3u8
 
 ########################################################################################################################################################
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH FHD
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH FHD livesportstream
 https://api.footballroma.com/playlist/ch1/index.m3u8?|Referer=https://ww11.livesportstream.club/&e=.m3u8
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 2 ENGLISH FHD
 https://api.footballroma.com/playlist/ch2/index.m3u8?|Referer=https://ww11.livesportstream.club/&e=.m3u8
@@ -137,16 +137,7 @@ https://api.footballroma.com/playlist/ch3/index.m3u8?|Referer=https://ww11.lives
 https://api.footballroma.com/playlist/ch4/index.m3u8?|Referer=https://ww11.livesportstream.club/&e=.m3u8
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 5 ENGLISH FHD
 https://api.footballroma.com/playlist/ch5/index.m3u8?|Referer=https://ww11.livesportstream.club/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 6 ENGLISH FHD
-https://api.footballroma.com/playlist/ch6/index.m3u8?|Referer=https://ww11.livesportstream.club/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 7 ENGLISH FHD
-https://api.footballroma.com/playlist/ch7/index.m3u8?|Referer=https://ww11.livesportstream.club/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 8 ENGLISH FHD
-https://api.footballroma.com/playlist/ch8/index.m3u8?|Referer=https://ww11.livesportstream.club/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 9 ENGLISH FHD
-https://api.footballroma.com/playlist/ch9/index.m3u8?|Referer=https://ww11.livesportstream.club/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 10 ENGLISH FHD
-https://api.footballroma.com/playlist/ch10/index.m3u8?|Referer=https://ww11.livesportstream.club/&e=.m3u8
+
 
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH tennews
 http://snews.t4news.live/hls/S1.m3u8?|Referer=http://tennews.live/daily/news/nba02/Lakers/&e=.m3u8
@@ -211,6 +202,8 @@ https://stream3.supertipz.com/hls/nbatv.m3u8?|Referer=https://bestreamsports.org
 https://stream3.supertipz.com/hls/ballynorth.m3u8?|Referer=https://bestreamsports.org/&e=.m3u8
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",bally detroit 
 https://stream3.supertipz.com/hls/ballydetroit.m3u8?|Referer=https://bestreamsports.org/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",skyprem
+https://stream3.supertipz.com/hls/skyprem.m3u8?|Referer=https://bestreamsports.org&e=.m3u8
 
 
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",espn ENGLISH
