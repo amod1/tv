@@ -1,0 +1,154 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]TV FABOR ANDRIOD (PC/PHONE/SMART TV/ BOX TV)[/color]
+httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
+
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Akan 
+https://iptv-org.github.io/iptv/languages/aka.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Albanian	19	
+https://iptv-org.github.io/iptv/languages/sqi.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Amharic	1	
+https://iptv-org.github.io/iptv/languages/amh.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Arabic	296	
+https://iptv-org.github.io/iptv/languages/ara.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Armenian	6	
+https://iptv-org.github.io/iptv/languages/hye.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Azerbaijani	13	
+https://iptv-org.github.io/iptv/languages/aze.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Bengali	3	
+https://iptv-org.github.io/iptv/languages/ben.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Bosnian	2	
+https://iptv-org.github.io/iptv/languages/bos.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Bulgarian	8	
+https://iptv-org.github.io/iptv/languages/bul.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Burmese	1	
+https://iptv-org.github.io/iptv/languages/mya.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Catalan	11	
+https://iptv-org.github.io/iptv/languages/cat.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Chinese	805	
+https://iptv-org.github.io/iptv/languages/zho.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Croatian	15	
+https://iptv-org.github.io/iptv/languages/hrv.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Czech	20	
+https://iptv-org.github.io/iptv/languages/ces.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Danish	10	
+https://iptv-org.github.io/iptv/languages/dan.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Dutch	56	
+https://iptv-org.github.io/iptv/languages/nld.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", English	680	
+https://iptv-org.github.io/iptv/languages/eng.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Estonian	3	
+https://iptv-org.github.io/iptv/languages/est.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Faroese	1	
+https://iptv-org.github.io/iptv/languages/fao.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Finnish	3	
+https://iptv-org.github.io/iptv/languages/fin.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", French	74	
+https://iptv-org.github.io/iptv/languages/fra.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Galician	9	
+https://iptv-org.github.io/iptv/languages/glg.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Georgian	7	
+https://iptv-org.github.io/iptv/languages/kat.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", German	129	
+https://iptv-org.github.io/iptv/languages/deu.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Hebrew	11	
+https://iptv-org.github.io/iptv/languages/heb.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Hindi	83	
+https://iptv-org.github.io/iptv/languages/hin.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Hungarian	11	
+https://iptv-org.github.io/iptv/languages/hun.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Icelandic	2	
+https://iptv-org.github.io/iptv/languages/isl.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Indonesian	26	
+https://iptv-org.github.io/iptv/languages/ind.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Italian	102	
+https://iptv-org.github.io/iptv/languages/ita.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Japanese	15	
+https://iptv-org.github.io/iptv/languages/jpn.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Javanese	3	
+https://iptv-org.github.io/iptv/languages/jav.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Kannada	1	
+https://iptv-org.github.io/iptv/languages/kan.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Kazakh	7	
+https://iptv-org.github.io/iptv/languages/kaz.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Khmer	6	
+https://iptv-org.github.io/iptv/languages/khm.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Kinyarwanda	5	
+https://iptv-org.github.io/iptv/languages/kin.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Korean	27	
+https://iptv-org.github.io/iptv/languages/kor.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Kurdish	7	
+https://iptv-org.github.io/iptv/languages/kur.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Lao	3	
+https://iptv-org.github.io/iptv/languages/lao.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Latvian	4	
+https://iptv-org.github.io/iptv/languages/lav.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Luxembourgish	4	
+https://iptv-org.github.io/iptv/languages/ltz.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Macedonian	6	
+https://iptv-org.github.io/iptv/languages/mkd.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Malay (macrolanguage)	10	
+https://iptv-org.github.io/iptv/languages/msa.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Malayalam	25	
+https://iptv-org.github.io/iptv/languages/mal.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Mandarin Chinese	116	
+https://iptv-org.github.io/iptv/languages/cmn.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Min Nan Chinese	2	
+https://iptv-org.github.io/iptv/languages/nan.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Modern Greek (1453-)	44	
+https://iptv-org.github.io/iptv/languages/ell.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Mongolian	2	
+https://iptv-org.github.io/iptv/languages/mon.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Montenegrin	1	
+https://iptv-org.github.io/iptv/languages/cnr.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Norwegian Bokmål	2	
+https://iptv-org.github.io/iptv/languages/nob.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Persian	67	
+https://iptv-org.github.io/iptv/languages/fas.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Polish	32	
+https://iptv-org.github.io/iptv/languages/pol.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Portuguese	99	
+https://iptv-org.github.io/iptv/languages/por.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Pushto	4	
+https://iptv-org.github.io/iptv/languages/pus.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Romanian	81	
+https://iptv-org.github.io/iptv/languages/ron.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Russian	379	
+https://iptv-org.github.io/iptv/languages/rus.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Serbian	9	
+https://iptv-org.github.io/iptv/languages/srp.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Sinhala	2	
+https://iptv-org.github.io/iptv/languages/sin.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Slovak	31	
+https://iptv-org.github.io/iptv/languages/slk.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Slovenian	6	
+https://iptv-org.github.io/iptv/languages/slv.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Somali	8	
+https://iptv-org.github.io/iptv/languages/som.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Spanish	403	
+https://iptv-org.github.io/iptv/languages/spa.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Swedish	12	
+https://iptv-org.github.io/iptv/languages/swe.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Tagalog	8	
+https://iptv-org.github.io/iptv/languages/tgl.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Tamil	32	
+https://iptv-org.github.io/iptv/languages/tam.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Thai	14	
+https://iptv-org.github.io/iptv/languages/tha.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Turkish	58	
+https://iptv-org.github.io/iptv/languages/tur.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Turkmen	11	
+https://iptv-org.github.io/iptv/languages/tuk.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Ukrainian	121	
+https://iptv-org.github.io/iptv/languages/ukr.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Urdu	18	
+https://iptv-org.github.io/iptv/languages/urd.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Uzbek	4	
+https://iptv-org.github.io/iptv/languages/uzb.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Vietnamese	28	
+https://iptv-org.github.io/iptv/languages/vie.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Western Frisian	1	
+https://iptv-org.github.io/iptv/languages/fry.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Yue Chinese	14	
+https://iptv-org.github.io/iptv/languages/yue.m3u
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/605/66/png-transparent-pakistan-logo-brand-philosophy-font-politics-text-people-pin.png", Undefined	343	
+https://iptv-org.github.io/iptv/languages/undefined.m3u
