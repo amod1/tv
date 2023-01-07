@@ -3,6 +3,30 @@
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]TV FABOR ANDRIOD (PC/PHONE/SMART TV/ BOX TV)[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",cyfostreams 1
+http://77.247.109.15/live/s1/chunks.m3u8?|Referer=http://www.cyfostreams.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",cyfostreams 2
+http://77.247.109.15/live/s2/chunks.m3u8?|Referer=http://www.cyfostreams.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",cyfostreams 3
+http://77.247.109.15/live/s3/chunks.m3u8?|Referer=http://www.cyfostreams.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",cyfostreams 4
+http://77.247.109.15/live/s4/chunks.m3u8?|Referer=http://www.cyfostreams.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",cyfostreams 5
+http://77.247.109.15/live/s5/chunks.m3u8?|Referer=http://www.cyfostreams.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",cyfostreams 6
+http://77.247.109.15/live/s6/chunks.m3u8?|Referer=http://www.cyfostreams.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",cyfostreams 7
+http://77.247.109.15/live/s7/chunks.m3u8?|Referer=http://www.cyfostreams.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",cyfostreams 8
+http://77.247.109.15/live/s8/chunks.m3u8?|Referer=http://www.cyfostreams.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",cyfostreams 9
+http://77.247.109.15/live/s9/chunks.m3u8?|Referer=http://www.cyfostreams.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",cyfostreams 10
+http://77.247.109.15/live/s10/chunks.m3u8?|Referer=http://www.cyfostreams.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",cyfostreams 11
+http://77.247.109.15/live/s11/chunks.m3u8?|Referer=http://www.cyfostreams.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",cyfostreams 12
+http://77.247.109.15/live/s12/chunks.m3u8?|Referer=http://www.cyfostreams.com/&e=.m3u8
 
 ########################################################################################################################################################
 #EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1838/1838619.png",SPORTS LIVE 1 SD
