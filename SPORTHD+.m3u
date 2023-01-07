@@ -61,16 +61,6 @@ https://webui.openhd.lol/lb/xvk4/index.m3u8?|Referer=https://olacast.live/&e=.m3
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",dubznetwork 5
 https://webui.openhd.lol/lb/xvk5/index.m3u8?|Referer=https://olacast.live/&e=.m3u8
 
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",cyfostreams 1
-http://77.247.109.15/live/s1/chunks.m3u8?|Referer=http://www.cyfostreams.com/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",cyfostreams 2
-http://77.247.109.15/live/s2/chunks.m3u8?|Referer=http://www.cyfostreams.com/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",cyfostreams 3
-http://77.247.109.15/live/s3/chunks.m3u8?|Referer=http://www.cyfostreams.com/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",cyfostreams 4
-http://77.247.109.15/live/s4/chunks.m3u8?|Referer=http://www.cyfostreams.com/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",cyfostreams 5
-http://77.247.109.15/live/s5/chunks.m3u8?|Referer=http://www.cyfostreams.com/&e=.m3u8
 
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH tennews
 http://snews.t4news.live/hls/S1.m3u8?|Referer=http://tennews.live/daily/news/nba02/Lakers/&e=.m3u8
