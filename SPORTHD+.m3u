@@ -50,6 +50,18 @@ https://api.footballroma.com/playlist/ch4/index.m3u8?|Referer=https://ww11.lives
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 5 ENGLISH FHD
 https://api.footballroma.com/playlist/ch5/index.m3u8?|Referer=https://ww11.livesportstream.club/&e=.m3u8
 
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",dubznetwork 1
+https://webui.openhd.lol/lb/xvk1/index.m3u8?|Referer=https://olacast.live/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",dubznetwork 2
+https://webui.openhd.lol/lb/xvk2/index.m3u8?|Referer=https://olacast.live/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",dubznetwork 3
+https://webui.openhd.lol/lb/xvk3/index.m3u8?|Referer=https://olacast.live/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",dubznetwork 4
+https://webui.openhd.lol/lb/xvk4/index.m3u8?|Referer=https://olacast.live/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",dubznetwork 5
+https://webui.openhd.lol/lb/xvk5/index.m3u8?|Referer=https://olacast.live/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",dubznetwork 6
+https://webui.openhd.lol/lb/xvk6/index.m3u8?|Referer=https://olacast.live/&e=.m3u8
 
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH tennews
 http://snews.t4news.live/hls/S1.m3u8?|Referer=http://tennews.live/daily/news/nba02/Lakers/&e=.m3u8
