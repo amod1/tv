@@ -125,7 +125,14 @@ https://s1.streamflowz.xyz/hls/espn.m3u8?|Referer=https://sequencecard.xyz/&e=.m
 https://s1.streamflowz.xyz/hls/ssprem.m3u8?|Referer=https://sequencecard.xyz/&e=.m3u8
 
 
-
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",CH 10 ENGLISH
+https://live1.techstribes.com/techstribes/live/10.m3u8?|Referer=https://groundedtechs.com/gtechs1-d-31/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",CH 11 ENGLISH
+https://live1.techstribes.com/techstribes/live/11.m3u8?|Referer=https://groundedtechs.com/gtechs1-d-31/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",CH 12 ENGLISH
+https://live1.techstribes.com/techstribes/live/12.m3u8?|Referer=https://groundedtechs.com/gtechs1-d-31/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",CH 13 ENGLISH
+https://live1.techstribes.com/techstribes/live/13.m3u8?|Referer=https://groundedtechs.com/gtechs1-d-31/&e=.m3u8
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",CH 14 ENGLISH
 https://live1.techstribes.com/techstribes/live/14.m3u8?|Referer=https://groundedtechs.com/gtechs1-d-31/&e=.m3u8
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",CH 15 ENGLISH
@@ -141,20 +148,20 @@ https://live1.techstribes.com/techstribes/live/19.m3u8?|Referer=https://grounded
 
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",bestsolaris 1
 https://gfashdhad.azureedge.net/live/n1/chunks.m3u8?|Referer=https://bestsolaris.com/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",bestsolaris 1
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",bestsolaris 2
 https://gfashdhad.azureedge.net/live/n2/chunks.m3u8?|Referer=https://bestsolaris.com/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",bestsolaris 1
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",bestsolaris 3
 https://gfashdhad.azureedge.net/live/n3/chunks.m3u8?|Referer=https://bestsolaris.com/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",bestsolaris 1
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",bestsolaris 4
 https://gfashdhad.azureedge.net/live/n4/chunks.m3u8?|Referer=https://bestsolaris.com/&e=.m3u8
 
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",markkystreams 1
 https://mamskal2.azureedge.net/live/NBA1/chunks.m3u8?|Referer=https://markkystreams.com/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",markkystreams 1
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",markkystreams 2
 https://mamskal2.azureedge.net/live/NBA2/chunks.m3u8?|Referer=https://markkystreams.com/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",markkystreams 1
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",markkystreams 3
 https://mamskal2.azureedge.net/live/NBA3/chunks.m3u8?|Referer=https://markkystreams.com/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",markkystreams 1
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",markkystreams 4
 https://mamskal2.azureedge.net/live/NBA4/chunks.m3u8?|Referer=https://markkystreams.com/&e=.m3u8
 
 
