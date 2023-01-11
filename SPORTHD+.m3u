@@ -87,6 +87,10 @@ http://cdn5.cyclingnews.live/hls/P4.m3u8?|Referer=http://motornews.live/novo/eve
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 5 ENGLISH
 http://cdn5.cyclingnews.live/hls/P5.m3u8?|Referer=http://motornews.live/novo/events/26-Crystal-p1/&e=.m3u8
 
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",skyprem
+https://stream3.supertipz.com/hls/skyprem.m3u8?|Referer=https://bestreamsports.org&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",ssliga
+https://stream2.supertipz.com/hls/ssliga.m3u8?|Referer=https://bestreamsports.org&e=.m3u8
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",BT 1 
 https://stream2.supertipz.com/hls/bt1.m3u8?|Referer=https://bestreamsports.org/&e=.m3u8
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",BT 2 
@@ -115,8 +119,7 @@ https://stream3.supertipz.com/hls/nbatv.m3u8?|Referer=https://bestreamsports.org
 https://stream3.supertipz.com/hls/ballynorth.m3u8?|Referer=https://bestreamsports.org/&e=.m3u8
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",bally detroit 
 https://stream3.supertipz.com/hls/ballydetroit.m3u8?|Referer=https://bestreamsports.org/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",skyprem
-https://stream3.supertipz.com/hls/skyprem.m3u8?|Referer=https://bestreamsports.org&e=.m3u8
+
 
 
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",espn ENGLISH
@@ -125,16 +128,6 @@ https://s1.streamflowz.xyz/hls/espn.m3u8?|Referer=https://sequencecard.xyz/&e=.m
 https://s1.streamflowz.xyz/hls/ssprem.m3u8?|Referer=https://sequencecard.xyz/&e=.m3u8
 
 
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",CH 10 ENGLISH
-https://live1.techstribes.com/techstribes/live/10.m3u8?|Referer=https://groundedtechs.com/gtechs1-d-31/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",CH 11 ENGLISH
-https://live1.techstribes.com/techstribes/live/11.m3u8?|Referer=https://groundedtechs.com/gtechs1-d-31/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",CH 12 ENGLISH
-https://live1.techstribes.com/techstribes/live/12.m3u8?|Referer=https://groundedtechs.com/gtechs1-d-31/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",CH 13 ENGLISH
-https://live1.techstribes.com/techstribes/live/13.m3u8?|Referer=https://groundedtechs.com/gtechs1-d-31/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",CH 14 ENGLISH
-https://live1.techstribes.com/techstribes/live/14.m3u8?|Referer=https://groundedtechs.com/gtechs1-d-31/&e=.m3u8
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",CH 15 ENGLISH
 https://live1.techstribes.com/techstribes/live/15.m3u8?|Referer=https://groundedtechs.com/gtechs1-d-31/&e=.m3u8
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",CH 16 ENGLISH
@@ -176,6 +169,47 @@ https://stream10.allsportsdaily.xyz/hls/pe4_hd.m3u8?|Referer=https://allsportsda
 
 
 
+
+#EXTINF:1 tvg-logo="https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",NBA LIVE 1
+https://reels2watch.com/hls/n1.m3u8?|Referer=https://techclips.net/2022/a1/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",NBA LIVE 2
+https://reels2watch.com/hls/n2.m3u8?|Referer=https://techclips.net/2022/a1/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",NBA LIVE 3
+https://reels2watch.com/hls/n3.m3u8?|Referer=https://techclips.net/2022/a1/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",NBA LIVE 4
+https://reels2watch.com/hls/n4.m3u8?|Referer=https://techclips.net/2022/a1/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",NBA LIVE 5
+https://reels2watch.com/hls/n5.m3u8?|Referer=https://techclips.net/2022/a1/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",NBA LIVE 6
+https://reels2watch.com/hls/n6.m3u8?|Referer=https://techclips.net/2022/a1/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",NBA LIVE 7
+https://reels2watch.com/hls/n7.m3u8?|Referer=https://techclips.net/2022/a1/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",NBA LIVE 8
+https://reels2watch.com/hls/n8.m3u8?|Referer=https://techclips.net/2022/a1/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",NBA LIVE 9
+https://reels2watch.com/hls/n9.m3u8?|Referer=https://techclips.net/2022/a1/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",NBA LIVE 10
+https://reels2watch.com/hls/n10.m3u8?|Referer=https://techclips.net/2022/a1/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",NBA LIVE 11
+https://reels2watch.com/hls/n11.m3u8?|Referer=https://techclips.net/2022/a1/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",NBA LIVE 12
+https://reels2watch.com/hls/n12.m3u8?|Referer=https://techclips.net/2022/a1/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",NBA LIVE 13
+https://reels2watch.com/hls/n13.m3u8?|Referer=https://techclips.net/2022/a1/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",NBA LIVE 14
+https://reels2watch.com/hls/n14.m3u8?|Referer=https://techclips.net/2022/a1/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",NBA LIVE 15
+https://reels2watch.com/hls/n15.m3u8?|Referer=https://techclips.net/2022/a1/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",NBA LIVE 16
+https://reels2watch.com/hls/n16.m3u8?|Referer=https://techclips.net/2022/a1/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",NBA LIVE 17
+https://reels2watch.com/hls/n17.m3u8?|Referer=https://techclips.net/2022/a1/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",NBA LIVE 18
+https://reels2watch.com/hls/n18.m3u8?|Referer=https://techclips.net/2022/a1/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",NBA LIVE 19
+https://reels2watch.com/hls/n19.m3u8?|Referer=https://techclips.net/2022/a1/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",NBA LIVE 20
+https://reels2watch.com/hls/n20.m3u8?|Referer=https://techclips.net/2022/a1/&e=.m3u8
 
 
 
