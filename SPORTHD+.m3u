@@ -49,7 +49,7 @@ https://s1.sonysports.site/hls/s4/index.m3u8?|Referer=http://metaporky.site/&e=.
 https://s1.sonysports.site/hls/s5/index.m3u8?|Referer=http://metaporky.site/&e=.m3u8
 
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH dubznetwork
-https://f2jl6powgrjzk4.data.mediastore.eu-central-1.amazonaws.com/livea/main.m3u8?|Referer=https://watch.sports247.sbs/player13napoli.php&e=.m3u8
+https://f2jl6powgrjzk4.data.mediastore.eu-central-1.amazonaws.com/livea/main.m3u8
 
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",spf Soccer Streams 1 ENGLISH weakstream
 https://scxzvvbs.azureedge.net/live/spf/chunks.m3u8?|Referer=https://weakstream.org/&e=.m3u8
@@ -131,13 +131,13 @@ https://thegentleclass.xyz/hls/class11.m3u8?|Referer=https://thegentleclass.com/
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 12 ENGLISH
 https://thegentleclass.xyz/hls/class12.m3u8?|Referer=https://thegentleclass.com/&e=.m3u8
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 13 ENGLISH
-https://thegentleclass.xyz/hls/class13.m3u8?|Referer=https://thegentleclass.com/xva14/&e=.m3u8
+https://thegentleclass.xyz/hls/class13.m3u8?|Referer=https://thegentleclass.com/&e=.m3u8
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 14 ENGLISH
-https://thegentleclass.xyz/hls/class14.m3u8?|Referer=https://thegentleclass.com/xva14/&e=.m3u8
+https://thegentleclass.xyz/hls/class14.m3u8?|Referer=https://thegentleclass.com/&e=.m3u8
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 15 ENGLISH
-https://thegentleclass.xyz/hls/class15.m3u8?|Referer=https://thegentleclass.com/xva14/&e=.m3u8
+https://thegentleclass.xyz/hls/class15.m3u8?|Referer=https://thegentleclass.com/&e=.m3u8
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 16 ENGLISH
-https://thegentleclass.xyz/hls/class16.m3u8?|Referer=https://thegentleclass.com/xva14/&e=.m3u8
+https://thegentleclass.xyz/hls/class16.m3u8?|Referer=https://thegentleclass.com/&e=.m3u8
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 17 ENGLISH
 https://thegentleclass.xyz/hls/class17.m3u8?|Referer=https://thegentleclass.com/xva14/&e=.m3u8
 
