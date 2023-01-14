@@ -36,7 +36,7 @@ https://c.fordems.biz/live/multiple_fd-7/playlist.m3u8?|Referer=https://fordems.
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH dubznetwork
 https://f2jl6powgrjzk4.data.mediastore.eu-central-1.amazonaws.com/livea/main.m3u8
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 2 ENGLISH dubznetwork
-https://kiomotrybam.s3.eu-central-1.amazonaws.com/playlist.m3u8
+https://kiomotrybam.s3.eu-central-1.amazonaws.com/playlist.m3u8?|Referer=https://watch.sports247.sbs/player14brighton.php&e=.m3u8
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 3 ENGLISH dubznetwork
 https://bo74pyp6irccha.data.mediastore.eu-central-1.amazonaws.com/livea/main.m3u8
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 4 ENGLISH dubznetwork
