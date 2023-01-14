@@ -48,16 +48,17 @@ http://snews.t4news.live/hls/S5.m3u8?|Referer=http://tennews.live/daily/news/nba
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 6 ENGLISH
 http://snews.t4news.live/hls/S6.m3u8?|Referer=http://tennews.live/daily/news/nba02/Lakers/&e=.m3u8
 
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH tennews
-http://tnews.t4news.live/hls/T1.m3u8?|Referer=http://tennews.live/daily/news/nba02/Lakers/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH tennews
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Premier League
+http://snews.t4news.live/hls/S1.m3u8?|Referer=http://tennews.live/daily/news/nba02/Lakers/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",LA LIGA
+http://anews.t4news.live/hls/A2.m3u8?|Referer=http://tennews.live/daily/news/nba02/Lakers/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Ligue 1
 http://tnews.t4news.live/hls/T2.m3u8?|Referer=http://tennews.live/daily/news/nba02/Lakers/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH tennews
-http://tnews.t4news.live/hls/T3.m3u8?|Referer=http://tennews.live/daily/news/nba02/Lakers/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH tennews
-http://tnews.t4news.live/hls/T4.m3u8?|Referer=http://tennews.live/daily/news/nba02/Lakers/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH tennews
-http://tnews.t4news.live/hls/T5.m3u8?|Referer=http://tennews.live/daily/news/nba02/Lakers/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",SERIA A
+http://anews.t4news.live/hls/A1.m3u8?|Referer=http://tennews.live/daily/news/nba02/Lakers/&e=.m3u8
+
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH
+https://cdn-4.sportfacts.net/live/rfsqwe4/playlist.m3u8?|Referer=https://www.topsporter.net/&e=.m3u8
 
 
 
@@ -95,6 +96,10 @@ https://thegentleclass.xyz/hls/class15.m3u8?|Referer=https://thegentleclass.com/
 https://thegentleclass.xyz/hls/class16.m3u8?|Referer=https://thegentleclass.com/&e=.m3u8
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 17 ENGLISH
 https://thegentleclass.xyz/hls/class17.m3u8?|Referer=https://thegentleclass.com/xva14/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 18 ENGLISH
+https://thegentleclass.xyz/hls/class18.m3u8?|Referer=https://thegentleclass.com/xva14/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 19 ENGLISH
+https://thegentleclass.xyz/hls/class19.m3u8?|Referer=https://thegentleclass.com/xva14/&e=.m3u8
 
 
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH metaporky
@@ -192,7 +197,8 @@ https://stream3.supertipz.com/hls/ballynorth.m3u8?|Referer=https://bestreamsport
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",bally detroit 
 https://stream3.supertipz.com/hls/ballydetroit.m3u8?|Referer=https://bestreamsports.org/&e=.m3u8
 
-
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",CH1 ENGLISH allsportsdaily
+https://stream10.allsportsdaily.xyz/hls/buc.m3u8?|Referer=https://allsportsdaily.co/&e=.m3u8
 
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",espn ENGLISH
 https://s1.streamflowz.xyz/hls/espn.m3u8?|Referer=https://sequencecard.xyz/&e=.m3u8
