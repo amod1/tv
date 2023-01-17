@@ -209,6 +209,8 @@ https://live.tv247us.com/tv247/nbc.m3u8?|Referer=https://tv247.us/&e=.m3u8
 
 #########################################################################################################################################################
 #EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",BEIN SPORTS 1 FR
+https://s6.flowerscast.com:999/hls/wsmkmlfeed01.m3u8?md5=sOtPwQg6LV1EOFXHYYf-QA&expires=1673980788?|Referer=https://godzillive.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",BEIN SPORTS 1 FR
 https://ad20171.openhd.lol/cdn/myfeed1/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
 #EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png",BEIN SPORTS 2 FR
 https://ad20171.openhd.lol/cdn/myfeed2/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
