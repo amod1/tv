@@ -75,13 +75,6 @@ http://cdn5.cyclingnews.live/hls/P4.m3u8?|Referer=http://motornews.live/novo/eve
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 5 ENGLISH
 http://cdn5.cyclingnews.live/hls/P5.m3u8?|Referer=http://motornews.live/novo/events/26-Crystal-p1/&e=.m3u8
 
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH weakstream
-https://chagcgsa.azureedge.net/live/s1/playlist.m3u8?|Referer=https://weakstream.org/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 2 ENGLISH weakstream
-https://chagcgsa.azureedge.net/live/s2/playlist.m3u8?|Referer=https://weakstream.org/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 3 ENGLISH weakstream
-https://chagcgsa.azureedge.net/live/s3/playlist.m3u8?|Referer=https://weakstream.org/&e=.m3u8
-
 
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH Hockeyweb
 http://snews.t4news.live/hls/S1.m3u8?|Referer=http://tennews.live/daily/news/nba02/Lakers/&e=.m3u8
@@ -97,12 +90,6 @@ http://snews.t4news.live/hls/S5.m3u8?|Referer=http://tennews.live/daily/news/nba
 http://snews.t4news.live/hls/S6.m3u8?|Referer=http://tennews.live/daily/news/nba02/Lakers/&e=.m3u8
 
 
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH metaporky
-https://s1.sonysports.site/hls/s1/index.m3u8?|Referer=http://metaporky.site/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 2 ENGLISH metaporky
-https://s1.sonysports.site/hls/s2/index.m3u8?|Referer=http://metaporky.site/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 3 ENGLISH metaporky
-https://s1.sonysports.site/hls/s3/index.m3u8?|Referer=http://metaporky.site/&e=.m3u8
 
 
 
@@ -111,13 +98,14 @@ https://s1.sonysports.site/hls/s3/index.m3u8?|Referer=http://metaporky.site/&e=.
 
 
 
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",fabtech
-https://cdn-us-east-2.azulitostreams.online/stylesheet/v14/assets.m3u8?|Referer=https://fabtech.work/&e=.m3u8
 
 
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",maxsports
 http://185.53.89.183/hls/M1.m3u8?|Referer=http://maxsports.site/&e=.m3u8
-
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",maxsports
+http://185.53.89.183/hls/M2.m3u8?|Referer=http://maxsports.site/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",maxsports
+http://185.53.89.183/hls/M3.m3u8?|Referer=http://maxsports.site/&e=.m3u8
 
 
 
@@ -132,6 +120,16 @@ https://api.footballroma.com/playlist/ch3/index.m3u8?|Referer=https://ww11.lives
 https://api.footballroma.com/playlist/ch4/index.m3u8?|Referer=https://ww11.livesportstream.club/&e=.m3u8
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 5 ENGLISH FHD
 https://api.footballroma.com/playlist/ch5/index.m3u8?|Referer=https://ww11.livesportstream.club/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 5 ENGLISH FHD
+https://api.footballroma.com/playlist/ch6/index.m3u8?|Referer=https://ww11.livesportstream.club/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 5 ENGLISH FHD
+https://api.footballroma.com/playlist/ch7/index.m3u8?|Referer=https://ww11.livesportstream.club/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 5 ENGLISH FHD
+https://api.footballroma.com/playlist/ch8/index.m3u8?|Referer=https://ww11.livesportstream.club/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 5 ENGLISH FHD
+https://api.footballroma.com/playlist/ch9/index.m3u8?|Referer=https://ww11.livesportstream.club/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 5 ENGLISH FHD
+https://api.footballroma.com/playlist/ch10/index.m3u8?|Referer=https://ww11.livesportstream.club/&e=.m3u8
 
 
 
@@ -142,19 +140,22 @@ https://api.footballroma.com/playlist/ch5/index.m3u8?|Referer=https://ww11.lives
 
 
 
-
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",skyprem
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",sky foot
+https://stream2.supertipz.com/hls/skyfoot.m3u8?|Referer=https://bestreamsports.org/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",sky prem
 https://stream3.supertipz.com/hls/skyprem.m3u8?|Referer=https://bestreamsports.org/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",ssliga
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",ss liga
 https://stream2.supertipz.com/hls/ssliga.m3u8?|Referer=https://bestreamsports.org/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",ssprem
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",ss prem
 https://stream2.supertipz.com/hls/ssprem.m3u8?|Referer=https://bestreamsports.org/&e=.m3u8
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",usa
 https://stream2.supertipz.com/hls/usa.m3u8?|Referer=https://bestreamsports.org/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",laligatv
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",la liga tv
 https://stream3.supertipz.com/hls/laligatv.m3u8?|Referer=https://bestreamsports.org/&e=.m3u8
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",ssott4
 https://stream2.supertipz.com/hls/ssott4.m3u8?|Referer=https://bestreamsports.org/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",ssott6
+https://stream2.supertipz.com/hls/ssott6.m3u8?|Referer=https://bestreamsports.org/&e=.m3u8
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",ssv
 https://stream2.supertipz.com/hls/ssv.m3u8?|Referer=https://bestreamsports.org/&e=.m3u8
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",beincanada
@@ -190,11 +191,27 @@ https://stream3.supertipz.com/hls/ballynorth.m3u8?|Referer=https://bestreamsport
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",bally detroit 
 https://stream3.supertipz.com/hls/ballydetroit.m3u8?|Referer=https://bestreamsports.org/&e=.m3u8
 
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",BT1
+https://s1.streamflowz.xyz/hls/bt1.m3u8?|Referer=https://sequencecard.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",BT1
+https://s1.streamflowz.xyz/hls/bt2.m3u8?|Referer=https://sequencecard.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",BT1
+https://s1.streamflowz.xyz/hls/bt3.m3u8?|Referer=https://sequencecard.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",BT1
+https://s1.streamflowz.xyz/hls/bt4.m3u8?|Referer=https://sequencecard.xyz/&e=.m3u8
 
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",espn ENGLISH
 https://s1.streamflowz.xyz/hls/espn.m3u8?|Referer=https://sequencecard.xyz/&e=.m3u8
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",ssprem ENGLISH
 https://s1.streamflowz.xyz/hls/ssprem.m3u8?|Referer=https://sequencecard.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",now4
+https://s1.streamflowz.xyz/hls/now1.m3u8?|Referer=https://sequencecard.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",now4
+https://s1.streamflowz.xyz/hls/now2.m3u8?|Referer=https://sequencecard.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",now4
+https://s1.streamflowz.xyz/hls/now3.m3u8?|Referer=https://sequencecard.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",now4
+https://s1.streamflowz.xyz/hls/now4.m3u8?|Referer=https://sequencecard.xyz/&e=.m3u8
 
 
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",CH 15 ENGLISH
