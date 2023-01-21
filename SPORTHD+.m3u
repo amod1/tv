@@ -77,11 +77,11 @@ http://cdn5.cyclingnews.live/hls/P5.m3u8?|Referer=http://motornews.live/novo/eve
 
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH WeakStreams
 https://nflarcadia.xyz/hls/s1.m3u8?|Referer=https://gamerarcades.com/assets/ts3.html&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH WeakStreams
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 2 ENGLISH WeakStreams
 https://nflarcadia.xyz/hls/s2.m3u8?|Referer=https://gamerarcades.com/assets/ts3.html&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH WeakStreams
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 3 ENGLISH WeakStreams
 https://nflarcadia.xyz/hls/s3.m3u8?|Referer=https://gamerarcades.com/assets/ts3.html&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH WeakStreams
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 4 ENGLISH WeakStreams
 https://nflarcadia.xyz/hls/s4.m3u8?|Referer=https://gamerarcades.com/assets/ts3.html&e=.m3u8
 
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH Hockeyweb
@@ -197,6 +197,11 @@ https://s1.streamflowz.xyz/hls/now5.m3u8?|Referer=https://sequencecard.xyz/&e=.m
 https://s1.streamflowz.xyz/hls/now6.m3u8?|Referer=https://sequencecard.xyz/&e=.m3u8
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",now 7
 https://s1.streamflowz.xyz/hls/now7.m3u8?|Referer=https://sequencecard.xyz/&e=.m3u8
+
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",LALIGA malacitana
+https://serv.shidurlive.com/app/18447/chunklist.m3u8?h=j9JTfHIDKALmMsrhfaa7-w&e=1674354781&uid=d8f69afc8263052519331fee635882f2?|Referer=https://www.shidurlive.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",LALIGA malacitana 2
+https://serv.shidurlive.com/app/18447/chunklist.m3u8?|Referer=https://www.shidurlive.com/&e=.m3u8
 
 
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",CH 15 ENGLISH
