@@ -89,23 +89,11 @@ http://snews.t4news.live/hls/S5.m3u8?|Referer=http://tennews.live/daily/news/nba
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 6 ENGLISH
 http://snews.t4news.live/hls/S6.m3u8?|Referer=http://tennews.live/daily/news/nba02/Lakers/&e=.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",maxsports
 http://185.53.89.183/hls/M1.m3u8?|Referer=http://maxsports.site/&e=.m3u8
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",maxsports
 http://185.53.89.183/hls/M2.m3u8?|Referer=http://maxsports.site/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",maxsports
-http://185.53.89.183/hls/M3.m3u8?|Referer=http://maxsports.site/&e=.m3u8
+
 
 
 
@@ -120,24 +108,6 @@ https://api.footballroma.com/playlist/ch3/index.m3u8?|Referer=https://ww11.lives
 https://api.footballroma.com/playlist/ch4/index.m3u8?|Referer=https://ww11.livesportstream.club/&e=.m3u8
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 5 ENGLISH FHD
 https://api.footballroma.com/playlist/ch5/index.m3u8?|Referer=https://ww11.livesportstream.club/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 5 ENGLISH FHD
-https://api.footballroma.com/playlist/ch6/index.m3u8?|Referer=https://ww11.livesportstream.club/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 5 ENGLISH FHD
-https://api.footballroma.com/playlist/ch7/index.m3u8?|Referer=https://ww11.livesportstream.club/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 5 ENGLISH FHD
-https://api.footballroma.com/playlist/ch8/index.m3u8?|Referer=https://ww11.livesportstream.club/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 5 ENGLISH FHD
-https://api.footballroma.com/playlist/ch9/index.m3u8?|Referer=https://ww11.livesportstream.club/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 5 ENGLISH FHD
-https://api.footballroma.com/playlist/ch10/index.m3u8?|Referer=https://ww11.livesportstream.club/&e=.m3u8
-
-
-
-
-
-
-
-
 
 
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",sky foot
@@ -193,25 +163,30 @@ https://stream3.supertipz.com/hls/ballydetroit.m3u8?|Referer=https://bestreamspo
 
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",BT1
 https://s1.streamflowz.xyz/hls/bt1.m3u8?|Referer=https://sequencecard.xyz/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",BT1
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",BT2
 https://s1.streamflowz.xyz/hls/bt2.m3u8?|Referer=https://sequencecard.xyz/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",BT1
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",BT3
 https://s1.streamflowz.xyz/hls/bt3.m3u8?|Referer=https://sequencecard.xyz/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",BT1
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",BT4
 https://s1.streamflowz.xyz/hls/bt4.m3u8?|Referer=https://sequencecard.xyz/&e=.m3u8
-
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",espn ENGLISH
 https://s1.streamflowz.xyz/hls/espn.m3u8?|Referer=https://sequencecard.xyz/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",ssprem ENGLISH
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",ss premier
 https://s1.streamflowz.xyz/hls/ssprem.m3u8?|Referer=https://sequencecard.xyz/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",now4
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",now 1
 https://s1.streamflowz.xyz/hls/now1.m3u8?|Referer=https://sequencecard.xyz/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",now4
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",now 2
 https://s1.streamflowz.xyz/hls/now2.m3u8?|Referer=https://sequencecard.xyz/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",now4
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",now 3
 https://s1.streamflowz.xyz/hls/now3.m3u8?|Referer=https://sequencecard.xyz/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",now4
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",now 4
 https://s1.streamflowz.xyz/hls/now4.m3u8?|Referer=https://sequencecard.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",now 5
+https://s1.streamflowz.xyz/hls/now5.m3u8?|Referer=https://sequencecard.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",now 6
+https://s1.streamflowz.xyz/hls/now6.m3u8?|Referer=https://sequencecard.xyz/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",now 7
+https://s1.streamflowz.xyz/hls/now7.m3u8?|Referer=https://sequencecard.xyz/&e=.m3u8
 
 
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",CH 15 ENGLISH
