@@ -201,7 +201,15 @@ https://s1.streamflowz.xyz/hls/now7.m3u8?|Referer=https://sequencecard.xyz/&e=.m
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",LALIGA malacitana
 https://serv.shidurlive.com/app/18447/chunklist.m3u8?h=j9JTfHIDKALmMsrhfaa7-w&e=1674354781&uid=d8f69afc8263052519331fee635882f2?|Referer=https://www.shidurlive.com/&e=.m3u8
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",LALIGA malacitana 2
-https://serv.shidurlive.com/app/18447/chunklist.m3u8?|Referer=https://www.shidurlive.com/&e=.m3u8
+https://serv.shidurlive.com/app/18447/chunklist.m3u8?h=FpPMlRrKHFEFxbAQ2T1GSw&e=1674355197&uid=3956518e3975b7fa5e96efaad72c9fdd?|Referer=https://www.shidurlive.com/&e=.m3u8
+
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",LALIGA foosporlive
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd
+
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",BEIN
+https://es4.quest123.top:8088/live/yggxlive014/playlist.m3u8?vidictid=193782668504&id=117951&pk=23d7759d7cfbf42ad6575b82ca681dd83a67ed27a1480b9af67ee5d8875b3e81299785dc7b2887eb10d6c6280ab3acb30ab0d3f1dc991f5c5e952798ea4f34cb?|Referer=https://watch.webuctv.com/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",BEIN
+https://es4.quest123.top:8088/live/yggxlive014/playlist.m3u8?|Referer=https://watch.webuctv.com/&e=.m3u8
 
 
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",CH 15 ENGLISH
