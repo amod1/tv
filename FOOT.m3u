@@ -38,10 +38,23 @@ https://foylcceieyt3xd.data.mediastore.eu-central-1.amazonaws.com/livea/main.m3u
 
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH FOOTYSTREAMS
 https://cdn-1.sportfacts.net/live/xtfvy1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDIzIDc6NDc6MzkgUE0maGFzaF92YWx1ZT1vSWM3dWMvblpTRTRNUjg2NVlYYjVRPT0mdmFsaWRtaW51dGVzPTEyMDAmaWQ9MTA1LjY3LjIuMTEmc3RybV9sZW49NQ==?|Referer=https://www.topsporter.net/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 2 ENGLISH FOOTYSTREAMS
+https://cdn-4.sportfacts.net/live/xtfvy2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDIzIDc6NTk6NTcgUE0maGFzaF92YWx1ZT1YWk9MbDZQZitWVndackFVYSt3NU53PT0mdmFsaWRtaW51dGVzPTEyMDAmaWQ9MTA1LjY3LjIuMTEmc3RybV9sZW49NQ==?|Referer=https://www.topsporter.net/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH FOOTYSTREAMS
+https://cdn-4.sportfacts.net/live/xtfvy2/playlist.m3u8?|Referer=https://www.topsporter.net/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 3 ENGLISH FOOTYSTREAMS
+https://cdn-4.sportfacts.net/live/xtfvy3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDIzIDc6NTk6NTcgUE0maGFzaF92YWx1ZT1YWk9MbDZQZitWVndackFVYSt3NU53PT0mdmFsaWRtaW51dGVzPTEyMDAmaWQ9MTA1LjY3LjIuMTEmc3RybV9sZW49NQ==?|Referer=https://www.topsporter.net/&e=.m3u8
 
 
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH pawastreams
 https://cal.p2plink.xyz:2443/hls/bn1_hd/index.m3u8?|Referer=https://ww1.pawastreams.top/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH pawastreams
+https://cal.p2plink.xyz:2443/hls/bn2_hd/index.m3u8?|Referer=https://ww1.pawastreams.top/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH pawastreams
+https://cal.p2plink.xyz:2443/hls/bn3_hd/index.m3u8?|Referer=https://ww1.pawastreams.top/&e=.m3u8
+
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 2 ENGLISH pawastreams
+https://cal.p2plink.xyz:2443/hls/ssf_hd/index.m3u8?|Referer=https://ww1.pawastreams.top/&e=.m3u8
 
 
 
