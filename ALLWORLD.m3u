@@ -2,14 +2,6 @@
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]TV FABOR ANDRIOD (PC/PHONE/SMART TV/ BOX TV)[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 
-#EXTINF:1 tvg-logo="https://logopond.com/logos/94837108d7422c0350c3b304c1504289.png",ABC
-https://hls.123tv.live/ch/ltpTyz3_EFaaiZ0RknoOLQ/1674598699/abc.m3u8?|Referer=https://get.123tv.live/&e=.m3u8
-#EXTINF:1 tvg-logo="https://logopond.com/logos/94837108d7422c0350c3b304c1504289.png",TNT
-https://hls.123tv.live/ch/ltpTyz3_EFaaiZ0RknoOLQ/1674598699/tnt.m3u8?|Referer=https://get.123tv.live/&e=.m3u8
-#EXTINF:1 tvg-logo="https://logopond.com/logos/94837108d7422c0350c3b304c1504289.png",TNT
-https://s1.liveforward.click/live/gtt0b1du/chunks.m3u8?|Referer=https://123tv.live/watch/tnt/&e=.m3u8
-#EXTINF:1 tvg-logo="https://logopond.com/logos/94837108d7422c0350c3b304c1504289.png",TNT
-https://123tv.live/watch/tnt/?|Referer=https://123tv.live/watch/tnt/&e=.m3u8
 
 ########################################################################################################################################################
 #EXTINF:1 tvg-logo="https://logopond.com/logos/94837108d7422c0350c3b304c1504289.png",WILD LIFE
@@ -193,6 +185,8 @@ https://live.tv247us.com/tv247/msnbc.m3u8?|Referer=https://tv247.us/&e=.m3u8
 https://live.tv247us.com/tv247/nfl.m3u8?|Referer=https://tv247.us/&e=.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png",ABC
 https://live.tv247us.com/tv247/abc.m3u8?|Referer=https://tv247.us/&e=.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png",ABC USA
+https://hls.123tv.live/ch/ltpTyz3_EFaaiZ0RknoOLQ/1674598699/abc.m3u8?|Referer=https://get.123tv.live/&e=.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png",CBS
 https://live.tv247us.com/tv247/cbs.m3u8?|Referer=https://tv247.us/&e=.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png",FOX NEWS
