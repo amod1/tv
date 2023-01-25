@@ -3,153 +3,62 @@
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]TV FABOR ANDRIOD (PC/PHONE/SMART TV/ BOX TV)[/color]
 httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 
-#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 1
-https://webui.webtv1.lol/lb/xvk1/index.m3u8?|Referer=https://olacast.live/&e=.m3u8
-#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 2
-https://webui.webtv1.lol/lb/xvk2/index.m3u8?|Referer=https://olacast.live/&e=.m3u8
-#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 3
-https://webui.webtv1.lol/lb/xvk3/index.m3u8?|Referer=https://olacast.live/&e=.m3u8
-#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 4
-https://webui.webtv1.lol/lb/xvk4/index.m3u8?|Referer=https://olacast.live/&e=.m3u8
-#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 5
-https://webui.webtv1.lol/lb/xvk5/index.m3u8?|Referer=https://olacast.live/&e=.m3u8
-#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 6
-https://webui.webtv1.lol/lb/xvk6/index.m3u8?|Referer=https://olacast.live/&e=.m3u8
-#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 7
-https://webui.webtv1.lol/lb/xvk7/index.m3u8?|Referer=https://olacast.live/&e=.m3u8
-#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 8
-https://webui.webtv1.lol/lb/xvk8/index.m3u8?|Referer=https://olacast.live/&e=.m3u8
-#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 9
-https://webui.webtv1.lol/lb/xvk9/index.m3u8?|Referer=https://olacast.live/&e=.m3u8
-#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 10
-https://webui.webtv1.lol/lb/xvk10/index.m3u8?|Referer=https://olacast.live/&e=.m3u8
+
 
 ########################################################################################################################################################
-#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 1
-https://newtest.webtv1.lol/lb/premium1/index.m3u8?|Referer=https://streamservicehd.click/premiumtv/daddyhd.php?id=1&e=.m3u8
-#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 2
-https://newtest.webtv1.lol/lb/premium2/index.m3u8?|Referer=https://streamservicehd.click/premiumtv/daddyhd.php?id=1&e=.m3u8
-#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 3
-https://newtest.webtv1.lol/ddy4/premium3/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
-#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 4
-https://newtest.webtv1.lol/ddy4/premium4/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
-#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 5
-https://newtest.webtv1.lol/ddy4/premium5/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
-#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 6
-https://newtest.webtv1.lol/ddy4/premium6/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 7
-https://newtest.webtv1.lol/ddy4/premium7/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 8
-https://newtest.webtv1.lol/ddy4/premium8/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 9
-https://newtest.webtv1.lol/ddy4/premium9/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 10
-https://newtest.webtv1.lol/ddy4/premium10/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 11
-https://newtest.webtv1.lol/ddy4/premium11/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 12
-https://newtest.webtv1.lol/ddy4/premium12/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 13
-https://newtest.webtv1.lol/ddy4/premium13/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 14
-https://newtest.webtv1.lol/ddy4/premium14/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 15
-https://newtest.webtv1.lol/ddy4/premium15/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 16
-https://newtest.webtv1.lol/ddy4/premium16/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 17
-https://newtest.webtv1.lol/ddy4/premium17/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 18
-https://newtest.webtv1.lol/ddy4/premium18/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 19
-https://newtest.webtv1.lol/ddy4/premium19/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 20
-https://newtest.webtv1.lol/ddy4/premium20/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 21
-https://newtest.webtv1.lol/ddy4/premium21/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 22
-https://newtest.webtv1.lol/ddy4/premium22/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 23
-https://newtest.webtv1.lol/ddy4/premium23/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 24
-https://newtest.webtv1.lol/ddy4/premium24/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 25
-https://newtest.webtv1.lol/ddy4/premium25/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 26
-https://newtest.webtv1.lol/ddy4/premium26/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 27
-https://newtest.webtv1.lol/ddy4/premium27/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 28
-https://newtest.webtv1.lol/ddy4/premium28/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 29
-https://newtest.webtv1.lol/ddy4/premium29/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1 tvg-logo="https://t4.ftcdn.net/jpg/03/02/12/83/360_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",SPORTS LIVE 30
-https://newtest.webtv1.lol/ddy4/premium30/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,CH SPORTS 55
-https://newtest.webtv1.lol/ddy2/premium55/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=55&e=.m3u8
-#EXTINF:1,CH SPORTS 69
-https://newtest.webtv1.lol/ddy2/premium69/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=55&e=.m3u8
-#EXTINF:1,CH SPORTS 76 
-https://newtest.webtv1.lol/ddy1/premium76/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=55&e=.m3u8
-#EXTINF:1,CH SPORTS 77 
-https://newtest.webtv1.lol/ddy1/premium77/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=55&e=.m3u8
-#EXTINF:1,CH SPORTS 86
-https://newtest.webtv1.lol/ddy1/premium86/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
-
-########################################################################################################################################################
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Bein Sports 1 PREMIUM Arabic
+#EXTINF:1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png",Bein Sports 1 PREMIUM Arabic
 https://newtest.webtv1.lol/ddyx2/premium98/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/worldstreams.php?id=92&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Bein Sports 2 PREMIUM Arabic
+#EXTINF:1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png",Bein Sports 2 PREMIUM Arabic
 https://newtest.webtv1.lol/ddyx2/premium99/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/worldstreams.php?id=92&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Bein Sports 3 PREMIUM Arabic
+#EXTINF:1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png",Bein Sports 3 PREMIUM Arabic
 https://newtest.webtv1.lol/ddyx2/premium100/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/worldstreams.php?id=92&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Bein Sports 1 Arabic
+#EXTINF:1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png",Bein Sports 1 Arabic
 https://newtest.webtv1/ddyx2/premium91/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/worldstreams.php?id=92&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Bein Sports 2 Arabic
+#EXTINF:1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png",Bein Sports 2 Arabic
 https://newtest.webtv1.lol/ddyx2/premium92/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/worldstreams.php?id=92&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Bein Sports 3 Arabic
+#EXTINF:1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png",Bein Sports 3 Arabic
 https://newtest.webtv1.lol/ddyx2/premium93/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/worldstreams.php?id=92&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Bein Sports 4 Arabic
+#EXTINF:1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png",Bein Sports 4 Arabic
 https://newtest.webtv1.lol/ddyx2/premium94/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/worldstreams.php?id=92&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Bein Sports 5 Arabic
+#EXTINF:1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png",Bein Sports 5 Arabic
 https://newtest.webtv1.lol/ddyx2/premium95/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/worldstreams.php?id=92&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Bein Sports 6 Arabic
+#EXTINF:1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png",Bein Sports 6 Arabic
 https://newtest.webtv1.lol/ddyx2/premium96/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/worldstreams.php?id=92&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Bein Sports 7 Arabic
+#EXTINF:1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png",Bein Sports 7 Arabic
 https://newtest.webtv1.lol/ddyx2/premium97/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/worldstreams.php?id=92&e=.m3u8
-#EXTINF:1,beIN SPORTS 1 English
+#EXTINF:1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png",beIN SPORTS 1 English
 https://newtest.webtv1.lol/ddy1/premium61/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
-#EXTINF:1,beIN SPORTS 2 English
+#EXTINF:1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png",beIN SPORTS 2 English
 https://newtest.webtv1.lol/ddy1/premium62/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
-#EXTINF:1,beIN SPORTS 3 English
+#EXTINF:1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png",beIN SPORTS 3 English
 https://newtest.webtv1.lol/ddy1/premium63/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
-#EXTINF:1,beIN SPORTS 1 Turkey
+#EXTINF:1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png",beIN SPORTS 1 Turkey
 https://newtest.webtv1.lol/ddy1/premium62/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
-#EXTINF:1,beIN SPORTS 2 Turkey
+#EXTINF:1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png",beIN SPORTS 2 Turkey
 https://newtest.webtv1.lol/ddy1/premium63/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
-#EXTINF:1,beIN SPORTS 3 Turkey
+#EXTINF:1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png",beIN SPORTS 3 Turkey
 https://newtest.webtv1.lol/ddy1/premium64/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
-#EXTINF:1,beIN SPORTS 4 Turkey
+#EXTINF:1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png",beIN SPORTS 4 Turkey
 https://newtest.webtv1.lol/ddy1/premium67/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/premiumtv/footyhunter2.php?id=1&e=.m3u8
-#EXTINF:1,BEIN SPORT 1 FRANCE
+#EXTINF:1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png",BEIN SPORT 1 FRANCE
 https://newtest.webtv1.lol/ddy1/premium116/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,BEIN SPORT 2 FRANCE
+#EXTINF:1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png",BEIN SPORT 2 FRANCE
 https://newtest.webtv1.lol/ddy1/premium117/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,BEIN SPORT 3 FRANCE
+#EXTINF:1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png",BEIN SPORT 3 FRANCE
 https://newtest.webtv1.lol/ddy1/premium118/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,BEIN SPORT MAX 4 FRANCE
+#EXTINF:1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png",BEIN SPORT MAX 4 FRANCE
 https://newtest.webtv1.lol/ddyx2/premium494/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,BEIN SPORT MAX 5 FRANCE
+#EXTINF:1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png",BEIN SPORT MAX 5 FRANCE
 https://newtest.webtv1.lol/ddyx2/premium495/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,BEIN SPORT MAX 6 FRANCE
+#EXTINF:1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png",BEIN SPORT MAX 6 FRANCE
 https://newtest.webtv1.lol/ddyx2/premium496/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,BEIN SPORT MAX 7 FRANCE
+#EXTINF:1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png",BEIN SPORT MAX 7 FRANCE
 https://newtest.webtv1.lol/ddyx2/premium497/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,BEIN SPORT MAX 8 FRANCE
+#EXTINF:1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png",BEIN SPORT MAX 8 FRANCE
 https://newtest.webtv1.lol/ddyx2/premium498/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,BEIN SPORT MAX 9 FRANCE
+#EXTINF:1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png",BEIN SPORT MAX 9 FRANCE
 https://newtest.webtv1.lol/ddyx2/premium499/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:1,BEIN SPORT MAX 10 FRANCE
+#EXTINF:1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png",BEIN SPORT MAX 10 FRANCE
 https://newtest.webtv1.lol/ddyx2/premium500/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
 #EXTINF:1,RMC SPORT 1 FRANCE
 https://newtest.webtv1.lol/ddy1/premium119/tracks-v1a1/mono.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
