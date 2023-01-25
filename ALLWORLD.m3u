@@ -28,17 +28,56 @@ http://198.16.64.10:8278/bbcearth_twn/playlist.m3u8?tid=ME4E1221123312211233&ct=
 
 #EXTINF:1 tvg-logo="https://www.blackbride.com/wp-content/uploads/2018/04/568633-28958-l-ymURY8U.png",LoveStorie TV
 https://lovestoriestv-lovestoriestv-1-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:1 tvg-logo="https://www.formatbiz.it/file/blog/Logo_TBS_Blue_900x600%2013%20marzo%202020_6248.jpg",TBS
-http://redlabmcdn.s.llnwi.net/nv02/bs05hd/index.m3u8
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1200px-TV_Tokyo_logo_20110629.svg.png",TV Tokyo
-http://redlabmcdn.s.llnwi.net/nv02/bs06hd/index.m3u8
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1200px-Animax.svg.png",Animax
-http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
+
+
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png", NHK BS1
+http://redlabmcdn.s.llnwi.net/nv02/bs01hd/index.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png",NHK BSP
+http://redlabmcdn.s.llnwi.net/nv02/bs02hd/index.m3u8 
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png", BS Nippon TV
+http://redlabmcdn.s.llnwi.net/nv02/bs03hd/index.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png",BS Asahi
+http://redlabmcdn.s.llnwi.net/nv02/bs04hd/index.m3u8 
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png",BS-TBS
+http://redlabmcdn.s.llnwi.net/nv02/bs05hd/index.m3u8 
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png",BS TV Tokyo
+http://redlabmcdn.s.llnwi.net/nv02/bs06hd/index.m3u8 
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png",BS Fuji TV
+http://redlabmcdn.s.llnwi.net/nv02/bs07hd/index.m3u8 
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png",BS 12
+http://redlabmcdn.s.llnwi.net/nv02/bs08hd/index.m3u8 
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png",Star 1
+http://redlabmcdn.s.llnwi.net/nv02/bs09hd/index.m3u8 
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png",Star 2
+http://redlabmcdn.s.llnwi.net/nv02/bs10hd/index.m3u8 
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png", J Sports 2
+http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png",J Sports 3
+http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8 
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png",Disney Channel Japan
+http://redlabmcdn.s.llnwi.net/nv02/bs13hd/index.m3u8 
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png",Animax Japan
+http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8 
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png",J Sports 1
+http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8 
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png", NHK E
+http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/index.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png",NHK G
+http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/index.m3u8 
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png",Nippon TV
+http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/index.m3u8 
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png",TV Asahi
+http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8 
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png",TBS
+http://redlabmcdn.s.llnwi.net/nv02/ryowa5hd/index.m3u8 
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png",TV Tokyo
+http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8 
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png",Fuji TV
+http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8 
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png",Tokyo MX1
+http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/index.m3u8 
+
 ########################################################################################################################################################
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/800px-Flag_of_Turkey.svg.png",BEIN SPORTS 1 TURKISH
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/5104?|Referer=https://canlitv.center/&e=.m3u8
-
-
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/800px-Flag_of_Turkey.svg.png",TV8 TURKISH
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8?|Referer=https://canlitv.center/&e=.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/800px-Flag_of_Turkey.svg.png",SHOW TV
