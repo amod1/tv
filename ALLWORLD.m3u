@@ -390,6 +390,8 @@ http://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://cdn.countryflags.com/thumbs/morocco/flag-round-250.png" group-title="",Télé Maroc
 http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
 #########################################################################################################################################################
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1280px-Flag_of_Saudi_Arabia.svg.png", SSC SPORTS 1
+https://www.wsla.top/streams/17_.m3u8?|Referer=https://player.wasla-tv.com/&e=.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1280px-Flag_of_Saudi_Arabia.svg.png", mbc 1
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1280px-Flag_of_Saudi_Arabia.svg.png", mbc 5
@@ -505,8 +507,12 @@ https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
 https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
 
 #########################################################################################################################################################
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/2560px-Flag_of_Egypt.svg.png", MIX Hollywood
+https://www.wsla.top/streams/3_.m3u8?|Referer=https://player.wasla-tv.com/&e=.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/2560px-Flag_of_Egypt.svg.png", MIX ARABIC
 https://www.wsla.top/streams/9_.m3u8?|Referer=https://player.wasla-tv.com/&e=.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/2560px-Flag_of_Egypt.svg.png", Rotana KIDS
+https://shls-masr2-ak.akamaized.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_9.m3u8?|Referer=https://player.wasla-tv.com/&e=.m3u8
 
 
 #########################################################################################################################################################
