@@ -364,8 +364,6 @@ https://s13.tntendirect.com/cherie25/live/playlist.m3u8?|Referer=https://www.tnt
 #EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png", BFM TV 
 https://s13.tntendirect.com/bmftv/live/playlist.m3u8?|Referer=https://www.tntendirect.com/&e=.m3u8
 
-#EXTINF:1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png", NATIONAL GEOGRAPHIC 
-https://sv2.data-stream.top/2460edf9f3cc830a00f50999548415b9139aff9b4c4f06baa9b1a64f0c192a5f/hls/natgeo.m3u8?|Referer=https://www.stream4free.live/&e=.m3u8
 #########################################################################################################################################################
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://cdn.countryflags.com/thumbs/morocco/flag-round-250.png" group-title="",Al Aoula
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
@@ -396,6 +394,8 @@ http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1280px-Flag_of_Saudi_Arabia.svg.png", mbc 5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1280px-Flag_of_Saudi_Arabia.svg.png", mbc 2
+https://www.wsla.top/streams/1_.m3u8?|Referer=https://player.wasla-tv.com/&e=.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1280px-Flag_of_Saudi_Arabia.svg.png", mbc 3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1280px-Flag_of_Saudi_Arabia.svg.png", mbc 4
@@ -495,6 +495,18 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323301.png", GULLI ARABIC
 https://ssc-1-ak.akamaized.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
+#EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323301.png", Weyyak Mix
+https://weyyak-live.akamaized.net/weyyak_mix/index.m3u8
+#EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323301.png", Weyyak Drama
+https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
+#EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323301.png", Weyyak Action
+https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
+#EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323301.png", Weyyak Nawaem
+https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
+
+#########################################################################################################################################################
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/2560px-Flag_of_Egypt.svg.png", MIX ARABIC
+https://www.wsla.top/streams/9_.m3u8?|Referer=https://player.wasla-tv.com/&e=.m3u8
 
 
 #########################################################################################################################################################
