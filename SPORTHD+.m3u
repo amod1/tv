@@ -71,11 +71,11 @@ http://cdn.raino.xyz/hls/stream2.m3u8?|Referer=http://bdnewszh.com/&e=.m3u8
 #EXTINF:1 tvg-logo="http://streamspass.live/img/soccer.png",Soccer Streams 3 ENGLISH 
 http://cdn.raino.xyz/hls/stream3.m3u8?|Referer=http://bdnewszh.com/&e=.m3u8
 #EXTINF:1 tvg-logo="http://streamspass.live/img/soccer.png",Soccer Streams 4 ENGLISH 
-http://cdn.raino.xyz/hls/stream4-version1/rainostream.m3u8?|Referer=http://bdnewszh.com/&e=.m3u8
+http://cdn.raino.xyz/hls/stream4.m3u8?|Referer=http://bdnewszh.com/&e=.m3u8
 #EXTINF:1 tvg-logo="http://streamspass.live/img/soccer.png",Soccer Streams 5 ENGLISH 
-http://cdn.raino.xyz/hls/stream5-version1/rainostream.m3u8?|Referer=http://bdnewszh.com/&e=.m3u8
+http://cdn.raino.xyz/hls/stream5.m3u8?|Referer=http://bdnewszh.com/&e=.m3u8
 #EXTINF:1 tvg-logo="http://streamspass.live/img/soccer.png",Soccer Streams 6 ENGLISH 
-http://cdn.raino.xyz/hls/stream6-version1/rainostream.m3u8?|Referer=http://bdnewszh.com/&e=.m3u8
+http://cdn.raino.xyz/hls/stream6.m3u8?|Referer=http://bdnewszh.com/&e=.m3u8
 #EXTINF:1 tvg-logo="http://streamspass.live/img/soccer.png",Soccer Streams 7 ENGLISH 
 http://cdn.raino.xyz/hls/stream7-version1/rainostream.m3u8?|Referer=http://bdnewszh.com/&e=.m3u8
 #EXTINF:1 tvg-logo="http://streamspass.live/img/soccer.png",Soccer Streams 8 ENGLISH 
