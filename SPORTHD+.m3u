@@ -65,8 +65,8 @@ https://reels2watch.com/hls/s9.m3u8?|Referer=https://techclips.net/clip/s4.html&
 https://reels2watch.com/hls/s10.m3u8?|Referer=https://techclips.net/clip/s4.html&e=.m3u8
 
 #EXTINF:1 tvg-logo="http://streamspass.live/img/soccer.png",Soccer Streams 1 ENGLISH RainoStream
-http://cdn.raino.xyz/hls/stream1.m3u8?|Referer=http://bdnewszh.com/&e=.m3u8
-#EXTINF:1 tvg-logo="http://streamspass.live/img/soccer.png",Soccer Streams 2 ENGLISH HD
+http://cdn.raino.xyz/hls/stream1.m3u8?|Referer=http://bdnewszh.com/&e=.m3u8?|User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:1 tvg-logo="http://streamspass.live/img/soccer.png",Soccer Streams 2 ENGLISH 
 http://cdn.raino.xyz/hls/stream2.m3u8?|Referer=http://bdnewszh.com/&e=.m3u8
 #EXTINF:1 tvg-logo="http://streamspass.live/img/soccer.png",Soccer Streams 3 ENGLISH 
 http://cdn.raino.xyz/hls/stream3.m3u8?|Referer=http://bdnewszh.com/&e=.m3u8
