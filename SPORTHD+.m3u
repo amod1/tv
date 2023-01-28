@@ -64,6 +64,11 @@ https://reels2watch.com/hls/s9.m3u8?|Referer=https://techclips.net/clip/s4.html&
 #EXTINF:1 tvg-logo="https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",SPORTS LIVE 10
 https://reels2watch.com/hls/s10.m3u8?|Referer=https://techclips.net/clip/s4.html&e=.m3u8
 
+#EXTINF:1 tvg-logo="http://streamspass.live/img/soccer.png",Soccer Streams 1 ENGLISH RainoStream XTRA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://bdnewszh.com/&e=.m3u8
+http://cdn.raino.xyz/hls/stream1.m3u8
+
 #EXTINF:1 tvg-logo="http://streamspass.live/img/soccer.png",Soccer Streams 1 ENGLISH RainoStream
 http://cdn.raino.xyz/hls/stream1.m3u8?|Referer=http://bdnewszh.com/&e=.m3u8?|User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:1 tvg-logo="http://streamspass.live/img/soccer.png",Soccer Streams 2 ENGLISH 
