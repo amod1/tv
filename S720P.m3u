@@ -109,9 +109,10 @@ https://alexsports.shop:30444/live/ch15/chunks.m3u8?|Referer=https://alexsports.
 
 ########################################################################################################################################################
 
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH enjoyhd 
+https://enjoy4k.shop:30445/live/abr_ch1/playlist.m3u8?|Referer=https://enjoyhd.xyz/&e=.m3u8
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 1 ENGLISH 
 https://enjoy4k.shop:30445/live/abr_ch7/playlist.m3u8?|Referer=https://enjoyhd.xyz/&e=.m3u8
-
 
 
 ########################################################################################################################################################
