@@ -4,15 +4,6 @@ httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Olympic Streams CH1
 https://storage.googleapis.com/project6350/live/manifest.m3u8?|Referer=https://givemenbastreams.com/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Olympic Streams CH2
-https://storage.googleapis.com/project6351/live/manifest.m3u8?|Referer=https://givemenbastreams.com/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Olympic Streams CH3
-https://storage.googleapis.com/project6349/live/manifest.m3u8?|Referer=https://givemenbastreams.com/&e=.m3u8
-
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Nathraky  CH LALIGA
-https://lucamuriczz.online/hls/05la.m3u8?|Referer=https://hytlive.com/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Nathraky  CH SS
-https://lucamuriczz.online/hls/05ss.m3u8?|Referer=https://hytlive.com/&e=.m3u8
 
 
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",maxsports CH1
