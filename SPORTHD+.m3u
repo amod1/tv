@@ -106,15 +106,9 @@ http://snews.t4news.live/hls/S1.m3u8?|Referer=http://tennews.live/daily/news/nba
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 2 ENGLISH
 http://snews.t4news.live/hls/S2.m3u8?|Referer=http://tennews.live/daily/news/nba02/Lakers/&e=.m3u8
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 3 ENGLISH
-http://snews.t4news.live/hls/S3.m3u8?|Referer=http://tennews.live/daily/news/nba02/Lakers/&e=.m3u8
+http://alive.webhockey.xyz/hls/A1.m3u8?|Referer=http://tennews.live/daily/news/nba02/Lakers/&e=.m3u8
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 4 ENGLISH 
-http://snews.t4news.live/hls/S4.m3u8?|Referer=http://tennews.live/daily/news/nba02/Lakers/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 5 ENGLISH
-http://snews.t4news.live/hls/S5.m3u8?|Referer=http://tennews.live/daily/news/nba02/Lakers/&e=.m3u8
-
-
-
-
+http://alive.webhockey.xyz/hls/A2.m3u8.m3u8?|Referer=http://tennews.live/daily/news/nba02/Lakers/&e=.m3u8
 
 
 
@@ -129,6 +123,8 @@ https://api.footballroma.com/playlist/ch3/index.m3u8?|Referer=https://ww11.lives
 https://api.footballroma.com/playlist/ch4/index.m3u8?|Referer=https://ww11.livesportstream.club/&e=.m3u8
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 5 ENGLISH FHD
 https://api.footballroma.com/playlist/ch5/index.m3u8?|Referer=https://ww11.livesportstream.club/&e=.m3u8
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",Soccer Streams 6 ENGLISH FHD
+https://api.footballroma.com/playlist/ch6/index.m3u8?|Referer=https://ww11.livesportstream.club/&e=.m3u8
 
 
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",sky foot
