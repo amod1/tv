@@ -15,7 +15,7 @@ http://185.53.89.183/hls/M3.m3u8?|Referer=http://maxsports.site/&e=.m3u8
 http://185.53.89.183/hls/M4.m3u8?|Referer=http://maxsports.site/&e=.m3u8
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",maxsports CH5
 http://185.53.89.183/hls/M5.m3u8?|Referer=http://maxsports.site/&e=.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",maxsports CH5
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",maxsports CH6
 http://185.53.89.183/hls/M6.m3u8?|Referer=http://maxsports.site/&e=.m3u8
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903700038420922369/e7R-Lzuy_400x400.jpg",maxsports CH5
 http://185.53.89.183/hls/M7.m3u8?|Referer=http://maxsports.site/&e=.m3u8
